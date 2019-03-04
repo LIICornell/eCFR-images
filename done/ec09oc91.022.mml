@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Dividend to N Corporation less portion</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of dividend from earnings included in</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext><mrow>
+            <mtext>N Corporation's gross income under</mtext>
+          </mrow>
+          </mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext>section 951 with respect to A Corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>Earnings and profits of A Corporation</mtext>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtext>Taxes paid by A Corporation</mtext>
+</math>

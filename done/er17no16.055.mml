@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>V</mi>
+      <mi>&#961;</mi>
+      <mi>D</mi>
+    </mrow>
+    <mi>&#956;</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mspace width="30mm"/>
+  <mi>y</mi>
+  <mo>=</mo>
+  <mi>a</mi>
+  <mo>+</mo>
+  <mn></mn>
+  <mfrac>
+    <mrow>
+      <mi>b</mi>
+      <mi>x</mi>
+    </mrow>
+    <mrow>
+      <mtext></mtext>
+      <mtext>1000</mtext>
+    </mrow>
+  </mfrac>
+</math>

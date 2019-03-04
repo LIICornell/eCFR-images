@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Foreign tax related to more</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">than one separate category</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Net income subject to that foreign tax</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">included in a separate category</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">Net income subject to that</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">foreign tax</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext style="font-style: italic "></mtext>
+    </mrow>
+  </mfrac>
+</math>

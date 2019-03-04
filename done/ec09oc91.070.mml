@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>500</mn>
+      <mspace width=".2em"/>
+      <mi>S</mi>
+      <mi>f</mi>
+    </mrow>
+    <mrow>
+      <mn>1200</mn>
+      <mspace width=".2em"/>
+      <mi>S</mi>
+      <mi>f</mi>
+    </mrow>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mo>$</mo>
+  <mn>600</mn>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>250</mn>
+</math>

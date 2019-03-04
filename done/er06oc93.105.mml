@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>X</mi>
+    <mi>o</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>n</mi>
+  </mfrac>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <mo>&#916;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>p</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>e</mi>
+      </msub>
+    </mfrac>
+  </msqrt>
+</math>

@@ -1,0 +1,88 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Related person debt</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">allocated to the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">passive category</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="5mm"/>
+  <mtext>=</mtext>
+  <mspace width="5mm"/>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Total related</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">person debt</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mtext style="font-style: italic"></mtext>
+  <mspace width="5mm"/>
+  <mo>&#215;</mo>
+  <mspace width="5mm"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Related person interest</mtext>
+          <mspace width=".2em"/>
+          <mtext>allocable</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">to passive income under</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">paragraph</mtext>
+          <mspace width=".2em"/>
+            <mspace width=".2em"/>
+        <mtext>(</mtext>
+        <mtext style="font-style: italic">c</mtext>
+        <mtext>)(</mtext>
+        <mtext>2</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">ii</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">C</mtext>
+        <mtext>)</mtext>
+        <mspace width=".2em"/>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">All related person interest</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

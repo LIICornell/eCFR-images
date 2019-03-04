@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mi>TF</mi>
+      <mo>&#8722;</mo>
+      <mi>CF</mi>
+    </mrow>
+    <mo>Y</mo>
+  </mfrac>
+</math>

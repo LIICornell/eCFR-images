@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mtext>(</mtext>
+      <mi>t</mi>
+      <mo>&#8722;</mo>
+      <mi>s</mi>
+      <mtext>)</mtext>
+    </mrow>
+    <mrow>
+      <mtext>(</mtext>
+      <mi>t</mi>
+      <mtext>)</mtext>
+    </mrow>
+  </mfrac>
+</math>

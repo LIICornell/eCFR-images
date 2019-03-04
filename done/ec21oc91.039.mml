@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>a</mo>
+      <mo>&#8722;</mo>
+      <mo>b</mo>
+    </mrow>
+    <mo>b</mo>
+  </mfrac>
+</math>

@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>4.0</mn>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>O</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+  </mfrac>
+  <mspace width="10mm"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

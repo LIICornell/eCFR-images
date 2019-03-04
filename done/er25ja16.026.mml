@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>UCL</mtext>
+  <mo>=</mo>
+  <mover>
+    <mo>x</mo>
+    <mo>&#175;</mo>
+  </mover>
+  <mo>+</mo>
+  <msub>
+    <mo>t</mo>
+    <mrow>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>95</mn>
+    </mrow>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mo>s</mo>
+      <msqrt>
+        <mo>n</mo>
+      </msqrt>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

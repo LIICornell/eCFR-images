@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mrow>
+      <mi>F</mi>
+      <mi>X</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mi>8</mi>
+  <mi>&#37;</mi>
+  <msqrt>
+    <mfrac>
+      <msub>
+        <mi>T</mi>
+        <mi>M</mi>
+      </msub>
+      <mn>10</mn>
+    </mfrac>
+    <mspace width="2mm"/>
+    <mo>,</mo>
+  </msqrt>
+</math>

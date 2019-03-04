@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Expense apportionable</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">to a separate category</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="5mm"/>
+  <mtext>=</mtext>
+  <mspace width="5mm"/>
+  <mtext style="font-style: italic">Expense</mtext>
+  <mspace width="5mm"/>
+  <mo>&#215;</mo>
+  <mspace width="5mm"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Value of assets in a
+          separatecategory</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">(minus related person debt</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">allocated to passive assets
+          if</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">the category is passive)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Value of total assets minus</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">related person debt
+          allocated</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">to passive assets</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

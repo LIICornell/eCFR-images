@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>116</mn>
+    <msqrt>
+      <mi>t</mi>
+    </msqrt>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mo>,</mo>
+</math>

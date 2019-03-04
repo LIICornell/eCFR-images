@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mo>P</mo>
+    <mo>i</mo>
+    <mrow>
+      <mo>i</mo><mo>n</mo>
+      <mo>,</mo>
+      <mo>c</mo>
+    </mrow>
+  </msubsup>
+  <mo>=</mo>
+  <msub>
+    <mo>P</mo>
+    <mo>i</mo>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mo>L</mo>
+    <mo>i</mo>
+  </msub>
+</math>

@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Pre-effective date general</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">limitation income</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Loss in each post-effectivedateseparate limitation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">category that is analogous to pre-effective</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mtext style="font-style: italic">date general limitation
+            income</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">Losses in all post-effective categories that</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">are analogous to pre-effective date</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">general limitation income</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext></mtext>
+    </mrow>
+  </mfrac>
+</math>

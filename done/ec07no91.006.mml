@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>C</mi>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mi>C</mi>
+          <mi>D</mi>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

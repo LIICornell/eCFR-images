@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#961;</mi>
+    <mi>o</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mrow>
+    <mtext>(</mtext>
+    <mfrac>
+      <mrow>
+        <mi>l</mi>
+        <mi>b</mi>
+        <mi>m</mi>
+      </mrow>
+      <mrow>
+        <mi>c</mi>
+        <mi>u</mi>
+        <mspace width=".2em"/>
+        <mi>f</mi>
+        <mi>t</mi>
+      </mrow>
+    </mfrac>
+    <mtext>)</mtext>
+  </mrow>
+  <mo>,</mo>
+</math>

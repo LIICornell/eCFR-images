@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>P</mi>
+      <mi>d</mi>
+    </mrow>
+    <mrow>
+      <mn>2</mn>
+      <mi>S</mi>
+      <mi>E</mi>
+    </mrow>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mn>1.83</mn>
+</math>

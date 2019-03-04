@@ -1,0 +1,100 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Foreign income taxes</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">deemed paid by</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">domestic shareholder</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">(or upper-tier corporation)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Post-</mtext>
+        <mn>1986</mn>
+        <mspace width=".2em"/>
+        <mtext style="font-style: italic">foreign in-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">come taxes of first-tier</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">corporation (or lower-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">tier corporation)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Dividend paid to domestic</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">shareholder (or upper-tier cor-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">poration) by first-tier corpora-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">tion (or lower-tier corporation)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style:italic">Post-</mtext>
+          <mtext>1986</mtext>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">undistributed</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">earnings of first-tier corpora-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">tion (or lower-tier corporation)</mtext>
+        </mtd>
+      </mtr>
+    
+    </mtable>
+  </mfrac>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Amount included in N Corporation's gross income</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>under section 951 with respect to B Corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>Earnings and profits of B Corporation</mtext>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtext>Taxes paid by B Corporation</mtext>
+</math>

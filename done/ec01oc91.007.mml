@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mtext>PX</mtext>
+    <mtext>i</mtext>
+  </msub>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <msub>
+      <mtext>P</mtext>
+      <mtext>i</mtext>
+    </msub>
+    <msub>
+      <mtext>P</mtext>
+      <mtext>o</mtext>
+    </msub>
+  </mfrac>
+</math>

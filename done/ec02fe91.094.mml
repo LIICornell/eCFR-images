@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>S</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>&#8804;</mo>
+    <mn>0.5</mn>
+    <msqrt>
+      <mi>R</mi><mi>t</mi>
+      <mo>;</mo>
+    </msqrt>
+  </mrow>
+  <mspace width=".2em"/>
+  <mtext style="font-style: italic">and</mtext>
+</math>

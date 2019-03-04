@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mo>t</mo>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>I</mi>
+        <mo>t</mo>
+      </msub>
+      <mo>&#183;</mo>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mtext>nominal</mtext>
+        </mrow>
+      </msub>
+    </mrow>
+    <mn>36,000</mn>
+  </mfrac>
+</math>

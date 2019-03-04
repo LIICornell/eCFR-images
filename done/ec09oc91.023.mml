@@ -1,0 +1,79 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Dividend to N Corporation less portion of dividend</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>from earnings included</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>
+          <mrow>
+            <mtext>in N Corporation's gross income</mtext>
+          </mrow>
+          </mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext>under section 951 with respect to</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext>A and B Corporations</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Earnings and profits of A Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>less earnings and profits attributable to</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>
+          <mrow>
+            <mtext>amounts included in N Corporation's</mtext>
+          </mrow>
+          </mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext>gross income under section 951 with</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext>respect to B Corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Taxes paid by B Corporation which</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>are deemed payable by A Corporation</mtext>
+        </mtd>
+      </mtr>
+   </mtable>
+</math>

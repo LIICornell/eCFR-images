@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Overall foreign loss subject</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">to recapture</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Amount of income in each</mtext>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">separate</mtext>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">category from</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">which the loss may</mtext>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">be</mtext>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">recaptured</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">Sum of income in all</mtext>
+            <mspace width=".2em"/>
+            <mtext style="font-style: italic">separate</mtext>
+            <mspace width=".2em"/>
+            <mtext style="font-style:italic">categories from</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext style="font-style: italic">which the loss may</mtext>
+            <mspace width=".2em"/>
+            <mtext style="font-style: italic">be</mtext>
+            <mspace width=".2em"/>
+            <mtext style="font-style: italic">recaptured</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext style="font-style: italic "></mtext>
+    </mrow>
+  </mfrac>
+</math>

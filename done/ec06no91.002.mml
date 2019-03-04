@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mspace width="2mm"/>
+    <mfrac>
+      <msub>
+        <mtext style="font-style: italic">AER</mtext>
+        <mrow>
+          <mtext style="font-style: italic">(i)</mtext>
+        </mrow>
+      </msub>
+      <msub>
+        <mtext style="font-style: italic">ERSL</mtext>
+        <mrow>
+          <mtext style="font-style: italic">(i)</mtext>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="2mm"/>
+  <mrow>
+    <mo>&#8804;</mo>
+    <mn>1.0</mn>
+  </mrow>
+</math>

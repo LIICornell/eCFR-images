@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mi>K</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>C</mi>
+    <mi>h</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mi>F</mi>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mn>20.9</mn>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mrow>
+          <mo>%</mo>
+          <mi>O</mi>
+        </mrow>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

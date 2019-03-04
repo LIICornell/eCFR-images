@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>L</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mn>0.98</mn>
+  <mspace width=".2em"/>
+  <mi>V</mi>
+  <mo>)</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>d</mi>
+        <mi>r</mi>
+      </msub>
+      <msub>
+        <mi>d</mi>
+        <mi>L</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

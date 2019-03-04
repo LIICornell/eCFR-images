@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Dividend to A Corporation less portion of divi -</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">dend from earnings included in N Corporation's</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext><mrow>
+            <mtext style="font-style: italic">gross income under section </mtext>
+            <mtext>951</mtext>
+          </mrow>
+          </mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext style="font-style: italic"> with respect to B Corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext style="font-style: italic">Earnings and profits of B Corporation</mtext>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtext style="font-style: italic">Taxes paid by B Corporation</mtext>
+</math>

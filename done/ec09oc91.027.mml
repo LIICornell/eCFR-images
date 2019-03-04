@@ -1,0 +1,78 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Amount included in N Corporation's</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+            <mtext style="font-style: italic">gross income under section</mtext>
+            <mspace width=".2em"/>           
+            <mtext>951</mtext>
+            <mspace width=".2em"/> 
+            <mtext style="font-style: italic">with</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">respect to B Corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Earnings and profits of B Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">not included in N Corporation's gross</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mrow>
+          <mtext style="font-style: italic">income under section</mtext>
+            <mspace width=".2em"/>           
+            <mtext>951</mtext>
+            <mspace width=".2em"/>  
+            <mtext style="font-style: italic">with respect</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+        <mtr>
+        <mtd>
+          <mrow>
+          <mtext style="font-style: italic">to C Corporation or lower-tiers</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Tax paid by B Corporation on earnings</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">not included in N Corporation's gross</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">income with respect to C Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">or lower-tiers</mtext>
+        </mtd>
+      </mtr>
+   </mtable>
+</math>

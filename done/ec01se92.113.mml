@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <msub>
+      <mi>e</mi>
+      <mi>v</mi>
+    </msub>
+    <mo>&#175;</mo>
+  </mover>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <msub>
+          <mi>e</mi>
+          <mi>v</mi>
+        </msub>
+      </mrow>
+      <mspace width=".2em"/>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Y</mtext>
+  <mspace width=".2em"/>
+  <mtext>=</mtext>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtext>(M+2P)</mtext>
+    <mtext>V</mtext>
+  </mfrac>
+</math>

@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>V</mi>
+    <mi>i</mi>
+    <mo>&#8727;</mo>
+  </msubsup>
+  <mo>=</mo>
+  <mfrac>
+    <msubsup>
+      <mi>M</mi>
+      <mi>i</mi>
+      <mo>&#8727;</mo>
+    </msubsup>
+    <mi>&#961;</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mtext style="font-style: italic">tip</mtext>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>Q</mi>
+      <mtext style="font-style: italic">cwm</mtext>
+    </msub>
+  <mrow>
+    <mtext style="font-style: italic">Area</mtext>
+    <mo>&#215;</mo><mn>9</mn><mn>0</mn><mn>0</mn>
+  </mrow>
+  </mfrac>
+</math>

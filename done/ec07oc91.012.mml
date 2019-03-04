@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>1,000,000</mn>
+      <mo>&#8722;</mo>
+      <mi>X</mi>
+    </mrow>
+    <mrow>
+      <mn>2,000,000</mn>
+      <mo>&#8722;</mo>
+      <mi>X</mi>
+    </mrow>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mn>8</mn>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>100,000</mn>
+      <mo>+</mo>
+      <mi>X</mi>
+    </mrow>
+    <mn>500,000</mn>
+  </mfrac>
+</math>

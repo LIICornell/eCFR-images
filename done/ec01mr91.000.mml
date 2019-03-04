@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>W</mi>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mi>L</mi>
+      <mo>&#215;</mo>
+      <mi>B</mi>
+      <mo>&#215;</mo>
+      <mi>D</mi>
+    </mrow>
+    <mn>30</mn>
+  </mfrac>
+  <mspace width=".7cm"/>
+  <mtext>(1)</mtext>
+</math>

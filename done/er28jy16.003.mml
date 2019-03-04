@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <msub>
+        <mo>K</mo>
+        <mo>A</mo>
+      </msub>
+      <mo>&#8722;</mo>
+      <mo>A</mo>
+    </mrow>
+    <mrow>
+      <mo>D</mo>
+      <mo>&#8722;</mo>
+      <mo>A</mo>
+    </mrow>
+  </mfrac>
+</math>

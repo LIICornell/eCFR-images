@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg10295"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="133"
+   height="158"
+   viewBox="0 0 133 158"
+   sodipodi:docname="ec25se91.007.svg">
+  <metadata
+     id="metadata10301">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10299" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1453"
+     inkscape:window-height="720"
+     id="namedview10297"
+     showgrid="false"
+     inkscape:zoom="2.1526479"
+     inkscape:cx="-83.083219"
+     inkscape:cy="79"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10295" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5.8924857,96.259695 c 0,16.220795 15.8052853,26.122695 24.7665023,26.406145 5.376282,0.17006 11.75085,-2.9359 17.622006,-2.9359 6.879192,0 13.720855,3.57132 18.869631,7.12738 4.467773,-2.9947 10.171135,-6.94794 18.998047,-7.01839 7.805946,-0.0623 12.717881,2.4313 18.182578,2.4313 10.10295,0 24.33857,-10.33666 24.33857,-27.812835 0,-18.823508 -7.77549,-21.989638 -7.77549,-48.618492 0,-14.491416 4.99498,-23.754471 6.7173,-28.308347 -2.11261,-2.310861 -6.67014,-5.334386 -14.741,-14.2409191 C 98.595025,7.1127781 81.068152,9.617298 67.037939,2.8776994 55.900583,8.4829161 35.874705,8.8335638 21.560606,3.1600943 14.262556,11.2365 9.2541217,15.488361 6.6527215,18.141879 8.7046429,23.265696 13.357926,31.100371 13.545177,49.107628 13.79111,72.758088 5.8924857,73.50469 5.8924857,96.259695 Z"
+     id="path14359-1-7-5-3-0-73-1-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssscsssscccccss" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:2.8px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="32.447224"
+     y="153.3522"
+     id="text7889"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan7891"
+       x="32.447224"
+       y="153.3522">Figure 1.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0.2px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="17.818495"
+     y="47.537685"
+     id="text10153"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan10155"
+       x="17.818495"
+       y="47.537685">USDA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:-1.5px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="67.485786"
+     y="76.991524"
+     id="text10341"
+     sodipodi:linespacing="120%"><tspan
+       sodipodi:role="line"
+       id="tspan10343"
+       x="66.735786"
+       y="76.991524">PROCESS</tspan><tspan
+       sodipodi:role="line"
+       x="66.735786"
+       y="103.99152"
+       id="tspan10345">VERIFIED</tspan></text>
+</svg>

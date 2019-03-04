@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>R</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>2</mn>
+      <mtext>(</mtext>
+      <mn>A2</mn>
+      <mtext>)</mtext>
+      <mo>+</mo>
+      <mo>B</mo>
+        <mrow>
+          <mtext></mtext>
+        </mrow>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+</math>

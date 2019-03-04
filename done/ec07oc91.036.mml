@@ -1,0 +1,95 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Expense apportionable</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">to a separate category</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="5mm"/>
+  <mtext>=</mtext>
+  <mspace width="5mm"/>
+  <mtext style="font-style: italic">Expense</mtext>
+  <mspace width="5mm"/>
+  <mo>&#215;</mo>
+  <mspace width="5mm"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Gross income in a separate category
+          (minus</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">related person interest allocated
+          under</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+        <mtext style="font-style: italic">paragraph</mtext> 
+        <mspace width=".2em"/>
+        <mtext>(</mtext>
+        <mtext style="font-style: italic">c</mtext>
+        <mtext>)(</mtext>
+        <mtext>2</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">ii</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">C</mtext>
+        <mtext>)</mtext>
+        <mspace width=".2em"/> 
+        <mtext style="font-style: italic">of this section if</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">the category is passive)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Total gross income minus
+          relatedperson</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">interest allocated to passive
+          income</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+        <mtext style="font-style: italic">under paragraph</mtext>
+        <mspace width=".2em"/>
+        <mtext>(</mtext>
+        <mtext style="font-style: italic">c</mtext>
+        <mtext>)(</mtext>
+        <mtext>2</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">ii</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">C</mtext>
+        <mtext>)</mtext>
+        <mspace width=".2em"/>
+        <mtext style="font-style: italic">of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">this section</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

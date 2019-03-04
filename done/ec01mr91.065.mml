@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>E</mo>
+    <mi>rss</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>k</mo>
+  <msqrt>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mo>i</mo>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>n</mo>
+      </munderover>
+      <msubsup>
+        <mo>F</mo>
+        <mo>i</mo>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+  </msqrt>
+</math>

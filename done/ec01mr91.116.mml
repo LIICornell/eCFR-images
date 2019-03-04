@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>HSC</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>EB</mi>
+      <mo>&#8722;</mo>
+      <mi>CE</mi>
+    </mrow>
+    <mo>H</mo>
+  </mfrac>
+</math>

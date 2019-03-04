@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Q</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>s</mi>
+      </msub>
+      <mo>&#8727;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>s</mi>
+      </msub>
+      <mo>&#8727;</mo>
+      <mi>H</mi>
+    </mrow>
+    <mi>t</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>Y</mo>
+    <mo>i</mo>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mo>T</mo>
+        <mo>i</mo>
+      </msub>
+      <msub>
+        <mo>G</mo>
+        <mo>i</mo>
+      </msub>
+    </mrow>
+    <mo>K</mo>
+  </mfrac>
+</math>

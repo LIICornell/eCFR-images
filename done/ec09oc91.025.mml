@@ -1,0 +1,88 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Portion of dividend to A Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">from earnings included in N Corporation's</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mtext style="font-style: italic">gross income under section</mtext>
+            <mspace width=".2em"/>           
+            <mtext>951</mtext>
+            <mspace width=".2em"/> 
+            <mtext style="font-style: italic">with</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+		  <mtext style="font-style: italic">respect to C Corporation or lower-tiers</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Earnings and profits of B Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">included in N Corporation's</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">gross income under section</mtext>
+          <mspace width=".2em"/>           
+          <mtext>951</mtext>
+          <mspace width=".2em"/> 
+          <mtext style="font-style: italic"> with respect</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mtext style="font-style: italic">to C Corporation or lower-tiers</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Taxes deemed paid by B Corporation on</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">dividend received by B Corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">from earnings included in N Corpo-</mtext>
+        </mtd>
+      </mtr>
+         <mtr>
+        <mtd>
+          <mtext style="font-style: italic">ration's gross income with respect</mtext>
+        </mtd>
+      </mtr>
+         <mtr>
+        <mtd>
+          <mtext style="font-style: italic">to C Corporation or lower-tiers</mtext>
+        </mtd>
+      </mtr>
+   </mtable>
+</math>

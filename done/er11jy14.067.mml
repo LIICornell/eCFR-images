@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mrow>
+      <mi>h</mi>
+      <mi>r</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <munderover>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>n</mi>
+  </munderover>
+      <msubsup>
+        <mi>V</mi>
+        <mi>i</mi>
+        <mo>*</mo>
+      </msubsup>
+</math>

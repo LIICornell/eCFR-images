@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Projected mileage</mtext>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mn>1000</mn>
+      <mtext>(</mtext>
+      <mi>a</mi>
+      <mo>&#8722;</mo>
+      <mn>62</mn>
+      <mtext>)</mtext>
+    </mrow>
+    <msup>
+      <mi>b</mi>
+      <mn>1</mn>
+    </msup>
+  </mfrac>
+  <mo>+</mo>
+  <mn>800</mn>
+</math>

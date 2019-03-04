@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Post </mtext>
+          <mtext>-1986 </mtext>
+          <mtext style="font-style: italic">FOGEI taxes as determined under the principles of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">section</mtext>
+          <mtext>902(c)(2)</mtext>
+          <mtext style="font-style: italic">that are allocable to that separate category</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Post</mtext>
+          <mtext>-1986</mtext>
+          <mtext style="font-style: italic"> foreign income taxes as determined under the principles</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">of section</mtext>
+          <mtext>902(c)(2)</mtext>
+          <mtext style="font-style: italic">that are allocable to that separate category</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

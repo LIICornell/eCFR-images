@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">LCL</mtext>
+  <mo>=</mo>
+  <mover>
+    <mi>x</mi>
+    <mo>&#175;</mo>
+  </mover>
+  <mo>+</mo>
+  <msub>
+    <mi>t</mi>
+    <mrow>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>90</mn>
+    </mrow>
+  </msub>
+  <mrow>
+    <mtext>(</mtext>
+    <mfrac>
+      <mi>s</mi>
+      <msqrt>
+        <mi>n</mi>
+      </msqrt>
+    </mfrac>
+    <mtext>)</mtext>
+  </mrow>
+</math>

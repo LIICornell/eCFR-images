@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>13</mn>
+  <mtext>days</mtext>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>365</mn>
+      <mn>5</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#8722;</mo>
+  <mn>60</mn>
+  <mtext>days</mtext>
+</math>

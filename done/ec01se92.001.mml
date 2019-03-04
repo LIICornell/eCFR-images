@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Unit's share=</mtext>
+  <mfrac>
+    <msub>
+      <mi>U</mi>
+      <mo>min</mo>
+    </msub>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mo>i</mo>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <msub>
+        <mi>U</mi>
+        <mo>i</mo>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

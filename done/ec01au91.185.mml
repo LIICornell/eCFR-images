@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mspace width="30mm"/>
+  <mi>m</mi>
+  <mo>=</mo>
+  <mn>1000</mn>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mtext>(</mtext>
+      <mrow>
+        <mi>Y</mi>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mi>Y</mi>
+        <mi>o</mi>
+      </mrow>
+      <mtext>)</mtext>
+    </mrow>
+    <mrow>
+      <mtext>(</mtext>
+      <mrow>
+        <mi>X</mi>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mi>X</mi>
+        <mi>o</mi>
+      </mrow>
+      <mtext>)</mtext>
+    </mrow>
+  </mfrac>
+</math>

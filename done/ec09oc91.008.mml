@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Sales to unrelated persons</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">of possesion product</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Total sales of products</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">in SIC code</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Worldwide product</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">area research</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>&#215;</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Amount paid by the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">possesions corporation</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">to an unrelated party</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

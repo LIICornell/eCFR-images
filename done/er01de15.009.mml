@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mtext style="font-style: italic">vol</mtext>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mtext style="font-style: italic">mass</mtext>
+      </msub>
+      <mo>&#215;</mo>
+      <mn>385.3</mn>
+    </mrow>
+    <mtext style="font-style: italic">MWt</mtext>
+  </mfrac>
+</math>

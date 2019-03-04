@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>W</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>L</mi>
+      <mo>&#215;</mo>
+      <mi>B</mi>
+      <mo>&#215;</mo>
+      <mi>D</mi>
+    </mrow>
+    <mn>22</mn>
+  </mfrac>
+  <mspace width="10mm"/>
+  <mrow>
+    <mtext>(</mtext>
+    <mn>2</mn>
+    <mtext>)</mtext>
+  </mrow>
+</math>

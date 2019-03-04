@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4182"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   width="584"
+   height="428"
+   sodipodi:docname="er18ja07.007.svg">
+  <metadata
+     id="metadata4188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4186" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="750"
+     inkscape:window-height="755"
+     id="namedview4184"
+     showgrid="false"
+     inkscape:zoom="0.55140187"
+     inkscape:cx="292"
+     inkscape:cy="251.21155"
+     inkscape:window-x="495"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4182" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path2231"
+     d="M 434.55168,395.93476 287.06026,140.46946 c -2.31215,-4.00564 -6.58276,-6.47297 -11.20706,-6.47297 -4.62429,0 -8.89487,2.46733 -11.20701,6.47082 L 117.14945,395.93263 c -2.30949,4.00139 -2.30949,8.93718 0.001,12.94383 2.31161,4.00134 6.5838,6.46656 11.20704,6.46656 h 294.98823 c 4.62425,0 8.90016,-2.46522 11.207,-6.46656 2.31218,-4.00665 2.31218,-8.94244 0,-12.94383 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2235"
+     d="m 264.20276,310.63886 c 0.63875,6.06542 1.69454,10.57886 3.17788,13.54556 1.48336,2.972 4.12808,4.4501 7.9394,4.4501 h 1.06106 c 3.81135,0 6.46132,-1.4781 7.9394,-4.4501 1.48336,-2.9667 2.54441,-7.48014 3.17789,-13.54556 l 3.38901,-46.8499 c 0.63876,-9.13245 0.95549,-15.68351 0.95549,-19.66377 0,-5.41085 -1.53614,-9.63395 -4.60845,-12.66402 -2.91921,-2.88226 -7.06311,-4.53453 -11.38124,-4.53453 -4.3181,0 -8.46728,1.65227 -11.38649,4.53453 -3.06703,3.03007 -4.60319,7.25317 -4.60319,12.66402 0,3.98026 0.31676,10.53132 0.9502,19.66377 l 3.38904,46.8499 z"
+     style="fill:#ffffff;fill-opacity:1" />
+  <circle
+     sodipodi:ry="30.747"
+     sodipodi:rx="30.747"
+     sodipodi:cy="430.79001"
+     sodipodi:cx="313.94"
+     transform="matrix(0.52788639,0,0,0.52788639,110.12855,129.38382)"
+     id="circle2237"
+     cy="430.79001"
+     cx="313.94"
+     r="30.747"
+     style="fill:#ffffff;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="-1.7264135"
+     y="36.751099"
+     id="text5824"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5826"
+       x="-1.7264135"
+       y="36.751099"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Figure 2  Safety Alert Symbol</tspan></text>
+</svg>

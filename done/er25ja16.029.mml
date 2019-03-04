@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>PEI</mi>
+    <mi>CL</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>PER</mi>
+      <mi>CL</mi>
+    </msub>
+    <msub>
+      <mi>PER</mi>
+      <mi>STD</mi>
+    </msub>
+  </mfrac>
+</math>

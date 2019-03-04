@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Related person interest minus Related</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">person interest allocated under</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">paragraph</mtext>
+        <mspace width=".2em"/>
+        <mtext>(</mtext>
+        <mtext style="font-style: italic">c</mtext>
+        <mtext>)(</mtext>
+        <mtext>2</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">ii</mtext>
+        <mtext>)(</mtext>
+        <mtext style="font-style: italic">C</mtext>
+        <mtext>)</mtext>
+        <mspace width=".2em"/>
+        <mtext style="font-style: italic">of this section</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Gross income in a separate category</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">(other than passive)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext style="font-style: italic ">Total gross income (other than passive)</mtext>
+  </mfrac>
+</math>

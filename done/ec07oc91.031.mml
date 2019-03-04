@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Portion of Dividend to a
+        Share-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">holder Attributable to Post-</mtext>
+        <mtext>1986</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Undistributed Earnings</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Post-</mtext>
+        <mn>1986</mn>
+        <mspace width=".2em"/>
+        <mtext style="font-style: italic">Un-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">distributed Earnings</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Dividends to Shareholder</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Total Dividends Paid</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">To all Shareholders</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Contrast scale</mtext>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>&#956;</mi>
+        <mi>x</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>&#956;</mi>
+        <mi>w</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mrow>
+          <mtext>(</mtext>
+          <mi>C</mi>
+          <mi>T</mi>
+          <mtext>)</mtext>
+        </mrow>
+        <mi>x</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mrow>
+          <mtext>(</mtext>
+          <mi>C</mi>
+          <mi>T</mi>
+          <mtext>)</mtext>
+        </mrow>
+        <mi>w</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

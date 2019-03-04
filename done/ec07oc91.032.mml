@@ -1,0 +1,86 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Portion of Dividend to a</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Shareholder Attributable</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">to Accumulated Profits</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">of a Particular Pre-</mtext> <mtext>1987</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Taxable Year</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>=</mo>
+  <mspace width=".2em"/>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Dividend Paid Out of Pre-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>1987</mtext>
+        <mspace width=".2em"/>
+        <mtext style="font-style: italic">Accumulated Profits</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">with Respect to the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Particular Pre-</mtext>
+        <mtext>1987</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Taxable Year</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width=".2em"/>
+  <mo>&#215;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Dividends to Shareholder</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">Total Dividends Paid</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext style="font-style: italic">To all Shareholders</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>T</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mover>
+      <msub>
+        <mo>I</mo>
+        <mo>Ag</mo>
+      </msub>
+      <mo>^</mo>
+    </mover>
+    <mover>
+      <msub>
+        <mo>I</mo>
+        <mrow>
+          <mover>
+            <mo>A</mo>
+            <mo>&#x2218;</mo>
+          </mover>
+          <mo>g</mo>
+        </mrow>
+      </msub>
+      <mo>^</mo>
+    </mover>
+  </mfrac>
+</math>

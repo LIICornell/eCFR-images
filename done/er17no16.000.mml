@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>T</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <msqrt>
+    <msubsup>
+      <mi>U</mi>
+      <mi>a</mi>
+      <mn>2</mn>
+    </msubsup>
+  <mo>&#43;</mo>
+  <msubsup>
+    <mi>U</mi>
+    <mi>a</mi>
+    <mn>2</mn>
+  </msubsup>
+</msqrt>
+</math>

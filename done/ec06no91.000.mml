@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">DRE</mtext>
+  <mo>=</mo>
+  <mrow>
+    <mo>[</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msub>
+          <mi>W</mi>
+          <mtext style="font-style: italic">out</mtext>
+        </msub>
+        <msub>
+          <mi>W</mi>
+          <mrow>
+            <mi>i</mi>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>]</mo>
+  </mrow>
+  <mo>&#215;</mo>
+  <mn>100</mn>
+</math>

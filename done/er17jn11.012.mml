@@ -1,0 +1,8 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mi>SPF</mi>
+    <mo>&#175;</mo>
+  </mover>
+  <mo>&#8722;</mo>
+  <mtext>(t * SE),</mtext>
+</math>

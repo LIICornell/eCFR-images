@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mtext>(</mtext>
+      <msub>
+        <mi>C</mi>
+        <mi>b</mi>
+      </msub>
+      <mtext>-</mtext>
+      <msub>
+        <mi>C</mi>
+        <mi>a</mi>
+      </msub>
+      <mtext>)</mtext>
+      <mspace width=".2em"/>
+      <mi>x</mi>
+      <mspace width=".2em"/>
+      <mn>100</mn>
+    </mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>b</mi>
+    </msub>
+  </mfrac>
+</math>

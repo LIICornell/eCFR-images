@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Tolerance</mtext>
+  <mo>=</mo>
+  <msqrt>
+    <msubsup>
+      <mi>A</mi>
+      <mi>p</mi>
+      <mn>2</mn>
+    </msubsup>
+    <mo>&#43;</mo>
+  <msubsup>
+    <mi>A</mi>
+    <mi>c</mi>
+    <mn>2</mn>
+  </msubsup>
+</msqrt>
+</math>

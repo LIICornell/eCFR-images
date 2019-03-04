@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mspace width=".2em"/>
+  <mtext>test</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mi>&#961;</mi>
+    <msqrt>
+      <mfrac>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msup>
+            <mi>&#961;</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+        <mrow>
+          <mi>n</mi>
+          <mo>&#8722;</mo>
+          <mn>2</mn>
+        </mrow>
+      </mfrac>
+    </msqrt>
+  </mfrac>
+</math>

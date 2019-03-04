@@ -1,0 +1,85 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>1000</mn>
+              <mtext>(</mtext>
+              <mo>W</mo>
+              <mtext>)</mtext>
+              <mtext>HZA</mtext>
+            </mrow>
+            <mrow>
+              <mtext>(</mtext>
+              <mo>A</mo>
+              <mtext>)</mtext>
+              <mtext>(</mtext>
+              <mo>H</mo>
+              <mtext>)</mtext>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#8805;</mo>
+          <mspace width=".2em"/>
+          <mo>X</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>1000</mn>
+              <mtext>(</mtext>
+              <mo>W</mo>
+              <mtext>)</mtext>
+              <mtext>HZB</mtext>
+            </mrow>
+            <mrow>
+              <mtext>(</mtext>
+              <mo>A</mo>
+              <mtext>)</mtext>
+              <mtext>(</mtext>
+              <mo>H</mo>
+              <mtext>)</mtext>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#8805;</mo>
+          <mspace width=".2em"/>
+          <mo>Y</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>1000</mn>
+              <mtext>(</mtext>
+              <mo>W</mo>
+              <mtext>)</mtext>
+              <mtext>HZC</mtext>
+            </mrow>
+            <mrow>
+              <mtext>(</mtext>
+              <mo>A</mo>
+              <mtext>)</mtext>
+              <mtext>(</mtext>
+              <mo>H</mo>
+              <mtext>)</mtext>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#8805;</mo>
+          <mspace width=".2em"/>
+          <mo>Z</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

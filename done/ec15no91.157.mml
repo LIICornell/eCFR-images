@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <mi>PC</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mo>A</mo>
+    <mn>10</mn>
+  </mfrac>
+  <munderover>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mo>i</mo>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>n</mo>
+  </munderover>
+  <msub>
+    <mo>W</mo>
+    <mo>i</mo>
+  </msub>
+</math>

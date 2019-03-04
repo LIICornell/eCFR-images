@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>S</mi>
+    <mi>n</mi>
+  </msub>
+  <mfrac>
+    <mrow>
+      <mn>100</mn>
+      <mo>&#215;</mo>
+      <mi>CS</mi>
+      <mo>&#215;</mo>
+      <mi>s</mi>
+    </mrow>
+    <msub>
+      <mi>&#956;</mi>
+      <mi>w</mi>
+    </msub>
+  </mfrac>
+</math>
