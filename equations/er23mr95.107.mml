@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>S</mi>
+      <mi>O</mi>
+      <mi>C</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>S</mi>
+    </msub>
+    <msub>
+      <mi>f</mi>
+      <mrow>
+        <mi>O</mi>
+        <mi>C</mi>
+      </mrow>
+    </msub>
+  </mfrac>
+</math>

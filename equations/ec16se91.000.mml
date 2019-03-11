@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>APRR</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>A</mi>
+      <mo>+</mo>
+      <mi>B</mi>
+    </mrow>
+    <mrow>
+      <mi>C</mi>
+      <mo>&#8722;</mo>
+      <mi>D</mi>
+    </mrow>
+  </mfrac>
+</math>

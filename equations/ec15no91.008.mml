@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>S</mi>
+    <mrow>
+      <mi>S</mi>
+      <mo>&#8722;</mo>
+      <mi>f</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>R</mi>
+        <mi>R</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>p</mi>
+      </msub>
+    </mrow>
+    <mi>H</mi>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>(9)</mtext>
+</math>

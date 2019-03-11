@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>SPF</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>256.2</mn>
+      <mo>&#8722;</mo>
+      <mn>247.8</mn>
+    </mrow>
+    <mn>247.8</mn>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mo>$</mo>
+  <mn>300</mn>
+  <mo>=</mo>
+  <mn></mn>
+  <mo>$</mo>
+  <mn>10.17</mn>
+</math>

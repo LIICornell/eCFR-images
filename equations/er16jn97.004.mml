@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>s</mi>
+          </msub>
+          <mi>q</mi>
+      <msub>
+        <mi>&#952;</mi>
+        <mi>s</mi>
+      </msub>
+      <mi>K</mi>
+    </mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>Eq. 204 A-2</mtext>
+</math>

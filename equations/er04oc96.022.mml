@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>f</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>12.01</mn>
+    <mo>+</mo>
+    <mn>1.008</mn>
+    <mo>&#215;</mo>
+    <mi>&#945;</mi>
+  </mrow>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>d</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>K</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>T</mi>
+    <mi>i</mi>
+  </msub>
+</math>

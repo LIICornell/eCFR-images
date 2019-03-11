@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>6.20</mn>
+      <mo>+</mo>
+      <mn>1.61</mn>
+    </mrow>
+    <mn>50.23</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mn>15.55</mn>
+  <mspace width=".2em"/>
+  <mtext>percent</mtext>
+</math>

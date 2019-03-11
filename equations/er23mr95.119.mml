@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>E</mi>
+      <mo>&#215;</mo>
+      <mi>N</mi>
+    </mrow>
+    <mi>T</mi>
+  </mfrac>
+</math>

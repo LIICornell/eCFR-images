@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mi>S</mi>
+    <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mi>C</mi>
+  <mfrac>
+    <msub>
+      <mi>F</mi>
+      <mi>p</mi>
+    </msub>
+    <msub>
+      <mi>F</mi>
+      <mi>t</mi>
+    </msub>
+  </mfrac>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>f</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>99</mn>
+    <msub>
+      <mi>p</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mi>T</mi>
+          <mn>298</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mn>0.7</mn>
+    </msup>
+  </mrow>
+</math>

@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Z</mi>
+  <mn>1</mn>
+  <mo>=</mo>
+  <mn>100</mn>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mrow>
+      <mi>P</mi>
+      <mi>w</mi>
+      <mi>b</mi>
+    </mrow>
+    <mrow>
+      <mi>G</mi>
+      <mi>P</mi>
+    </mrow>
+  </mfrac>
+</math>

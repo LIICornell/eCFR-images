@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>k</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>R</mi>
+    <mrow>
+      <mi>k</mi>
+    </mrow>
+  </msub>
+  <msub>
+    <mi>F</mi>
+    <mrow>
+      <mi>k</mi>
+    </mrow>
+  </msub>
+  <mspace width="1in"/>
+  <mtext>Eq. 15</mtext>
+</math>

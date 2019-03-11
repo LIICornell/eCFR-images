@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>EA</mi>
+  <mo>=</mo>
+  <mi>WA</mi>
+  <mo>+</mo>
+  <munderover>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>n</mi>
+  </munderover>
+  <msub>
+    <mi>S</mi>
+    <mn>1</mn>
+  </msub>
+</math>

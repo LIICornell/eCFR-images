@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>F</mi>
+      <mi>WA</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <msub>
+          <mi>F</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>F</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

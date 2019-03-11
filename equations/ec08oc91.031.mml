@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>1,000</mn>
+      </mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>5,000</mn>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>$</mo>
+      <mn>4,500</mn>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>900</mn>
+</math>

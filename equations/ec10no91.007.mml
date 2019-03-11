@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mtext>Background at 1.175</mtext>
+      <mspace width=".2em"/>
+      <mtext>angstroms</mtext>
+    </mrow>
+    <mrow>
+      <mtext>Background at 1.211</mtext>
+      <mspace width=".2em"/>
+      <mtext>angstroms</mtext>
+    </mrow>
+  </mfrac>
+</math>

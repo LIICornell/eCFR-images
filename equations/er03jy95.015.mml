@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mn>1</mn>
+  <mo>=</mo>
+  <mi>D</mi>
+  <mo>&#215;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mi>Z</mi>
+        <mn>1</mn>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>R</mi>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>r</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>o</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>M</mi>
+          <mi>d</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mrow>
+      <mspace width=".5in"/>
+    </mrow>
+  </mrow>
+  <mtext>Equation 10</mtext>
+</math>

@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mn>0</mn>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>D</mi>
+    <mi>o</mi>
+  </msub>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mi>M</mi>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>X</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+</math>

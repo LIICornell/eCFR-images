@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>60,000</mn>
+      <mspace width=".2em"/>
+      <mi>MTHM</mi>
+    </mrow>
+    <mrow>
+      <mn>6,000</mn>
+      <mspace width=".2em"/>
+      <mi>MTHM</mi>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>10</mn>
+</math>

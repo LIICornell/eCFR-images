@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mrow>
+    <mn>65</mn>
+    <mi>x</mi>
+    <mspace width=".2em"/>
+    <mtext>dollars</mtext>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>90</mn>
+        <mi>x</mi>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mo>$</mo>
+          <mn>90</mn>
+          <mi>x</mi>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mo>$</mo>
+          <mn>50</mn>
+          <mi>x</mi>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+</math>

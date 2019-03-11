@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mi>S</mi>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>&#215;</mo>
+            <mi>t</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

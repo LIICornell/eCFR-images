@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>n</mi>
+          <mrow>
+            <mi>z</mi>
+            <mi>w</mi>
+          </mrow>
+        </msub>
+        <mi>W</mi>
+      </mrow>
+      <mrow>
+        <mi>q</mi>
+        <mi>S</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

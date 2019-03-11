@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>T</mi>
+      <mi>N</mi>
+      <mi>V</mi>
+      <mi>C</mi>
+      <mi>H</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+    </msub>
+    <mspace width="2em"/>
+  </mrow>
+  <mtext>(Eq. 1)</mtext>
+</math>

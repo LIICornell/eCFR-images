@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>Quarter ending:</mtext>
+    <mtext>Percent yield</mtext>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>March</mtext>
+    <mn>1.0072</mn>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mtext>June</mtext>
+    <mn>1.0070</mn>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mtext>Sept.</mtext>
+    <mn>1.0071</mn>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mtext>Dec.</mtext>
+    <mn>1.0070</mn>
+  </mfrac>
+  <mo>&#8722;</mo>
+  <mn>1.00</mn>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mo>.</mo>
+  <mn>0286</mn>
+</math>

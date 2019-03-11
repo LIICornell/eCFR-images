@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mi>C</mi>
+      <mi>T</mi>
+      <mtext>calc</mtext>
+    </mrow>
+    <msub>
+        <mi>C</mi>
+        <msub>
+          <mi>T</mi>
+          <mn>99.9</mn>
+        </msub>
+    </msub>
+  </mfrac>
+</math>

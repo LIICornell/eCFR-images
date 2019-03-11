@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>q</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>G</mi>
+      <mo>&#8722;</mo>
+      <mn>0.20</mn>
+    </mrow>
+    <mi>G</mi>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mn>100</mn>
+</math>

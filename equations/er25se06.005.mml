@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>S</mi>
+      <mo>(</mo>
+      <mi>N</mi>
+      <mo>)</mo>
+    </mrow>
+    <mi>W</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>N</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>o</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>r</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mi>L</mi>
+      <mo>,</mo>
+      <mi>T</mi>
+    </mrow>
+  </mfrac>
+</math>

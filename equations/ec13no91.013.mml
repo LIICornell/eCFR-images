@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>1</mn>
+  <mo>.</mo>
+  <mn>23</mn>
+  <mrow>
+    <mspace width=".2em"/>
+    <mo>&#215;</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mi>F</mi>
+          <mi>V</mi>
+          <mi>I</mi>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mi>B</mi>
+          <mi>C</mi>
+          <mi>P</mi>
+          <mi>I</mi>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mi>P</mi>
+          <mi>P</mi>
+          <mi>I</mi>
+        </mrow>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+  </mrow>
+</math>

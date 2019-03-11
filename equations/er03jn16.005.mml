@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>C</mo>
+    <mtext>corr</mtext>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mo>C</mo>
+    <mtext>meas</mtext>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>3</mn>
+      <msub>
+        <mrow>
+          <mtext>C0</mtext>
+          <mo></mo>
+        </mrow>
+        <mtext>2meas</mtext>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

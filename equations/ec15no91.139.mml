@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Next payment</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>PE</mi>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mi>C</mi>
+          <mi>V</mi>
+        </mrow>
+      </mrow>
+      <mi>Y</mi>
+    </mfrac>
+  </mrow>
+</math>

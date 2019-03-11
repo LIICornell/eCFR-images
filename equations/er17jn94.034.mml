@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>M</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>G</mi>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mn>2</mn>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mn>273.15</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

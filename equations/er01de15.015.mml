@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Diam</mtext>
+  <mo>=</mo>
+  <mn>2</mn>
+  <mo>&#215;</mo>
+  <msqrt>
+    <mtext style="font-style: italic">Area</mtext>
+    <mo>/</mo>
+    <mi>&#960;</mi>
+  </msqrt>
+</math>

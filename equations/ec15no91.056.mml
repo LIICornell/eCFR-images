@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>E</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mo>i</mo>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>n</mo>
+      </munderover>
+      <msub>
+        <mo>M</mo>
+        <mo>i</mo>
+      </msub>
+    </mrow>
+    <mo>T</mo>
+  </mfrac>
+</math>

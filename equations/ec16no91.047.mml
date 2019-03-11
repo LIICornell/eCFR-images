@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>r</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>L</mi>
+    <mi>r</mi>
+  </msub>
+  <msub>
+    <mi>D</mi>
+    <mi>r</mi>
+  </msub>
+  <mspace width=".5in"/>
+  <mtext>Equation 9</mtext>
+</math>

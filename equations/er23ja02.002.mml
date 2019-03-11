@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mi>b</mi>
+  <mo>=</mo>
+  <mi>M</mi>
+  <mo>+</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1.815</mn>
+        <mo>*</mo>
+        <mi>R</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msqrt>
+      <mi>n</mi>
+    </msqrt>
+  </mfrac>
+</math>

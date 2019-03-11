@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>x</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>C</mi>
+  <mfrac>
+    <msub>
+      <mi>V</mi>
+      <mi>x</mi>
+    </msub>
+    <msub>
+      <mi>V</mi>
+      <mi>t</mi>
+    </msub>
+  </mfrac>
+</math>

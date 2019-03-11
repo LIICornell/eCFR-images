@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mi>T</mi>
+  <mi>O</mi>
+  <mo>,</mo>
+  <mi>ppm</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>m</mi>
+      <mi>g</mi>
+      <mo>/</mo>
+      <msup>
+        <mi>m</mi>
+        <mn>3</mn>
+      </msup>
+      <mo>&#215;</mo>
+      <mn>24.45</mn>
+    </mrow>
+    <mn>44.05</mn>
+  </mfrac>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mrow>
+          <mi>O</mi>
+          <mi>D</mi>
+        </mrow>
+      </munderover>
+      <msub>
+        <mi>P</mi>
+        <mi>n</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mi>O</mi>
+      <mi>D</mi>
+    </mrow>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>(Eq, JJ-10)</mtext>
+</math>

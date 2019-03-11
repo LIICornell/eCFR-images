@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mi>X</mi>
+    <mo>&#x2014;</mo>
+  </mover>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2211;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>F</mi>
+          <mo>/</mo>
+          <mi>T</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>N</mi>
+  </mfrac>
+</math>

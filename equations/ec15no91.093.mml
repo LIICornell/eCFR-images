@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtext>Inlet conc.</mtext>
+        <mo>&#8722;</mo>
+        <mtext>outlet conc.</mtext>
+      </mrow>
+      <mtext>Inlet conc.</mtext>
+    </mfrac>
+    <mspace width=".2em"/>
+    <mo>&#215;</mo>
+    <mspace width=".2em"/>
+    <mn>100</mn>
+  </mrow>
+</math>

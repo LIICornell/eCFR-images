@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+      <msub>
+        <mi>N</mi>
+        <mi>r</mi>
+      </msub>
+      <mo>=</mo>
+  <msub>
+    <mi>N</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>&#215;</mo>
+  <mn>0.100</mn>
+  <mspace width="2cm"/>
+  <mtext>(3)</mtext>
+</math>

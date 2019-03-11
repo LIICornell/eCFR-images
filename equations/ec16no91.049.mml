@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mrow>
+        <mi>s</mi>
+        <mi>n</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>s</mi>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>L</mi>
+      <mrow>
+        <mi>c</mi>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width=".5in"/>
+  <mtext>Equation 11</mtext>
+</math>

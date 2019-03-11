@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mn>9.767</mn>
+        <mo>%</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mo>9.8</mo>
+      <mn>6</mn>
+      <mo>%</mo>
+    </mrow>
+    <mrow>
+      <mn>0.2</mn>
+      <mo>%</mo>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mi>X</mi>
+    <mrow>
+      <mo>.</mo>
+      <mn>007191</mn>
+    </mrow>
+  </mfrac>
+</math>

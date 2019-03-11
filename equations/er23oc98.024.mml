@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>b</mi>
+  <mi>s</mi>
+  <mi>f</mi>
+  <mi>c</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>M</mi>
+    <mrow>
+      <mi>k</mi>
+      <mi>W</mi>
+      <mo>&#8722;</mo>
+      <mi>h</mi>
+      <mi>r</mi>
+    </mrow>
+  </mfrac>
+</math>

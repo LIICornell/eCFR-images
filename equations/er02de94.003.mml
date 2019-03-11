@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <msub>
+    <mi>A</mi>
+    <mi>n</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn>3</mn>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mi>n</mi>
+      </msub>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+  <mspace width="1in"/>
+  <mtext>(5)</mtext>
+</math>

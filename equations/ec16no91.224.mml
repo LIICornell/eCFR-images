@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>m</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <mrow>
+        <mi>R</mi>
+        <mi>R</mi>
+        <msub>
+          <mi>F</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>m</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>&#xd7;</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mspace width=".5in"/>
+  <mtext>Eq. 23-6</mtext>
+</math>

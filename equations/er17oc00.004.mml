@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <msub>
+      <mn>so</mn>
+      <mo>x</mo>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac bevelled="true">
+      <msub>
+        <mi>E</mi>
+        <msub>
+          <mn>so</mn>
+          <mo>x</mo>
+        </msub>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>S</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <msub>
+      <mi>l</mi>
+      <mi>i</mi>
+    </msub>
+    <msub>
+      <mi>l</mi>
+      <mi>c</mi>
+    </msub>
+  </mfrac>
+</math>

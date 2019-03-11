@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>A</mi>
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>0.00001</mn>
+    <msubsup>
+      <mi>q</mi>
+      <mn>1</mn>
+      <mo>*</mo>
+    </msubsup>
+  </mfrac>
+</math>

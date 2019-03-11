@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>r</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>r</mi>
+    <mi>m</mi>
+  </msub>
+  <mfrac>
+    <mrow>
+      <mn>8760</mn>
+      <mo>&#8722;</mo>
+      <mi>Z</mi>
+    </mrow>
+    <mn>8760</mn>
+  </mfrac>
+</math>

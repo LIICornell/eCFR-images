@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>W</mi>
+  <mo>=</mo>
+  <mn>500</mn>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <mi>LN</mi>
+        <mrow>
+          <mi>N</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </mfrac>
+      <mo>+</mo>
+      <mrow>
+        <mn>12</mn>
+        <mi>N</mi>
+      </mrow>
+      <mo>+</mo>
+      <mn>36</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

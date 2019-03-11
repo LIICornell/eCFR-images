@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>c</mi>
+      <mo>+</mo>
+      <mi>d</mi>
+      <mo>+</mo>
+      <mi>e</mi>
+    </mrow>
+    <mrow>
+      <mi>a</mi>
+      <mo>+</mo>
+      <mi>b</mi>
+    </mrow>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mn>100</mn>
+</math>

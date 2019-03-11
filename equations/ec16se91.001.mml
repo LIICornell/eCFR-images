@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PRR</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>A</mi>
+    <mrow>
+      <mi>B</mi>
+      <mo>&#8722;</mo>
+      <mi>C</mi>
+    </mrow>
+  </mfrac>
+</math>

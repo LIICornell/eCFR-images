@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Loss ratio factor</mtext>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mo>$</mo>
+      <mn>3,000,000</mn>
+    </mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>3,600.000</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>83.3</mn>
+  <mo>%</mo>
+</math>

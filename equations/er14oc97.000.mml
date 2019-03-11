@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Payment = </mtext>
+  <mfrac>
+    <mtext>gross payment without withholding</mtext>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtext>tax rate</mtext>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

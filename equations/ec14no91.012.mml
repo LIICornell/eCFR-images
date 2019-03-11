@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Volume = </mtext>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mi>M</mi>
+          <mi>H</mi>
+          <mi>D</mi>
+        </mrow>
+        <mn>2</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mo>&#215;</mo>
+  <mrow>
+    <mn>3.14</mn>
+    <mo>&#215;</mo>
+    <mtext>depth</mtext>
+  </mrow>
+</math>

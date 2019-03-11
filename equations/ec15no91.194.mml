@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>50,070,000</mn>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mn>0.1400</mn>
+        <mi>t</mi>
+      </mrow>
+    </msup>
+  </mfrac>
+  <mspace width="1in"/>
+  <mtext>Eq. (3)</mtext>
+</math>

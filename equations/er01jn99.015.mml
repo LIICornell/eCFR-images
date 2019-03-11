@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>C</mi>
+      <mo>&#215;</mo>
+      <mrow>
+        <mi>O</mi>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>K</mi>
+          <mn>1</mn>
+        </msub>
+      </mrow>
+    </mrow>
+    <mi>P</mi>
+  </mfrac>
+</math>

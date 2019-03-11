@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msubsup>
+      <mo>X</mo>
+      <mo>i</mo>
+      <mn>2</mn>
+    </msubsup>
+  </mrow>
+</math>

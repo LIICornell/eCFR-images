@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi>R</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>b</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>a</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>b</mi>
+    </msub>
+  </mfrac>
+</math>

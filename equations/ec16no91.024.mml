@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mtext>kilograms of </mtext>
+      <mrow>
+        <mi>V</mi>
+        <mi>O</mi>
+        <mi>C</mi>
+      </mrow>
+    </mrow>
+    <mtext>liter of applied solids</mtext>
+  </mfrac>
+</math>

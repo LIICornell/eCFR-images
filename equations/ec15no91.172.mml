@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>P</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mn>14</mn>
+    <mrow>
+      <mn>21</mn>
+      <mo>&#8722;</mo>
+      <mi>Y</mi>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>wi</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>D</mi>
+        <mrow>
+          <mi>c</mi>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>W</mi>
+        <mrow>
+          <mi>w</mi>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>w</mi>
+    </msub>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>Eq. 1</mtext>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>K</mi>
+        <mi>v</mi>
+      </msub>
+      <mi>P</mi>
+    </mrow>
+    <msqrt>
+      <mi>T</mi>
+    </msqrt>
+  </mfrac>
+</math>

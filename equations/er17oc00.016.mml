@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mo>max</mo>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>K</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>H</mi>
+    <mi>T</mi>
+  </msub>
+</math>

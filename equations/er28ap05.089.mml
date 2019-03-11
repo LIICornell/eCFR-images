@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mi>T</mi>
+        <mi>u</mi>
+      </mrow>
+      <mo>+</mo>
+      <mi>W</mi>
+      <mo>+</mo>
+      <mrow>
+        <mi>T</mi>
+        <mi>h</mi>
+      </mrow>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+  <mo>*</mo>
+  <mn>1.2</mn>
+  <mo>*</mo>
+  <mn>180</mn>
+</math>

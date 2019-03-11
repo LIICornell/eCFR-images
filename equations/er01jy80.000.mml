@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mi>&#967;</mi>
+    <mo>—</mo>
+  </mover>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mo>n</mo>
+  </mfrac>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mo>i</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+    </munder>
+    <msub>
+      <mi>&#967;</mi>
+      <mo>i</mo>
+    </msub>
+  </mrow>
+</math>

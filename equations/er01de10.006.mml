@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mi>r</mi>
+      <mn>12</mn>
+    </munderover>
+    <msub>
+      <mi>W</mi>
+      <mi>x</mi>
+    </msub>
+  </mrow>
+  <mspace width=".5in"/>
+  <mtext>(Eq. I-5)</mtext>
+</math>

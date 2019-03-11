@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MCB</mi>
+  <mo>=</mo>
+  <mn>600</mn>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mfrac>
+        <mrow>
+          <mi>A</mi>
+          <mo>&#8722;</mo>
+          <mn>37,800</mn>
+        </mrow>
+        <mn>56,700</mn>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

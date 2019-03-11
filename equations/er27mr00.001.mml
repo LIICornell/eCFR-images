@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>2,000,000</mn>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>80</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>2,200,000</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>72.7</mn>
+  <mo>%</mo>
+</math>

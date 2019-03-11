@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>D</mi>
+        <mi>c</mi>
+      </msub>
+      <mo>)</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>c</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

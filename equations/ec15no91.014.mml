@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>y</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>x</mi>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>r</mi>
+    </mrow>
+  </mfrac>
+</math>

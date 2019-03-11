@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>P</mi>
+  <mi>R</mi>
+  <mi>A</mi>
+    <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>A</mi>
+      <mo>&#215;</mo>
+      <mi>K</mi>
+    </mrow>
+    <mi>W</mi>
+  </mfrac>
+  <mspace width="2cm"/>
+  <mtext>(5)</mtext>
+</math>

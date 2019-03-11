@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>S</mi>
+    <mrow>
+      <mi>S</mi>
+      <mo>&#8722;</mo>
+      <mi>f</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>R</mi>
+      <mi>R</mi>
+    </msub>
+    <mi>H</mi>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>(8)</mtext>
+</math>

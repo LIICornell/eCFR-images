@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>E</mo>
+    <mo>Hg</mo>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>MQ</mo>
+      <mspace width=".2em"/>
+      <msub>
+        <mo>F</mo>
+        <mrow>
+          <mtext>sm(avg)</mtext>
+        </mrow>
+      </msub>
+    </mrow>
+    <mn>1000</mn>
+  </mfrac>
+</math>

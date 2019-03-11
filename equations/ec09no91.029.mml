@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>R</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mi>N</mi>
+</math>

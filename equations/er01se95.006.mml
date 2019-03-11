@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mi>H</mi>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>V</mi>
+          <mrow>
+            <mi>w</mi>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>Eq. 3</mtext>
+</math>

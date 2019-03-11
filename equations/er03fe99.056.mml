@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>n</mo>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mn>1.64</mn>
+            <mo>s</mo>
+          </mrow>
+          <mn>1</mn>
+        </msub>
+        <mrow>
+          <mn>10</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mover>
+              <mo>x</mo>
+              <mo>—</mo>
+            </mover>
+            <mn>1</mn>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mspace width=".2em"/>
+  <mo>&#183;</mo>
+</math>

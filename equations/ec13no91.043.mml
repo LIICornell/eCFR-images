@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>G</mi>
+  <mi>M</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>&#8805;</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mi>P</mi>
+        <mi>A</mi>
+        <mi>H</mi>
+      </mrow>
+      <mrow>
+        <mi>W</mi>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>tan</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mi>T</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

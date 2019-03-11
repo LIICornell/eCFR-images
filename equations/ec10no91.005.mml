@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>A</mi>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mi>B</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mn>2000</mn>
+      <mspace width=".2em"/>
+      <mtext>lbs./ton</mtext>
+    </mrow>
+  </mfrac>
+</math>

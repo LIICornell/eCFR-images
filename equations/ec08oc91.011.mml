@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>660</mn>
+        <mi>x</mi>
+    </mrow>
+    <mspace width=".2em"/>
+    <mtext>depletion</mtext>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>1,000</mn>
+        <mspace width=".2em"/>
+        <mtext>depletable oil quantity</mtext>
+      </mrow>
+      <mrow>
+        <mn>4,000</mn>
+        <mspace width=".2em"/>
+        <mtext>average daily production</mtext>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+</math>

@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>A</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <mrow>
+        <mi>R</mi>
+        <mi>R</mi>
+        <msub>
+          <mi>F</mi>
+          <mi>i</mi>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mrow>
+            <mi>m</mi>
+            <mi>s</mi>
+            <mi>t</mi>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mspace width=".5in"/>
+  <mtext>Eq. 23-2</mtext>
+</math>

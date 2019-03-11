@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <msub>
+      <mn>so</mn>
+      <mo>x</mo>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>C</mi>
+    <msub>
+      <mn>so</mn>
+      <mo>x</mo>
+    </msub>
+  </msub>
+  <msub>
+    <mi>Q</mi>
+    <mrow>
+      <mn>sd</mn>
+    </mrow>
+  </msub>
+  <mo>/</mo>
+  <mi>K</mi>
+</math>

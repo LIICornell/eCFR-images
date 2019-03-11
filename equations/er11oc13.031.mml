@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mi>M</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>H</mi>
+    <mi>N</mi>
+  </msub>
+  <msqrt>
+    <mfrac>
+      <msub>
+        <mi>T</mi>
+        <mi>M</mi>
+      </msub>
+      <msub>
+        <mi>T</mi>
+        <mi>N</mi>
+      </msub>
+    </mfrac>
+  </msqrt>
+  <mo>,</mo>
+  <mspace width=".2em"/>
+  <mtext>where</mtext>
+</math>

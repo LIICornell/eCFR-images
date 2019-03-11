@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+      <mi>A</mi>
+      <mo>=</mo>
+      <msub>
+        <mtext>log</mtext>
+        <mn>10</mn>
+      </msub>
+  <mtext>(1/</mtext>
+  <mi>T</mi>
+  <mtext>)</mtext>
+  <mspace width="2cm"/>
+  <mtext>(1)</mtext>
+</math>
