@@ -1,0 +1,95 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Portion of &#247;idend to domestic corpora-</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>tion which is from earnings not included</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>in domestic corporation's gross income</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>under section 951 with respect to</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>first- or lower-tier corporations</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Earnings and profits of first-tier corpora-</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>tion not included in domestic corporation's</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>gross income under section 951 with</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>respect to second or lower-tier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporations</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Tax paid by second-tier corporation</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>on earnings not previously taxed</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>with respect to third- or lower-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>tier corporations which is</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>deemed paid by first-tier</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporations</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

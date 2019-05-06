@@ -1,0 +1,109 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Amount of matching</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>funds proposed from</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>nongovernmental</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>sources</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Total proposed</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>amount of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>matching funds</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amounts of matching funds</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>from nongovernmental</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>sources actually raised</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>under previous endow-</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>ment challenge grant</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount of matching funds</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>proposed to be raised from</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>nongovernmental sources</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>under the previous endow-</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>ment challenge grant</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>15</mn>
+      <mtext> points</mtext>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mtext>Points of this criterion</mtext>
+</math>

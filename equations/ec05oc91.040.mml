@@ -1,0 +1,79 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mfrac>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>square footage of building which is
+                    tax-exempt</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>use property (excluding common areas)</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>total square footage in building</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>(excluding common areas)</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+            </mfrac>
+            <mo>=</mo>
+            <mfrac>
+              <mrow>
+                <mn>60,000</mn>
+                <mtext> sq. feet</mtext>
+              </mrow>
+              <mrow>
+                <mn>80,000</mn>
+                <mtext> sq. feet</mtext>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mn>3</mn>
+            <mo>/</mo>
+            <mn>4</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mn>3</mn>
+            <mo>/</mo>
+            <mn>4</mn>
+          </mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mrow>
+              <mo>$</mo>
+              <mn>900,000</mn>
+            </mrow>
+            <mo>=</mo>
+            <mrow>
+              <mo>$</mo>
+              <mn>675,000</mn>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

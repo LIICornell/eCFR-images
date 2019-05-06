@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>20</mn>
+      <mtext> percent of Z stock value </mtext>
+      <mo>+</mo>
+      <mtext> nonexempt domestic assets</mtext>
+    </mrow>
+    <mrow>
+      <mn>20</mn>
+      <mtext> percent of Z stock value </mtext>
+      <mo>+</mo>
+      <mtext>Nonexempt domestic assets </mtext>
+      <mo>+</mo>
+      <mtext> Nonexempt foreign assets</mtext>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mtext>Mean Wet Sediment Weight</mtext>
+      <mrow>
+        <mo>(</mo>
+        <mi>g</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mtext>Mean Dry Sediment Weight</mtext>
+      <mrow>
+        <mo>(</mo>
+        <mi>g</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mtext>Wet to Dry Ratio</mtext>
+  <mspace width="4em"/>
+  <mtext>[Eq.1]</mtext>
+</math>

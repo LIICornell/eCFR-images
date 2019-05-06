@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RMS</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mi>MS</mi>
+      <mi>TS</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mi>TCPPS</mi>
+  </mrow>
+</math>

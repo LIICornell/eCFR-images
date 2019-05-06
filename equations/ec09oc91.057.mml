@@ -1,0 +1,80 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount included in domestic corporation's</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>gross income under section 951 with</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>respect to first-tier corporation</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Earnings and profits of first-tier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation not included in domestic</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation's gross income under section</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>951 with respect to second- or</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>lower-tier corporations</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable style="margin-top: 20px;">
+      <mtr>
+        <mtd>
+          <mtext>Taxes paid by first-tier corpora-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>tion on earnings not included</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>in domestic corporation's gross</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>income with respect to second-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>or lower-tier corporations</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

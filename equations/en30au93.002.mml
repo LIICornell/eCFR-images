@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Recovery Efficiency</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Refrigerant Recovered</mtext>
+      <mtext>Refrigerant Recoverable</mtext>
+    </mfrac>
+  </mrow>
+  <mn>100</mn>
+  <mo>%</mo>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>K</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <msup>
+      <mrow>
+        <msub>
+          <mi>K</mi>
+          <mi>o</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <msub>
+              <mi>M</mi>
+              <mi>o</mi>
+            </msub>
+            <msub>
+              <mi>M</mi>
+              <mi>i</mi>
+            </msub>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>/</mo>
+        <mn>3</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 3</mtext>
+</math>

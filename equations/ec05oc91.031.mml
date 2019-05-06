@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>percentage tax rate</mtext>
+      <mrow>
+        <mn>100</mn>
+        <mi></mi>
+        <mtext>plus percentage tax rate</mtext>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtext>tax-included readjustment</mtext>
+  </mrow>
+  <mo>=</mo>
+  <mtext>tax overpayment  </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <mn>10</mn>
+        <mn>100</mn>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>$</mo>
+        <mn>3</mn>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mo>$</mo>
+    <mn>0.27</mn>
+    <mo>)</mo>
+  </mrow>
+  <mo>.</mo>
+</math>

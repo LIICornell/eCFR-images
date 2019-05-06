@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>5,000</mn>
+        <mtext> (FMV of portion sold)</mtext>
+      </mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>10,000</mn>
+        <mtext> (FMV of aggregated property)</mtext>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>12,000</mn>
+          <mtext> (adjusted</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>basis for loss)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+  <mo>=</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mo>$</mo>
+        <mtext>6,000 (adjusted basis</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>of portion sold)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

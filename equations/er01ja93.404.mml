@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Grams of sample</mtext>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>B</mi>
+          <mo>&#8722;</mo>
+          <mi>C</mi>
+        </mrow>
+        <mtext>)</mtext>
+      </mrow>
+    </mfrac>
+    <mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mn>1,200</mn>
+            <mspace width=".2em"/>
+            <mtext>milliliters</mtext>
+          </mrow>
+          <mrow>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Volume of filtrate</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>A in milliliters</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mtext></mtext>
+          </mrow>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Milliequivalents of total chlorine in</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>aqueous extract of 100 grams of sample.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext></mtext>
+  </mrow>
+</math>

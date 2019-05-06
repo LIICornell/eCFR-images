@@ -1,0 +1,98 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Bad debts sustained, adjusted</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>by recoveries received, during</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>the applicable period</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Sum of accounts receivable at</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>the end of each taxable year</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>during the applicable period</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mtext><mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Accounts</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>receivable at</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>end of current</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>taxable year</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      </mtext>
+      <mo>&#8722;</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Bad debts written off during the</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>current taxable year relating to</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>accounts receivable generated</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mi><mrow>
+              <mtext>during</mtext>
+            </mrow>
+            </mi>
+            <mi>the</mi>
+            <mi>current</mi>
+            <mi>taxable</mi>
+            <mi>year</mi>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>(Bad debts sustained, adjusted by recoveries</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>received, during the applicable period</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>&#x2013; Bad debts written off in same taxable year</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>accounts receivable generated)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Sum of accounts receivable at the beginning of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>each taxable year during the applicable period</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Accounts receivable at end</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of current taxable year</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

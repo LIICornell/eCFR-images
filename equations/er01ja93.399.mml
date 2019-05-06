@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Grams of residue</mtext>
+      <mtext>Grams of sample</mtext>
+    </mfrac>
+    <mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mn>100</mn>
+            <mtext> milliliters</mtext>
+          </mrow>
+          <mtext>volume of aliquot in milliliters</mtext>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mtext>Percent soluble in xylene</mtext>
+  </mrow>
+</math>

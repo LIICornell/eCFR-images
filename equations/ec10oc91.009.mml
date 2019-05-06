@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>Additional section 263A costs incurred during 1995</mtext>
+    <mtext>Section 471 costs incurred during 1995</mtext>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>$</mo>
+      <mn>400</mn>
+    </mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>2,000</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>20</mn>
+  <mo>%</mo>
+</math>

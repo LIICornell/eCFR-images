@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>E</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>CE</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mn>100</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 11</mtext>
+</math>

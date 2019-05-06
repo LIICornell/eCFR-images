@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Hg</mi>
+      <mrow>
+        <mi>bh</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi>bh</mi>
+          <mn>2</mn>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>f</mi>
+          <mn>2</mn>
+          <mi>B</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>so</mi>
+          <mi>ln</mi>
+          <mn>,2</mn>
+        </mrow>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo></mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 29-6</mtext>
+</math>

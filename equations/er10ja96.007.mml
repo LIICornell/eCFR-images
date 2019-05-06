@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>0.1</mn>
+      <mrow>
+        <mo>(</mo>
+        <mi>W</mi>
+        <mo>)</mo>
+      </mrow>
+      <mi>B</mi>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>As</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>Hc</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>&#8805;</mo>
+  <mi>X</mi>
+</math>

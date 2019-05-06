@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>G</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>100</mn>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mn>1053.3</mn>
+          <mo>)</mo>
+        </mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>C</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>C</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

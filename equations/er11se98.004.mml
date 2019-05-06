@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>u</mi>
+      <mi>s</mi>
+    </msub>
+    <mi>A</mi>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Equation 3</mtext>
+</math>

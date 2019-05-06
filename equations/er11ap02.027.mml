@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mspace width=".2em"/>
+  <mi>LOI</mi>
+  <mo>=</mo>
+  <mrow>
+    <mn>100</mn>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>A</mi>
+        <mo>&#8722;</mo>
+        <mi>B</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>A</mi>
+      <mo>&#8722;</mo>
+      <mi>T</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

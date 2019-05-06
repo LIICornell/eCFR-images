@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>Avg</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>co</mi>
+        <mtext> stack</mtext>
+      </mrow>
+    </msub>
+    <mtext></mtext>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>F</mi>
+        <mrow>
+          <mi>C</mi>
+          <mn>02</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

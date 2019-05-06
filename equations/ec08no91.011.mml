@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#956;g</mi>
+  <mspace width=".2em"/>
+  <mi>S</mi>
+  <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>TCM</mi>
+          <mo>/</mo>
+          <mi>SO</mi>
+          <mn>2</mn>
+        </mrow>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>C</mi>
+        <mrow>
+          <mi>TCM</mi>
+          <mo>/</mo>
+          <mi>SO</mi>
+          <mn>2</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <mi>D</mi>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(11)</mtext>
+</math>

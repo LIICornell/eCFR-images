@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>&#x2223;</mo>
+    <mrow>
+      <msub>
+        <mi>SB</mi>
+        <mi>final</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>SB</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#x2223;</mo>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 7E-4</mtext>
+</math>

@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mn>8</mn>
+          <mo>/</mo>
+          <mn>03</mn>
+          <mo>/</mo>
+          <mn>1990</mn>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mn>6</mn>
+          <mo>/</mo>
+          <mn>23</mn>
+          <mo>/</mo>
+          <mn>1986</mn>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mrow>
+      <mn>2</mn>
+      <mo>&#8722;</mo>
+      <mn>20</mn>
+      <mspace width="2em"/>
+      <mn>4</mn>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>E</mi>
+      <mi>a</mi>
+    </msub>
+    <mi>P</mi>
+  </mfrac>
+</math>

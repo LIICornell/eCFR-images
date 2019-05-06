@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#956;g</mi>
+    <mtext> A/g creatinine</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>&#956;g</mi>
+        <mtext> A/L (experimental)</mtext>
+      </mrow>
+      <mtext>g/L creatinine</mtext>
+    </mfrac>
+  </mrow>
+</math>

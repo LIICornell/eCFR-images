@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Reduced viscosity in terms</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>of deciliters per gram</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>t</mi>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mi>t</mi>
+        <mi>o</mi>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mi>t</mi>
+        <mi>o</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>c</mi>
+    </mrow>
+  </mfrac>
+</math>

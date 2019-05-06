@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Q</mi>
+  <mo>=</mo>
+  <mn>12.4</mn>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mi>F</mi>
+      <msup>
+        <mi>A</mi>
+        <mn>0.82</mn>
+      </msup>
+    </mrow>
+    <mrow>
+      <mi>L</mi>
+      <mi>C</mi>
+    </mrow>
+  </mfrac>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <mi>Z</mi>
+        <mi>T</mi>
+      </mrow>
+      <mi>M</mi>
+    </mfrac>
+  </msqrt>
+</math>

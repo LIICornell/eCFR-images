@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mi>X</mi>
+      <mrow>
+        <mo>$</mo>
+        <mn>75</mn>
+        <mo>/</mo>
+        <mi>hr</mi>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>CPI</mi>
+        <mo>_</mo>
+        <mi>New</mi>
+      </mrow>
+      <mrow>
+        <mi>CPI</mi>
+        <mo>_</mo>
+        <mn>1981</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 3</mtext>
+  <mspace width="4em"/>
+  <msub>
+    <mrow>
+      <mi>PIR</mi>
+      <mo>=</mo>
+      <mtext>Mean &#177; </mtext>
+      <mi>HR</mi>
+    </mrow>
+    <mi>PIR</mi>
+  </msub>
+</math>

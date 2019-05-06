@@ -1,0 +1,71 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Aggregate third party debt of</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>related U.S. shareholder </mtext>
+              <mrow>
+                <mo>&#8722;</mo>
+                <mi>X</mi>
+              </mrow>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mrow>
+          <mtext>U.S. shareholder assets </mtext>
+          <mo>&#8722;</mo>
+          <mi>X</mi>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+    </mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Applicable percentage</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>for year </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>0</mn>
+              <mo>.</mo>
+              <mn>8</mn>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Aggregate third party debt</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mtext>of related CFC's </mtext>
+              <mo>+</mo>
+              <mi>X</mi>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext>Related CFC assets</mtext>
+    </mfrac>
+  </mrow>
+</math>

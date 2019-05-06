@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>d</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>AL</mi>
+        <mo>&#215;</mo>
+        <mi>D</mi>
+      </mrow>
+      <mi>PL</mi>
+    </mfrac>
+  </mrow>
+</math>

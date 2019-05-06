@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Post-1986 FOGEI taxes as determined under the principles
+          of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>section 902(c)(2) that are allocable to that separate
+          category</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Post-1986 foreign income taxes as determined under the
+          principles of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>section 902(c)(2) that are allocable to that separate
+          category.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

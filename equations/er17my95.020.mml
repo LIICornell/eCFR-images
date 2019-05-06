@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>c</mi>
+    </msub>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>GCV</mi>
+      <mi>c</mi>
+    </msub>
+    <mn>500</mn>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>(Eq. F-21)</mtext>
+</math>

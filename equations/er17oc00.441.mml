@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>bh</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>a</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>F</mi>
+    <mi>a</mi>
+  </msub>
+  <msub>
+    <mi>V</mi>
+    <mi>a</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 29-3</mtext>
+</math>

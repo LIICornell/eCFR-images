@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtext>full month's benefits</mtext>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext>number of days in month</mtext>
+            <mo>+</mo>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mtext>date of application</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mtext>number of days in month</mtext>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mtext>allotment</mtext>
+  </mrow>
+</math>

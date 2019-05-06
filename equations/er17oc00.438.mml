@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>/</mo>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>N</mi>
+            <mi>T</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>d</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mn>510</mn>
+    </mrow>
+    <mn>100</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 28A-6</mtext>
+</math>

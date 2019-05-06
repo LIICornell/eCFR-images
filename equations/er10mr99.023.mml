@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>b</mi>
+          <mo>&#8722;</mo>
+          <mi>a</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>13.4</mn>
+    </mrow>
+    <mi>W</mi>
+  </mfrac>
+  <mo>=</mo>
+  <mo>%</mo>
+  <mspace width=".2em"/>
+  <mi>DMDC</mi>
+</math>

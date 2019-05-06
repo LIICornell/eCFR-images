@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>y</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>10.60</mn>
+        <mo>+</mo>
+        <mn>11.91</mn>
+        <mo>+</mo>
+        <mn>11.09</mn>
+      </mrow>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>

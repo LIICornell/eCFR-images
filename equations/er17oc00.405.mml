@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>kA</mi>
+  <mo>+</mo>
+  <mi>b</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 25E-1</mtext>
+</math>

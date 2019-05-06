@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Eff</mi>
+    <mrow>
+      <mi>NO</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>C</mi>
+        <mi>Dir</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>v</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+    <mspace width="5em"/>
+    <mtext>Eq. 7E-7</mtext>
+  </mrow>
+</math>

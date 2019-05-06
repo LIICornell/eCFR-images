@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Terrain Rise (m)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Shortest Stack</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Height (m)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mo>=</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>%</mo>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mfrac>
+          <mtext>member income</mtext>
+          <mtext>total income</mtext>
+        </mfrac>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mn>85</mn>
+            <mi>x</mi>
+          </mrow>
+          <mrow>
+            <mrow>
+              <mn>85</mn>
+              <mi>x</mi>
+            </mrow>
+            <mo>+</mo>
+            <mrow>
+              <mn>15</mn>
+              <mi>x</mi>
+            </mrow>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>=</mo>
+      <mfrac>
+        <mn>85</mn>
+        <mn>100</mn>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>85</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+</math>

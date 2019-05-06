@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Basis in acquired</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation's stock</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Basis in acquired corporation's</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>stock plus un-secured liabilities</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>of acquired corporation</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Amount allocated to basis in</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>authority under section</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mn>334</mn>
+          <mo>(</mo>
+          <mi>b</mi>
+          <mo>)</mo>
+          <mo>(</mo>
+          <mn>2</mn>
+          <mo>)</mo>
+          <mtext> minus acquired</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation's basis in authority</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

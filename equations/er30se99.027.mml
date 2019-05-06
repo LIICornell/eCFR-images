@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Pc</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>Pm</mi>
+    <mo>&#215;</mo>
+    <mn>14</mn>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>E</mi>
+      <mo>&#8722;</mo>
+      <mi>Y</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

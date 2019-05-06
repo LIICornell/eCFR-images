@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>+</mo>
+  <mfrac>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>100</mn>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>V</mi>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>d</mi>
+        </msub>
+      </mfrac>
+      <mo>&#8722;</mo>
+      <mn>120</mn>
+    </mrow>
+    <mn>200</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 14-2</mtext>
+</math>

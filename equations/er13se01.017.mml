@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>MIR</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>INDEX</mi>
+      <mrow>
+        <mi>m</mi>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mi>LB</mi>
+      </mrow>
+    </msub>
+    <mo>+</mo>
+    <mi>MARGIN</mi>
+    <mo>,</mo>
+  </mrow>
+</math>

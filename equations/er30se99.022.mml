@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mn>14</mn>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>E</mi>
+      <mo>&#8722;</mo>
+      <mi>Y</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

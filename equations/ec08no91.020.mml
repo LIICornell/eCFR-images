@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Re</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>4</mn>
+      <mi>&#961;</mi>
+      <msub>
+        <mi>Q</mi>
+        <mi>cyc</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>d</mi>
+        <mi>cyc</mi>
+      </msub>
+      <msub>
+        <mi>&#960;&#956;</mi>
+        <mi>cyc</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

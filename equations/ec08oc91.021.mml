@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>10,000</mn>
+            <mtext> (adjusted basis</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>of integrated property)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mn>16,000</mn>
+        <mn>40,000</mn>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>,</mo>
+</math>

@@ -1,0 +1,58 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext style="text-align:right;">MINUS</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext></mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>Sum of U.S. flag carrier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>segment mileage,</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>traveled</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Sum of all segment</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>mileage, traveled</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Through fare</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>payed</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

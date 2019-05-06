@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>TN</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <msub>
+      <mi>E</mi>
+      <mi>j</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>P</mi>
+    <mi>j</mi>
+  </msub>
+  <mo>/</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <msub>
+      <mi>P</mi>
+      <mi>j</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

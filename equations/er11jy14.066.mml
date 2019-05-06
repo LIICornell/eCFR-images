@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mtext>input rating of untested basic model </mtext>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mtext>input rating of tested basic model</mtext>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mtext>input rating of tested basic model</mtext>
+  </mfrac>
+  <mo>&#8804;</mo>
+  <mn>10</mn>
+  <mo>%</mo>
+  <mo>.</mo>
+</math>

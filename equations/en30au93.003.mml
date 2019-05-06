@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Refrigerant Recoverable </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mi>TSCO</mi>
+      <mo>&#8722;</mo>
+      <mi>TSO</mi>
+    </mrow>
+  </mrow>
+</math>

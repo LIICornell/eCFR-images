@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mo>.</mo>
+            <mn>5</mn>
+            <mo>&#215;</mo>
+            <mi>CA</mi>
+          </mrow>
+          <mi>Tot. CA</mi>
+        </mfrac>
+        <mo>+</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>.</mo>
+              <mn>5</mn>
+            </mrow>
+            <mo>&#215;</mo>
+            <mi>AAC</mi>
+          </mrow>
+          <mi>Tot. AAC</mi>
+        </mfrac>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>1000</mn>
+  </mrow>
+</math>

@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Correction factor</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>(oxygen)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mfrac>
+      <mn>14</mn>
+      <mrow>
+        <mo>(</mo>
+        <mn>2</mn>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <mi>Y</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. (8)</mtext>
+</math>

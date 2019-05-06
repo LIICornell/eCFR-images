@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Dividend to second-tier corporation less portion of</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>&#247;idend from earnings included in domestic</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>corporation's gross income under section 951</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>with respect to third-tier corporation</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Earnings and profits of third-tier corporation</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Tax paid by</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>third-tier corporation</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

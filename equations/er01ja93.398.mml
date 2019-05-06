@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Grams of residue</mtext>
+      <mrow>
+        <mtext>Grams of sample </mtext>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mtext>Percent extractable with </mtext>
+    <mi>n</mi>
+    <mtext>-hexane</mtext>
+  </mrow>
+</math>

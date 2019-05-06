@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>a</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>a</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

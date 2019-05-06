@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>7,000</mn>
+          <mspace width=".2em"/>
+          <mtext>(adjusted basis</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of aggregated property)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>15,000</mn>
+      </mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>25,000</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>(FMV of portion transferred)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(FMV of aggregated property)</mtext>
+        <mtext></mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

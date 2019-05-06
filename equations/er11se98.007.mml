@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>r</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>e</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>e</mi>
+      <mi>ep</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>+</mo>
+    <msub>
+      <mi>E</mi>
+      <mi>b</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Equation 6</mtext>
+</math>

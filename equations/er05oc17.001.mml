@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>E</mi>
+    </munderover>
+    <mspace width="2em"/>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>x</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <msub>
+          <mi>N</mi>
+          <mi>t</mi>
+        </msub>
+      </munderover>
+      <msub>
+        <mi>q</mi>
+        <mi>xt</mi>
+      </msub>
+      <msubsup>
+        <mi>b</mi>
+        <mi>xt</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+  </mrow>
+</math>

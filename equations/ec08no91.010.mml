@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>A</mi>
+    <mi>obs</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <msub>
+    <mi>A</mi>
+    <mi>c</mi>
+  </msub>
+  <mspace width="5em"/>
+  <mtext>(10)</mtext>
+</math>

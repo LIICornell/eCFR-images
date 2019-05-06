@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Cost per mile of diesel fuel</mtext>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mtext>Price of diesel fuel per gallon, excluding taxes</mtext>
+      <mtext>3.3 miles per gallon</mtext>
+    </mfrac>
+  </mrow>
+</math>

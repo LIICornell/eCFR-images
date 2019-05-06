@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>A</mi>
+      <mi>s</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+</math>

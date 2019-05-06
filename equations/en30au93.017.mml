@@ -1,0 +1,68 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mtext>Incremental fuel cost </mtext>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>fuel economy</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>% reduction</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>)</mo>
+            </mrow>
+            <mo>&#215;</mo>
+            <mrow>
+              <mo>(</mo>
+              <mn>129,104</mn>
+              <mtext> miles</mtext>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mfrac>
+            <mrow>
+              <mn>3.3</mn>
+              <mspace width=".2em"/>
+              <mtext>miles</mtext>
+            </mrow>
+            <mtext>gallon</mtext>
+          </mfrac>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <mo>$</mo>
+            <mn>0.72</mn>
+          </mrow>
+          <mtext>gallon</mtext>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>CPI</mi>
+        <mi>R</mi>
+      </msub>
+      <msub>
+        <mi>CPI</mi>
+        <mn>1992</mn>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

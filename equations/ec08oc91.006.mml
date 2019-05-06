@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>100</mn>
+          <mi>x</mi>
+          <mspace width=".2em"/>
+          <mtext>taxable income</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>from the property</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>200</mn>
+          <mi>x</mi>
+          <mspace width=".2em"/>
+          <mtext>gross income from 1976 oil from the property</mtext>
+        </mrow>
+        <mrow>
+          <mo>$</mo>
+          <mn>400</mn>
+          <mi>x</mi>
+          <mspace width=".2em"/>
+          <mtext>total gross income from the property</mtext>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+</math>

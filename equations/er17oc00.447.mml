@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Hg</mi>
+    <mi>t</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mrow>
+        <mi>Hg</mi>
+      </mrow>
+      <mi>fh</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>Hg</mi>
+      <mi>fhb</mi>
+    </msub>
+  </mrow>
+  <mo>)</mo>
+  <mo>+</mo>
+  <mo>(</mo>
+  <msub>
+    <mrow>
+      <mi>Hg</mi>
+    </mrow>
+    <mi>bh</mi>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>Hg</mi>
+    <mrow>
+      <mi>bhb</mi>
+      <mn></mn>
+    </mrow>
+  </msub>
+  <mo>)</mo>
+   <mspace width="4em"/>
+  <mtext>Eq. 29-9</mtext>
+</math>

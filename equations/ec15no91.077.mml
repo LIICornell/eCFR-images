@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>rvc</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>H</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mi>f</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mn>1,000</mn>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mi>TS</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq.107A-3</mtext>
+</math>

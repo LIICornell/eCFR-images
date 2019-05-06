@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mrow>
+    <mtext>2,000</mtext>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mtext>2,000,000</mtext>
+      <mtext>10,000,000</mtext>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+</math>

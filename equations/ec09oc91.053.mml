@@ -1,0 +1,85 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount included in domestic corporation's</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>gross income under section 951 with</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>respect to second-tier corporation</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Earnings and profits of second-tier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation not included in domestic</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation's gross income under section</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>951 with respect to fourth- or lower-tier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporations</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable style="margin-top: 20px;">
+      <mtr>
+        <mtd>
+          <mtext>Tax paid by second-tier</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation on earnings not</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>included in domestic</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation's gross income</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>with respect to third- or</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>lower-tier corporations</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

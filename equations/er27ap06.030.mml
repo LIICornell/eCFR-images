@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#951;</mi>
+  <mo>=</mo>
+  <mn>100</mn>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>P</mi>
+        <mi>os</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>os</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>ts</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+    <mspace width="4em"/>
+    <mtext>(5-3)</mtext>
+  </mrow>
+</math>

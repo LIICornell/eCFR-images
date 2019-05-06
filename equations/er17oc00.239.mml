@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>N</mi>
+      <mi>A</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>2.039</mn>
+        <mspace width=".2em"/>
+        <mi>W</mi>
+      </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>A</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 11-2</mtext>
+</math>

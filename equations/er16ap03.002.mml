@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>MP</mi>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mi>ER</mi>
+      <mi>P</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

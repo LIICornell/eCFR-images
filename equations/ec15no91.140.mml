@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>r</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mn>2.25</mn>
+          <mi>KHt</mi>
+        </mrow>
+        <msup>
+          <mrow>
+            <mi>S</mi>
+            <mn>10</mn>
+          </mrow>
+          <mi>x</mi>
+        </msup>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mfrac bevelled="true">
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+  </msup>
+</math>

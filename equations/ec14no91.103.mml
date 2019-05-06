@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Months of service</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Employee's creditable non-tier I compensation</mtext>
+      <mrow>
+        <mtext>Maximum annual creditable non-tier I compensation </mtext>
+        <mrow>
+          <mo>&#247;</mo>
+          <mn>12</mn>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

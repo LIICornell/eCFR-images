@@ -1,0 +1,96 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Portion of &#247;idend to first-tier corporation which
+              is</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>from earnings included in domestic corporation's</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>gross income under section 951 with respect to</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>third- or lower-tier corporations</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Earnings and profits of second-tier corporation</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>included in domestic corporation's gross income</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>under section 951 with respect to third- or lower-</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>tier corporations</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Tax paid by second-tier</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation on &#247;idend</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>received by second-tier</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation from earn-</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>ings included in domestic</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>corporation's gross income</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>with respect to third- or</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>lower-tier corporations</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

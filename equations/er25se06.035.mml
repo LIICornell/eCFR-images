@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Taxable sale price</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>sale price including tax</mtext>
+      <mrow>
+        <mn>100</mn>
+        <mo>+</mo>
+        <mtext>rate of tax</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

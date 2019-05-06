@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>SI</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <mo>min</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>SIA</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>,</mo>
+    <msub>
+      <mi>PMT</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+</math>

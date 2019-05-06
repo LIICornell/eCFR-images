@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Inherent</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>viscosity</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mtext>natural logarithm of </mtext>
+        <msub>
+          <mi>N</mi>
+          <mi>r</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>c</mi>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

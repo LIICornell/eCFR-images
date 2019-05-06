@@ -1,0 +1,83 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Foreign taxes deemed paid</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>by domestic shareholder or</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>upper-tier corporation with</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>respect to a separate category</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Post-1986 foreign income</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>taxes of first-tier or lower-tier</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation allocated and apportioned</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>to the separate category under &#167; 1.904-6</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Dividend amount attributable</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>to the separate category</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Post-1986 undistributed earnings</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>of first-tier or lower-tier</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>corporation in the separate category</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

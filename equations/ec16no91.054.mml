@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <mi>G</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>oc</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>dc</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>sn</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Equation 16</mtext>
+</math>

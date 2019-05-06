@@ -1,0 +1,8 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Corrected mg/sample</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Total weight</mtext>
+    <mtext>D.E.</mtext>
+  </mfrac>
+</math>

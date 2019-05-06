@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>AFSIF</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>DRF</mi>
+      <mi>m</mi>
+    </msub>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mi>ISCOST</mi>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>DRF</mi>
+          <mi>m</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

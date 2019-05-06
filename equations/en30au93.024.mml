@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mtext>Life Cycle Cost Ceiling</mtext>
+        <mi>R</mi>
+      </msub>
+      <mo>=</mo>
+      <mrow>
+        <mo>$</mo>
+        <mn>2,000</mn>
+      </mrow>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>CPI</mi>
+        <mi>R</mi>
+      </msub>
+      <mo>/</mo>
+      <msub>
+        <mi>CPI</mi>
+        <mn>1992</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

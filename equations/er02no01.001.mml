@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mspace width=".2em"/>
+  <mi>Eff</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>W</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>W</mi>
+        <mi>i</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

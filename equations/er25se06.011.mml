@@ -1,0 +1,8 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Concentration outside respirator</mtext>
+    <mtext>Concentration inside facepiece</mtext>
+  </mfrac>
+</math>

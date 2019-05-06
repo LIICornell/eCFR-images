@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>100</mn>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtext>Total Single Yarns Per Square Centimeter</mtext>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mtext>Number of Grams Per Square Meter</mtext>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

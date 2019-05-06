@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>TI</mi>
+      <mi>avg</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <mi>T</mi>
+          <mn>5</mn>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mi>T</mi>
+          <mn>6</mn>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mn>2</mn>
+  <mspace width=".2em"/>
+  <mtext>at the start of the test, &#176;F.</mtext>
+  <mspace width="8em"/>
+  <mtext>Eq. 1</mtext>
+</math>

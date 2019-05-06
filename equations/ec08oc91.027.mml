@@ -1,0 +1,64 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>30,000</mn>
+            <mtext> (FMV of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>portion of No.3 sold)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>80,000</mn>
+            <mtext> (FMV of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>of north half)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>16,000</mn>
+          <mspace width=".2em"/>
+          <mtext>(adjusted basis</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of north half)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+  <mo>=</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mo>$</mo>
+        <mtext>6,000 (adjusted basis of</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>portion of No. 3 sold)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#945;</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>4</mn>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>0.1506</mn>
+        <mo>&#8722;</mo>
+        <mn>0.0182</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>30.211</mn>
+</math>

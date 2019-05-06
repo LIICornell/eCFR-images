@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi>tc</mi>
+        </msub>
+        <mo>/</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>tc</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(3-5)</mtext>
+</math>

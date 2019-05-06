@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtext>Number of acceptable responses for the analyte</mtext>
+        <mtext>Total number of challenges for the analyte</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Analyte score for</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>the testing event</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext></mtext>
+  </mrow>
+</math>

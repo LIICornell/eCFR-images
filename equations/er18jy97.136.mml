@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext></mtext>
+  <msub>
+    <mi style="font-style: italic">CRM</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>i</mi>
+      <mi>j</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn></mn>
+  <mo>(</mo>
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">FinalWT</mi>
+      <mi>r</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi style="font-style: italic">InitWt</mi>
+      <mi>r</mi>
+    </msub>
+  </mrow>
+  <mo>)</mo>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mi>r</mi>
+      </msub>
+      <msub>
+        <mi>Q</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

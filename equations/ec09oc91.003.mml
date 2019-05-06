@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>10,000</mn>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mo>.</mo>
+            <mn>10</mn>
+            <msqrt>
+              <mn>099</mn>
+            </msqrt>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

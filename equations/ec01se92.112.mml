@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <msub>
+        <mi>e</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>&#x2013;</mo>
+    </mover>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#931;</mo>
+        <msub>
+          <mi>e</mi>
+          <mi>p</mi>
+        </msub>
+      </mrow>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Percent</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>monitor data</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>availability</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>=</mo>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Total unit operating hours</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>for which quality-assured data</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>were recorded during previous</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>8,760 unit operating hours</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mn>8,760</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 9)</mtext>
+</math>

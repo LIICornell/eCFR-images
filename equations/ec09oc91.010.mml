@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Export sales of E</mtext>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Total sales of products in SIC code (In this example,</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>U.S. Sales of A, B, C, and D + export sales of E)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Worldwide product</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>area research</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

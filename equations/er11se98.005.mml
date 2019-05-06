@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>ds</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>T</mi>
+        <mi>s</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>T</mi>
+            <mi>S</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>t</mi>
+            <mi>sr</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>(</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mi>H</mi>
+  <mo>)</mo>
+  <msub>
+    <mi>Q</mi>
+    <mi>s</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Equation 4</mtext>
+</math>

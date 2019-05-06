@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Cost per mile for alternative fuel</mtext>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mtext></mtext>
+        <mrow>
+          <mo>(</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Unit price of</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>alternative fuel,</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>excluding taxes</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mtext></mtext>
+        <mrow>
+          <mo>(</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Fuel economy of</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>alternatively</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>fueled engine</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

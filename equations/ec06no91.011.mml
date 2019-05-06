@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>&#x2223;</mo>
+    <mfrac>
+      <mover>
+        <mi>d</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>FS</mi>
+    </mfrac>
+    <mo>&#x2223;</mo>
+  </mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  <mspace width="5em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

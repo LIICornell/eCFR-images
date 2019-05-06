@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>iso</mi>
+      <mo>(</mo>
+      <mi>ij</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>mass of material collected with isokinetic sampler</mtext>
+    <mrow>
+      <mtext>sample flow rate </mtext>
+      <mo>&#215;</mo>
+      <mtext> sampling time</mtext>
+    </mrow>
+  </mfrac>
+</math>

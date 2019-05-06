@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>.</mo>
+  <mi>E</mi>
+  <mo>.</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Average weight recovered (mg)</mtext>
+    <mtext>weight added (mg)</mtext>
+  </mfrac>
+</math>

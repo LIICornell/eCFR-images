@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mn>0.11</mn>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mtext>Average of duplicate</mtext>
+              <mspace width=".2em"/>
+              <mi>ρ</mi>
+              <mtext>-methoxyphenol</mtext>
+            </mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>absorbance determinations according to</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>this paragraph (c)(8)(i) of this section</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Correction factor for ultraviolet</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>absorbers test.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>.</mtext>
+  </mrow>
+</math>

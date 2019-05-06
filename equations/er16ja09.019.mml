@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>t</mi>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <mi>a</mi>
+        <mn>2</mn>
+      </mfrac>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn>3.169</mn>
+  <mo>.</mo>
+</math>

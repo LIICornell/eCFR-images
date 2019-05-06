@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>AY</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mn>0</mn>
+      </msub>
+      <mo>+</mo>
+      <mi>m</mi>
+    </mrow>
+    <mn>12</mn>
+  </mfrac>
+</math>

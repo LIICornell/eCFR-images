@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>SP</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <mo style="font-style: italic">min</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>PMT</mi>
+      <mi>m</mi>
+    </msub>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <msub>
+          <mi>SIA</mi>
+          <mi>m</mi>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>UPB</mi>
+          <mrow>
+            <mi>m</mi>
+            <mo>&#8722;</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

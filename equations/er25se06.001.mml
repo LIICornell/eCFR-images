@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>mg</mi>
+  <mspace width=".2em"/>
+  <mi>sulfide</mi>
+  <mo>/</mo>
+  <mn>1</mn>
+  <mo>.</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>mg</mi>
+          <mo>.</mo>
+          <mspace width=".2em"/>
+          <mi>Ba</mi>
+          <msub>
+            <mi>SO</mi>
+            <mn>4</mn>
+          </msub>
+          <mtext> collected in Trap No. 2</mtext>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mn>137</mn>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mtext>volume in ml. of waste sample distilled</mtext>
+  </mfrac>
+  <mtext></mtext>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>0.28</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>L</mi>
+        <mi>sn</mi>
+      </msub>
+      <mo>+</mo>
+      <mn>0.1</mn>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>G</mi>
+        </mrow>
+        <mi>c</mi>
+      </msub>
+      <msub>
+        <mi>L</mi>
+        <mi>sc</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>L</mi>
+        <mi>ns</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>L</mi>
+        <mi>sc</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

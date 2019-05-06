@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>credit reduction amount</mtext>
+    <mtext>total freed-up credit</mtext>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>$</mo>
+      <mn>3,891</mn>
+    </mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>7,875</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mo>.</mo>
+  <mn>494</mn>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>APLR</mi>
+      <mo>=</mo>
+      <mi>C</mi>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mi>AWSAR</mi>
+      <mo>&#215;</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(1)</mtext>
+</math>

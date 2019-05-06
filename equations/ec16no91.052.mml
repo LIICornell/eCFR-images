@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>G</mi>
+    <mi>n</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>on</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>dn</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>sn</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Equation 14</mtext>
+</math>

@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>20.9</mn>
+        <mo>&#8722;</mo>
+        <mo>%</mo>
+        <msub>
+          <mi>O</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mrow>
+        <mo>%</mo>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 28A-1</mtext>
+</math>

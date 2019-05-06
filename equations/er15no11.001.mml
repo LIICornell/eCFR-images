@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CE</mi>
+      <mi>pb</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mi>pb</mi>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mi>pb</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>q</mi>
+    </msub>
+    <mo>=</mo>
+    <mi style="font-style: italic">int</mi>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>A</mi>
+          <mn>0</mn>
+        </msub>
+        <mn>3</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mi>q</mi>
+      <mo>,</mo>
+    </mrow>
+  </mrow>
+</math>

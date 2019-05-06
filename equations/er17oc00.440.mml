@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>fh</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>a</mi>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>F</mi>
+    <mi>d</mi>
+  </msub>
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>so</mi>
+      <mi>ln</mi>
+      <mo>,</mo>
+      <mn>1</mn>
+    </mrow>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 29-2</mtext>
+</math>

@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mtext>Mean Wet Sediment Weight </mtext>
+      <mrow>
+        <mo>(</mo>
+        <mi>g</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mtext>Mean Wet Sediment Volume </mtext>
+      <mrow>
+        <mo>(</mo>
+        <mi>mL</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mtext>Wet Sediment Density </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>g</mi>
+      <mo>/</mo>
+      <mi>mL</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 2]</mtext>
+</math>

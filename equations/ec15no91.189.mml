@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msup>
+    <mtext>Result of ACA</mtext>
+      <mo>&#174;</mo>
+    </msup>
+    <mtext> Analyzer</mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mtext>Slope (Comparative method result) </mtext>
+      <mo>+</mo>
+      <mtext>intercept</mtext>
+    </mrow>
+  </mrow>
+</math>

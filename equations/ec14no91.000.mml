@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mtext>Transition range</mtext>
+          <mo>=</mo>
+          <mn>1.0</mn>
+        </mrow>
+        <mo>&#247;</mo>
+        <mfrac>
+          <mrow>
+            <mtext>Maximum </mtext>
+            <mn>20</mn>
+            <mo>%</mo>
+          </mrow>
+          <mn>100</mn>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount available</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>for allocation</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>this year</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount available</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>for allocation</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>previous year</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mtext>State previous year BFA</mtext>
+  </mrow>
+</math>

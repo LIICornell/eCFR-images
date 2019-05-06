@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>DCR</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>DLC</mi>
+        <mo>+</mo>
+        <mi>DMC</mi>
+        <mo>+</mo>
+        <mi>DO</mi>
+      </mrow>
+      <mrow>
+        <mi>TDLC</mi>
+        <mo>+</mo>
+        <mi>TDMC</mi>
+        <mo>+</mo>
+        <mi>TDO</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

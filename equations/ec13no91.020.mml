@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <msqrt>
+    <mrow>
+      <mn>40,000</mn>
+      <mo>+</mo>
+      <msup>
+        <mi>d</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </msqrt>
+  <mi>km</mi>
+  <mspace width="4em"/>
+  <mtext>(Eq.2)</mtext>
+</math>

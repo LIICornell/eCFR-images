@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <msub>
+      <mi>D</mi>
+      <mi>cr</mi>
+    </msub>
+    <mo>=</mo>
+      <mrow>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mi>ml</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>C</mi>
+              <mi>s</mi>
+            </msub>
+          </mrow>
+          <mo>&#215;</mo>
+          <mi>F</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mi>D</mi>
+      </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 306-3</mtext>
+</math>

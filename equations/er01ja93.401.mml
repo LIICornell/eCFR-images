@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Grams of corrected residue</mtext>
+      <mtext>Grams of sample</mtext>
+    </mfrac>
+    <mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mn>1,200</mn>
+            <mtext> milliliters</mtext>
+          </mrow>
+          <mrow>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Volume of filtrate</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>A in milliliters</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mtext></mtext>
+          </mrow>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Total extractives expressed as</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>percent by weight of sample.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext></mtext>
+  </mrow>
+</math>

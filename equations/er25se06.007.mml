@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mn>1</mn>
+      <mo>.</mo>
+      <mi>mg</mi>
+      <mo>/</mo>
+      <mn>1</mn>
+      <mo>.</mo>
+      <mi>sulfide</mi>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mi>A</mi>
+          <mo>&#215;</mo>
+          <mi>B</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mn>16,000</mn>
+      </mrow>
+      <mtext>vol. in m1. sample titrated</mtext>
+    </mfrac>
+  </mrow>
+</math>

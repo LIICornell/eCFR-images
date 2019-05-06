@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Current year's annual</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>operating revenues</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mn>1986</mn>
+        <mtext> average </mtext>
+        <mi>PPI</mi>
+      </mrow>
+      <mrow>
+        <mtext>Current year's average </mtext>
+        <mi>PPI</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Adjusted annual</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>operating revenues</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

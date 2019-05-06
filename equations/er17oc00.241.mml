@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>m</mi>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>V</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <mi>Y</mi>
+  <mspace width=".2em"/>
+  <mfrac>
+    <msub>
+      <mi>T</mi>
+      <mi>std</mi>
+    </msub>
+    <msub>
+      <mi>T</mi>
+      <mi>m</mi>
+    </msub>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mfrac>
+    <msub>
+      <mi>P</mi>
+      <mi>bar</mi>
+    </msub>
+    <msub>
+      <mi>P</mi>
+      <mi>std</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 11-4</mtext>
+</math>

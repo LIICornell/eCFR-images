@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mi>K</mi>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>[</mo>
+        <mtext>total formaldehyde, mg</mtext>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>[</mo>
+      <mi>std</mi>
+      <mo>]</mo>
+    </mrow>
+  </mfrac>
+</math>

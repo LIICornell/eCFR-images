@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <mn>30</mn>
+  <mfrac>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mi>t</mi>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>s</mi>
+            <mo>+</mo>
+            <mfrac bevelled="true" style="linethickness: none">
+              <mn>1</mn>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mi>r</mi>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mi>t</mi>
+  </mfrac>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#956;</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>V</mi>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>cos</mi>
+        <mspace width=".2em"/>
+        <mo>&#x2061;</mo>
+        <mi>a</mi>
+      </mrow>
+    </mrow>
+    <mi>&#937; R</mi>
+  </mfrac>
+</math>

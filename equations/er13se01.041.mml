@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>PS</mi>
+        <mi>q</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>RS</mi>
+        <mi>q</mi>
+      </msub>
+      <mtext> if </mtext>
+      <mi>PROD</mi>
+    </mrow>
+    <mo>=</mo>
+    <mi>ARM</mi>
+  </mrow>
+</math>

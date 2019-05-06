@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>TC</mi>
+    <mo>=</mo>
+    <mrow>
+      <mi>WCO</mi>
+      <mo>+</mo>
+      <msub>
+        <mi>WCO</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>+</mo>
+      <mfrac>
+        <mi>WHC</mi>
+        <msup>
+          <mn>10</mn>
+          <mn>4</mn>
+        </msup>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

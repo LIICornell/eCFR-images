@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>RSC</mi>
+      <mo>&#215;</mo>
+      <mn>86,400</mn>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mi>DF</mi>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mi>CE</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>SF</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. (5)</mtext>
+</math>

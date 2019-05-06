@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(1) </mtext>
+  <msub>
+    <mover>
+      <mi>P</mi>
+      <mo>=</mo>
+    </mover>
+    <mi>loss</mi>
+  </msub>
+  <mtext> is the mean power loss. of all the tests, at each operating
+  condition.</mtext>
+</math>

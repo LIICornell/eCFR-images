@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DIST</mi>
+  <mrow>
+    <mo>=</mo>
+    <msqrt>
+      <mrow>
+        <msup>
+          <mi>NS</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>EW</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+    </msqrt>
+  </mrow>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mi>R</mi>
+          <mo>&#8722;</mo>
+          <mi>A</mi>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mi>S</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="7em"/>
+  <mtext>(Eq. A-6)</mtext>
+</math>

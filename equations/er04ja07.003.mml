@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 2</mtext>
+  <mspace width="4em"/>
+  <mrow>
+    <msub>
+      <mi>HR</mi>
+      <mi>PIR</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mi>s</mi>
+      <mo>&#215;</mo>
+      <mi>C</mi>
+    </mrow>
+  </mrow>
+</math>

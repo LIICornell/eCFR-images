@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>K</mi>
+      <mi>3</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>t</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>m(std)</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 12-2</mtext>
+</math>

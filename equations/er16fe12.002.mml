@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>ERsg</mi>
+        <mo>&#215;</mo>
+        <mi>Hcc</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mi>Occ</mi>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq.4)</mtext>
+</math>

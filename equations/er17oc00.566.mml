@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>A</mi>
+              <mi>u</mi>
+            </msub>
+            <mrow>
+              <mo>&#8722;</mo>
+              <mi>b</mi>
+            </mrow>
+          </mrow>
+          <mi>S</mi>
+        </mfrac>
+        <mrow>
+          <mrow>
+            <mo>&#215;</mo>
+            <mfrac>
+              <mn>1</mn>
+              <mi>RE</mi>
+            </mfrac>
+          </mrow>
+          <mo>&#215;</mo>
+          <mfrac>
+            <msub>
+              <mi>F</mi>
+              <mi>p</mi>
+            </msub>
+            <msub>
+              <mi>F</mi>
+              <mi>s</mi>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 305-4</mtext>
+</math>

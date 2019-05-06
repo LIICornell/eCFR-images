@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mi>w</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>P</mi>
+        <mi>w</mi>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mi>bar</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 10B-1</mtext>
+</math>

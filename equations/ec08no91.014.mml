@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Coast Down Time</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>0.0508</mn>
+        <mo>&#215;</mo>
+        <mi>W</mi>
+      </mrow>
+      <mi>HP</mi>
+    </mfrac>
+  </mrow>
+</math>

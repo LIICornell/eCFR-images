@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>C Rate </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mfrac>
+            <mtext>employer-provided accrual</mtext>
+            <mrow>
+              <mtext>average annual compensation</mtext>
+              <mo>&#8722;</mo>
+              <mfrac>
+                <mn>1</mn>
+                <mn>2</mn>
+              </mfrac>
+              <mtext> covered compensation</mtext>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>D Rate </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mtext>employer-provided accrual </mtext>
+              <mo>+</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mtext>permitted disparity factor </mtext>
+                  <mo>&#215;</mo>
+                  <mtext> covered compensation</mtext>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mtext>average annual compensation</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

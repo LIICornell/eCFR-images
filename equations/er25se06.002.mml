@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>mg</mi>
+  <mspace width=".2em"/>
+  <mi>sulfide</mi>
+  <mo>/</mo>
+  <mn>1</mn>
+  <mo>.</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+        <mi>A</mi>
+        <mo>&#215;</mo>
+        <mi>B</mi>
+      <mo>&#215;</mo>
+      <mn>333</mn>
+    </mrow>
+    <mtext>C</mtext>
+  </mfrac>
+</math>

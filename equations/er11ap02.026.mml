@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>HCHO</mi>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>mL</mi>
+          <mspace width=".2em"/>
+          <mn>0.1</mn>
+          <mi>N</mi>
+          <mspace width=".2em"/>
+          <mi>HCI</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>N</mi>
+          <mspace width=".2em"/>
+          <mi>Acid</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mn>3.003</mn>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mtext>Weight of Formaldehyde Standard Solution</mtext>
+  </mfrac>
+</math>

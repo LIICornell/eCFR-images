@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Milligrams of aqueous extracted</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>copolymer per 100-gram sample</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mrow>
+            <mi>T</mi>
+            <mo>&#215;</mo>
+            <mi>F</mi>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>64.3</mn>
+        </mrow>
+        <mtext>Weight of sample in grams</mtext>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

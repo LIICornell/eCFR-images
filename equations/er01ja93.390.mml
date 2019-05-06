@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Milligrams extractives</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>per square inch</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mi>e</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mi>F</mi>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

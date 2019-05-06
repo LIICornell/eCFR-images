@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Freed-up foreign tax</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>credits from 1984</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mtext>Credit reduction amount</mtext>
+        <mtext>Total freed-up credit</mtext>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Credit reduction allocated to</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>freed-up foreign tax credits</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>carried forward from 1984</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

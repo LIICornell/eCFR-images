@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RE</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>THCi</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>M</mi>
+          <mi>THCo</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>/</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>THCi</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mn>100</mn>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>50,000</mn>
+        <mtext> MTHM</mtext>
+      </mrow>
+      <mrow>
+        <mn>1,000</mn>
+        <mtext> MTHM</mtext>
+      </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mrow>
+        <mn>5,000,000</mn>
+        <mtext> curiesTRU</mtext>
+      </mrow>
+      <mrow>
+        <mn>1,000,000</mn>
+        <mtext> curiesTRU</mtext>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mn>55</mn>
+  </mrow>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(1)</mtext>
+  <mspace width="2em"/>
+  <mrow>
+    <mtext>Months of service</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>25,000</mn>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mo>$</mo>
+            <mn>29,700</mn>
+          </mrow>
+          <mo>&#247;</mo>
+          <mn>12</mn>
+        </mrow>
+      </mfrac>
+      <mtext> or $25,000 </mtext>
+      <mo>&#247;</mo>
+      <mrow>
+        <mo>$</mo>
+        <mn>2,475</mn>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

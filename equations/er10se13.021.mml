@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>M</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>H</mi>
+      <mi>N</mi>
+    </msub>
+  </mrow>
+  <msqrt>
+    <mfrac>
+      <msub>
+        <mi>T</mi>
+        <mi>M</mi>
+      </msub>
+      <msub>
+        <mi>T</mi>
+        <mi>N</mi>
+      </msub>
+    </mfrac>
+  </msqrt>
+  <mo>,</mo>
+  <mtext> where</mtext>
+</math>

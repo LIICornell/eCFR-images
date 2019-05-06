@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>ch</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>28.998</mn>
+    <mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>vc</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 25D-2</mtext>
+</math>

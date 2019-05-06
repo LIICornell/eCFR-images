@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Ratio of Methane Response</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>FID response in ppmC</mtext>
+      <mtext>ppm methane in cylinder</mtext>
+    </mfrac>
+  </mrow>
+</math>

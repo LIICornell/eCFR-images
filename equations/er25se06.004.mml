@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>$250,000 payment (i.e., 250 of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>corporation Y's registered bonds</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>each with a principal amount and</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>fair market value of </mtext>
+            <mrow>
+              <mo>$</mo>
+              <mn>1,000</mn>
+            </mrow>
+            <mo>)</mo>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>$1 million selling price (i.e.,</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>250,000</mn>
+            <mtext> of corporation Y's</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>registered bonds plus</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>promissory note of </mtext>
+            <mrow>
+              <mo>$</mo>
+              <mn>750,000</mn>
+              <mo>)</mo>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>=</mo>
+    <mn>25</mn>
+    <mtext> percent</mtext>
+  </mrow>
+</math>

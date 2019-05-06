@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PR</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>ER</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>ER</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>ER</mi>
+        <mi>i</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

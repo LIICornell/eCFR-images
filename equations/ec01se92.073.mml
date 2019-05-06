@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Weighted Capacity Factor</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mtext>Sum of actual generation of all coal </mtext>
+        <mo>&#8722;</mo>
+        <mtext>fired units in the utility system</mtext>
+      </mrow>
+      <mrow>
+        <mtext>Sum of all coal generators' nameplate capacity </mtext>
+        <mo>&#215;</mo>
+        <mn>8760</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

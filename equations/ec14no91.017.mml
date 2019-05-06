@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>RP</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>reciprocal of 50 percent</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>endpoint dilution of Unknown</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>recipricol of 50 percent</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>endpoint dilution of Standard</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+  </mrow>
+</math>

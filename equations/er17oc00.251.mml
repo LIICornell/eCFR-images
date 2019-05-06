@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+          <mrow>
+            <mi>K</mi>
+            <msub>
+              <mi>V</mi>
+              <mi>t</mi>
+            </msub>
+            <msub>
+              <mi>V</mi>
+              <mi>d</mi>
+            </msub>
+          </mrow>
+        <mi>M</mi>
+      </mrow>
+      <mrow>
+          <msub>
+            <mi>A</mi>
+            <mi>t</mi>
+          </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 13B-1</mtext>
+</math>

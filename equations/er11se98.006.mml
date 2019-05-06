@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mfrac>
+            <mi>A</mi>
+            <mi>B</mi>
+          </mfrac>
+          <mo>*</mo>
+          <mfrac>
+            <mi>C</mi>
+            <msup>
+              <mn>10</mn>
+              <mn>6</mn>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mo>*</mo>
+        <mi>D</mi>
+      </mrow>
+      <mo>*</mo>
+      <mi>d</mi>
+    </mrow>
+    <mo>*</mo>
+    <mfrac>
+      <mi>N</mi>
+      <mi>M</mi>
+    </mfrac>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>ds</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Equation 5</mtext>
+</math>

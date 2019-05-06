@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>ex</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mi>s</mi>
+      </msub>
+      <mi>CF</mi>
+    </mfrac>
+  </mrow>
+</math>

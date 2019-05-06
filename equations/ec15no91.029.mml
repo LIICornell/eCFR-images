@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>The number of weeks of instructional</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>time offered in the program in the</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>fall, winter, and spring quarters</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>The number of weeks in the program's</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>academic year</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

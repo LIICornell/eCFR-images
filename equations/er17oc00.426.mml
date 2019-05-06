@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>M</mi>
+    <mi>w</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>100</mn>
+      <mo>(</mo>
+      <mo>%</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mn>100</mn>
+      <mo>+</mo>
+      <mo>%</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>d</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 28-2</mtext>
+</math>

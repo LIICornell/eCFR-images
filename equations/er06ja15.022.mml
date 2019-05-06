@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mi>S</mi>
+      <mi>F</mi>
+    </mfrac>
+    <mo>&#8722;</mo>
+    <mn>1.3</mn>
+    <mspace width=".2em"/>
+    <mfrac>
+      <msub>
+        <mi>R</mi>
+        <mrow>
+          <mi>T</mi>
+          <mo>,</mo>
+          <mi>S</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mrow>
+          <mi>T</mi>
+          <mo>,</mo>
+          <mi>F</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi style="font-style: italic">scale</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>C</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mn>95</mn>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mn>36,000</mn>
+  </mfrac>
+  <mo>,</mo>
+</math>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Less:</mtext>
+  <mspace width=".2em"/>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mo>$</mo>
+        <mn>5,000</mn>
+      </mtd>
+      <mtd>
+        <mtext style="text-align:left;">(amount received for portion
+        sold)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo style="text-decoration: underline">$</mo>
+        <mn style="text-decoration: underline">6,000</mn>
+      </mtd>
+      <mtd>
+        <mtext style="text-align:left;">(adjusted basis of portion sold)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>$</mo>
+        <mn>1,000</mn>
+      </mtd>
+      <mtd>
+        <mrow>
+          <mtext style="text-align:left;">(loss on portion sold)</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>10,000</mn>
+        </mtd>
+        <mtd>
+          <mtext style="text-align:left">Sales Price</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mo>&#8722;</mo>
+          <mn>9,900</mn>
+        </mtd>
+        <mtd>
+          <mtext>Present Value</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo style="padding-left: 40px;">$</mo>
+          <mn>100</mn>
+        </mtd>
+        <mtd>
+          <mtext>Carrying charges</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

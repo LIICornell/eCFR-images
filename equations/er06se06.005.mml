@@ -1,0 +1,71 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Sum of, for each taxable year during the applicable
+              period, bad debts sustained,</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>adjusted by recoveries received that are allocable to the
+              bad debts, by</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>that taxable year's determination date and related to the
+              taxpayer's</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>accounts receivable balance at the beginning of the
+              taxable year</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Sum of accounts receivable at the beginning of each</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>taxable year during the applicable period</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Accounts</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>receivable at end</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>of current taxable</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>year</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>1.05</mn>
+  </mrow>
+</math>

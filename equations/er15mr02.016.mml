@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>DRF</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mfrac>
+          <msub>
+            <mi>CF</mi>
+            <mi>m</mi>
+          </msub>
+          <mn>12</mn>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>6</mn>
+  </msup>
+</math>

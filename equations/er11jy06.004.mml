@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>X</mi>
+      <mrow>
+        <mi>C</mi>
+        <msub>
+          <mi>O</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mn>5.9</mn>
+      <msub>
+        <mi>F</mi>
+        <mi>o</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

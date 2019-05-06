@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>A</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>M</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 3</mtext>
+</math>

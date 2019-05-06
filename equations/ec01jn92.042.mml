@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>FC</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+      </msub>
+      <mspace width=".2em"/>
+      <mfrac>
+        <mi>W</mi>
+        <mi>V</mi>
+      </mfrac>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>Q</mi>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>M</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>6</mn>
+        </msup>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

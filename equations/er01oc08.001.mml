@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>k</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>c</mi>
+      <mi>p</mi>
+    </msub>
+    <msub>
+      <mi>c</mi>
+      <mi>v</mi>
+    </msub>
+  </mfrac>
+</math>

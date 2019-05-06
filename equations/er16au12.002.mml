@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>e</mi>
+      </msub>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi>s</mi>
+          <mi>d</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>K</mi>
+      <mn>1</mn>
+    </msub>
+  </mfrac>
+</math>

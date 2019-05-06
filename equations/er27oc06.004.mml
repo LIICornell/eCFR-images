@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>8</mn>
+    <msup>
+      <mn>2</mn>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>L</mi>
+            <mo>&#8722;</mo>
+            <mn>90</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>/</mo>
+        <mn>5</mn>
+      </mrow>
+    </msup>
+  </mfrac>
+</math>

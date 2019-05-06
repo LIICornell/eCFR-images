@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>SA</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mn>3</mn>
+          <mo>&#215;</mo>
+          <mi>L</mi>
+        </mrow>
+        <mn>2</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mrow>
+    <mrow>
+      <mo>&#215;</mo>
+      <mn>3.14</mn>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>2</mn>
+  </mrow>
+</math>

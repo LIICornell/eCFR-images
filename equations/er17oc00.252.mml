@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>d</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mn>8</mn>
+        <msubsup>
+          <mi>D</mi>
+          <mi>n</mi>
+          <mn>2</mn>
+        </msubsup>
+        <msub>
+          <mi>V</mi>
+          <mi>m</mi>
+        </msub>
+      </mrow>
+
+          <mrow>
+            <mn>60</mn>
+            <msubsup>
+              <mi>D</mi>
+              <mi>d</mi>
+              <mn>2</mn>
+            </msubsup>
+          </mrow>
+
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 14-1</mtext>
+</math>

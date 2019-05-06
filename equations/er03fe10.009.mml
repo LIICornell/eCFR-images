@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 12: </mtext>
+  <msup>
+    <mi>r</mi>
+    <mo>*</mo>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+    <mi>r</mi>
+    <mi>&#963;</mi>
+  </mfrac>
+</math>

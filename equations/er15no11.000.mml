@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>pb</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>ER</mi>
+        <mi>pb</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <mi>QPOT</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

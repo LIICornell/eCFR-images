@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>PMT</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>UPB</mi>
+        <mrow>
+          <mi>m</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>MIR</mi>
+        <mi>m</mi>
+      </msub>
+      <mn>12</mn>
+    </mfrac>
+  </mrow>
+</math>

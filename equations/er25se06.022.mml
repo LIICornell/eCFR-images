@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtext>Number of acceptable responses for all challenges</mtext>
+        <mtext>Total number of all challenges</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+    <mo>=</mo>
+    <mtext>Testing event score</mtext>
+  </mrow>
+</math>

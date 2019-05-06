@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Extractives in parts</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>per million</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>e</mi>
+      <mi>b</mi>
+    </mrow>
+    <mi>s</mi>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

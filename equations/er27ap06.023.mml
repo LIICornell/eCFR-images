@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>s</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mi>lc</mi>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>e</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4-7)</mtext>
+</math>

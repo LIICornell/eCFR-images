@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtext>Incremental price at which fuel is offered</mtext>
+      <mo>=</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Cost per mile</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>for</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>alternative fuel</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Cost per mile</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>for</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>diesel fuel</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

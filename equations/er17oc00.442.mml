@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mi>fh</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>fhb</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mi>bh</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>bhb</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 29-4</mtext>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>TFS</mi>
+      <mi>avg</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>TFS</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>TFS</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mtext>/2.</mtext>
+  <mspace width="8em"/>
+  <mtext>Eq. 4</mtext>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>PM</mi>
+        </msub>
+        <mo>=</mo>
+        <mi>C</mi>
+      </mrow>
+      <mo>*</mo>
+      <mi>Q</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi>K</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

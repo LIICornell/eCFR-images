@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>10</mn>
+      <mi>o</mi>
+      <mi>s</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mfrac>
+    <mo>&#x25a1;</mo>
+    <mrow>
+      <mi>s</mi>
+      <mo>+</mo>
+      <mi>E</mi>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RF</mi>
+      <mi>is</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mi>is</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>is</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. (5)</mtext>
+</math>

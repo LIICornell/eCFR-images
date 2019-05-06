@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>6</mn>
+      <mo>+</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>u</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mn>0.0007</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mi>V</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mfrac>
+</math>

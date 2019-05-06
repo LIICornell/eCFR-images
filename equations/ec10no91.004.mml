@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Remaining allowances in the Reserve </mtext>
+          <mo>&#215;</mo>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Unit's allowances withheld</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>Total amount in Reserve</mtext>
+  </mfrac>
+</math>

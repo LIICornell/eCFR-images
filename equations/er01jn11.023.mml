@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>P</mi>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msub>
+        <mi>V</mi>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mi>I</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>,</mo>
+</math>

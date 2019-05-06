@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Gi</mi>
+  <mo>=</mo>
+  <mn>2.15</mn>
+  <mo>+</mo>
+  <mn>10</mn>
+  <mtext> log </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>100</mn>
+      <mi>Pa</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi>dBi</mi>
+</math>

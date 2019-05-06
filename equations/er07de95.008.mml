@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RRF</mi>
+      <mi>x</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mi>x</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>RF</mi>
+          <mi>is</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>x</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. (6)</mtext>
+</math>

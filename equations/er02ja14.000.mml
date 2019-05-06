@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mi>m</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>&#961;</mi>
+        <mrow>
+          <mi>R</mi>
+          <mi>H</mi>
+          <mi>A</mi>
+        </mrow>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>o</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>P</mi>
+            <mi>r</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mi>A</mi>
+      <msub>
+        <mi>D</mi>
+        <mrow>
+          <mi>T</mi>
+          <mspace width=".2em"/>
+          <mtext>arg </mtext>
+          <mrow>
+            <mi>e</mi>
+            <mi>t</mi>
+          </mrow>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

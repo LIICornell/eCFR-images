@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>episode</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>DUR</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mi>i</mi>
+      </msub>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="3em"/>
+  <mtext>[Eq. 10]</mtext>
+</math>

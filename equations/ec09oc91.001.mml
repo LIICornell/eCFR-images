@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>36</mn>
+      <mtext> days</mtext>
+    </mrow>
+    <mrow>
+      <mn>365</mn>
+      <mtext> days</mtext>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mo>.</mo>
+  <mn>099</mn>
+  <mtext> fraction of the year</mtext>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Concentration of Isotope A in Product</mtext>
+      <mtext>Exempt concentration or Isotope A</mtext>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mtext>Concentration of Isotope B in Product</mtext>
+      <mtext>Exempt concentration of Isotope B</mtext>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#x2266;</mo>
+    <mn>1</mn>
+  </mrow>
+</math>

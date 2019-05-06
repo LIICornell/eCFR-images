@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mi>hr</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mi>qtr</mi>
+        <mo>&#8722;</mo>
+        <mi>total</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>ST</mi>
+      <mi>hr</mi>
+    </msub>
+    <msub>
+      <mi>ST</mi>
+      <mi>qtr</mi>
+    </msub>
+  </mfrac>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>3</mn>
+          <mo>&#215;</mo>
+          <mn>15</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>2</mn>
+          <mo>&#215;</mo>
+          <mn>10</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8721;</mo>
+    </mrow>
+    <mn>5</mn>
+  </mfrac>
+</math>

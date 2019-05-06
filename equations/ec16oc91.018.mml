@@ -1,0 +1,66 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>200,000</mn>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>(consideration furnished by A)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mo>$</mo>
+            <mn>250,000</mn>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>(total consideration</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>furnished by both spouses)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mo>$</mo>
+          <mn>300,000</mn>
+          <mspace width=".2em"/>
+          <mtext>(proceeds of termination)</mtext>
+          <mrow>
+            <mo>=</mo>
+            <mrow>
+              <mo>$</mo>
+              <mn>240,000</mn>
+            </mrow>
+          </mrow>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>(Proceeds of termination attributable to</mtext>
+          <mspace width=".2em"/>
+          <munder>
+            <mi>A</mi>
+            <mo>&#8212;</mo>
+          </munder>
+          <mtext>.)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

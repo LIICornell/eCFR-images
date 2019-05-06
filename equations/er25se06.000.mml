@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Normaility of Potassium</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Ferricyanide </mtext>
+        <mo>[</mo>
+        <msub>
+          <mi>K</mi>
+          <mn>3</mn>
+        </msub>
+        <mi>Fe</mi>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <mi>CN</mi>
+            <mo>)</mo>
+          </mrow>
+          <mn>6</mn>
+        </msub>
+        <mo>]</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mi>ml</mi>
+      <mtext> of thiosulfate added</mtext>
+      <mo>)</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtext>normality of thiosulfate</mtext>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mi>M</mi>
+      <mn>1</mn>
+      <mtext> of </mtext>
+      <msub>
+        <mi>K</mi>
+        <mn>3</mn>
+      </msub>
+      <mi>Fe</mi>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>CN</mi>
+          <mo>)</mo>
+        </mrow>
+        <mn>6</mn>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

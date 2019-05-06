@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+      <mi>P</mi>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mn>4</mn>
+      </msub>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mn>2</mn>
+          </msub>
+          <msub>
+            <mi>V</mi>
+            <msup>
+              <mrow>
+                <mi>S</mi>
+                <mn>0</mn>
+              </mrow>
+              <mn>2</mn>
+            </msup>
+          </msub>
+        </mrow>
+        <mrow>
+          <mi>tan</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+            <mi>&#946;</mi>
+        </mrow>
+      </mfrac>
+    </mrow>
+</math>

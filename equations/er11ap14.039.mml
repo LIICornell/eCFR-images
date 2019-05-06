@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>550</mn>
+  <mi>kV</mi>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msqrt>
+        <mn>2</mn>
+      </msqrt>
+      <msqrt>
+        <mn>3</mn>
+      </msqrt>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>1.25</mn>
+      <mo>=</mo>
+      <mn>561</mn>
+      <mi>k</mi>
+      <mi>V</mi>
+      <mo>.</mo>
+    </mrow>
+  </mrow>
+</math>

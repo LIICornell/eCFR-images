@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE math PUBLIC "-//W3C//DTD MathML 2.0//EN"
+      "http://www.w3.org/TR/MathML2/dtd/mathml2.dtd">
+<!-- Created by amaya 11.4.7, see http://www.w3.org/Amaya/ -->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>SIA</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>UPB</mi>
+        <mrow>
+          <mi>m</mi>
+          <mo>&minus;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>×</mo>
+    <mfrac>
+      <msub>
+        <mi>MIR</mi>
+        <mi>m</mi>
+      </msub>
+      <mn>12</mn>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>f</mi>
+      </msub>
+      <mi>T</mi>
+    </mfrac>
+  </mrow>
+</math>

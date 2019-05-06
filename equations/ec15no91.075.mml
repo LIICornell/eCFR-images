@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>f</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>C</mi>
+        <mi>c</mi>
+      </msub>
+      <msub>
+        <mi>H</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 107A-1</mtext>
+</math>

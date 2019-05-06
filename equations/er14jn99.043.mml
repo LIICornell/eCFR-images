@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mi>V</mi>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mi>DF</mi>
+      <mo>&#215;</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="1.5em"/>
+  <mi>mg</mi>
+  <mo>/</mo>
+  <mi>&#956;g</mi>
+</math>

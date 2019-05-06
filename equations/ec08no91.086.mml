@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>e</mi>
+  <mo>=</mo>
+  <mi>v</mi>
+  <mo>+</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>v</mi>
+        <mo>/</mo>
+        <mi>n</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>N</mi>
+        <mo>&#8722;</mo>
+        <mi>n</mi>
+        <mo>&#8722;</mo>
+        <mi>z</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="5em"/>
+  <mtext>(1)</mtext>
+</math>

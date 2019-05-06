@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mi>NMHC</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mn>150.3</mn>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mn>0.990</mn>
+          <mo>&#8722;</mo>
+          <mn>20.5</mn>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mn>0.990</mn>
+        <mo>&#8722;</mo>
+        <mn>0.020</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

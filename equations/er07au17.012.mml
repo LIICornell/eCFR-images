@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>n</mi>
+        <mi>m</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>T</mi>
+          <mo>&#215;</mo>
+          <mi>n</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mn>5252</mn>
+    </mfrac>
+  </mrow>
+</math>

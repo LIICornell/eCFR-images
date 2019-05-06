@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Mining costs</mtext>
+      <mtext>Total costs</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mtext>Gross sales</mtext>
+      <mo>&#8722;</mo>
+      <mtext>Gross income from mining</mtext>
+    </mrow>
+  </mrow>
+</math>

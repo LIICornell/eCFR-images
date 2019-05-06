@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>30</mn>
+  <mspace width=".2em"/>
+  <mi>g</mi>
+  <mtext> dry sediment per bottle </mtext>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>8</mn>
+  </mrow>
+  <mtext> </mtext>
+  <mo>=</mo>
+  <mrow>
+    <mn>240</mn>
+    <mspace width=".2em"/>
+    <mi>g</mi>
+  </mrow>
+  <mtext> dry sediment</mtext>
+  <mspace width="4em"/>
+  <mtext>[Eq. 3]</mtext>
+</math>

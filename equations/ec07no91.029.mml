@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>L</mi>
+      </msub>
+      <mi>R</mi>
+      <mi>F</mi>
+    </mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>L</mi>
+    </msub>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>Eq. 3</mtext>
+</math>

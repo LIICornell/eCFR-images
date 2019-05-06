@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>C</mi>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>b</mi>
+    </msub>
+    <mo>(</mo>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mi>F</mi>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 10B-3</mtext>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mtext> Diff</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi>f</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>f</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(9)</mtext>
+</math>

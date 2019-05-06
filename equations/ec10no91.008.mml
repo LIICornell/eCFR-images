@@ -1,0 +1,8 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Lead L alpha-background</mtext>
+    <mtext>Incoherent tungsten L alpha-corrected background</mtext>
+  </mfrac>
+</math>

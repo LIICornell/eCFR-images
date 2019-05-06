@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Scaling factor</mtext>
+  <mrow>
+    <mo>=</mo>
+    <msqrt>
+      <mfrac>
+        <mi>H</mi>
+        <mn>10</mn>
+      </mfrac>
+    </msqrt>
+  </mrow>
+</math>

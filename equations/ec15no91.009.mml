@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mi>cr</mi>
+        <mo>.</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

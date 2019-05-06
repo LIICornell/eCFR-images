@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>S</mi>
+    <mi>e</mi>
+  </msub>
+  <msub>
+    <mi>H</mi>
+    <mi>e</mi>
+  </msub>
+  <mrow>
+    <mo>+</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>h</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>H</mi>
+    <mi>h</mi>
+  </msub>
+  <mo>,</mo>
+  <mspace width="4em"/>
+  <mtext>(5)</mtext>
+</math>

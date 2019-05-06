@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>FUEL</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>G</mi>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mn>2</mn>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

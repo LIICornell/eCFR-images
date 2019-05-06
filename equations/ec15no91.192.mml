@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AAR</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>N</mi>
+    <mn>0.0026</mn>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>Eq. (1)</mtext>
+</math>

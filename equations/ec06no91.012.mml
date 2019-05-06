@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Maximum Effective</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Stack Height</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Minimum Effective</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Stack Height</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+  <mo>=</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+  <mo>&#8212;</mo>
+</math>

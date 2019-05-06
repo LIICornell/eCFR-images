@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>MLTI</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <msub>
+        <mi>NCD</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>AFLIF</mi>
+        <mi>m</mi>
+      </msub>
+    </mrow>
+  </mrow>
+</math>

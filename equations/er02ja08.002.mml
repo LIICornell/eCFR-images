@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>%</mo>
+      <mtext> reduction</mtext>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>E</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>E</mi>
+            <mi>o</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Refrigerant Recovered </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mi>SCF</mi>
+      <mo>&#8722;</mo>
+      <mi>SCO</mi>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mi>RSF</mi>
+  <mo>&#8722;</mo>
+  <mi>RSO</mi>
+</math>

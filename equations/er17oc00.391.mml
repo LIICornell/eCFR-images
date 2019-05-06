@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>DR</mi>
+      <mi>th</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>ch</mi>
+      </msub>
+      <msub>
+        <mi>A</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 25D-6</mtext>
+</math>

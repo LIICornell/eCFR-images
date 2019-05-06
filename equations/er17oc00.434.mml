@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mo>(</mo>
+      <mi>adj</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mo>%</mo>
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>+</mo>
+  <mo>%</mo>
+  <mi>CO</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 28A-2</mtext>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext></mtext>
+  <mtext>% solids (S) </mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>D</mi>
+      <mi>W</mi>
+    </mrow>
+    <mrow>
+      <mi>W</mi>
+      <mi>W</mi>
+    </mrow>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

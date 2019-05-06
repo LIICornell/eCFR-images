@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mtext>Installation Cost</mtext>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Incremental hours</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>for installation</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <mo>$</mo>
+            <mn>35</mn>
+          </mrow>
+          <mtext>hour</mtext>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>CPI</mi>
+          <mi>R</mi>
+        </msub>
+        <msub>
+          <mi>CPI</mi>
+          <mn>1992</mn>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>S</mi>
+          <mi>d</mi>
+        </msub>
+        <msqrt>
+          <mi>n</mi>
+        </msqrt>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mi>adj</mi>
+  </msub>
+  <mo>=</mo>
+  <mtext>The autocorrelation-adjusted standard error of the mean.</mtext>
+</math>

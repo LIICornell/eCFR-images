@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>mg</mi>
+  <mo>/</mo>
+  <mi>cu</mi>
+  <mspace width=".2em"/>
+  <mi>m</mi>
+  <mo>=</mo>
+  <mrow>
+    <mtext>Corrected mg (section 10.4)</mtext>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mn>1,000</mn>
+        <mrow>
+          <mo>(</mo>
+          <mtext>liter/cu m</mtext>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mtext>air volume sampled (liter)</mtext>
+    </mfrac>
+  </mrow>
+</math>

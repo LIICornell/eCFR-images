@@ -1,0 +1,105 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mi>M</mi>
+  <mi>C</mi>
+  <mi>L</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>1</mn>
+        <mi>b</mi>
+        <mtext> Dust Metal</mtext>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mi>b</mi>
+        <mtext> Dust</mtext>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+    <mrow>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mtext>Tier III Limit</mtext>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mn>1</mn>
+                <mi>b</mi>
+                <mtext> Emitted Metal</mtext>
+              </mrow>
+              <mrow>
+                <mi>h</mi>
+                <mi>r</mi>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mi>P</mi>
+          <mi>M</mi>
+          <mi>L</mi>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mn>1</mn>
+                <mi>b</mi>
+                <mspace width=".2em"/>
+                <mi>P</mi>
+                <mi>M</mi>
+              </mrow>
+              <mrow>
+                <mi>h</mi>
+                <mi>r</mi>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mi>E</mi>
+          <mi>F</mi>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mn>1</mn>
+                <mi>b</mi>
+                <mtext> Emitted Metal</mtext>
+                <mrow>
+                  <mo>/</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mi>b</mi>
+                    <mspace width=".2em"/>
+                    <mi>P</mi>
+                    <mi>M</mi>
+                  </mrow>
+                </mrow>
+              </mrow>
+              <mrow>
+                <mn>1</mn>
+                <mi>b</mi>
+                <mtext> Dust Metal </mtext>
+                <mrow>
+                  <mo>/</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mi>b</mi>
+                    <mtext> Dust</mtext>
+                  </mrow>
+                </mrow>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(2)</mtext>
+</math>

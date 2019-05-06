@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Amount of matching funds proposed from</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>nongovernmental sources</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>Total proposed amount of matching funds</mtext>
+  </mfrac>
+</math>

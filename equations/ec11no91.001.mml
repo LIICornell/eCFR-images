@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>1,000</mn>
+  <mtext> MTHM </mtext>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mn>30,000</mn>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mn>5,000</mn>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+      <mo>=</mo>
+      <mn>6,000</mn>
+      <mtext> MTHM</mtext>
+    </mrow>
+  </mrow>
+</math>

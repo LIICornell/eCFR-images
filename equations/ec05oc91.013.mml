@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>A Rate</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mn>2</mn>
+            <mo>&#215;</mo>
+            <mtext>unadjusted accrual rate</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>B Rate</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mtext>unadjusted accrual rate </mtext>
+            <mo>+</mo>
+            <mtext>permitted disparity factory</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

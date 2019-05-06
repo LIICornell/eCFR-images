@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Creatinine</mtext>
+    <mo>+</mo>
+    <mtext>Picrate</mtext>
+  </mrow>
+  <mover>
+    <mo>---------&#8594;</mo>
+    <mi>NaOH</mi>
+  </mover>
+  <mtext>Red chromophore (absorbs at 510 nm)</mtext>
+</math>

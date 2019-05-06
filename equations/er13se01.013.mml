@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HPGR</mi>
+      <mi>q</mi>
+    </msub>
+    <mo>=</mo>
+    <msubsup>
+      <mi>HHPGR</mi>
+      <mi>q</mi>
+      <mi>HSP</mi>
+    </msubsup>
+    <mo>+</mo>
+    <msub>
+      <mi>QHGA</mi>
+      <mi>q</mi>
+    </msub>
+  </mrow>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mi>X</mi>
+    <mo>&#x2013;</mo>
+  </mover>
+  <mo>&#8805;</mo>
+  <mfrac>
+    <mn>100</mn>
+    <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mn>1.05</mn>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mfrac>
+            <mn>100</mn>
+            <mi>RE</mi>
+          </mfrac>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

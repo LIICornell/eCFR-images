@@ -1,0 +1,67 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>X's allocable related group indebtedness </mtext>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mrow>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>Y's Foreign source high withholding tax</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>interest income</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+            </mrow>
+            <mtext>Y's Foreign source income</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mrow>
+              <mo>$</mo>
+              <mn>9,600</mn>
+            </mrow>
+            <mo>&#215;</mo>
+            <mrow>
+              <mo>$</mo>
+              <mn>2,000</mn>
+              <mo>/</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mrow>
+                    <mo>$</mo>
+                    <mn>8,000</mn>
+                  </mrow>
+                  <mo>+</mo>
+                  <mrow>
+                    <mo>$</mo>
+                    <mn>2,000</mn>
+                  </mrow>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>1,920</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

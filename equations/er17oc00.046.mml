@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>e</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>2</mn>
+        <mi>LW</mi>
+      </mrow>
+      <mrow>
+        <mi>L</mi>
+        <mo>+</mo>
+        <mi>W</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2-2</mtext>
+</math>

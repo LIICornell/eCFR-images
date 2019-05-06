@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>R</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>E</mi>
+    <mi>NC</mi>
+  </msub>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>VOC</mi>
+        <mi>STD</mi>
+      </msub>
+      <msub>
+        <mi>VOC</mi>
+        <mi>NC</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Equation 1</mtext>
+</math>

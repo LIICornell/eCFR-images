@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>f</mi>
+    <mspace width=".2em"/>
+    <mo>*</mo>
+    <mspace width=".2em"/>
+    <mi>h</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>3-month LIBOR minus</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>3-month Treasury</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>)</mo>
+    </mrow>
+    <mtext>3-month Treasury</mtext>
+  </mfrac>
+</math>

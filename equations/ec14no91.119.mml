@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>The amount of the interest payment</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>allocated to the separate category under</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>paragraph (c) (2) (ii) (D) of this section</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mtext>Value of domestic assets in that category</mtext>
+      </mrow>
+      <mrow>
+        <mtext>Value of total assets in that category</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

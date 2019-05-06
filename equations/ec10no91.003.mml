@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>max. design heat input</mtext>
+      <mn>3</mn>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mi>x</mi>
+          <mn>1</mn>
+          <mspace width=".2em"/>
+          <mtext>kw-hr</mtext>
+          <mspace width=".2em"/>
+        </mrow>
+        <mrow>
+          <mn>3413</mn>
+          <mspace width=".2em"/>
+          <mi>Btu</mi>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mi>x</mi>
+          <mn>1</mn>
+          <mspace width=".2em"/>
+          <mi>MWe</mi>
+        </mrow>
+        <mrow>
+          <mn>1000</mn>
+          <mspace width=".2em"/>
+          <mi>Kw</mi>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

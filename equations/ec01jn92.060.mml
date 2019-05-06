@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mi>v</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>gv</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>gv</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>Q</mi>
+        <mi>hv</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>hv</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>gv</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>gv</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation 4)</mtext>
+</math>

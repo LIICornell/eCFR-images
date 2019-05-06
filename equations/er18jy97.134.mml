@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext> </mtext>
+  <mi style="font-style: italic">TWC</mi>
+  <mo>=</mo>
+  <mn></mn>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi style="font-style: italic">FinalWT</mi>
+          <mo>&#8722;</mo>
+          <mi style="font-style: italic">InitWt</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mi>Q</mi>
+  </mfrac>
+</math>

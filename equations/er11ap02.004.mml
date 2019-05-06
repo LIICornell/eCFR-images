@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <msub>
+          <mi>Ni</mi>
+          <mn>1</mn>
+        </msub>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>Ni</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi>sd</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

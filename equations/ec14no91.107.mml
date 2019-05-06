@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mrow>
+            <mo>$</mo>
+            <mn>5600</mn>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>4800</mn>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mo>$</mo>
+          <mn>400</mn>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>2 plus 1 month annuity</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>penalty for failure</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>to report</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

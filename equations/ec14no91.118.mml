@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>The amount of the interest payment</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>allocated to the separate category under</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>paragraph (c) (2) (ii) (D) of this section</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Gross income from United States sources</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>in that category</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Gross income from all sources</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>in that category</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+  </mrow>
+</math>

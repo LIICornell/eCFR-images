@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CIA</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mi>IA</mi>
+      <mo>)</mo>
+    </mrow>
+    <mfrac>
+      <mn>110</mn>
+      <mn>12</mn>
+    </mfrac>
+  </msup>
+</math>

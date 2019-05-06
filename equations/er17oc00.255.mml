@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>B</mi>
+      <mi>ws</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 14-4</mtext>
+</math>

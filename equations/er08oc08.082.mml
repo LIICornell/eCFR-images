@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Density</mtext>
+      <mi>HC</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>HC</mi>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mi>STP</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

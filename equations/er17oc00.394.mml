@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>vo</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>sc</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>sh</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 25D-9</mtext>
+</math>

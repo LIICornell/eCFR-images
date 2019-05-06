@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>2.80</mn>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mn>10</mn>
+        <mn>3</mn>
+      </msup>
+      <mtext> (conversion of g to mg) </mtext>
+      <mo>&#215;</mo>
+      <mn>0.1</mn>
+      <mtext>(fraction iodate used)</mtext>
+    </mrow>
+    <mrow>
+      <mn>35.67</mn>
+      <mtext> (equivalent weight of potassium iodate)</mtext>
+    </mrow>
+  </mfrac>
+</math>

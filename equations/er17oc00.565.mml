@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>RF</mi>
+    <mo>=</mo>
+      <mfrac>
+        <msub>
+          <mi>C</mi>
+          <mi>T</mi>
+        </msub>
+        <msub>
+          <mi>A</mi>
+          <mi>S</mi>
+        </msub>
+      </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 305-3</mtext>
+</math>

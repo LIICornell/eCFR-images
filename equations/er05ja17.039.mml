@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>365</mn>
+          <mspace width=".2em"/>
+          <mi>W</mi>
+        </mrow>
+        <mrow>
+          <mn>1000</mn>
+          <mspace width=".2em"/>
+          <mi>s</mi>
+          <mi>c</mi>
+          <mi>f</mi>
+          <mi>m</mi>
+        </mrow>
+      </mfrac>
+      <mo>*</mo>
+      <mover>
+        <msub>
+          <mover>
+            <mi>V</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi>s</mi>
+        </msub>
+        <mo>&#x2013;</mo>
+      </mover>
+    </mrow>
+    <mo>*</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>&#964;</mi>
+          <mi>a</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>&#964;</mi>
+          <mi style="font-style: italic">FR</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

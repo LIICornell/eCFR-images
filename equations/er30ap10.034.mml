@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mrow>
+        <mi>H</mi>
+        <mn>2</mn>
+        <mi>O</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>p</mi>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>O</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>p</mi>
+        <mi>abs</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.645-3</mtext>
+</math>

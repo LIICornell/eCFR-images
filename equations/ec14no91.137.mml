@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>The number of qualifying days</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>in the taxable year</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>The number of days in the taxable year</mtext>
+  </mfrac>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>ts</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>nc</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>lc</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(5-2)</mtext>
+</math>

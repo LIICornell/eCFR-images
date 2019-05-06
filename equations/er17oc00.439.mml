@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi>
+    <mo>&#215;</mo>
+    <mrow>
+      <mfrac>
+        <mi>B</mi>
+        <mi>C</mi>
+      </mfrac>
+      <mo>=</mo>
+      <mi>D</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 29-1</mtext>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Extractives residue </mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>Ex</mi>
+      <mo>=</mo>
+      <mo>(</mo>
+      <mi>e</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mi>a</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mn>1000</mn>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mi>c</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

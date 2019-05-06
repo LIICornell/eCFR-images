@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DQ</mi>
+  <mo>=</mo>
+  <mi>int</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>DM</mi>
+      <mn>3</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

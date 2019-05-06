@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mi>P</mi>
+      <mo>=</mo>
+    </mover>
+    <mi>loss</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mo>,</mo>
+</math>

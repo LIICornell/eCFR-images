@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>0</mn>
+    </msub>
+    <mo>+</mo>
+    <mi>m</mi>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mn>1</mn>
+  </mrow>
+  <mo>]</mo>
+  <mtext style="font-style: italic">mod</mtext>
+  <mrow>
+    <mi>PRP</mi>
+    <mo>=</mo>
+    <mn>0</mn>
+  </mrow>
+</math>

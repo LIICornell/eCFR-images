@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>rvc</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mn>10</mn>
+  </mrow>
+  <msub>
+    <mi>H</mi>
+    <mi>s</mi>
+  </msub>
+  <msub>
+    <mi>R</mi>
+    <mi>f</mi>
+  </msub>
+  <mspace width="5em"/>
+  <mtext>Eq.107A-2</mtext>
+</math>

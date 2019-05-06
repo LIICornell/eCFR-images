@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>e</mi>
+        <mi>h</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>N</mi>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mtext>and</mtext>
+  <mfrac>
+    <mrow>
+          <mi>R</mi>
+          <mi>H</mi>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>N</mi>
+  </mfrac>
+</math>

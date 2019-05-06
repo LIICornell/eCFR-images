@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>u</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>u</mi>
+    <mrow>
+      <mi>s</mi>
+      <mi>r</mi>
+    </mrow>
+  </msub>
+  <mfrac>
+    <msub>
+      <mi>u</mi>
+      <mi>t</mi>
+    </msub>
+    <msub>
+      <mi>u</mi>
+      <mrow>
+        <mi>t</mi>
+        <mi>r</mi>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Equation 2</mtext>
+</math>

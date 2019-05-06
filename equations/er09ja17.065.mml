@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <mfrac>
+      <msub>
+        <mi>C</mi>
+        <mi>j</mi>
+      </msub>
+      <msub>
+        <mi>CR</mi>
+        <mi>j</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

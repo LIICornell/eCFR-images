@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>sd</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mn>1</mn>
+          </msub>
+          <msub>
+            <mi>V</mi>
+            <mi>mt</mi>
+          </msub>
+          <msub>
+            <mi>M</mi>
+            <mi>d</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>m</mi>
+        </msub>
+        <mi>A</mi>
+      </mrow>
+      <msub>
+        <mi>T</mi>
+        <mi>rm</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 14-5</mtext>
+</math>

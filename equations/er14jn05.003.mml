@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mtext>Degree of filling</mtext>
+      <mo>=</mo>
+      <mn>95</mn>
+      <mfrac>
+        <msub>
+          <mi>d</mi>
+          <mi>r</mi>
+        </msub>
+        <msub>
+          <mi>d</mi>
+          <mi>f</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>.</mo>
+</math>

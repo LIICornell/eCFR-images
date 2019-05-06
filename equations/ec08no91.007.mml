@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>760</mn>
+  <mo>&#8722;</mo>
+  <mo>.</mo>
+  <mn>076</mn>
+  <mo>(</mo>
+  <mi>H</mi>
+  <mo>)</mo>
+  <mspace width=".2em"/>
+  <mi>mm</mi>
+  <mspace width=".2em"/>
+  <mi>Hg</mi>
+  <mo>,</mo>
+  <mi>or</mi>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>P</mi>
+    </mrow>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>101</mn>
+  <mo>&#8722;</mo>
+  <mo>.</mo>
+  <mn>01</mn>
+  <mo>(</mo>
+  <mi>H</mi>
+  <mo>)</mo>
+  <mi>k</mi>
+  <mi>Pa</mi>
+  <mspace width="4em"/>
+  <mtext>(7)</mtext>
+</math>

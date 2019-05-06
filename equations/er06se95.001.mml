@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>RVC</mi>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mi>NC</mi>
+          <mo>&#8722;</mo>
+          <mi>VNM</mi>
+        </mrow>
+        <mi>NC</mi>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>$</mo>
+  <mn>75,000</mn>
+  <mtext> (annual rate) </mtext>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mn>181</mn>
+        <mtext> (qualifying days)</mtext>
+      </mrow>
+      <mrow>
+        <mn>365</mn>
+        <mtext> (days in taxable year).</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

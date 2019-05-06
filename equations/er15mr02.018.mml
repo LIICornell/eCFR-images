@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>AFLIF</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mn>1</mn>
+      <mo>&minus;</mo>
+      <mi>ILCOST</mi>
+    </mrow>
+  </mfrac>
+</math>

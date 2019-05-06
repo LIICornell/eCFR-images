@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mo>$</mo>
+            <mn>50,000</mn>
+          </mrow>
+          <mtext> ($75,000 excluded amounts less $25,000 of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>deductible expenses allocable thereto)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mo>$</mo>
+            <mn>75,000</mn>
+          </mrow>
+          <mtext> ((($120,000 foreign earned income less $40,000 of deductible
+          expenses</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>allocable thereto) less $15,000 housing cost amount
+          deduction</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>allocable thereto) plus $10,000 other taxable income).</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

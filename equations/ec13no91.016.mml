@@ -1,0 +1,118 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>f</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>&#952;</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mi>cos</mi>
+            <mo>&#x2061;</mo>
+            <mspace width=".2em"/>
+            <mi>B</mi>
+            <mspace width=".2em"/>
+            <mrow>
+              <mi>cos</mi>
+              <mspace width=".2em"/>
+              <mo>&#x2061;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mi>A</mi>
+                <mrow>
+                  <mspace width=".2em"/>
+                  <mi>sin</mi>
+                  <mspace width=".2em"/>
+                  <mo>&#x2061;</mo>
+                  <mi>&#952;</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mi>sin</mi>
+            <mo>&#x2061;</mo>
+            <mspace width=".2em"/>
+            <mi>&#952;</mi>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>sin</mi>
+              <mspace width=".2em"/>
+              <mi>B</mi>
+              <mspace width=".2em"/>
+              <mrow>
+                <mi>sin</mi>
+                <mo>&#x2061;</mo>
+              </mrow>
+              <mo>&#x2061;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mi>A</mi>
+                <mspace width=".2em"/>
+                <mrow>
+                  <mi>sin</mi>
+                  <mspace width=".2em"/>
+                  <mo>&#x2061;</mo>
+                  <mi>&#952;</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mi>cos</mi>
+          <mo>&#x2061;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>A</mi>
+              <mo>+</mo>
+              <mi>B</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mi>cos</mi>
+        <mspace width=".2em"/>
+        <mo>&#x2061;</mo>
+        <mi>&#952;</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow>
+              <mi>cos</mi>
+              <mo>&#x2061;</mo>
+              <mspace width=".2em"/>
+              <mi>B</mi>
+            </mrow>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mi>cos</mi>
+              <mo>&#x2061;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>A</mi>
+                  <mo>+</mo>
+                  <mi>B</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
