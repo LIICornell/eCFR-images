@@ -15,8 +15,6 @@
    width="656"
    height="688"
    sodipodi:docname="ec02mr91.045.svg">
-  <title id="title_ec02mr91.045">Nonflamable gas placecard</title>
-  <desc id="desc_ec02mr91.045">Black diamond with a gas tank symol on the top. Below it are the words "NON FLAMMABLE GAS TANK." Underneath that is the number 2.</desc>
   <metadata
      id="metadata9709">
     <rdf:RDF>
@@ -25,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +43,7 @@
      id="namedview9705"
      showgrid="false"
      inkscape:zoom="0.4774799"
-     inkscape:cx="154.97142"
+     inkscape:cx="-178.02689"
      inkscape:cy="338.16949"
      inkscape:window-x="198"
      inkscape:window-y="0"
@@ -56,11 +54,6 @@
      d="M 323.57358,16.909864 655.38267,348.71846 323.57358,680.52754 -8.2350114,348.71846 323.57358,16.909864 z"
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61312604;stroke-opacity:1;stroke-dasharray:0,0;stroke-dashoffset:0"
      id="path4557" />
-  <path
-     inkscape:connector-curvature="0"
-     d="m 91.811223,354.59433 -8.67035,0 0,35.31476 8.86651,0 0,-11.1831 -0.35342,-8.04394 10.082737,19.22704 8.67035,0 0,-35.31476 -8.86652,0 0,11.23208 0.35293,8.04379 -10.082237,-19.27587 z"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="path4561" />
   <path
      inkscape:connector-curvature="0"
      d="m 217.91742,246.86722 137.51852,-39.56878 c 6.26073,-1.80155 12.522,-2.52828 18.72984,-1.7276 3.81118,0.49188 6.96533,3.02835 10.66835,1.97853 l 13.38492,-3.79375 c 9.68727,-2.74604 12.0264,11.50651 3.39694,13.99825 l -13.05543,3.76931 c -2.79848,0.80759 -5.23812,3.32464 -7.39854,5.95842 -4.72583,5.76047 -10.83976,7.63685 -18.62849,9.86783 l -136.79669,39.19311 c -5.8838,1.68535 -14.01201,-3.55635 -16.19737,-10.29461 -2.52128,-7.77243 1.83983,-17.49947 8.37795,-19.38071"

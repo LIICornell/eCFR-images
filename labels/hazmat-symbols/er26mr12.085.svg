@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.085.svg">
-  <title id="title_er26mr12.085">C.4.6 SENSITIZATION respiratory</title>
-  <desc id="desc_er26mr12.085">Classified in accordance with Appendix A.4</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2431706"
-     inkscape:cx="726.60655"
-     inkscape:cy="160.90599"
+     inkscape:cx="598.70777"
+     inkscape:cy="200.93908"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -191,7 +189,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4180" /></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.96616006;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="156.33598"
        height="40.700253"
@@ -232,7 +230,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
          id="tspan4198">Pictogram</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.73235106;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4200"
        width="810.45648"
        height="287.86258"

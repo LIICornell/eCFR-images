@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.106.svg">
-  <title id="title_er26mr12.106">Hazard Communication: C.4.18 Gases Under Pressure</title>
-  <desc id="desc_er26mr12.106">Classified in Accordance with Appendix B.5</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.89791807"
-     inkscape:cx="257.7058"
+     inkscape:cx="608.43286"
      inkscape:cy="107.01209"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +176,7 @@
    style="line-height:149.00000095%"
    id="tspan3524">Contains gas under pressure; may explode if heated</tspan>.</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.8682667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="157.55688"
        height="36.463528"

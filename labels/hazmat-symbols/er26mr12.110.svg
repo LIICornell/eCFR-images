@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.110.svg">
-  <title id="title_er26mr12.110">Hazard Communication: C.4.20 Flammable Solids</title>
-  <desc id="desc_er26mr12.110">Classified in Accordance with Appendix B.7</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92373028"
-     inkscape:cx="204.15265"
-     inkscape:cy="156.53599"
+     inkscape:zoom="0.86009553"
+     inkscape:cx="434.1094"
+     inkscape:cy="377.06658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -151,7 +149,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:150%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan3834">Flammable solid</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.8682667;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="157.55688"
        height="36.463528"
@@ -192,7 +190,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
          id="tspan4198">Pictogram</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.63677108;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4200"
        width="808.95544"
        height="398.7037"
@@ -211,11 +209,11 @@
     <path
        inkscape:connector-curvature="0"
        id="path4208"
-       d="m 32.423443,431.50255 0.740124,377.7742"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63567561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 32.423425,433.24657 0.74016,376.03015"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63540971;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 394.43033,433.98968 0.73984,375.06784"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 394.43034,433.40834 0.73982,375.64919"
        id="path4210"
        inkscape:connector-curvature="0" />
     <text
@@ -317,7 +315,7 @@
        id="path3998"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.63666695;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 258.42346,431.50253 0.74009,378.96609"
        id="path3440"
        inkscape:connector-curvature="0" />

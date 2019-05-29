@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.089.svg">
-  <title id="title_er26mr12.089">Hazard Communication: C.4.10 Toxic to Reproduction</title>
-  <desc id="desc_er26mr12.089">Classified in Accordance with Appendix A.7</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90918107"
-     inkscape:cx="370.30339"
+     inkscape:cx="535.01366"
      inkscape:cy="202.01525"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -186,7 +184,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4180" /></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.84952116;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="147.36362"
        height="38.207329"
@@ -195,18 +193,18 @@
     <text
        sodipodi:linespacing="180%"
        id="text4184"
-       y="281.88562"
+       y="279.88562"
        x="502.94064"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="281.88562"
+         y="279.88562"
          x="502.94064"
          sodipodi:role="line"
          id="tspan4186" /><tspan
          id="tspan4190"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
-         y="304.38562"
+         y="302.38562"
          x="502.94064"
          sodipodi:role="line">Health hazard</tspan></text>
     <text

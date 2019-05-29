@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.083.svg">
-  <title id="title_er26mr12.083">C.4.5 Eye Damage/Irritation (continued)</title>
-  <desc id="desc_er26mr12.083">Continuation of document C.4.5</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.97645447"
-     inkscape:cx="584.12616"
+     inkscape:cx="421.29215"
      inkscape:cy="285.34883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -39,8 +37,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1280"
      inkscape:window-height="751"
-     inkscape:window-x="162"
-     inkscape:window-y="2"
+     inkscape:window-x="63"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,7 +147,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4180">Causes serious eye irritation</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.82332098;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="133.97568"
        height="40.84309"
@@ -190,7 +188,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
          id="tspan4198">Pictogram</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.38047898;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4200"
        width="810.80841"
        height="182.7193"

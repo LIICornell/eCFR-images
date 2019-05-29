@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.111.svg">
-  <title id="title_er26mr12.111">Hazard COmmunication: C.4.21 Self-Reactive Substances and Mixtures</title>
-  <desc id="desc_er26mr12.111">Classified in Accordance with Appendix B.8</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.83622292"
-     inkscape:cx="338.19362"
+     inkscape:cx="148.05293"
      inkscape:cy="252.32995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -163,7 +161,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:150%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan3834">Heating may cause an explosion</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.93589175;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="169.48372"
        height="36.395901"

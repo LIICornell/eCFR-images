@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.071.svg">
-  <title id="title_er26mr12.071">Acute toxity-oral requirements</title>
-  <desc id="desc_er26mr12.071">A document classifying the requirements for signal words, hazard statements, pictograms, and precautionary statements regarding acute toxity</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76331299"
-     inkscape:cx="636.59967"
-     inkscape:cy="198.82839"
+     inkscape:zoom="0.97360165"
+     inkscape:cx="400.22901"
+     inkscape:cy="216.16297"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,8 +37,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1280"
      inkscape:window-height="751"
-     inkscape:window-x="145"
-     inkscape:window-y="137"
+     inkscape:window-x="28"
+     inkscape:window-y="11"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,7 +159,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4180">Fatal if swallowed</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="161.89836"
        height="40.666412"
@@ -202,7 +200,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
          id="tspan4198">Pictogram</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4200"
        width="810.59998"
        height="263.94803"

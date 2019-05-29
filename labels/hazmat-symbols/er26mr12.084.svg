@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.084.svg">
-  <title id="title_er26mr12.084">C.4.5 Eye Damage/Irritation (continued)</title>
-  <desc id="desc_er26mr12.084">Continuation of document C.4.5</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1539762"
-     inkscape:cx="412.86456"
-     inkscape:cy="-53.899741"
+     inkscape:cx="406.29999"
+     inkscape:cy="88.748974"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,60 +79,60 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-471.63657"
-       y="428.03351"
+       y="424.03351"
        id="text4154"
        sodipodi:linespacing="180%"><tspan
          id="tspan4158"
          sodipodi:role="line"
          x="-471.63657"
-         y="428.03351"
+         y="424.03351"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start">Hazard category</tspan><tspan
          sodipodi:role="line"
          x="-471.63657"
-         y="450.53351"
+         y="446.53351"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4162">2B</tspan><tspan
          sodipodi:role="line"
          x="-471.63657"
-         y="473.03351"
+         y="469.03351"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4164" /></text>
     <text
        sodipodi:linespacing="180%"
        id="text4166"
-       y="428.03351"
+       y="424.03351"
        x="-331.63657"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="428.03351"
+         y="424.03351"
          x="-331.63657"
          sodipodi:role="line"
          id="tspan4168">Signal word</tspan><tspan
          id="tspan4172"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
-         y="450.53351"
+         y="446.53351"
          x="-331.63657"
          sodipodi:role="line">Warning</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-207.63657"
-       y="428.03351"
+       y="424.03351"
        id="text4174"
        sodipodi:linespacing="180%"><tspan
          id="tspan4176"
          sodipodi:role="line"
          x="-207.63657"
-         y="428.03351"
+         y="424.03351"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start">Hazard statement</tspan><tspan
          sodipodi:role="line"
          x="-207.63657"
-         y="450.53351"
+         y="446.53351"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4180">Causes eye irritation</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99438345;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="160.96809"
        height="40.672028"
@@ -175,106 +173,106 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
          id="tspan4198">Pictogram</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.33027244;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4200"
        width="810.85864"
        height="169.65987"
        x="-479.57217"
-       y="468.98477" />
+       y="464.98477" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -479.44284,492.59831 811.02639,0"
+       d="m -479.44284,488.59831 811.02639,0"
        id="path4202"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4204"
-       d="m -481.44284,514.59831 811.02639,0"
+       d="m -481.44284,510.59831 811.02639,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.77587181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -255.39596,492.13386 0.77137,143.34981"
+       d="m -255.39596,488.13386 0.77137,143.34981"
        id="path4206"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4208"
-       d="m 106.60417,492.1336 0.77111,145.20082"
+       d="m 106.60417,488.1336 0.77111,145.20082"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.78074646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        sodipodi:linespacing="180%"
        id="text4212"
-       y="508.17108"
+       y="504.17108"
        x="-395.67477"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4218"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="508.17108"
+         y="504.17108"
          x="-395.67477"
          sodipodi:role="line">Prevention</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-167.67477"
-       y="508.17108"
+       y="504.17108"
        id="text4225"
        sodipodi:linespacing="180%"><tspan
          sodipodi:role="line"
          x="-167.67477"
-         y="508.17108"
+         y="504.17108"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4227">Response</tspan></text>
     <text
        sodipodi:linespacing="180%"
        id="text4229"
-       y="508.17108"
+       y="504.17108"
        x="18.325233"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4231"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="508.17108"
+         y="504.17108"
          x="18.325233"
          sodipodi:role="line">Storage</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="196.32523"
-       y="508.17108"
+       y="504.17108"
        id="text4233"
        sodipodi:linespacing="180%"><tspan
          sodipodi:role="line"
          x="196.32523"
-         y="508.17108"
+         y="504.17108"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4235">Disposal</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:179.99999523%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-470.86926"
-       y="485.15234"
+       y="481.15234"
        id="text4237"
        sodipodi:linespacing="180%"><tspan
          sodipodi:role="line"
          x="-470.86926"
-         y="485.15234"
+         y="481.15234"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:179.99999523%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4239">Precautionary statements</tspan></text>
     <text
        sodipodi:linespacing="120%"
        id="text4299"
-       y="613.17761"
+       y="609.17761"
        x="-248.86926"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:120.00000477%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="613.17761"
+         y="609.17761"
          x="-248.86926"
          sodipodi:role="line"
          id="tspan4900">If eye irritation persists: Get medical</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
-         y="628.17761"
+         y="624.17761"
          x="-248.86926"
          sodipodi:role="line"
          id="tspan3464">advice/attention.</tspan></text>
@@ -282,65 +280,65 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-472.97302"
-       y="532.73352"
+       y="528.73352"
        id="text3638"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          x="-472.97302"
-         y="532.73352"
+         y="528.73352"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4921">Wash ... thoroughly after handling.</tspan><tspan
          id="tspan3646"
          sodipodi:role="line"
          x="-472.97302"
-         y="547.73352"
+         y="543.73352"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start">... Chemical manufacturer, importer, or </tspan><tspan
          sodipodi:role="line"
          x="-472.97302"
-         y="562.73352"
+         y="558.73352"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan3470">distributor to specify type of the body to</tspan><tspan
          id="tspan3650"
          sodipodi:role="line"
          x="-472.97302"
-         y="577.73352"
+         y="573.73352"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start">be washed after handling.</tspan><tspan
          id="tspan3652"
          sodipodi:role="line"
          x="-472.97302"
-         y="592.73352"
+         y="588.73352"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Medium Italic';text-align:start;text-anchor:start" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:120.00000477%;font-family:sans-serif;text-align:center;letter-spacing:0.1px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-247.50134"
-       y="532.83728"
+       y="528.83728"
        id="text3663"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
          x="-247.50134"
-         y="532.83728"
+         y="528.83728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan3675">If in eyes: Rinse cautiously with water</tspan><tspan
          sodipodi:role="line"
          x="-247.50134"
-         y="547.83728"
+         y="543.83728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4911">for several minutes. Remove contact</tspan><tspan
          sodipodi:role="line"
          x="-247.50134"
-         y="562.83728"
+         y="558.83728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4913">lenses, if present and easy to do. </tspan><tspan
          sodipodi:role="line"
          x="-247.50134"
-         y="577.83728"
+         y="573.83728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:'Times Bold';text-align:start;text-anchor:start"
          id="tspan4915">Continue rinsing.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4892"
-       d="m -31.395824,492.13365 0.771098,146.1312"
+       d="m -31.395824,488.13365 0.771098,146.1312"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.78323126px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

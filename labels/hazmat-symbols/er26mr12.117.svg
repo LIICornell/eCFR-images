@@ -16,8 +16,6 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="er26mr12.117.svg">
-  <title id="title_er26mr12.117">Hazard Communication: C.4.25 Substances and Mixtures which in contact with water emit flammable gases</title>
-  <desc id="desc_er26mr12.117">Classified in Accordance with Appedix B.12</desc>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92146477"
-     inkscape:cx="273.72326"
+     inkscape:cx="426.77215"
      inkscape:cy="194.03245"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -40,7 +38,7 @@
      inkscape:window-width="1280"
      inkscape:window-height="751"
      inkscape:window-x="50"
-     inkscape:window-y="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -50,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -151,7 +149,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:Times;-inkscape-font-specification:Times;text-align:start;text-anchor:start"
          id="tspan4294">spontaneously</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.48236945;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4182"
        width="156.30885"
        height="36.043766"

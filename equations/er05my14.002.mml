@@ -6,12 +6,12 @@
     </mover>
     <mo>&#8722;</mo>
     <mrow>
-      <munderover>
-        <mrow>
           <mfrac>
             <mn>1</mn>
             <mi>n</mi>
           </mfrac>
+      <munderover>
+        <mrow>
           <mspace width=".2em"/>
           <mo>&#8721;</mo>
         </mrow>
