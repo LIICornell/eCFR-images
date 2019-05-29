@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi>E</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>X</mi>
+    </munderover>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mo>,</mo>
+        <mi>x</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. RR-10)</mtext>
+</math>

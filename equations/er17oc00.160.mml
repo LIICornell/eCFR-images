@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>c</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>2</mn>
+    </msub>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>n</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>m</mi>
+          <mspace width=".2em"/>
+          <mo>(</mo>
+          <mi>std</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 5G-2</mtext>
+</math>

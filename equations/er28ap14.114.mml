@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>r</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mrow>
+            <mi>&#916;</mi>
+            <mi>p</mi>
+          </mrow>
+          <msub>
+            <mi>p</mi>
+            <mi>in</mi>
+          </msub>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.625-6</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

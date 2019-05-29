@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msubsup>
+      <mi>C</mi>
+      <mi>D</mi>
+      <mi>c</mi>
+    </msubsup>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <msub>
+            <mrow>
+              <mi style="font-style: italic">EER</mi>
+            </mrow>
+            <mrow>
+              <mi style="font-style: italic">cyc</mi>
+              <mo>,</mo>
+              <mi style="font-style: italic">dry</mi>
+            </mrow>
+          </msub>
+          <msub>
+            <mrow>
+              <mi style="font-style: italic">EER</mi>
+            </mrow>
+            <mrow>
+              <mi style="font-style: italic">ss</mi>
+              <mo>,</mo>
+              <mi style="font-style: italic">dry</mi>
+            </mrow>
+          </msub>
+        </mfrac>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mi style="font-style: italic">CLF</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

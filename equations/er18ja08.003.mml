@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>RF</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>Mi</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>Ai</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

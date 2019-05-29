@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PNL</mi>
+  <mo>(</mo>
+  <mi>k</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mrow>
+    <mn>40.0</mn>
+    <mo>+</mo>
+    <mfrac>
+      <mn>10</mn>
+      <mrow>
+        <mtext>log</mtext>
+        <mn>2</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mtext> log </mtext>
+  <mi>N</mi>
+  <mrow>
+    <mspace width=".2em"/>
+    <mo>(</mo>
+    <mi>k</mi>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mi>F</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>F</mi>
+          <mi>a</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>50</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 64)</mtext>
+</math>

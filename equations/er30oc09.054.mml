@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mn>23</mn>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>G</mi>
+      <mn>23</mn>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>S</mi>
+          <mn>23</mn>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mrow>
+            <mi>O</mi>
+            <mi>D</mi>
+          </mrow>
+          <mn>23</mn>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>D</mi>
+          <mn>23</mn>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>I</mi>
+          <mn>23</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. O-4)</mtext>
+</math>

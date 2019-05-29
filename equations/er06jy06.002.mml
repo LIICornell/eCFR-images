@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>Ps</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>Q</mi>
+        <mo>*</mo>
+        <mi>H</mi>
+      </mrow>
+      <mrow>
+        <mn>3.413</mn>
+        <mo>&#215;</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>6</mn>
+        </msup>
+        <mspace width=".2em"/>
+        <mi>Btu</mi>
+        <mo>/</mo>
+        <mi>MWh</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

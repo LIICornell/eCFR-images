@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">EER</mi>
+      <mrow>
+        <mi style="font-style: italic">cyc</mi>
+        <mo>,</mo>
+        <mi style="font-style: italic">dry</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>q</mi>
+        <mrow>
+          <mi style="font-style: italic">cyc</mi>
+          <mo>,</mo>
+          <mi style="font-style: italic">dry</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>e</mi>
+        <mrow>
+          <mi style="font-style: italic">cyc</mi>
+          <mo>,</mo>
+          <mi style="font-style: italic">dry</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

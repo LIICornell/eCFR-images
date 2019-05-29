@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>v</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>gv</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>C</mi>
+          <mi>gv</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>hv</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>hv</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>gv</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>gv</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 12</mtext>
+</math>

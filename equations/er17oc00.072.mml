@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Difference</mtext>
+  <mrow>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>o</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>w</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-2</mtext>
+</math>

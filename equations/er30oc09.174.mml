@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>D</mi>
+      <mo>=</mo>
+      <msub>
+        <mi>F</mi>
+        <mi>D</mi>
+      </msub>
+    </mrow>
+    <mo>*</mo>
+  </mrow>
+  <mi>D</mi>
+  <mi>E</mi>
+  <mspace width="4em"/>
+  <mtext>(Eq. OO-4)</mtext>
+</math>

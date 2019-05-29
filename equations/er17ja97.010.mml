@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AMR</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>QMW</mi>
+        <mi>a</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>QMW</mi>
+        <mi>b</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eqn WW10)</mtext>
+</math>

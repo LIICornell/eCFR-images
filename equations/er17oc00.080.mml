@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>r</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>V</mi>
+      <mi>r</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mi>&#961;</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-10</mtext>
+</math>

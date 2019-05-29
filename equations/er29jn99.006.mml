@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>FK</mi>
+    <msub>
+      <mi>V</mi>
+      <mi>s</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>t</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>[Eq. 7]</mtext>
+</math>

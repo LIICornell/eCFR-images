@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#961;</mi>
+      <mi>std</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>101325</mn>
+        <mo>&#183;</mo>
+        <mn>0.0287805</mn>
+      </mrow>
+      <mrow>
+        <mn>8.314472</mn>
+        <mo>&#183;</mo>
+        <mn>293.15</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

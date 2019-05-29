@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>ECPV</mi>
+        <mn>2</mn>
+      </mrow>
+      <mi>iACTUAL</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mrow>
+        <mi>ECPV</mi>
+        <mn>2</mn>
+      </mrow>
+      <mi>iu</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <mtext>Percent reduction</mtext>
+        <mrow>
+          <mn>100</mn>
+          <mo>%</mo>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 37]</mtext>
+</math>

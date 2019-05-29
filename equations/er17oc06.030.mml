@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Equation 16</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>CP</mi>
+        <mo>=</mo>
+        <msqrt>
+          <mrow>
+            <munderover>
+              <mrow>
+                <mfrac>
+                  <mn>1</mn>
+                  <mi>J</mi>
+                </mfrac>
+                <mspace width=".2em"/>
+                <mo>&#8721;</mo>
+              </mrow>
+              <mrow>
+                <mi>j</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>J</mi>
+            </munderover>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <msub>
+                  <mi>CP</mi>
+                  <mi>j</mi>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+        </msqrt>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

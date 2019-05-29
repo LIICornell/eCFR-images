@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>%</mo>
+      <mspace width=".5em"/>
+      <mi>As</mi>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>5</mn>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>a</mi>
+        </msub>
+        <msub>
+          <mi>F</mi>
+          <mi>d</mi>
+        </msub>
+      </mrow>
+      <mi>W</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 108A-1</mtext>
+</math>

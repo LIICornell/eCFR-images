@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;P</mi>
+  <mo>=</mo>
+  <mn>0.01</mn>
+  <mfrac>
+    <mrow>
+      <mi>F</mi>
+      <msub>
+        <mi>P</mi>
+        <mi>b</mi>
+      </msub>
+      <mi>&#920;</mi>
+    </mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>t</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 25-1</mtext>
+</math>

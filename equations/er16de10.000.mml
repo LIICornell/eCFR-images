@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>Volume of X State</mtext>
+    <mrow>
+      <mtext>Volume of all States</mtext
+>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mtext>A percent</mtext>
+</math>

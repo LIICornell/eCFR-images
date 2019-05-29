@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>&#x2223;</mo>
+    <mrow>
+      <msub>
+        <mi>SCE</mi>
+        <mi>f</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>SCE</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#x2223;</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-2</mtext>
+</math>

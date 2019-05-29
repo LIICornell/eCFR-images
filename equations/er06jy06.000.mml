@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>X</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>HI</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+    </mrow>
+    <mi>P</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

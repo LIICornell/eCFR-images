@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msup>
+      <mi>S</mi>
+      <mn>2</mn>
+    </msup>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+        <mi>n</mi>
+      </munderover>
+      <mfrac>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>X</mi>
+                <mi>i</mi>
+              </msub>
+              <mo>&#8722;</mo>
+              <mover>
+                <mi>X</mi>
+                <mo>&#8212;</mo>
+              </mover>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+        <mrow>
+          <mi>n</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. A.3</mtext>
+</math>

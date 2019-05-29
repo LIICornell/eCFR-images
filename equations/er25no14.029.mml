@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>F</mi>
+      <mi>R</mi>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>p</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>h</mi>
+        </munderover>
+        <msub>
+          <mi>T</mi>
+          <mi>p</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. W-7A)</mtext>
+</math>

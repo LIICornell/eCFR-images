@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>x</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi style="font-style: italic">POP</mi>
+        <mi>x</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi style="font-style: italic">WDR</mi>
+        <mi>x</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. HH-2)</mtext>
+</math>

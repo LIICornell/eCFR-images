@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>y</mi>
+      <mo>^</mo>
+    </mover>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>b</mi>
+        <mn>0</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>b</mi>
+        <mn>1</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mi>x</mi>
+  <mspace width="2em"/>
+  <mtext>(Eq. 11-3)</mtext>
+</math>

@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>Y</mi>
+      <mn>1</mn>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>X</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <mi>z</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 19)</mtext>
+</math>

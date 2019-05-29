@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi style="font-style: italic">st</mi>
+        <mo>_</mo>
+        <mi style="font-style: italic">i</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mi>&#916;</mi>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi style="font-style: italic">st</mi>
+        <mo>_</mo>
+        <mi style="font-style: italic">full</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>Q</mi>
+          <mi>i</mi>
+        </msub>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">full</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+</math>

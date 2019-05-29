@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi style="font-style: italic">CTGE</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>2853</mn>
+          <mi>g</mi>
+        </mrow>
+        <msub>
+          <mi>n</mi>
+          <mi style="font-style: italic">tv</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi style="font-style: italic">tv</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <msub>
+            <mi>n</mi>
+            <mrow>
+              <mi style="font-style: italic">tv</mi>
+            </mrow>
+          </msub>
+        </munderover>
+        <mfrac>
+          <msub>
+            <mi>E</mi>
+            <mrow>
+              <mi>I</mi>
+              <mi>C</mi>
+            </mrow>
+          </msub>
+          <msub>
+            <mi>m</mi>
+            <mi style="font-style: italic">tv</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

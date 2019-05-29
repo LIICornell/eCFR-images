@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <msub>
+        <mi>C</mi>
+        <mn>3</mn>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <msub>
+        <mi>C</mi>
+        <mn>3</mn>
+      </msub>
+    </msub>
+  </mrow>
+  <mi>K</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 204F-3</mtext>
+</math>

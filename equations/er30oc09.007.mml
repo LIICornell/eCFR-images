@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>3</mn>
+        </mrow>
+      </msup>
+    </mrow>
+  </mrow>
+  <mtext>Steam</mtext>
+  <mrow>
+    <mrow>
+      <mo>*</mo>
+      <mi>B</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi>EF</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. C-2c)</mtext>
+</math>

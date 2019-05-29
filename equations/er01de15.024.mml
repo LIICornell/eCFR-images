@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext style="font-style: italic">Ni Operating Limit</mtext>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mtext style="font-style: italic">Opacity</mtext>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <msub>
+        <mtext>E-Cat</mtext>
+        <mrow>
+          <mi>s</mi>
+          <mi>t</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi style="font-style: italic">mon</mi>
+          <mo>,</mo>
+          <mi>s</mi>
+          <mi>t</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>R</mi>
+        <mrow>
+          <mi>c</mi>
+          <mo>,</mo>
+          <mi>s</mi>
+          <mi>t</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 10)</mtext>
+</math>

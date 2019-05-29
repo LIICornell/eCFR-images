@@ -1,0 +1,11 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Increase in separation</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>&quot;total volume of allowed local subdivision&quot;</mtext>
+      <mtext>&quot;transverse sectional area at center of
+      compartment&quot;</mtext>
+    </mfrac>
+  </mrow>
+</math>

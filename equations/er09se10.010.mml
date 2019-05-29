@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mi>R</mi>
+          <mo>&#8722;</mo>
+          <mi>A</mi>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mi style="font-style: italic;">Span</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+    <mspace width="4em"/>
+    <mtext>(Equation 12A-2)</mtext>
+  </mrow>
+</math>

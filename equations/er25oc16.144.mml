@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Confidence Limit </mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>1.96</mn>
+        <mo>&#183;</mo>
+        <mn>165.0</mn>
+      </mrow>
+      <mrow>
+        <msqrt>
+          <mn>3</mn>
+        </msqrt>
+        <mo>&#183;</mo>
+        <mn>314200</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>&#183;</mo>
+  <mn>100</mn>
+</math>

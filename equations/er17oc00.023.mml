@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mo>max</mo>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>K</mi>
+        <mn>6</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>K</mi>
+        <mn>7</mn>
+      </msub>
+      <msub>
+        <mi>H</mi>
+        <mi>T</mi>
+      </msub>
+    </mrow>
+  </mrow>
+</math>

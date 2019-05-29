@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CI</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mi>e</mi>
+        <mrow>
+          <mi>UCL</mi>
+          <mo>&#8242;</mo>
+        </mrow>
+      </msup>
+      <mo>&#8722;</mo>
+      <msup>
+        <mi>e</mi>
+        <mrow>
+          <mi>LCL</mi>
+          <mo>&#8242;</mo>
+        </mrow>
+      </msup>
+    </mrow>
+    <mn>2</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-42)</mtext>
+</math>

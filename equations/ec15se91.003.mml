@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>dn</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>10</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>log</mi>
+        <mrow>
+          <mn>10</mn>
+          <mspace width=".2em"/>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mfrac>
+    <mn>1</mn>
+    <mn>365</mn>
+  </mfrac>
+  <mrow>
+    <munderover>
+      <mrow>
+        <mspace width=".2em"/>
+        <mo>&#8721;</mo>
+      </mrow>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mn>365</mn>
+    </munderover>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi>dni</mi>
+        </msub>
+        <mo>/</mo>
+        <mn>10</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(4)</mtext>
+</math>

@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>O</mi>
+      </mrow>
+      <mrow>
+        <mi>g</mi>
+        <mo>/</mo>
+        <mo style="font-style: italic">min</mo>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">std</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo>
+        <mspace width=".2em"/>
+          <mrow>
+            <mi>C</mi>
+            <msub>
+              <mi>O</mi>
+              <mi>s</mi>
+            </msub>
+          </mrow>
+      </mrow>
+      <mo>&#183;</mo>
+      <mrow>
+        <mspace width=".2em"/>
+        <mn>3.30</mn>
+        <mi>x</mi>
+        <mspace width=".2em"/>
+        <msup>
+          <mn>10</mn>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mn>5</mn>
+          </mrow>
+        </msup>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

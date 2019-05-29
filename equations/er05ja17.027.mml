@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 2.2-2</mtext>
+  <mspace width="4em"/>
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>&#961;</mi>
+  </mrow>
+  <mo>*</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mn>5</mn>
+            </msub>
+            <mo>*</mo>
+            <msub>
+              <mi>f</mi>
+              <mn>5</mn>
+            </msub>
+          </mrow>
+          <mo>&#43;</mo>
+          <msub>
+            <mi>V</mi>
+            <mn>6</mn>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mi>f</mi>
+          <mn>6</mn>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi>v</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>F</mi>
+          <mi>d</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>X</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>e</mi>
+    </msub>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>Eq. 14A-1</mtext>
+</math>

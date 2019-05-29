@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 5: &#916;</mtext>
+  <msub>
+    <mi>T</mi>
+    <mn>30</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mi>MD</mi>
+    <mo>&#43;</mo>
+    <mi>CRP</mi>
+  </mrow>
+</math>

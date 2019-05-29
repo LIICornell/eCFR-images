@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>v</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+        <mo>&#8721;</mo>
+      <msub>
+        <mi>a</mi>
+        <mi>i</mi>
+      </msub>
+      <mi>b</mi>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>c</mi>
+    <mi>i</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(6)</mtext>
+  <mo></mo>
+</math>

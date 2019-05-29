@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>N</mi>
+      <mi>I</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>N</mi>
+          <mi>T</mi>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mi>T</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>I</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 16A-6</mtext>
+</math>

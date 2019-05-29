@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mi>H</mi>
+      </mfrac>
+      <mspace width=".2em"/>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mi>hj</mi>
+      </msub>
+      <mspace width="4em"/>
+      <mtext>Eq. 19-19</mtext>
+    </mrow>
+  </mrow>
+</math>

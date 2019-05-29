@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Annual</mtext>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>SO</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mspace width=".2em"/>
+    <mtext>Emissions Rate</mtext>
+    <mo>=</mo>
+  </mrow>
+  <mfrac>
+    <mrow>
+      <mtext>Annual</mtext>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>SO</mi>
+        </mrow>
+        <mn>2</mn>
+      </msub>
+      <mspace width=".2em"/>
+      <mtext>Emissions</mtext>
+    </mrow>
+    <mrow>
+      <mtext>Annual Fuel Consumption</mtext>
+    </mrow>
+  </mfrac>
+</math>

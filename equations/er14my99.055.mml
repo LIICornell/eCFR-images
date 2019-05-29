@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>bar</mi>
+      </msub>
+      <mo>+</mo>
+      <mfrac>
+        <msub>
+          <mi>P</mi>
+          <mi>g</mi>
+        </msub>
+        <mn>13.6</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2F-S</mtext>
+</math>

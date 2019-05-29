@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mi>V</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>V</mi>
+        </msub>
+        <msub>
+          <mi>T</mi>
+          <mi>STD</mi>
+        </msub>
+        <msub>
+          <mi>P</mi>
+          <mi>M</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>M</mi>
+        </msub>
+        <msub>
+          <mi>P</mi>
+          <mi>STD</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 204F-1</mtext>
+</math>

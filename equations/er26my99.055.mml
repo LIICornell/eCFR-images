@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mtext>c</mtext>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>q</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mtext>the current quarter</mtext>
+    </munderover>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mtext>q</mtext>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-18b)</mtext>
+</math>

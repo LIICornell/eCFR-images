@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>HI</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>Q</mi>
+    <mi>w</mi>
+  </msub>
+  <mfrac>
+    <mn>1</mn>
+    <msub>
+      <mi>F</mi>
+      <mi>c</mi>
+    </msub>
+  </mfrac>
+  <mfrac>
+    <mrow>
+      <mo>%</mo>
+      <msub>
+        <mi>CO</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>w</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <mn>100</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-15)</mtext>
+</math>

@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mi>GHR</mi>
+        <mo>)</mo>
+      </mrow>
+      <mi>base</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <mtext>Heat Input</mtext>
+            <mo>)</mo>
+          </mrow>
+          <mi>avg</mi>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mi>avg</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>1000</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-1c)</mtext>
+</math>

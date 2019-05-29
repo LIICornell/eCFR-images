@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>GAS</mi>
+      <mi>rate</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>GAS</mi>
+        <mi>unit</mi>
+      </msub>
+      <mi>t</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-7)</mtext>
+</math>

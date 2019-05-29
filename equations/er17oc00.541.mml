@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PLD</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi>b</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>L</mi>
+          <mi>y</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>D</mi>
+        <mi>ob</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 303-7</mtext>
+</math>

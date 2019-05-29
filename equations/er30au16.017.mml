@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>U</mi>
+  <mi>D</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mrow>
+        <msub>
+          <mi>R</mi>
+          <mi>CEM</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>U</mi>
+        </msub>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>r</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 11-1</mtext>
+</math>

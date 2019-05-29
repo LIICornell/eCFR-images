@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>NO</mi>
+          <mi>X</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mi>m</mi>
+    </msub>
+    <mrow>
+      <mi>BL</mi>
+      <mo>*</mo>
+      <mi>AL</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

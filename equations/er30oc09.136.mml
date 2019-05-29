@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>CH</mi>
+        <mn>4</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>f</mi>
+        <mi style="font-style: italic">NMOC</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi style="font-style: italic">TGOC</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. HH-9)</mtext>
+</math>

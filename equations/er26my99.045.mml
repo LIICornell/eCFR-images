@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>K</mi>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>h</mi>
+  </msub>
+  <msub>
+    <mi>Q</mi>
+    <mi>h</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-11)</mtext>
+</math>

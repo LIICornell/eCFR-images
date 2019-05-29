@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>PS</mi>
+    <msub>
+      <mi>SO</mi>
+      <mn>2</mn>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mi>y</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mn>340</mn>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mi>z</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mn>520</mn>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>y</mi>
+        <mo>+</mo>
+        <mi>z</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>V</mi>
+        <msub>
+          <mi>m</mi>
+          <mi>s</mi>
+        </msub>
+      </msub>
+      <mi>&#952;</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2A-3</mtext>
+</math>

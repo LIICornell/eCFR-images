@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>estimate</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mtext>saturation</mtext>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>C</mi>
+        </mrow>
+        <mrow>
+          <mi>n-octanol</mi>
+        </mrow>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mtext>saturation</mtext>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>C</mi>
+      <mi>water</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+</math>

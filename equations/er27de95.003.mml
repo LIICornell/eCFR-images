@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtext>Total value of additions</mtext>
+        <mtext>Total value of trust</mtext>
+      </mfrac>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>120,000</mn>
+          <mo>+</mo>
+          <mo>$</mo>
+          <mn>40,000</mn>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mo>$</mo>
+            <mn>600,000</mn>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>40,000</mn>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>160,000</mn>
+        </mrow>
+        <mrow>
+          <mo>$</mo>
+          <mn>640,000</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+  <mn>5</mn>
+</math>

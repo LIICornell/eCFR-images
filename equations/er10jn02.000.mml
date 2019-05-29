@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>f</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi>sd</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>C</mi>
+  </msub>
+  <mo>(</mo>
+  <mn>12</mn>
+  <mo>)</mo>
+  <mo>(</mo>
+  <mn>0.0416</mn>
+  <mo>)</mo>
+  <mrow>
+    <mo>(</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>6</mn>
+      </mrow>
+    </msup>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>BAF</mi>
+  <mo>=</mo>
+  <mrow>
+    <mn>1</mn>
+    <mo>+</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mover>
+          <mi>d</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <msub>
+        <mi>CEM</mi>
+        <mi>avg</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. A-12)</mtext>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi style="font-style: italic">nominal</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>S</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>F</mi>
+        </msub>
+      </mrow>
+      <mn>2</mn>
+    </mfrac>
+  </mrow>
+</math>

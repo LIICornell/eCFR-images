@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ACP</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mtext>Most Recent Updated Index</mtext>
+      <mtext>New Base Index</mtext>
+    </mfrac>
+    <mspace width=".2em"/>
+    <mo>&#215;</mo>
+    <mi>CCP</mi>
+    <mspace width=".2em"/>
+    <mtext></mtext>
+  </mrow>
+</math>

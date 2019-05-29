@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>t</mi>
+        <mi>R</mi>
+      </msub>
+      <mo>=</mo>
+      <mfrac>
+        <msub>
+          <mi>V</mi>
+          <mi>RC</mi>
+        </msub>
+        <mrow>
+          <msub>
+            <mi>F</mi>
+            <mi>O</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>F</mi>
+            <mi>NO</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>&lt;</mo>
+    <mn>2</mn>
+    <mspace width=".2em"/>
+    <mtext>minutes</mtext>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4)</mtext>
+</math>

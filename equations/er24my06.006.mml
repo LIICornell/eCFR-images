@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>LC</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>x</mi>
+    <mi>avg</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>t</mi>
+        <mn>0.90</mn>
+      </msub>
+      <mi>s</mi>
+    </mrow>
+    <msqrt>
+      <mi>n</mi>
+    </msqrt>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 11</mtext>
+</math>

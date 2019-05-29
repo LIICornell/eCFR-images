@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msubsup>
+      <mi>E</mi>
+      <mi>ao</mi>
+      <mo>*</mo>
+    </msubsup>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>ao</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>t</mi>
+        <mn>0.95</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>S</mi>
+    <mi>o</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-28</mtext>
+</math>

@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>corr</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>meas</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>20.9</mn>
+            <mo>&#8722;</mo>
+            <mi>Y</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>/</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>20.9</mn>
+            <mo>&#8722;</mo>
+            <mi>X</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 8)</mtext>
+</math>

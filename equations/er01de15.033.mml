@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Analytical Precision</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <mrow>
+              <mi>A</mi>
+              <mn>1</mn>
+            </mrow>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mi>A</mi>
+              <mn>2</mn>
+            </mrow>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mover>
+        <mi>A</mi>
+        <mo>&#8212;</mo>
+      </mover>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 9.2</mtext>
+</math>

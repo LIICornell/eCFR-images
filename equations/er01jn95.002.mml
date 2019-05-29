@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>Book Value of particular component</mtext>
+    <mrow>
+      <mtext>Book Value of Debt </mtext>
+      <mo>+</mo>
+      <mtext>Book Value of Preferred Stock </mtext>
+      <mo>+</mo>
+      <mtext>Book Value of Equity</mtext>
+    </mrow>
+  </mfrac>
+</math>

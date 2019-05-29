@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mn>2</mn>
+            <mo>&#8719;</mo>	
+          </mrow>
+          <mn>60,000</mn>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mi>speed</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>torque</mi>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>C</mi>
+    <mi>D</mi>
+    <mi>h</mi>
+  </msubsup>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msub>
+          <mi style="font-style: italic">COP</mi>
+          <mi style="font-style: italic">cyc</mi>
+        </msub>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">COP</mi>
+            <mi style="font-style: italic">SS</mi>
+          </msub>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>T</mi>
+              <mi>cyc</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>H</mi>
+      <mi>L</mi>
+      <mi>F</mi>
+    </mrow>
+  </mfrac>
+</math>

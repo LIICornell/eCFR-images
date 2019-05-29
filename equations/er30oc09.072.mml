@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>1</mn>
+        <mi>k</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mrow>
+          <mi>CO</mi>
+          <msub>
+            <mn>2</mn>
+            <mi>k</mi>
+          </msub>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. R-2)</mtext>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>test</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi>fs</mi>
+    </msub>
+  </mrow>
+  <mfrac>
+    <mi>L</mi>
+    <msub>
+      <mi>V</mi>
+      <mi>fs</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 304A-1</mtext>
+</math>

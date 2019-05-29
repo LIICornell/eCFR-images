@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <msub>
+      <mi>E</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>G</mi>
+    <mi>n</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. II-3)</mtext>
+</math>

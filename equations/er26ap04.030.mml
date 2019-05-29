@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>m</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>W</mi>
+        <mrow>
+          <mi>rem</mi>
+          <mo>,</mo>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>W</mi>
+      <mrow>
+        <mi>sdep</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-3)</mtext>
+</math>

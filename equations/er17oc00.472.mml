@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>SD</mi>
+  <mo>=</mo>
+  <msqrt>
+    <mrow>
+      <msub>
+        <mi>SD</mi>
+        <mi>s</mi>
+      </msub>
+      <mn>2</mn>
+      <mo>+</mo>
+      <msub>
+        <mi>SD</mi>
+        <mi>u</mi>
+      </msub>
+      <mn>2</mn>
+    </mrow>
+  </msqrt>
+  <mspace width="2em"/>
+  <mtext>Eq. 9</mtext>
+</math>

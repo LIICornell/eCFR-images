@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MEC</mi>
+  <mo>=</mo>
+  <mi>MPC</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>100</mn>
+        <mo>&#8722;</mo>
+        <mi>RE</mi>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-2)</mtext>
+</math>

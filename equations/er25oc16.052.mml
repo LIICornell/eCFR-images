@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>x</mi>
+        <mi>b</mi>
+      </msub>
+      <mo>=</mo>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mfrac>
+          <mn>1.69</mn>
+          <mn>14.67</mn>
+        </mfrac>
+        <mo>&#x2223;</mo>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>0.320</mn>
+      <mspace width=".2em"/>
+      <mi>kW</mi>
+    </mrow>
+  </mrow>
+</math>

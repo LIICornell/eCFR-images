@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mspace width=".2em"/>
+        <mtext>Result from (i)(2)</mtext>
+      </mfrac>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <mspace width=".2em"/>
+        <mtext>Result from (i)(3)</mtext>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Difference</mtext>
+    </mfrac>
+  </mrow>
+</math>

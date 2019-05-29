@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtext>Dynamic viscosity </mtext>
+        <mtext>(mPa &#183; s)</mtext>
+      </mrow>
+      <mrow>
+        <mtext>Density </mtext>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>g</mi>
+            <mo>/</mo>
+            <msup>
+              <mi>cm</mi>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mtext>Kinematic viscosity </mtext>
+    <mrow>
+      <mo>(</mo>
+      <msup>
+        <mi>mm</mi>
+        <mn>2</mn>
+      </msup>
+      <mo>/</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

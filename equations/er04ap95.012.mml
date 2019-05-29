@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>first year partial baseline </mtext>
+    <mo>=</mo>
+  </mrow>
+  <munder>
+    <mo>&#8721;</mo>
+    <mtext>First 3 consecutive years</mtext>
+  </munder>
+  <mfrac>
+    <mtext>fuel consumption for the remaining calendar quarters</mtext>
+    <mn>3</mn>
+  </mfrac>
+</math>

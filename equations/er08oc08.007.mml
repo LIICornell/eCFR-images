@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#916;t</mi>
+    <mo>=</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>/</mo>
+      <msub>
+        <mi>f</mi>
+        <mi>record</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.650-5</mtext>
+</math>

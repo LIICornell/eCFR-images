@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mo>&#x3dd;</mo>
+    <mrow>
+      <mi>ntest</mi>
+      <mo>,</mo>
+      <mi>alt</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>2200</mn>
+        <mo>&#8722;</mo>
+        <mn>800</mn>
+      </mrow>
+      <mn>1.05</mn>
+    </mfrac>
+    <mo>+</mo>
+    <mn>800</mn>
+  </mrow>
+</math>

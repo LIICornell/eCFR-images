@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>10</mn>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>log</mi>
+      <mn>10</mn>
+    </msub>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>T</mi>
+  </mfrac>
+  <mrow>
+    <msubsup>
+      <mo>&#8747;</mo>
+      <mi>O</mi>
+      <mi>T</mi>
+    </msubsup>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi>A</mi>
+        </msub>
+        <mo>(</mo>
+        <mi>t</mi>
+        <mo>)</mo>
+        <mo>/</mo>
+        <mn>10</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mi>dt</mi>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(1)</mtext>
+</math>

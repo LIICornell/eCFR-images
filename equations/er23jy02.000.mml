@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>e</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>A</mi>
+      <mo>+</mo>
+      <mi>B</mi>
+      <mo>+</mo>
+      <mi>C</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>R</mi>
+      <mi>w</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

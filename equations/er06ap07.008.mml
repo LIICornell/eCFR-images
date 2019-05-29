@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Lateral Displacement</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mo>&#x222c;</mo>
+      <msub>
+        <mi>Ay</mi>
+        <mrow>
+          <mi>C</mi>
+          <mo>.</mo>
+          <mi>G</mi>
+          <mo>.</mo>
+        </mrow>
+      </msub>
+      <mi>dt</mi>
+    </mrow>
+  </mrow>
+</math>

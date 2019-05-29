@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>1994 purchasing costs</mtext>
+            <mtext>1994 purchases</mtext>
+          </mfrac>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mo>$</mo>
+              <mn>400</mn>
+            </mrow>
+            <mrow>
+              <mo>$</mo>
+              <mn>10,000</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mn>4.0</mn>
+        <mo>%</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

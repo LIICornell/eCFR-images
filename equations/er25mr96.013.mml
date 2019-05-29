@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Spectral efficiency</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mtext>&quot;Digital transfer rate&quot;</mtext>
+        <mspace width=".6em"/>
+        <mtext>(bits/second)</mtext>
+      </mrow>
+      <mrow>
+        <mn>6</mn>
+        <mspace width=".4em"/>
+        <mi>dB</mi>
+        <mspace width=".4em"/>
+        <mtext>spectrum bandwidth (Hz).</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

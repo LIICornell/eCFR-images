@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>DOC</mi>
+      <mi>x</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>MCD</mi>
+        <mrow>
+          <mi>sample</mi>
+          <mi>,x</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mrow>
+          <mi>sample</mi>
+          <mi>,x</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. TT-7)</mtext>
+</math>

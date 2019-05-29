@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ZD</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mrow>
+        <msub>
+          <mi>R</mi>
+          <mi>CEM</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>L</mi>
+        </msub>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>r</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 2-3</mtext>
+</math>

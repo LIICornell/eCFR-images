@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Percent Post-consumer Coating </mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Volume of Post-consumer Coating</mtext>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mtext>Volume of Post-consumer Coating</mtext>
+          <mo>+</mo>
+          <mtext>Volume of Virgin Materials</mtext>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+    <mspace width=".2em"/>
+    <mtext>Percent</mtext>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(8)</mtext>
+</math>

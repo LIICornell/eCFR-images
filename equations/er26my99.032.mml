@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mtext>SO-qtr</mtext>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2000</mn>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mtext>all-hours-in-qtr</mtext>
+    </munder>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mtext>SO2-hr</mtext>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-13)</mtext>
+</math>

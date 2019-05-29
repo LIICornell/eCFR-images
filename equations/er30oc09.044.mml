@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mo>,</mo>
+      <mi>rm</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <mrow>
+      <mrow>
+        <mi>r</mi>
+        <mi>m</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mi style="font-style: italic">TOC</mi>
+            <mi style="font-style: italic">rm</mi>
+          </mrow>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mn>44</mn>
+            <mn>12</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mn>2000</mn>
+          <mn>2205</mn>
+        </mfrac>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. H-5)</mtext>
+</math>

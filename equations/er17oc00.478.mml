@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>PP</mi>
+      <mi>VC</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>ATM</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>RV</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>R</mi>
+      <mi>W</mi>
+    </msub>
+  </mrow>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>v</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mi>o</mi>
+      </msub>
+      <msub>
+        <mi>A</mi>
+        <mi>o</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 5D-1</mtext>
+</math>

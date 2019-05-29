@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mspace width=".2em"/>
+    <mtext>Contract acres</mtext>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mtext>divided by </mtext>
+  <mrow>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Total acres</mtext>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Percent of contract acres to total acres</mtext>
+    </mfrac>
+  </mrow>
+</math>

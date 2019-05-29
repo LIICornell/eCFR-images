@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mo>=</mo>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <msubsup>
+          <mi>S</mi>
+          <mi style="font-style: italic">gw</mi>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>S</mi>
+          <mi style="font-style: italic">sw</mi>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>S</mi>
+          <mi style="font-style: italic">sessi</mi>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>S</mi>
+          <mi>a</mi>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mn>4</mn>
+    </mfrac>
+  </msqrt>
+</math>

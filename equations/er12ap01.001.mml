@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Compliance Ratio</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Actual Hap Loss</mtext>
+      <mtext>Allowable Hap Loss</mtext>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

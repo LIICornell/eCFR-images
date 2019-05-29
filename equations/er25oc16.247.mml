@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>F</mi>
+        <mo>=</mo>
+        <mrow>
+          <msub>
+            <mi>I</mi>
+            <mi>b</mi>
+          </msub>
+          <mo>&#183;</mo>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mi>a</mi>
+            <mo>&#x2223;</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.265-4</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <msub>
+      <mi>D</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <msub>
+              <mi>R</mi>
+              <mi>base</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>R</mi>
+              <mi>h</mi>
+            </msub>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <msub>
+          <mi>R</mi>
+          <mi>base</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+      <mspace width="4em"/>
+      <mtext>(Eq. D-1f)</mtext>
+    </mrow>
+  </mrow>
+</math>

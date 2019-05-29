@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Coating Fee</mtext>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mtext>Fee Rate</mtext>
+        <mo>&#215;</mo>
+        <mtext>Excess VOC</mtext>
+      </mrow>
+      <mo>&#215;</mo>
+      <mtext>Volume Manufactured or Imported</mtext>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(2)</mtext>
+</math>

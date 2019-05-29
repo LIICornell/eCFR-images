@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>A</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>A</mi>
+    <mi>f</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 106-1</mtext>
+</math>

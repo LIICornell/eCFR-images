@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>T</mi>
+    <mrow>
+      <mi>s</mi>
+      <mo>(</mo>
+      <mi>i</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>273</mn>
+    <mo>+</mo>
+    <msub>
+      <mi>t</mi>
+      <mrow>
+        <mi>s</mi>
+        <mo>(</mo>
+        <mi>i</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2F-6</mtext>
+</math>

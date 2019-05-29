@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CS</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mrow>
+        <mo>[</mo>
+        <mi>anal</mi>
+        <mo>]</mo>
+      </mrow>
+      <mi>dir</mi>
+    </msub>
+    <mi>DF</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5</mtext>
+</math>

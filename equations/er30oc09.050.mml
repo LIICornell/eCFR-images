@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>k</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mrow>
+          <msub>
+            <mi>CO</mi>
+            <mn>2</mn>
+          </msub>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. N-2)</mtext>
+</math>

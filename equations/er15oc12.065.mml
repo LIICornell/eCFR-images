@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi style="font-style: italic">FCIV</mi>
+      </mrow>
+      <mi>AC</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>gal</mi>
+        <mo>/</mo>
+        <mi>mi</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi style="font-style: italic">ACCredit</mi>
+          <mo>&#215;</mo>
+          <mn>1,000,000</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mrow>
+            <mi style="font-style: italic">VLM</mi>
+            <mo>&#215;</mo>
+            <mi style="font-style: italic">Production</mi>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>8887</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

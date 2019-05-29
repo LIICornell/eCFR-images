@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>% Water Quench</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mn>100</mn>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mi>D</mi>
+              <mn>1</mn>
+            </mrow>
+            <mo>&#8722;</mo>
+            <mi>AR</mi>
+          </mrow>
+          <mrow>
+            <mi>D</mi>
+            <mn>1</mn>
+          </mrow>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mi>Wm</mi>
+          <mrow>
+            <mi>Z</mi>
+            <mn>1</mn>
+          </mrow>
+        </mfrac>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">THD</mi>
+    <mi>I</mi>
+  </msub>
+  <mo>=</mo>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <msubsup>
+          <mi>I</mi>
+          <mn>2</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>I</mi>
+          <mn>3</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>I</mi>
+          <mn>4</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>I</mi>
+          <mn>5</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <mspace width=".2em"/>
+        <mrow>
+          <mi>K</mi>
+          <mspace width=".2em"/>
+          <mi>K</mi>
+          <mspace width=".2em"/>
+          <msubsup>
+            <mi>I</mi>
+            <mi>n</mi>
+            <mn>2</mn>
+          </msubsup>
+        </mrow>
+      </mrow>
+      <msub>
+        <mi>I</mi>
+        <mn>1</mn>
+      </msub>
+    </mfrac>
+  </msqrt>
+</math>

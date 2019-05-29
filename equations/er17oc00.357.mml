@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>v</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>W</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>W</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>W</mi>
+        <mn>3</mn>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 24-2</mtext>
+</math>

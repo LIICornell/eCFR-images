@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <mspace width=".2em"/>
+    <mtext style="font-style: italic">Biogenic</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>V</mi>
+        <mi style="font-style: italic">bio</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi style="font-style: italic">total</mi>
+      </msub>
+    </mfrac>
+    <mspace width="4em"/>
+    <mtext>(Eq. C-14)</mtext>
+  </mrow>
+</math>

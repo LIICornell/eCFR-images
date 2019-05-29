@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Percent recovery</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mtext>Concentration found</mtext>
+        <mtext>Concentration spiked</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

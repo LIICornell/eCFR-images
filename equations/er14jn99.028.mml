@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>FAU</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>NRMS</mi>
+      <mi>E</mi>
+    </msub>
+    <msub>
+      <mi>IA</mi>
+      <mi>AV</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(H.4)</mtext>
+</math>

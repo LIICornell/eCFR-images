@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mo>&#177;</mo>
+  <msqrt>
+    <mrow>
+      <msubsup>
+        <mrow>
+          <mn>0.6</mn>
+          <mi>C</mi>
+        </mrow>
+        <mi>s</mi>
+        <mn>2</mn>
+      </msubsup>
+      <mo>&#43;</mo>
+      <msubsup>
+        <mrow>
+          <mn>0.4</mn>
+          <mi>C</mi>
+        </mrow>
+        <mi>m</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+  </msqrt>
+</math>

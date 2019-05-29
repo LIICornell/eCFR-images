@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>0.209</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>F</mi>
+          <mi>d</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 3B-5</mtext>
+</math>

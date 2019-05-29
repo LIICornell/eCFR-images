@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>ref</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mi>Q</mi>
+          <mi>ref</mi>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mi>avg</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>5</mn>
+        </mrow>
+      </msup>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-13)</mtext>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Ballast Luminous Efficiency</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mtext><mrow>
+        <mfrac>
+          <mtext>Total Lamp Arc Power</mtext>
+          <mtext>Input Power</mtext>
+        </mfrac>
+      </mrow>
+      </mtext>
+      <mo>&#215;</mo>
+      <mi>&#946;</mi>
+    </mrow>
+  </mrow>
+</math>

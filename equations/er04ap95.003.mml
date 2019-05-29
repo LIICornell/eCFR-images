@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>alternative baseline</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mtext>First 3 consecutive years</mtext>
+        </munder>
+        <mtext>annual fuel consumption</mtext>
+      </mrow>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+</math>

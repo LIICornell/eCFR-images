@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>A</mi>
+      <mo>=</mo>
+      <msub>
+        <mi>log</mi>
+        <mn>10</mn>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mi>T</mi>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mspace width=".2em"/>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>log</mi>
+        <mn>10</mn>
+      </msub>
+      <mspace width=".2em"/>
+    </mrow>
+  </mrow>
+  <mi>T</mi>
+</math>

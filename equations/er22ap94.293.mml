@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>RR</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>%</mo>
+      <msub>
+        <mi>V</mi>
+        <mi>L</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mn>2</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+    <mn>0.10</mn>
+  </mfrac>
+</math>

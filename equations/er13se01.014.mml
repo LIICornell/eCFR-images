@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RGR</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msubsup>
+      <mi>RG</mi>
+      <mi>m</mi>
+      <mi>HSP</mi>
+    </msubsup>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mi>MRGA</mi>
+    <mi>m</mi>
+  </msub>
+</math>

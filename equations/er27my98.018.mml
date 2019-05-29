@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>f</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#43;</mo>
+  <mi>exp</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mi>&#960; &#958;</mi>
+      </mrow>
+      <msqrt>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msup>
+            <mi>&#958;</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </msqrt>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

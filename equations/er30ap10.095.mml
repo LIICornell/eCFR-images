@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mrow>
+        <mi>NO</mi>
+        <mi>xcor</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>NO</mi>
+          <mi>xuncor</mi>
+        </mrow>
+      </msub>
+      <mo>&#183;</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>9.953</mn>
+        <mo>&#183;</mo>
+        <mrow>
+          <msub>
+            <mi>x</mi>
+            <mrow>
+              <mi>H</mi>
+              <mn>2</mn>
+              <mi>O</mi>
+            </mrow>
+          </msub>
+          <mo>+</mo>
+          <mn>0.832</mn>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.670-1</mtext>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>sam</mi>
+        <mo>(</mo>
+        <mi>i</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>mass of material collected with test sampler</mtext>
+      <mrow>
+        <mtext>sample flow rate </mtext>
+        <mo>&#215;</mo>
+        <mtext>sampling time</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

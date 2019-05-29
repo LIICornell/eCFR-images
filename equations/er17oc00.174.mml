@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>sd</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>4</mn>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>N</mi>
+    <mi>T</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mi>BR</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 5H-7</mtext>
+</math>

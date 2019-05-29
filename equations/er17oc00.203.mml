@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>2</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>m</mi>
+      <mo>/</mo>
+      <msub>
+        <mi>V</mi>
+        <mi>sc</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 7-4</mtext>
+</math>

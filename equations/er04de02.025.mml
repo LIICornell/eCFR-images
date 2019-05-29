@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>f</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>sd</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>c</mi>
+    </msub>
+  </mrow>
+  <mo>[</mo>
+  <mn>12</mn>
+  <mo>]</mo>
+  <mo>[</mo>
+  <mn>0.0416</mn>
+  <mo>]</mo>
+  <mo>[</mo>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>6</mn>
+    </mrow>
+  </msup>
+  <mo>]</mo>
+  <mspace width="2em"/>
+  <mtext>Eq. 1</mtext>
+</math>

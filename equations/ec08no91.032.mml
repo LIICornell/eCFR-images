@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>K</mi>
+          <mn>1</mn>
+        </msub>
+        <msub>
+          <mi>K</mi>
+          <mn>3</mn>
+        </msub>
+      </mrow>
+      <mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>M</mi>
+              <mi>w</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </msup>
+        <msub>
+          <mi>X</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width="6em"/>
+    <mspace width="6em"/>
+  </mfrac>
+</math>

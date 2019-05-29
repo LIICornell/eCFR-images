@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>f</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>o</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>i</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

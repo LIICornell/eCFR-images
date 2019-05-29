@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>H</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>6.211</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>P</mi>
+        <mi>dew</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>B</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>dew</mi>
+          </msub>
+          <mn>100</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

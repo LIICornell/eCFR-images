@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>sm</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>1</mn>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>W</mi>
+          <mi>bs</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>bd</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>W</mi>
+          <mi>bs</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>b</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 105-3</mtext>
+</math>

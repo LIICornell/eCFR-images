@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">PM RED</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>M</mi>
+              <mi style="font-style: italic">INLET</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>M</mi>
+              <mi style="font-style: italic">OUTLET</mi>
+            </msub>
+          </mrow>
+          <msub>
+            <mi>M</mi>
+            <mi style="font-style: italic">INLET</mi>
+          </msub>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+      <mspace width="4em"/>
+      <mtext>Equation 1</mtext>
+    </mrow>
+  </mrow>
+</math>

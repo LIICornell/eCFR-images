@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>FF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mtext>mL sodium hydroxide </mtext>
+      <mo>&#215;</mo>
+      <mrow>
+        <mtext> normality </mtext>
+        <mo>&#215;</mo>
+        <mn>3.003</mn>
+      </mrow>
+    </mrow>
+    <mtext>grams of sample</mtext>
+  </mfrac>
+</math>

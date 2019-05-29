@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>s</mi>
+      <mo>,</mo>
+      <mi>i</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mi style="font-style: italic">Count</mi>
+        <mo>*</mo>
+        <mrow>
+          <mi>E</mi>
+          <mi>F</mi>
+        </mrow>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mi>G</mi>
+        <mi>H</mi>
+        <msub>
+          <mi>G</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>*</mo>
+    <mi>T</mi>
+    <mspace width="6em"/>
+    <mtext>(Eq. W-2)</mtext>
+  </mrow>
+</math>

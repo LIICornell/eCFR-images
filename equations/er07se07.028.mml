@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>recovered</mi>
+      </msub>
+      <msub>
+        <mi>m</mi>
+        <mi>spiked</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30B-1</mtext>
+</math>

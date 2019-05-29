@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>d</mi>
+      <mi>last</mi>
+    </msub>
+    <mo>&#8804;</mo>
+    <msub>
+      <mi>d</mi>
+      <mi>b</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-3</mtext>
+</math>

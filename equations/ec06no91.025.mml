@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <munderover>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>n</mi>
+  </munderover>
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>d</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>=</mo>
+        <mtext>Algebraic sum of the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>individual differences </mtext>
+        <msub>
+          <mi>d</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

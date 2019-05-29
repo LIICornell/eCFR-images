@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Number of borrowers paid in full plus number of
+                borrowers in</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>active repayment</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mtext>Number of borrowers entering repayment</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext></mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

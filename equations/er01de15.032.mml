@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Analytical Bias</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext style="font-style: italic">Spiked Value</mtext>
+            <mo>&#8722;</mo>
+            <mtext style="font-style: italic">Measured Value</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mtext style="font-style: italic">Spiked Value</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+      <mspace width="4em"/>
+      <mtext>Eq. 9.1</mtext>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>x</mi>
+    <mo>&#8773;</mo>
+    <mrow>
+      <mrow>
+        <mfrac>
+          <mi>&#960;</mi>
+          <mi>p</mi>
+        </mfrac>
+        <mo>&#8721;</mo>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mi>R</mi>
+              <mi>&#955;</mi>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mn>1</mn>
+        </msub>
+      </mrow>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>cos</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mi>b</mi>
+        <mspace width="4em"/>
+        <mtext>(Eq. 1)</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

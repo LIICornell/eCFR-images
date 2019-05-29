@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mrow>
+        <mn>4</mn>
+        <mi>Destroyed</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>CH</mi>
+        <mn>4</mn>
+      </msub>
+      <mo>&#215;</mo>
+      <mi>DE</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. FF-5)</mtext>
+</math>

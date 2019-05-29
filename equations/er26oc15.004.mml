@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>A</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>/</mo>
+      <mi>R</mi>
+    </mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>1</mn>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mspace width="12em"/>
+  <mtext>(3)</mtext>
+</math>

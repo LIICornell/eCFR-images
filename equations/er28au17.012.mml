@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>is</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>is</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>Equation 1</mtext>
+</math>

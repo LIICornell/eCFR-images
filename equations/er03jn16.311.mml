@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>r</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>BH</mi>
+        </msub>
+        <mo>+</mo>
+        <mn>460</mn>
+      </mrow>
+      <msub>
+        <mi>T</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

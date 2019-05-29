@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>F</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mi>N</mi>
+  </mrow>
+  <mi>t</mi>
+  <mspace width="2em"/>
+  <mtext>(Eq. SS-6)</mtext>
+</math>

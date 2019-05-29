@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>T</mi>
+  </mfrac>
+  <mrow>
+    <msubsup>
+      <mo>&#8747;</mo>
+      <mn>0</mn>
+      <mi>T</mi>
+    </msubsup>
+    <mrow>
+      <mi>v</mi>
+      <mo>(</mo>
+      <mi>t</mi>
+      <mo>)</mo>
+      <mi>i</mi>
+      <mo>(</mo>
+      <mi>t</mi>
+      <mo>)</mo>
+      <mi>d</mi>
+      <mi>t</mi>
+    </mrow>
+  </mrow>
+</math>

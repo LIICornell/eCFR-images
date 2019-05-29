@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>Cm</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>K</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mi>B</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mi>C</mi>
+        </msub>
+      </mrow>
+      <mi>P</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 8)</mtext>
+</math>

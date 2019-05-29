@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>EE</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>EE</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mtext><mrow>
+    <mspace width="4em"/>
+    <mtext>(Equation 4)</mtext>
+  </mrow>
+  </mtext>
+</math>

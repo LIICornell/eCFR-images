@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>HI</mi>
+    <mi>g</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mi>g</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>GCV</mi>
+            <mi>g</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    <msup>
+      <mn>10</mn>
+      <mn>6</mn>
+    </msup>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-20)</mtext>
+</math>

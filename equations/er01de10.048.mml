@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>z</mi>
+    </munderover>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-30)</mtext>
+</math>

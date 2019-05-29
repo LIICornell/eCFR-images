@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>UC</mi>
+  <mi>L</mi>
+  <mo>=</mo>
+  <mrow>
+    <mover>
+      <mi>x</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>t</mi>
+      <mn>0.95</mn>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>s</mi>
+      <msqrt>
+        <mi>n</mi>
+      </msqrt>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

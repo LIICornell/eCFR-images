@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msubsup>
+      <mi>CEM</mi>
+      <mi>i</mi>
+      <mi>Adjusted</mi>
+    </msubsup>
+    <mo>=</mo>
+    <mrow>
+      <msubsup>
+        <mi>CEM</mi>
+        <mi>i</mi>
+        <mi>Monitor</mi>
+      </msubsup>
+      <mo>&#215;</mo>
+      <mi>BAF</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-11)</mtext>
+</math>

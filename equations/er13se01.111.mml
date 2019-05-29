@@ -1,0 +1,9 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RMD</mi>
+  <mo>=</mo>
+  <mi>MD</mi>
+  <mo>&#8722;</mo>
+  <mi>STDT</mi>
+  <mo>+</mo>
+  <mn>1</mn>
+</math>

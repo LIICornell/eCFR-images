@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>VOC</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <msub>
+        <mi>C</mi>
+        <mn>3</mn>
+      </msub>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 204F-4</mtext>
+</math>

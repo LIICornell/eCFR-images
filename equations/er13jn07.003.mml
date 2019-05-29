@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>CF</mi>
+    <mi>c</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>100</mn>
+      <mrow>
+        <mo>%</mo>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

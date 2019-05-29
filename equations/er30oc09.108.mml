@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>H</mi>
+      </mrow>
+      <mn>4</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>0.1</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>Re</mi>
+            <mspace width=".2em"/>
+            <mi>f</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Y-22)</mtext>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>MSF</mi>
+    <mi>B</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>MSF</mi>
+      <mi>A</mi>
+    </msub>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mi>A</mi>
+      <mi>B</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mi>n</mi>
+      <mo>&#183;</mo>
+    </mover>
+    <mi>ref</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>0.471948</mn>
+      <mo>&#183;</mo>
+      <mn>101325</mn>
+    </mrow>
+    <mrow>
+      <mn>293.15</mn>
+      <mo>&#183;</mo>
+      <mn>8.314472</mn>
+    </mrow>
+  </mfrac>
+</math>

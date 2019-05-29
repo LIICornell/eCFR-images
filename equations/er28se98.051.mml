@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Reallocation</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mtext>Forfeited Repowering Allowances </mtext>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mtext>Unit's Deductions at Table 2 Column B </mtext>
+        <mn>27124</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

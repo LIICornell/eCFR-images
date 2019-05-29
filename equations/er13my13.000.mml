@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>v</mi>
+    </msub>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>15,000</mn>
+      <mo>/</mo>
+      <mn>8,500</mn>
+      <mspace width="2em"/>
+      <mtext>(Eq. 2)</mtext>
+    </mrow>
+  </mrow>
+</math>

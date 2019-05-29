@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mi>rate-gas</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>GAS</mi>
+          <mi>rate</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>GCV</mi>
+          <mi>gas</mi>
+        </msub>
+      </mrow>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-6)</mtext>
+</math>

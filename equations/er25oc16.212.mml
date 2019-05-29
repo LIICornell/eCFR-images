@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+      <mover>
+        <mi>n</mi>
+        <mo>&#183;</mo>
+      </mover>
+      <mi>exh</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>7.559</mn>
+  <mspace width=".2em"/>
+  <mo>&#183;</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <mn>0.869</mn>
+      <mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#43;</mo>
+            <mn>0.10764</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo></mo>
+    </mrow>
+    <mrow>
+      <mn>12.0107</mn>
+      <mo>&#183;</mo>
+      <mn>0.09987</mn>
+    </mrow>
+  </mfrac>
+</math>

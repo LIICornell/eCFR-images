@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>lbs</mi>
+        <mo>/</mo>
+        <mi>hr</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>s</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi>std</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <mn>60</mn>
+      </mrow>
+      <mrow>
+        <mn>35.31</mn>
+        <mo>&#215;</mo>
+        <mn>454,000</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

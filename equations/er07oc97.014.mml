@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>a</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>a</mi>
+        </msub>
+        <msub>
+          <mo>&#961;</mo>
+          <mi>a</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 315-4</mtext>
+</math>

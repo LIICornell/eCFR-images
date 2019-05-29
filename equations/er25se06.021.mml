@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <mn>3</mn>
+  <mi>&#934;</mi>
+  <mspace width="4em"/>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mi>t</mi>
+        <mo>&#8722;</mo>
+        <mi>s</mi>
+      </mrow>
+      <mi>t</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

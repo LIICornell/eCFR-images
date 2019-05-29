@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>w</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mi>R</mi>
+          <mi>H</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow>
+            <mi>w</mi>
+            <mi>s</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>K</mi>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>hp</mi>
+  </msub>
+  <msub>
+    <mi>Q</mi>
+    <mi>hs</mi>
+  </msub>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>&#8722;</mo>
+        <mo>%</mo>
+        <msub>
+          <mi>H</mi>
+          <mn>2</mn>
+        </msub>
+        <mi>O</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>100</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-2)</mtext>
+</math>

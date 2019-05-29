@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>[</mo>
+      <msub>
+        <mi>NO</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>]</mo>
+    </mrow>
+    <mi>OUT</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>R</mi>
+      <mo>&#215;</mo>
+      <mi>K</mi>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>P</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>F</mi>
+        <mi>D</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(20)</mtext>
+</math>

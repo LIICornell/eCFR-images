@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>T</mi>
+        <mi>R</mi>
+        <mi>S</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mover>
+        <msub>
+          <mi>C</mi>
+          <mrow>
+            <mi>S</mi>
+            <mi>O</mi>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>&#8212;</mo>
+      </mover>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mover>
+            <mrow>
+              <mi>S</mi>
+              <mi>P</mi>
+            </mrow>
+            <mo>&#8212;</mo>
+          </mover>
+          <mo>&#x2223;</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>Eq. 16C-4</mtext>
+</math>

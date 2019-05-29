@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>F</mi>
+      <mspace width=".2em"/>
+    </mrow>
+    <mi>V</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 9-3</mtext>
+</math>

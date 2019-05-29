@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>&#183;</mo>
+  <mspace width=".2em"/>
+  <mtext>Standard error = </mtext>
+  <mfrac>
+    <mtext>Acceptable level of error</mtext>
+    <mrow>
+      <mi>Z</mi>
+      <mspace width=".2em"/>
+      <mtext>coefficient</mtext>
+    </mrow>
+  </mfrac>
+</math>

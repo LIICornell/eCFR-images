@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ACP</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mtext>Updated Index</mtext>
+      <mtext>Base Index</mtext>
+    </mfrac>
+    <mspace width=".2em"/>
+    <mo>&#215;</mo>
+    <mspace width=".2em"/>
+    <mtext>Award Price</mtext>
+  </mrow>
+</math>

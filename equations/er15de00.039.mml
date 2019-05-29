@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>ow</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>n-octanol</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <msub>
+    <mi>C</mi>
+    <mi>water</mi>
+  </msub>
+</math>

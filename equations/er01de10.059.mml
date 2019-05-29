@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>P</mi>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>M</mi>
+          <mrow>
+            <mi>m</mi>
+            <mi>r</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>L</mi>
+    </msub>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. SS-4)</mtext>
+</math>

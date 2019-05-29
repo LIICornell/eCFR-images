@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">R</mi>
+      <mi style="font-style: italic">h</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi style="font-style: italic">KQ</mi>
+        <mi style="font-style: italic">h</mi>
+      </msub>
+      <msub>
+        <mi style="font-style: italic">F</mi>
+        <mi style="font-style: italic">h</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation 12B-3)</mtext>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>M</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mover>
+        <mi>C</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>m</mi>
+    </msub>
+    <msub>
+      <mi>F</mi>
+      <mi>sb</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 105-4</mtext>
+</math>

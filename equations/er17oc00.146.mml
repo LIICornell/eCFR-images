@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Corrected Peak Height</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mi>A</mi>
+      <mo>&#8722;</mo>
+      <mi>B</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 5E-1</mtext>
+</math>

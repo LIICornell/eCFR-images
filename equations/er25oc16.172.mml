@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>K</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mn>20.085</mn>
+      </mfrac>
+      <mo>&#183;</mo>
+      <msqrt>
+        <mfrac>
+          <mrow>
+            <mn>100.103</mn>
+            <mo>&#8722;</mo>
+            <mn>98.290</mn>
+          </mrow>
+          <mn>100.103</mn>
+        </mfrac>
+      </msqrt>
+    </mrow>
+  </mrow>
+</math>

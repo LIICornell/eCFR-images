@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>R</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mrow>
+          <mo>[</mo>
+          <mi>NO</mi>
+          <mo>]</mo>
+        </mrow>
+        <mi>RC</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>t</mi>
+        <mi>R</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mn>2.75</mn>
+  <mspace width=".2em"/>
+  <mtext>ppm-minutes</mtext>
+  <mspace width="2em"/>
+  <mtext>(2)</mtext>
+</math>

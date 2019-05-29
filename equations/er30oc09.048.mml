@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>1</mn>
+        <mi>j</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <msub>
+          <mrow>
+            <mi>CH</mi>
+            <mn>4</mn>
+          </mrow>
+          <mi>j</mi>
+        </msub>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. K-4)</mtext>
+</math>

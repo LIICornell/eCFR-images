@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HAP</mi>
+      <mi>Combined</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>HAP</mi>
+        <mi>WD</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>HAP</mi>
+        <mi>SC</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi style="font-style: italic">Calc</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>C</mi>
+            <mi style="font-style: italic">Spike</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi style="font-style: italic">Spike</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi style="font-style: italic">Total</mi>
+      </msub>
+    </mfrac>
+    <mspace width="4em"/>
+    <mtext>Eq. 7E-11</mtext>
+  </mrow>
+</math>

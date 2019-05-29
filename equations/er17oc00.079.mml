@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>r</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>R</mi>
+      <mi>sa</mi>
+    </msub>
+  </mrow>
+  <mn>2</mn>
+  <mrow>
+      <mo>&#8719;</mo>
+    <mi>D</mi>
+    <mspace width="4em"/>
+    <mtext>Eq. 2E-9</mtext>
+  </mrow>
+</math>

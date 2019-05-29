@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>OP</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>OP</mi>
+            <mn>1</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mfrac>
+        <msub>
+          <mi>L</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mn>1</mn>
+        </msub>
+      </mfrac>
+    </msup>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1-1</mtext>
+</math>

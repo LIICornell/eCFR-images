@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Heating intermediate speed </mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mtext>Heating minimum speed </mtext>
+      <mo>+</mo>
+      <mfrac>
+        <mrow>
+          <mtext>Heating full speed</mtext>
+          <mo>&#8722;</mo>
+          <mtext>Heating minimum speed</mtext>
+        </mrow>
+        <mn>3</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

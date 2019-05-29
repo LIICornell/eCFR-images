@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>d</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>s</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>bk</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 5F-7</mtext>
+</math>

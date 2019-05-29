@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>D</mi>
+  <mi>E</mi>
+  <mi>V</mi>
+  <mo>=</mo>
+    <msub>
+      <mrow>
+        <mi>S</mi>
+        <mi>D</mi>
+      </mrow>
+      <mrow>
+        <mi>R</mi>
+        <mi>F</mi>
+      </mrow>
+    </msub>
+  <mrow>
+    <mo>&#247;</mo>
+    <mrow>
+      <mover>
+        <mi style="font-style: italic">RF</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+      <mspace width="4em"/>
+      <mtext>Eq. 12.3</mtext>
+    </mrow>
+  </mrow>
+</math>

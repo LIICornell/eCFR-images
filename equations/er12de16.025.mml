@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(1)</mtext>
+  <mspace width="8em"/>
+  <mrow>
+    <mrow>
+      <mi>E</mi>
+      <mi>f</mi>
+      <msub>
+        <mi>f</mi>
+        <mrow>
+          <mi>n</mi>
+          <mo>%</mo>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mi>avg</mi>
+          <mo>_</mo>
+          <mi>out</mi>
+          <mspace width=".2em"/>
+          <mi>n</mi>
+          <mo>%</mo>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mi>avg</mi>
+          <mo>_</mo>
+          <mi>in</mi>
+          <mspace width=".2em"/>
+          <mi>n</mi>
+          <mo>%</mo>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

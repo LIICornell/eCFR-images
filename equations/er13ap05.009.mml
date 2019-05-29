@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ML</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi>LAT</mi>
+          <mn>1</mn>
+        </mrow>
+        <mi>dd</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mrow>
+          <mi>LAT</mi>
+          <mn>2</mn>
+        </mrow>
+        <mi>dd</mi>
+      </msub>
+    </mrow>
+    <mn>2</mn>
+  </mfrac>
+</math>

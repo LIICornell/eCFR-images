@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Total # of Minor Children who have been Born Out - of -
+          Wedlock and for</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Whom Paternity has been Established or Acknowledged During the
+          Fiscal Year</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mtext>Total # of Children Born Out of Wedlock During the Preceding Fiscal
+    Year</mtext>
+  </mfrac>
+</math>

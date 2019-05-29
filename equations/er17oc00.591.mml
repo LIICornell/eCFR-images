@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#8719;</mo>
+      <msup>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>d</mi>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+    <mn>4</mn>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mtext>or A</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mi>LW</mi>
+    <mspace width="4em"/>
+    <mtext>Eq. 306A-10</mtext>
+  </mrow>
+</math>

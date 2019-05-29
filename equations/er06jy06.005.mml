@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mn>1.664</mn>
+          <mo>&#215;</mo>
+          <msup>
+            <mn>10</mn>
+            <mrow>
+              <mo>&#8722;</mo>
+              <mn>7</mn>
+            </mrow>
+          </msup>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>SO</mi>
+              <mn>2</mn>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mi>c</mi>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mi>Q</mi>
+        <mi>std</mi>
+      </msub>
+    </mrow>
+    <mi>P</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

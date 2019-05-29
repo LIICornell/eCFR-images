@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Pr</mi>
+      <mrow>
+        <mtext>ratio-lim</mtext>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mtext>out-cal</mtext>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mtext>in-cal</mtext>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>k</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mrow>
+            <mi>E</mi>
+            <mi>F</mi>
+          </mrow>
+          <mrow>
+            <mi>C</mi>
+            <mi>O</mi>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>*</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mi>a</mi>
+            </msub>
+            <mo>*</mo>
+            <mn>0.453</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>*</mo>
+      <mi>H</mi>
+      <mspace width="4em"/>
+      <mtext>(Eq. CC-5)</mtext>
+    </mrow>
+  </mrow>
+</math>

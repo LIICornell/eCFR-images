@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>%</mo>
+      <mi>P</mi>
+    </mrow>
+    <mi>Hg</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>E</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>/</mo>
+        <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+      <mspace width="4em"/>
+      <mtext>(Eq. 2)</mtext>
+    </mrow>
+  </mrow>
+</math>

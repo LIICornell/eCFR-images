@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#916;Hc</mi>
+    <mtext> (product)</mtext>
+    <mo>=</mo>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mi>i</mi>
+      <mi>n</mi>
+    </munderover>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mi>wi</mi>
+      <mo>%</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mi>&#916;Hc</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>i</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+</math>

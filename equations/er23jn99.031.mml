@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>nc</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>VP</mi>
+        <msub>
+          <mi>nc</mi>
+          <mn>2</mn>
+        </msub>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mi>T</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 32)</mtext>
+</math>

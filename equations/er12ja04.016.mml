@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>r</mi>
+  <mo>=</mo>
+  <msqrt>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msubsup>
+        <mi>S</mi>
+        <mi>L</mi>
+        <mn>2</mn>
+      </msubsup>
+      <msubsup>
+        <mi>S</mi>
+        <mi>y</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mfrac>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-14)</mtext>
+</math>

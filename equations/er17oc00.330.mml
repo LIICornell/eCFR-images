@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>bo</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>co</mi>
+      </msub>
+      <mo>+</mo>
+      <mfrac>
+        <msub>
+          <mi>H</mi>
+          <mi>g</mi>
+        </msub>
+        <msub>
+          <mi>H</mi>
+          <mi>b</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>co</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>g</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-10</mtext>
+</math>

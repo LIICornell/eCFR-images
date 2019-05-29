@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msup>
+      <mi>M</mi>
+      <mo>*</mo>
+    </msup>
+    <msub>
+      <mi>V</mi>
+      <mi>t</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation 12B-6)</mtext>
+</math>

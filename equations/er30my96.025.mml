@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mi>avg</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>x</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq 4</mtext>
+</math>

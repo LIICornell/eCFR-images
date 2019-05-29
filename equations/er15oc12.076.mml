@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Required_Fuel_Economy_Level </mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mi>N</mi>
+      <mrow>
+          <msub>
+            <mo>&#8721;</mo>
+            <mi>i</mi>
+          </msub>
+        <mfrac>
+          <msub>
+            <mi>N</mi>
+            <mi>i</mi>
+          </msub>
+          <msub>
+            <mi>T</mi>
+            <mi>i</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

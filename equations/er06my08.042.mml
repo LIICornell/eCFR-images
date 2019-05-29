@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mover>
+        <mi>M</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>=</mo>
+      <mi>M</mi>
+      <mspace width=".2em"/>
+    </mrow>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mover>
+      <mi>x</mi>
+      <mo>&#8212;</mo>
+    </mover>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.650-8</mtext>
+</math>

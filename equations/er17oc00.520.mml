@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>3</mn>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>m</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>/</mo>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>m</mi>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 108-5</mtext>
+</math>

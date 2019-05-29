@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi>m</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mtext>Biomass</mtext>
+    <mi>m</mi>
+  </msub>
+  <mspace width="2em"/>
+  <msub>
+    <mi>EF</mi>
+    <mi>m</mi>
+  </msub>
+  <mspace width="2em"/>
+  <mtext>(Eq. MM-3)</mtext>
+</math>

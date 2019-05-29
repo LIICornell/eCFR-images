@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RSA</mi>
+      <mi>k</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>R</mi>
+      <mi>LPS</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>RUA</mi>
+    <mi>k</mi>
+  </msub>
+  <mspace width="2em"/>
+  <mtext>(A.3)</mtext>
+</math>

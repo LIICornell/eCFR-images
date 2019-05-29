@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mi></mi>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>W</mi>
+        <mi>v</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 24-6</mtext>
+</math>

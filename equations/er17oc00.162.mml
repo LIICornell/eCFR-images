@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>adj</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>3</mn>
+    </msub>
+  </mrow>
+  <msup>
+    <mi>E</mi>
+    <mn>0.83</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>Eq. 5G-4</mtext>
+</math>

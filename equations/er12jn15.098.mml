@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>2</mn>
+    </msub>
+    <mspace width=".2em"/>
+    <mtext>for mixture </mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mi>i</mi>
+        </munder>
+        <mfrac>
+          <mrow>
+            <mi>f</mi>
+            <mo>(</mo>
+            <mi>i</mi>
+            <mo>)</mo>
+          </mrow>
+          <mrow>
+            <msub>
+              <mi>A</mi>
+              <mn>2</mn>
+            </msub>
+            <mo>(</mo>
+            <mi>i</mi>
+            <mo>)</mo>
+          </mrow>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

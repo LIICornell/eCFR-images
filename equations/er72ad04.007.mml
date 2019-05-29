@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RM</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>DT</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>DT</mi>
+        <mi>c</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>PU</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>PU</mi>
+        <mi>c</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

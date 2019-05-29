@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>j</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+  </mrow>
+  <mrow>
+    <mrow>
+      <msub>
+        <mtext>Feedstock</mtext>
+        <mi>j</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>EF</mi>
+        <mi>j</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>Vol</mi>
+      </mrow>
+      <mi>j</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. MM-9)</mtext>
+</math>

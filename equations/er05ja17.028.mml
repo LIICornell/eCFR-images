@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>1250</mn>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">BTU</mi>
+              <mo>/</mo>
+              <mi>h</mi>
+            </mrow>
+            <mrow>
+              <mn>1000</mn>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">scfm</mi>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>*</mo>
+          <mover>
+            <msub>
+              <mover>
+                <mi>V</mi>
+                <mo>&#xb7;</mo>
+              </mover>
+              <mi>s</mi>
+            </msub>
+            <mo>&#x2014;</mo>
+          </mover>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>and increase</mtext>
+        <msubsup>
+          <mover>
+            <mi>E</mi>
+            <mo>&#xb7;</mo>
+          </mover>
+          <mi>h</mi>
+          <mi>k</mi>
+        </msubsup>
+        <mtext>(T) by,</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>365</mn>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">W</mi>
+            </mrow>
+            <mrow>
+              <mn>1000</mn>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">scfm</mi>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>*</mo>
+          <mover>
+            <msub>
+              <mover>
+                <mi>V</mi>
+                <mo>&#xb7;</mo>
+              </mover>
+              <mi>s</mi>
+            </msub>
+            <mo>&#x2014;</mo>
+          </mover>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

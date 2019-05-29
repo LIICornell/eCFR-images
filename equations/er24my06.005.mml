@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>a</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>t</mi>
+        <mn>0.975</mn>
+      </msub>
+      <mi>s</mi>
+    </mrow>
+    <msqrt>
+      <mi>n</mi>
+    </msqrt>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 2</mtext>
+</math>

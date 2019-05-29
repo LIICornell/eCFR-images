@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Adjusted amount of allowances</mtext>
+    <mo>=</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mtext>Allowances held after deduction </mtext>
+            <mo>&#8722;</mo>
+            <mtext>Excess emissions</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mrow>
+            <mo>+</mo>
+            <mtext>Allowances credited</mtext>
+          </mrow>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mtext>Allowances deducted</mtext>
+          </mrow>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

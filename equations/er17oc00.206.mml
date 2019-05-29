@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mi>H</mi>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mi>S</mi>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mi>F</mi>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msup>
+      <mn>10</mn>
+      <mn>4</mn>
+    </msup>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <msub>
+    <mi>V</mi>
+    <mi>sc</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 7A-1</mtext>
+</math>

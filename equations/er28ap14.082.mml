@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>F</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mrow>
+              <msub>
+                <mi>M</mi>
+                <mi>e</mi>
+              </msub>
+              <mspace width=".2em"/>
+              <mo>&#183;</mo>
+              <mspace width=".2em"/>
+              <mfrac>
+                <mrow>
+                  <msub>
+                    <mi>v</mi>
+                    <mi>i</mi>
+                  </msub>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>v</mi>
+                    <mrow>
+                      <mi>i</mi>
+                      <mo>&#8722;</mo>
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+                <mi>&#916;t</mi>
+              </mfrac>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.310-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

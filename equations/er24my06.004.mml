@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mi>a</mi>
+    <msub>
+      <mi>x</mi>
+      <mi>avg</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mn>100</mn>
+  <mspace width="4em"/>
+  <mtext>Eq. 1</mtext>
+</math>

@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>V</mi>
+      </mrow>
+      <mi>L</mi>
+    </msub>
+    <mo>=</mo>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>L</mi>
+        </msub>
+        <mo>/</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>T</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  <mspace width="4em"/>
+  <mtext>[Eq. 2]</mtext>
+</math>

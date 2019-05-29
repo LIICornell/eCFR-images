@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>R</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>V</mi>
+      <mspace width=".2em"/>
+      <mrow>
+        <mi>tan</mi>
+        <mo>&#x2061;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>&#981;</mi>
+            <mo>+</mo>
+            <mi>&#945;</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>+</mo>
+      <mfrac>
+        <mi>cA</mi>
+        <mrow>
+          <mi>cos</mi>
+          <mo>&#x2061;</mo>
+          <mspace width=".2em"/>
+          <mi>&#945;</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <mrow>
+                <mi>tan</mi>
+                <mspace width=".2em"/>
+                <mo>&#x2061;</mo>
+                <mi>&#981;</mi>
+                <mspace width=".2em"/>
+                <mrow>
+                  <mi>tan</mi>
+                  <mspace width=".2em"/>
+                  <mo>&#x2061;</mo>
+                  <mi>&#945;</mi>
+                </mrow>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(3)</mtext>
+</math>

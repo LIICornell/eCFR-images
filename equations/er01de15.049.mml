@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>U</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>M</mi>
+      <mi>x</mi>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>e</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>T</mi>
+        <mi>t</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. A.2</mtext>
+</math>

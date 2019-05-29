@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>1.0</mn>
+      <mo>+</mo>
+      <mi>A</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>H</mi>
+      <msub>
+        <mi>R</mi>
+        <mi>c</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mi>K</mi>
+  <mo>&#8242;</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

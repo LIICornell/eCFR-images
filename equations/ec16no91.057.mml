@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>0.28</mn>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>L</mi>
+        </mrow>
+        <mi>sn</mi>
+      </msub>
+      <mo>+</mo>
+      <mn>0.14</mn>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>L</mi>
+        </mrow>
+        <mi>sc</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>L</mi>
+        <mi>sn</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>L</mi>
+        <mi>sc</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Equation 18</mtext>
+</math>

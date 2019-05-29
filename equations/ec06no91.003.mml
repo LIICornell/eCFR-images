@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mfrac>
+      <msub>
+        <mtext>Predicted Ambient Concentration</mtext>
+        <mrow>
+          <mo>(</mo>
+          <mi>i</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+      <msub>
+        <mtext>Risk-Specific Dose</mtext>
+        <mrow>
+          <mo>(</mo>
+          <mi>i</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>&#8804;</mo>
+  <mn>1.0</mn>
+</math>

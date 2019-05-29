@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mi>P</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>S</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mrow>
+            <mi>H</mi>
+            <mn>2</mn>
+            <mi>S</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>C</mi>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>S</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mi>x</mi>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 16C-2</mtext>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>m</mi>
+          <mi>p</mi>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>m</mi>
+          <mi>r</mi>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>a</mi>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>m</mi>
+      <mi>f</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>Eq. 5F-4</mtext>
+</math>

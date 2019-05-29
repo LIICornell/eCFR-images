@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>D</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>D</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>D</mi>
+        <mn>23</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. O-8)</mtext>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mtext>Raw wet </mtext>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <mtext>background </mtext>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mn></mn>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mtext>Dilute wet </mtext>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <mtext>background </mtext>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mrow>
+        <mtext></mtext>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

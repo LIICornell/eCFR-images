@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>d</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>+</mo>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <mi>c</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>B</mi>
+            <mo>+</mo>
+            <mi>D</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mn>1500</mn>
+    </mfrac>
+  </msqrt>
+  <mspace width="2em"/>
+  <mtext>(2)</mtext>
+  <mspace width="2em"/>
+  <mtext>(3)</mtext>
+  <mspace width="2em"/>
+  <mtext>(5)</mtext>
+</math>

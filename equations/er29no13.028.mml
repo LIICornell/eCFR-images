@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>C</mi>
+      <mi>O</mi>
+    </mrow>
+    <mn>21</mn>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">Fuel</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi style="font-style: italic">Fuel</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mo>]</mo>
+  <mrow>
+    <mo>*</mo>
+    <mrow>
+      <mi>E</mi>
+      <mi>F</mi>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. NN-5a)</mtext>
+</math>

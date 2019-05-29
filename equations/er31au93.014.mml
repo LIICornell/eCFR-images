@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>r</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>3</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>d</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>p</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(12)</mtext>
+</math>

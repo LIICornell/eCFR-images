@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>PNEQ</mi>
+      <mi>q</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mi>N</mi>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mi style="font-style: italic">In</mi>
+            <mi>LTV</mi>
+          </mrow>
+          <mi>q</mi>
+        </msub>
+        <msub>
+          <mi>&#963;</mi>
+          <mi>q</mi>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>,</mo>
+</math>

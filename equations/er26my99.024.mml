@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>SO</mi>
+        <mn>2</mn>
+      </mrow>
+      <mi>rate</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>ER</mi>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>HI</mi>
+        <mi>rate</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-5)</mtext>
+</math>

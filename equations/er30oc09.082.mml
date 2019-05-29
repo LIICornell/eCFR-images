@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>N</mi>
+      <mn>2</mn>
+    </msub>
+    <mi>O</mi>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>t</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mrow>
+          <mi>N</mi>
+              <mn>2</mn>
+              <mi>O</mi>
+              <mi>t</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. V-4)</mtext>
+</math>

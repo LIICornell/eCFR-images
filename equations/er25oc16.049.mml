@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>x</mi>
+            <mi>b</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mfrac>
+              <msub>
+                <mi>W</mi>
+                <mi>neg</mi>
+              </msub>
+              <msub>
+                <mi>W</mi>
+                <mi>pos</mi>
+              </msub>
+            </mfrac>
+            <mo>&#x2223;</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1036.525-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

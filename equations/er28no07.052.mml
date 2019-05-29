@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mtext>(Excess of revenues over expenses OR net income) </mtext>
+      <mo>+</mo>
+      <mtext>interest expense </mtext>
+      <mo>+</mo>
+      <mtext>depreciation expense </mtext>
+      <mo>+</mo>
+      <mtext>amortization expense</mtext>
+    </mrow>
+    <mrow>
+      <mtext>Current portion of long-term debt </mtext>
+      <mtext>[prior year, including capital leases]</mtext>
+      <mo>+</mo>
+      <mtext>interest expense</mtext>
+    </mrow>
+  </mfrac>
+</math>

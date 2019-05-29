@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Speedfactor</mtext>
+    <mo>=</mo>
+    <msqrt>
+      <mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mtext>power</mtext>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mtext>speed</mtext>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+    </msqrt>
+  </mrow>
+</math>

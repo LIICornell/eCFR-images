@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>V</mi>
+      </mrow>
+      <mi>L</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mrow>
+        <mn>50</mn>
+        <mi>t</mi>
+      </mrow>
+      <mi>ss</mi>
+    </msub>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>&#916;P</mi>
+      <mo>max</mo>
+    </msub>
+    <msub>
+      <mi>P</mi>
+      <mi>SS</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(2)</mtext>
+</math>

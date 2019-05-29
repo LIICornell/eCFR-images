@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>P</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mrow>
+            <mn>250</mn>
+            <mspace width=".2em"/>
+            <mo>(</mo>
+            <mi>C</mi>
+          </mrow>
+          <mi>S</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>B</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mn>2.22</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mrow>
+            <mover>
+              <msub>
+                <mi>E</mi>
+                <mi>I</mi>
+              </msub>
+              <mo>&#8212;</mo>
+            </mover>
+            <mi>A</mi>
+          </mrow>
+          <mi>L</mi>
+        </msub>
+        <mi>T</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 111-4</mtext>
+</math>

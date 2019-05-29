@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Adjusted VOC Content </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mtext>Actual VOC Content</mtext>
+      <mo>&#8722;</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mtext>Actual VOC Content </mtext>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mtext>Percent Post-consumer Coating</mtext>
+          <mn>100</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(7)</mtext>
+</math>

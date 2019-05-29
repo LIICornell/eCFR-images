@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>v</mi>
+              <mi>error</mi>
+            </msub>
+            <mo>=</mo>
+            <msub>
+              <mi>v</mi>
+              <mi>act</mi>
+            </msub>
+          </mrow>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>v</mi>
+            <mi>ref</mi>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.235-2</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

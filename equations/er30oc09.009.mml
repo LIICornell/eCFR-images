@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mfrac>
+            <mn>44</mn>
+            <mn>12</mn>
+          </mfrac>
+          <mo>*</mo>
+          <mtext>Fuel</mtext>
+        </mrow>
+        <mo>*</mo>
+        <mi>CC</mi>
+      </mrow>
+      <mo>*</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. C-4)</mtext>
+</math>

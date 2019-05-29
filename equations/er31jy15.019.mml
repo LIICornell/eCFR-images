@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>D</mi>
+          <mi>L</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>D</mi>
+          <mi>W</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>D</mi>
+        <mi>H</mi>
+      </msub>
+    </mrow>
+    <mn>1728</mn>
+  </mfrac>
+</math>

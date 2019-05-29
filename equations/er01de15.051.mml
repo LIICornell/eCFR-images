@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>R</mi>
+  <mi>S</mi>
+  <msub>
+    <mi>D</mi>
+    <mi>x</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>100</mn>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msqrt>
+        <msup>
+          <mi>S</mi>
+          <mn>2</mn>
+        </msup>
+      </msqrt>
+      <mover>
+        <mi>X</mi>
+        <mo>&#8212;</mo>
+      </mover>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. A.4</mtext>
+</math>

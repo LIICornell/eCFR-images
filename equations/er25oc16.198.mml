@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mover>
+            <mi>P</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mo>=</mo>
+          <mrow>
+            <mover>
+              <msub>
+                <mi>f</mi>
+                <mi>n</mi>
+              </msub>
+              <mo>&#8212;</mo>
+            </mover>
+            <mo>&#183;</mo>
+            <mover>
+              <mi>T</mi>
+              <mo>&#8212;</mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.650-13</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

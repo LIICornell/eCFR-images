@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>y</mi>
+    <mi>i</mi>
+    <mo>&#8242;</mo>
+  </msubsup>
+  <mo>=</mo>
+  <mi>Ln</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>y</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-38)</mtext>
+</math>

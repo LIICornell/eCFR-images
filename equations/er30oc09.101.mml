@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>A</mi>
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mrow>
+            <mi>E</mi>
+            <mi>F</mi>
+          </mrow>
+          <mrow>
+            <mi>A</mi>
+            <mi>B</mi>
+            <mo>.</mo>
+            <mi>C</mi>
+            <mi>H</mi>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mspace width="4em"/>
+    <mtext>(Eq. Y-15)</mtext>
+  </mrow>
+</math>

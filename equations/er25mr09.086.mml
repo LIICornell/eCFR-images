@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>L</mi>
+  <mi>C</mi>
+  <mi>L</mi>
+  <mo>&#8242;</mo>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mrow>
+        <mi>y</mi>
+        <mo>&#8242;</mo>
+      </mrow>
+      <mo>&#8212;</mo>
+    </munder>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mi>CI</mi>
+      <mo>&#8242;</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-40)</mtext>
+</math>

@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>UC</mi>
+        <mi>L</mi>
+      </mrow>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mi>ECS</mi>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mrow>
+        <mi>t</mi>
+        <mi>s</mi>
+      </mrow>
+      <msub>
+        <mi>x</mi>
+        <mn>1</mn>
+      </msub>
+    </msub>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>[14]</mtext>
+</math>

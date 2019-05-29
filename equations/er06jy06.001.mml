@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>P</mi>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>Pe</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi>t</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>Pe</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi>c</mi>
+      </msub>
+      <mo>+</mo>
+      <mi>Ps</mi>
+      <mo>+</mo>
+      <mi>Po</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

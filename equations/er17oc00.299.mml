@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>TRS</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <msub>
+        <mi>SO</mi>
+        <mn>2</mn>
+      </msub>
+    </msub>
+  </mrow>
+  <mi>d</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 16B-1</mtext>
+</math>

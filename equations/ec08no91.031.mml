@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>K</mi>
+        <mn>1</mn>
+      </msub>
+      <msub>
+        <mi>X</mi>
+        <mi>t</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>&#956;</mi>
+          <mi>LFE</mi>
+        </msub>
+        <msub>
+          <mi>Y</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mn>180.1</mn>
+        <msub>
+          <mi>X</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width="6em"/>
+    <mspace width="6em"/>
+  </mfrac>
+</math>
