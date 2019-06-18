@@ -16,8 +16,8 @@
    height="277"
    viewBox="0 0 436 277"
    sodipodi:docname="er17jy08.000.svg">
-  <title id="title_er17jy08.000"></title>
-  <desc id="desc_er17jy08.000"></desc>
+  <title id="title_er17jy08.000">Basic File Structure for Deposit Data</title>
+  <desc id="desc_er17jy08.000">“Deposit-Customer Join File” in the middle, with “Deposit File” (on the upper-left corner), “Sweep/ Automated Credit File” (on the lower-left corner), and “Hold File” (on the lower-right corner) connected to the line “DP_Acct_Identifier(s)” in the box, and the “Customer File” (on the upper-right corner) connected to the line “CS_Cust_Identifier” in the box.</desc>
   <metadata
      id="metadata21279">
     <rdf:RDF>
