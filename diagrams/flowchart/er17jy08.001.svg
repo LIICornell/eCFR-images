@@ -16,8 +16,8 @@
    height="522"
    viewBox="0 0 438 522"
    sodipodi:docname="er17jy08.001.svg">
-  <title id="title_er17jy08.001"></title>
-  <desc id="desc_er17jy08.001"></desc>
+  <title id="title_er17jy08.001">Multiple Deposit Files, Single Customer File</title>
+  <desc id="desc_er17jy08.001">The graph on the top has “Deposit-Customer Join File” in the middle, with “Deposit File A” (on the upper-left corner), “Sweep/ Automated Credit File A” (on the lower-left corner), and “Hold File A” (on the lower-right corner) connected to the line “DP_Acct_Identifier(s)” in the box, and the “Customer File” (on the upper-right corner) connected to the line “CS_Cust_Identifier” in the box. The graph on the bottom has “Deposit-Customer Join File” in the middle, with “Deposit File B” (on the upper-left corner), “Sweep/ Automated Credit File B” (on the lower-left corner), and “Hold File B” (on the lower-right corner) connected to the line “DP_Acct_Identifier(s)” in the box, and the “Customer File” (on the upper-right corner) connected to the line “CS_Cust_Identifier” in the box.</desc>
   <metadata
      id="metadata22400">
     <rdf:RDF>

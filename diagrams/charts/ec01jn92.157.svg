@@ -16,8 +16,8 @@
    height="574.79999"
    viewBox="0 0 426 574.79999"
    sodipodi:docname="ec01jn92.157.svg">
-  <title id="title_ec01jn92.157"></title>
-  <desc id="desc_ec01jn92.157"></desc>
+  <title id="title_ec01jn92.157">Field Records of Signals</title>
+  <desc id="desc_ec01jn92.157">The graph on the top has description “(a) Reference Signal, 1/R^2 Corrected”, and then has “Time or Range” as the label for x-axis and “Amplitude” as the label for y-axis. The line in the graph has marks “t_0”, “Convergence Point”, “(Near Region)”, “R_n”, “R_f”, and “(Far Region)” sequentially. The graph on the bottom has description “(b) Plume Signal, 1/R^2 Corrected”, and then has “Time or Range” as the label for x-axis and “Amplitude” as the label for y-axis. The line in the graph has marks “t_0”,  “I_n”, “Plume Spike”, and “I_f” sequentially. Below the graphs are sentences “ (a) Reference signal, 1/R^2 - corrected. This reference signal is fore plume signal (b). R_n, R_f are chosen to coincide with I_n, I_f. (b) Plume Signal, 1/R^2 - corrected. The plume spike and the decrease in the backscatter signal amplitude in the far region are due to the opacity of the plume. I_n, I_f are chosen as indicated in Section 2.6.“. The title “Figure AM1-III. Plots of Lidar Backscatter Signals” is on the bottom.</desc>
   <metadata
      id="metadata22964">
     <rdf:RDF>
