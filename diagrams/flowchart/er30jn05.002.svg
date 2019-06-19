@@ -16,8 +16,8 @@
    height="221"
    viewBox="0 0 335 221"
    sodipodi:docname="er30jn05.002.svg">
-  <title id="title_er30jn05.002"></title>
-  <desc id="desc_er30jn05.002"></desc>
+  <title id="title_er30jn05.002">Testing Sequence</title>
+  <desc id="desc_er30jn05.002">The words “Figure 1” are on the upper-left corner, and below it is a box, with the words “EVENT RECORDER MEMORY MODULE SEQUENTIAL TESTING” in the middle on the top of the box, and then two graphs below it. The graph on the left is a sequence of boxes connected, with words “IMPACT SHOCK”, “STATIC CRUSH”, “HIGH TEMPERATURE”, “LOW TEMPERATURE”, “FLUID IMMERSION”, and “HYDROSTATIC”respectively, and the description “SINGLE BRANCH SEQUENTIAL TESTING” is below the graph. The graph on the right is a box with words “IMPACT SHOCK” on the top, connected to the box with words “STATIC CRUSH”, and then this box connect to a sequence of three boxes with the words“HIGH TEMPERATURE”, “LOW TEMPERATURE”, and “FLUID IMMERSION” respectively on the left, and the box with the word “HYDROSTATIC” on the right, and the description “SPLIT BRANCH SEQUENTIAL TESTING” is below the graph. </desc>
   <metadata
      id="metadata39920">
     <rdf:RDF>
