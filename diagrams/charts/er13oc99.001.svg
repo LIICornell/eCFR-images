@@ -16,8 +16,10 @@
    height="343.20001"
    viewBox="0 0 472.20001 343.20001"
    sodipodi:docname="er13oc99.001.svg">
-  <title id="title_er13oc99.001"></title>
-  <desc id="desc_er13oc99.001"></desc>
+  <title id="title_er13oc99.001">Figure G1: Measurement Window for No Absorption Correction</title>
+  <desc id="desc_er13oc99.001">Figure G1: Measurement Window for No Absorption Correction
+Atmospheric absorption correction is required for noise data obtained when the test conditions are outside those specified in Figure G1. Noise data outside the applicable range must be corrected to 59 F and 70 percent relative humidity by an FAA approved method.
+</desc>
   <metadata
      id="metadata19597">
     <rdf:RDF>
