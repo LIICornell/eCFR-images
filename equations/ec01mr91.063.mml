@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>E</mi>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <mi>&#981;</mi>
+            <mo>,</mo>
+            <mi>&#952;</mi>
+            <mo>)</mo>
+          </mrow>
+          <mi style="font-style: italic">std</mi>
+        </msub>
+        <mo>=</mo>
+        <mn>1.05</mn>
+        <msqrt>
+          <mrow>
+            <msup>
+              <mrow>
+                <mo>[</mo>
+                <mi>E</mi>
+                <msub>
+                  <mrow>
+                    <mo>(</mo>
+                    <mi>&#981;</mi>
+                    <mo>,</mo>
+                    <mi>&#952;</mi>
+                    <mo>)</mo>
+                  </mrow>
+                  <mi style="font-style: italic">th</mi>
+                </msub>
+                <mo>]</mo>
+              </mrow>
+              <mn>2</mn>
+            </msup>
+            <mo>+</mo>
+            <msup>
+              <mi>Q</mi>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+        </msqrt>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(Eq. 2)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

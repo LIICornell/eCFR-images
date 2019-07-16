@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>VOHAP</mi>
+        <mo>,</mo>
+        <mn>10</mn>
+        <mo>%</mo>
+        <msub>
+          <mi>O</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>VOHAP</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mn>10.9</mn>
+          <mo>%</mo>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mn>20.9</mn>
+            <mo>%</mo>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mo>%</mo>
+          <msub>
+            <mi>O</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

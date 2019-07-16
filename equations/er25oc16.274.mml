@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>V</mi>
+          <mrow>
+            <mo>[</mo>
+            <mi>flow</mi>
+            <mo>]</mo>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <msub>
+            <mover>
+              <mover>
+                <mi>Q</mi>
+                <mo>&#183;</mo>
+              </mover>
+              <mo>&#8212;</mo>
+            </mover>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mo>&#183;</mo>
+        <mi>&#916;t</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.605-12</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>3</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>5</mn>
+        <mn>2</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msup>
+        <mi>N</mi>
+        <mn>2</mn>
+      </msup>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mi>sin</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mi>&#952;</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mi>cos</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mi>&#952;</mi>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A14)</mtext>
+</math>

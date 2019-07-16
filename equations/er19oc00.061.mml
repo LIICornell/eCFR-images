@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>t</mi>
+        <mi>j</mi>
+      </msub>
+      <mo>&#183;</mo>
+      <msub>
+        <mi>W</mi>
+        <mo>max</mo>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B7)</mtext>
+</math>

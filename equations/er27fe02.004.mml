@@ -1,0 +1,75 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Allowable</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>HAP Loss</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Annual Total</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>of Leather</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <msub>
+                <mtext>Processed</mtext>
+                <mi>i</mi>
+              </msub>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mo>&#215;</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>HAP</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>Emission</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <msub>
+                <mtext>Limit</mtext>
+                <mi>i</mi>
+              </msub>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mo>)</mo>
+      <mspace width="4em"/>
+      <mtext>(Eq. 1)</mtext>
+    </mrow>
+  </mrow>
+</math>

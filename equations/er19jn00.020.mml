@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>E</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>R</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 30]</mtext>
+</math>

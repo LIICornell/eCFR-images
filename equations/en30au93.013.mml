@@ -1,0 +1,82 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Fuel additive cost</mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Amount of fuel additive</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>required per gallon of fuel</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Discounted</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>lifetime miles</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mtext>Fuel economy of engine</mtext>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Price of fuel additive</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>per gallon</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>of fuel additive</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

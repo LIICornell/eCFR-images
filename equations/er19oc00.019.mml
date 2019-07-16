@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>N</mi>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <mrow>
+        <mi>sin</mi>
+        <mspace width=".2em"/>
+        <mo>&#x2061;</mo>
+        <mi>&#952;</mi>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A12)</mtext>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>B</mi>
+    <mo>=</mo>
+    <mi>cos</mi>
+    <mo>&#x2061;</mo>
+  </mrow>
+  <msub>
+    <mi>&#946;</mi>
+    <mn>1</mn>
+  </msub>
+  <mrow>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mi>cos</mi>
+    <mspace width=".2em"/>
+    <mo>&#x2061;</mo>
+    <msub>
+      <mi>&#946;</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mo></mo>
+  <mspace width="4em"/>
+  <mtext>(Equation A28)</mtext>
+</math>

@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>ck</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>i</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <msub>
+              <mi>A</mi>
+              <mi>c</mi>
+            </msub>
+            <msub>
+              <mi>A</mi>
+              <mi>k</mi>
+            </msub>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>&#183;</mo>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>N</mi>
+        </mrow>
+        <mi>k</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation C9)</mtext>
+</math>

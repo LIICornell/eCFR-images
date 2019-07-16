@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+        <mi>C</mi>
+        <mi>released</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+    </msub>
+    <mrow>
+      <mo>&#215;</mo>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <mrow>
+          <mo>%</mo>
+          <mspace width=".2em"/>
+          <mi>reduction</mi>
+        </mrow>
+        <mn>100</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 7)</mtext>
+</math>

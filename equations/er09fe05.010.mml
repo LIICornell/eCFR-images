@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>QC Value</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mtext>CurrentAnalyzerCal. Response</mtext>
+          <mo>&#8722;</mo>
+          <mtext>InitialCal. Response</mtext>
+        </mrow>
+        <mtext>Span</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-1)</mtext>
+</math>

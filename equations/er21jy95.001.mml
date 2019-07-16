@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>Lobbying labor hours</mtext>
+      <mtext>Total labor hours</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Total costs</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of operations.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

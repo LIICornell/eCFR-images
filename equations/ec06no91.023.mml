@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msup>
+      <mi>&#963;</mi>
+      <mi style="font-style: italic">meas</mi>
+    </msup>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">DMC</mi>
+          <mi style="font-style: italic">highest</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi style="font-style: italic">DMC</mi>
+          <mtext style="font-style: italic">next highest</mtext>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">DMC</mi>
+          <mi style="font-style: italic">highest</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi style="font-style: italic">DMC</mi>
+          <mi style="font-style: italic">lowest</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mspace width="5em"/>
+    <mtext>(8)</mtext>
+  </mrow>
+</math>

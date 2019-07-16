@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>b</mi>
+    <mi>f</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>22.0</mn>
+    <mi>A</mi>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 26)</mtext>
+</math>

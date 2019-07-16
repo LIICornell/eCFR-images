@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>PWR</mi>
+      <mi>p</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mi>WRF</mi>
+        <mo>)</mo>
+      </mrow>
+      <mn>1</mn>
+    </msub>
+  </mrow>
+  <mo>+</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mi>WRF</mi>
+        <mo>)</mo>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mo>+</mo>
+    <mo>.</mo>
+    <mo>.</mo>
+    <mo>.</mo>
+    <mo>+</mo>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mi>WRF</mi>
+        <mo>)</mo>
+      </mrow>
+      <mi>n</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Equation 2</mtext>
+</math>

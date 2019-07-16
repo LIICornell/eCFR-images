@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Log</mi>
+  <mn>10</mn>
+  <mo>(</mo>
+  <msub>
+    <mi>V</mi>
+    <mo>max</mo>
+  </msub>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>H</mi>
+        <mi>T</mi>
+      </msub>
+      <mo>+</mo>
+      <mn>28.8</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mn>31.7</mn>
+  <mspace width="4em"/>
+  <mtext>(Eq. 147-2)</mtext>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">ESA</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi style="font-style: italic">DF</mi>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi style="font-style: italic">spike</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi style="font-style: italic">MC</mi>
+          <mi style="font-style: italic">native</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mspace width="8em"/>
+    <mtext>Eq. A7</mtext>
+  </mrow>
+</math>

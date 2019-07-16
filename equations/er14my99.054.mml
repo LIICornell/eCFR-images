@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>d</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>B</mi>
+            <mi>ws</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+        <mrow>
+          <mn>18.0</mn>
+          <msub>
+            <mi>B</mi>
+            <mi>ws</mi>
+          </msub>
+        </mrow>
+      <mspace width="4em"/>
+      <mtext>Eq. 2F-4</mtext>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,93 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>A</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msup>
+        <mi>M</mi>
+        <mn>2</mn>
+      </msup>
+      <mn>16</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>11</mn>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <mi>&#952;</mi>
+      <mo>&#8722;</mo>
+      <mn>13</mn>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>sin</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+      </mrow>
+      <mi>&#952;</mi>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>cos</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mi>&#952;</mi>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mn>8</mn>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <mi>&#952;</mi>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <msup>
+        <mrow>
+          <mi>cos</mi>
+          <mo>&#x2061;</mo>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+      <mspace width=".2em"/>
+      <mi>&#952;</mi>
+      <mo>+</mo>
+      <mn>10</mn>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mrow>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>sin</mi>
+          <mo>&#x2061;</mo>
+          <mspace width=".2em"/>
+          <mi>&#952;</mi>
+        </mrow>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo>
+        <msup>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>cos</mi>
+            <mo>&#x2061;</mo>
+          </mrow>
+          <mn>3</mn>
+        </msup>
+      </mrow>
+      <mi>&#952;</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A15)</mtext>
+</math>

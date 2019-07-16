@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <msub>
+    <mi>&#945;</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>3</mn>
+  <mo>&#8722;</mo>
+  <mn>2</mn>
+  <mrow>
+    <mrow>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>f</mi>
+        <mn>1</mn>
+      </msub>
+    </mrow>
+    <mo>&#183;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>F</mi>
+          <mi>ri</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B27)</mtext>
+</math>

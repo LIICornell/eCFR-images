@@ -1,0 +1,78 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CEER</mi>
+    <mi style="font-style: italic">DD</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mfrac>
+    <msub>
+      <mi style="font-style: italic">ACC</mi>
+      <mn>95</mn>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">AEC</mi>
+            <mn style="font-style: italic">95</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi style="font-style: italic">AEC</mi>
+            <mi>T</mi>
+          </msub>
+        </mrow>
+        <mrow>
+          <mi>k</mi>
+          <mo>&#215;</mo>
+          <mi>t</mi>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>0.2</mn>
+      <mo>+</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <msub>
+      <mi style="font-style: italic">ACC</mi>
+      <mn>83</mn>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">AEC</mi>
+            <mn style="font-style: italic">83</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi style="font-style: italic">AEC</mi>
+            <mi>T</mi>
+          </msub>
+        </mrow>
+        <mrow>
+          <mi>k</mi>
+          <mo>&#215;</mo>
+          <mi>t</mi>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>0.8</mn>
+  </mrow>
+</math>

@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>episode</mi>
+        <mo>,</mo>
+        <mi>outlet</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>DUR</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mrow>
+          <mi>point</mi>
+          <mo>,</mo>
+          <mi>outlet</mi>
+          <mo>,</mo>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="2em"/>
+  <mtext>[Eq. 23]</mtext>
+</math>

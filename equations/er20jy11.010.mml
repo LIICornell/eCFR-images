@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>h</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi style="font-style: italic">CCL</mi>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>MOU</mi>
+        </mrow>
+        <mn>1</mn>
+      </msub>
+    </mrow>
+    <mrow>
+      <mi style="font-style: italic">CCL</mi>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>MOU</mi>
+        </mrow>
+        <mn>0</mn>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>&#8722;</mo>
+  <mn>1</mn>
+</math>

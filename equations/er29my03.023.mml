@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>V</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>100</mn>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>M</mi>
+      <mi>VR</mi>
+    </msub>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <msub>
+        <mi>M</mi>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mi>MV</mi>
+        <mrow>
+          <mi>c</mi>
+          <mo>,</mo>
+          <mi>i</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

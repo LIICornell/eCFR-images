@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mtext>Human Health BAF</mtext>
+    <mrow>
+      <mi>TL</mi>
+      <mn>3</mn>
+    </mrow>
+    <mi>HH</mi>
+  </msubsup>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mtext>baseline BAF</mtext>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mn>0.0182</mn>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mn>1</mn>
+  </mrow>
+  <mo>]</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>f</mi>
+      <mi>fd</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+</math>

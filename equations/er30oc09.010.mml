@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi style="font-style: italic">CO</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>44</mn>
+    <mn>12</mn>
+  </mfrac>
+  <mo>&#8727;</mo>
+  <mi style="font-style: italic">Fuel</mi>
+  <mo>*</mo>
+  <mi style="font-style: italic">CC</mi>
+  <mo>*</mo>
+  <mfrac>
+    <mi style="font-style: italic">MW</mi>
+    <mi style="font-style: italic">MVC</mi>
+  </mfrac>
+  <mo>&#8727;</mo>
+  <mn>0.001</mn>
+  <mspace width="3em"/>
+  <mtext>(Eq. C-5)</mtext>
+</math>

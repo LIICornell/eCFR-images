@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>M</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mn>2</mn>
+      <mspace width=".2em"/>
+    </mrow>
+    <mi>k</mi>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>L</mi>
+      <mi>o</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>M</mi>
+    <mi>i</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <msup>
+      <mi>e</mi>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mi>kt</mi>
+      </mrow>
+    </msup>
+    <mi>i</mi>
+    <mo>)</mo>
+  </mrow>
+</math>

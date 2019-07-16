@@ -1,0 +1,54 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#946;</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <msup>
+      <mrow>
+        <mi>tan</mi>
+        <mo>&#x2061;</mo>
+      </mrow>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>b</mi>
+        <mo>&#183;</mo>
+        <mrow>
+          <mi>sin</mi>
+          <mo>&#x2061;</mo>
+          <msub>
+              <mi>&#981;</mi>
+              <mn>2</mn>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>&#945;</mi>
+      <mo>&#183;</mo>
+      <mrow>
+        <mi>cos</mi>
+        <mspace width=".2em"/>
+        <mo>&#x2061;</mo>
+        <msub>
+          <mi>&#981;</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Equation A26)</mtext>
+</math>

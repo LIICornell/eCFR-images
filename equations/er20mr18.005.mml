@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mi>B</mi>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mi>S</mi>
+          <mi>D</mi>
+        </mrow>
+        <msqrt>
+          <mi>n</mi>
+        </msqrt>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-6)</mtext>
+</math>

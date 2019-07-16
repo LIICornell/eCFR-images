@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>P</mi>
+    <mi>L</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>L</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>S</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>/</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>T</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>S</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#215;</mo>
+  <mn>100</mn>
+  <mspace width="3em"/>
+  <mtext>[Eq. 3]</mtext>
+</math>

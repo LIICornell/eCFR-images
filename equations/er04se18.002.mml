@@ -1,0 +1,81 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>Rate</mi>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mtext>Space Factor</mtext>
+            <mo>&#215;</mo>
+            <mtext>Net Cost of a Bare Pole </mtext>
+          </mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>[</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Maintenance and Administrative</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>Carrying Charge Rate</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Where Space Factor</mtext>
+        <mo>=</mo>
+        <mrow>
+          <mo>[</mo>
+          <mfrac>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Space</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>Occupied</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+                <mo>)</mo>
+              </mrow>
+              <mo>+</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mfrac>
+                    <mn>2</mn>
+                    <mn>3</mn>
+                  </mfrac>
+                  <mo>&#215;</mo>
+                  <mfrac>
+                    <mtext>Unusable Space</mtext>
+                    <mtext>No. of Attaching Entities</mtext>
+                  </mfrac>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mtext>Pole Height</mtext>
+          </mfrac>
+          <mo>]</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

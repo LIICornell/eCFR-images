@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>b</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>S</mi>
+        <mi>xy</mi>
+      </msub>
+      <msub>
+        <mi>S</mi>
+        <mi>xx</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-6)</mtext>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>WAE</mi>
+        <mi>u</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>WAE</mi>
+        <mi>c</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>O</mi>
+        <mi>u</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>O</mi>
+        <mi>c</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>R</mi>
+        <mo>+</mo>
+        <mi>G</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

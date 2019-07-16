@@ -1,0 +1,76 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>e</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <msup>
+              <mrow>
+                <mo>{</mo>
+                <mfrac>
+                  <mn>7.0</mn>
+                  <mtext>weight percent TOC</mtext>
+                </mfrac>
+                <mo>}</mo>
+              </mrow>
+              <mn>0.5</mn>
+            </msup>
+            <mo>&#8722;</mo>
+            <mn>1</mn>
+          </mrow>
+          <mtext>weight percent TOC</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>f</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <msup>
+              <mrow>
+                <mo>{</mo>
+                <mfrac>
+                  <mn>9.0</mn>
+                  <mtext>weight percent TOC</mtext>
+                </mfrac>
+                <mo>}</mo>
+              </mrow>
+              <mn>0.5</mn>
+            </msup>
+            <mo>&#8722;</mo>
+            <mn>1</mn>
+          </mrow>
+          <mtext>weight percent TOC</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <msup>
+              <mrow>
+                <mo>{</mo>
+                <mfrac>
+                  <mn>20.0</mn>
+                  <mtext>weight percent TOC</mtext>
+                </mfrac>
+                <mo>}</mo>
+              </mrow>
+              <mn>0.5</mn>
+            </msup>
+            <mo>&#8722;</mo>
+            <mn>1</mn>
+          </mrow>
+          <mtext>weight percent TOC</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

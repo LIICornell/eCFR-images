@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>ij</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>f</mi>
+        <mi>ij</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="1em"/>
+  <mtext>(Eq. I-13)</mtext>
+</math>

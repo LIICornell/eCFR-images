@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RMS</mi>
+      <mi>EST</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>RMS</mi>
+      <mi>MAN</mi>
+    </msub>
+  </mrow>
+  <mspace width="2em"/>
+  <mi>TP</mi>
+  <msqrt>
+    <mfrac>
+      <msub>
+        <mi>t</mi>
+        <mi>ss</mi>
+      </msub>
+      <msub>
+        <mi>t</mi>
+        <mi>MAN</mi>
+      </msub>
+    </mfrac>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>(C.1)</mtext>
+</math>

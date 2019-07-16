@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>FM</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>SRMS</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>FFU</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>FFL</mi>
+        <mi>m</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <msub>
+    <mi>BAV</mi>
+    <mi>m</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(E.1)</mtext>
+</math>

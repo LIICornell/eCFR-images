@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AMR</mi>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>CD</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+      <mrow>
+        <msub>
+          <mi>OCEP</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>OH</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    <mo>)</mo>
+    <mspace width="3em"/>
+    <mtext>(Eq. 2)</mtext>
+  </mrow>
+</math>

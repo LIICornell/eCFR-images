@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>H</mi>
+      </mrow>
+      <mn>4</mn>
+    </msub>
+    <msub>
+      <mi>G</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>w</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn>52</mn>
+      </munderover>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <mrow>
+            <mrow>
+              <msub>
+                <mi style="font-style: italic">Flow</mi>
+                <mi>w</mi>
+              </msub>
+              <mo>*</mo>
+              <msub>
+                <mi style="font-style: italic">COD</mi>
+                <mi>w</mi>
+              </msub>
+            </mrow>
+            <mo>*</mo>
+            <mrow>
+              <msub>
+                <mi>B</mi>
+                <mi>o</mi>
+              </msub>
+              <mo>*</mo>
+            </mrow>
+            <mi style="font-style: italic">MCF</mi>
+          </mrow>
+          <mo>*</mo>
+          <mn>0.001</mn>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. II-1)</mtext>
+</math>

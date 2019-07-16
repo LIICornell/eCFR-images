@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>UF Solids</mtext>
+      <mtext>Hour</mtext>
+    </mfrac>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mi>LOI</mi>
+          <mo>&#215;</mo>
+          <mi>UFL</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mi>MW</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>SQ</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

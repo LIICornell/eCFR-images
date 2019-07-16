@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>a</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>b</mi>
+          </msub>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>a</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>b</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. A-1)</mtext>
+</math>

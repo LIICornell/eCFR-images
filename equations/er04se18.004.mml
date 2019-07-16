@@ -1,0 +1,81 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Maximum Rate</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Pre</mtext>
+        <mspace width=".2em"/>
+        <mrow>
+          <mi style="font-style: italic">Linear</mi>
+          <mspace width=".4em"/>
+          <mi>ft</mi>
+          <mo>.</mo>
+          <mo>/</mo>
+          <mi>m</mi>
+          <mo>.</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>1</mn>
+          <mi>Duct</mi>
+        </mrow>
+        <mrow>
+          <mi style="font-style: italic">No</mi>
+          <mo>.</mo>
+          <mspace width=".4em"/>
+          <mtext>of Inner Ducts</mtext>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mi style="font-style: italic">Net</mi>
+          <mspace width=".4em"/>
+          <mtext>Conduit Investment</mtext>
+        </mrow>
+        <mrow>
+          <mtext>System Duct Length</mtext>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>ft</mi>
+              <mo>.</mo>
+              <mo>/</mo>
+              <mi>m</mi>
+              <mo>.</mo>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Carrying</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Charge</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Rate</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

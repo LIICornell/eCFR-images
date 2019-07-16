@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ECO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>EF</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <msub>
+          <mi>MP</mi>
+          <mi>p</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <msub>
+            <mi>EF</mi>
+            <mi>s</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>MP</mi>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mspace width="8em"/>
+      <mtext>(Eq. F-9)</mtext>
+    </mrow>
+  </mrow>
+</math>

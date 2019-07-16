@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>EF</mi>
+      <mi>TMHAP</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>TMHAP</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mi>Q</mi>
+            <msub>
+              <mi>M</mi>
+              <mrow>
+                <mi>ch</mi>
+                <mi>arg</mi>
+                <mi>e</mi>
+              </mrow>
+            </msub>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>t</mi>
+            <mi>test</mi>
+          </msub>
+          <mn>7,000</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

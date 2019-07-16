@@ -1,0 +1,8 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Embedded Cost of Debt</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Total Annual Interest Expense</mtext>
+    <mtext>Average Outstanding Debt</mtext>
+  </mfrac>
+</math>

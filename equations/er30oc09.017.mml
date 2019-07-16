@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>0.91</mn>
+  <mo>&#8727;</mo>
+  <mi>S</mi>
+  <mo>&#8727;</mo>
+  <mi>R</mi>
+  <mo>&#8727;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi style="font-style: italic">MW</mi>
+        <mrow>
+          <mi style="font-style: italic">CO</mi>
+          <mn>2</mn>
+        </mrow>
+      </msub>
+      <msub>
+        <mi style="font-style: italic">MW</mi>
+        <mi>S</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. C-11)</mtext>
+</math>

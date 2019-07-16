@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>n</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>VP</mi>
+        <msub>
+          <mi>nc</mi>
+          <mn>1</mn>
+        </msub>
+      </msub>
+      <mi>RT</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 28)</mtext>
+</math>

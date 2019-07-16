@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <msub>
+        <mi>d</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mi>S</mi>
+            <mi>D</mi>
+          </mrow>
+          <mi>d</mi>
+        </msub>
+        <msqrt>
+          <mi>n</mi>
+        </msqrt>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-3)</mtext>
+</math>

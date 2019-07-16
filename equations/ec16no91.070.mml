@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>b</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mrow>
+          <mo>{</mo>
+          <mfrac>
+            <mn>0.18</mn>
+            <mtext>weight percent TOC</mtext>
+          </mfrac>
+          <mo>}</mo>
+        </mrow>
+        <mn>0.5</mn>
+      </msup>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+    <mtext>weight percent TOC</mtext>
+  </mfrac>
+</math>

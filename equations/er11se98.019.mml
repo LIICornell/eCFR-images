@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>VOC Content</mtext>
+      <mi>ls</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>W</mi>
+              <mi>s</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>W</mi>
+              <mi>w</mi>
+            </msub>
+          </mrow>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>W</mi>
+            <mi>ec</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>m</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(6)</mtext>
+</math>

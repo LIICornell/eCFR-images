@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi style="font-style: italic">CMF</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>m</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>k</mi>
+    </munderover>
+    <msub>
+      <mi style="font-style: italic">CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi style="font-style: italic">Cli</mi>
+        <mo>,</mo>
+        <mi>m</mi>
+      </mrow>
+    </msub>
+    <mo>+</mo>
+  </mrow>
+  <msub>
+    <mi style="font-style: italic">CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi style="font-style: italic">rm</mi>
+    </mrow>
+  </msub>
+  <mspace width="3em"/>
+  <mtext>(Eq. H-1)</mtext>
+</math>

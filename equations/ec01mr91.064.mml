@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>g</mi>
+  <mo>(</mo>
+  <mi>&#952;</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mfrac>
+    <msqrt>
+      <mrow>
+        <msup>
+          <mrow>
+            <mo>{</mo>
+            <mi>f</mi>
+            <mo>(</mo>
+            <mi>&#952;</mi>
+            <mo>)</mo>
+            <mo>}</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <mn>0.0625</mn>
+      </mrow>
+    </msqrt>
+    <mn>1.030776</mn>
+  </mfrac>
+</math>

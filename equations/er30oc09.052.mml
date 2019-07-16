@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>G</mi>
+    <mn>23</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>c</mi>
+          <mn>23</mn>
+        </msub>
+        <msub>
+          <mi>c</mi>
+          <mn>22</mn>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>&#8727;</mo>
+  <msub>
+    <mi>P</mi>
+    <mn>22</mn>
+  </msub>
+  <mo>&#8727;</mo>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <mspace width="3em"/>
+  <mtext>(Eq. O-2)</mtext>
+</math>

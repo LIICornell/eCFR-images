@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>ap</mi>
+    </msub>
+    <mo>&#183;</mo>
+    <mi>DISP</mi>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>H</mi>
+      <mi>ap</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B70)</mtext>
+</math>

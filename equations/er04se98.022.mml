@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Surface Area </mtext>
+    <mrow>
+      <mo>(</mo>
+      <mi>SA</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <mn>3</mn>
+              <mo>&#215;</mo>
+              <mtext>average adult body length </mtext>
+              <mrow>
+                <mo>(</mo>
+                <mi>L</mi>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+      <mo>&#215;</mo>
+      <mn>3.14</mn>
+    </mrow>
+  </mrow>
+</math>

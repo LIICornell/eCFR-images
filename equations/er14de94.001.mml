@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mspace width=".2em"/>
+  <mi>TFL</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Number of normal fluorescent seedlings</mtext>
+    <mtext>Total number of normal seedlings</mtext>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

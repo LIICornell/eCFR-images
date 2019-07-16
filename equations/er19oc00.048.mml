@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>ap</mi>
+    </msub>
+    <mo>&#183;</mo>
+    <mi>IP</mi>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>H</mi>
+        <mi>ap</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A40)</mtext>
+</math>

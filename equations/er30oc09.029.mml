@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mi>NAC</mi>
+  <mo>&#215;</mo>
+  <mi>MP</mi>
+  <mo>&#215;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mo>[</mo>
+      <mn>100</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>S</mi>
+        <mi>a</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>Ash</mi>
+        <mi>a</mi>
+      </msub>
+      <mo>]</mo>
+      <mo>/</mo>
+      <mn>100</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#215;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>44</mn>
+      <mo>/</mo>
+      <mn>12</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(eq. F-5)</mtext>
+</math>

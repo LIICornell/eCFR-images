@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">NORMALIZEDBANDSUM</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mn>10</mn>
+      <mo>*</mo>
+      <msub>
+        <mi>log</mi>
+        <mn>10</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>13</mn>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+      </munderover>
+      <msup>
+        <mn>10</mn>
+        <mfrac>
+          <mtext><mrow>
+            <msub>
+              <mtext style="font-style: italic">Normalized Band Level</mtext>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          </mtext>
+          <mn>10</mn>
+        </mfrac>
+      </msup>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

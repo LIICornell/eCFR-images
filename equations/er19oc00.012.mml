@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>g</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>cos</mi>
+      <mspace width=".2em"/>
+      <mo>&#x2061;</mo>
+      <msub>
+        <mi>&#946;</mi>
+        <mn>1</mn>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>cos</mi>
+      <mo>&#x2061;</mo>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>&#945;</mi>
+        </mrow>
+        <mn>12</mn>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A5)</mtext>
+</math>

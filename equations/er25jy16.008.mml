@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Effective Area (sq. ft.)</mtext>
+  <mo>=</mo>
+  <mi>&#960;</mi>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>2</mn>
+        <mn>12</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mo>=</mo>
+  <mn>0.0873</mn>
+  <mspace width="5em"/>
+  <mtext>Eq. 2</mtext>
+</math>

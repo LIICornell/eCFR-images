@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>s</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi style="font-style: italic">scf</mi>
+      <mi style="font-style: italic">STBO</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mi>C</mi>
+  <mn>1</mn>
+  <mrow>
+    <mrow>
+      <mo>&#183;</mo>
+      <mrow>
+        <msub>
+          <mi>&#947;</mi>
+          <mi style="font-style: italic">gs</mi>
+        </msub>
+        <mo>&#183;</mo>
+          <msubsup>
+            <mi>P</mi>
+            <mi style="font-style: italic">BH</mi>
+            <mrow>
+              <mi>C</mi>
+              <mn>2</mn>
+            </mrow>
+          </msubsup>
+      </mrow>
+      <mo>&#215;</mo>
+    </mrow>
+    <mi style="font-style: italic">exp</mi>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <mi>C</mi>
+    <mn>3</mn>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>&#947;</mi>
+        <mi>o</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi style="font-style: italic">BH</mi>
+        </msub>
+        <mo>+</mo>
+        <mn>460</mn>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+</math>

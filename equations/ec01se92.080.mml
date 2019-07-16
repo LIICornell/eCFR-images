@@ -1,0 +1,66 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <msub>
+        <mtext>ERC unit's heat input</mtext>
+        <mtext>prior year</mtext>
+      </msub>
+      <mo>&#215;</mo>
+      <mtext>the lesser of [</mtext>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mn>2.5</mn>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mi>or</mi>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>the most stringent SIP</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>emissions limit</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>(in lb/mmBtu)</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext>]</mtext>
+    </mrow>
+    <mn>2000</mn>
+  </mfrac>
+  <mo>&#8722;</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>ERC unit's</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>SO</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mtext> emissions </mtext>
+          <mtext>prior year</mtext>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(in tons)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

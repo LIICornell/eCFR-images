@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>m</mi>
+  <mo>=</mo>
+  <mi>M</mi>
+  <mrow>
+    <mo>&#183;</mo>
+    <mover>
+      <mi>x</mi>
+      <mo>&#8212;</mo>
+    </mover>
+  </mrow>
+  <mo>&#183;</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>N</mi>
+    </munderover>
+    <mrow>
+      <msub>
+        <mover>
+          <mi>n</mi>
+          <mo>&#183;</mo>
+        </mover>
+        <mi>i</mi>
+      </msub>
+      <mo>&#183;</mo>
+      <mi>&#916;</mi>
+    </mrow>
+  </mrow>
+  <mi>t</mi>
+  <mspace width="3em"/>
+  <mtext>Eq. 1065.650-6</mtext>
+</math>

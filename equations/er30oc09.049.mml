@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: normal">E</mi>
+    <mrow>
+      <mi style="font-style: normal">CO</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi style="font-style: normal">MF</mi>
+      <mi style="font-style: normal">i</mi>
+    </msub>
+  </mrow>
+  <mi style="font-style: normal">g</mi>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi style="font-style: normal">M</mi>
+      <mi style="font-style: normal">i</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mi style="font-style: normal">g</mi>
+    <mfrac>
+      <mn>2000</mn>
+      <mn>2205</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mi style="font-style: normal">g</mi>
+  <msub>
+    <mi style="font-style: normal">EF</mi>
+    <mi style="font-style: normal">i</mi>
+  </msub>
+  <mi style="font-style: normal">g</mi>
+  <msub>
+    <mi style="font-style: normal">F</mi>
+    <mi style="font-style: normal">i</mi>
+  </msub>
+  <mspace width="3em"/>
+  <mtext>(Eq. N-1)</mtext>
+</math>

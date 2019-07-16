@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>FEXT loss </mtext>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>K</mi>
+        <mi>x</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mi>o</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mn>20</mn>
+      <mspace width=".2em"/>
+      <mrow>
+        <mi>log</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mn>10</mn>
+        <mspace width=".2em"/>
+        <mfrac>
+          <msub>
+            <mi>F</mi>
+            <mi>x</mi>
+          </msub>
+          <msub>
+            <mi>F</mi>
+            <mi>o</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mn>10</mn>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>log</mi>
+        <mspace width=".2em"/>
+        <mn>10</mn>
+        <mo>&#x2061;</mo>
+        <mfrac>
+          <msub>
+            <mi>L</mi>
+            <mi>x</mi>
+          </msub>
+          <msub>
+            <mi>L</mi>
+            <mi>o</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MAMER</mi>
+  <mo>=</mo>
+  <mi>ETSA</mi>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mi>K</mi>
+      <mo>&#215;</mo>
+      <mn>0.015</mn>
+      <mspace width=".2em"/>
+    </mrow>
+  </mrow>
+  <mi>mg</mi>
+  <mo>/</mo>
+  <mi>dscm</mi>
+  <mo>.</mo>
+  <mspace width="4em"/>
+  <mtext>(10)</mtext>
+</math>

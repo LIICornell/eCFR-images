@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Add-on Control Factor</mtext>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mtext>% Control Efficiency</mtext>
+    <mn>100</mn>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

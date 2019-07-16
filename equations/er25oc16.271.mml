@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>PMstd</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>1.071</mn>
+      <mo>&#183;</mo>
+      <mn>101.7</mn>
+      <mo>&#183;</mo>
+      <mn>293.15</mn>
+    </mrow>
+    <mrow>
+      <mn>101.325</mn>
+      <mo>&#183;</mo>
+      <mn>340.5</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>0.925</mn>
+  <msup>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>m</mi>
+    </mrow>
+    <mn>3</mn>
+  </msup>
+</math>

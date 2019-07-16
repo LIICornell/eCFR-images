@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>X</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>ER</mi>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>x</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>HI</mi>
+    <mi>h</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-24a)</mtext>
+</math>

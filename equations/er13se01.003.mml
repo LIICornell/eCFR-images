@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>B</mi>
+    <mi>q</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mspace width=".2em"/>
+  <mi>if</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>MCON</mi>
+    <mrow>
+      <mi>m</mi>
+      <mo>+</mo>
+      <mi>DM</mi>
+    </mrow>
+  </msub>
+  <mo>+</mo>
+  <mn>0.02</mn>
+  <mo>&#8804;</mo>
+  <msub>
+    <mi>MIR</mi>
+    <mi>m</mi>
+  </msub>
+</math>

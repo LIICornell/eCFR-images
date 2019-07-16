@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi style="font-style: italic">adj</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi style="font-style: italic">meas</mi>
+    </msub>
+  </mrow>
+  <mo>[</mo>
+  <mfrac bevelled="true">
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>20.9</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mrow>
+            <mo>%</mo>
+            <mi>O</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msub>
+      <mn>20.9</mn>
+      <mi>c</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="6em"/>
+  <mtext>(Eq. 11)</mtext>
+</math>

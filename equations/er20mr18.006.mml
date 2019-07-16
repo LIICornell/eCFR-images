@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mi>R</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mfrac>
+          <mi>B</mi>
+          <mi>CS</mi>
+        </mfrac>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-7)</mtext>
+</math>

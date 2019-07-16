@@ -1,0 +1,111 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>ERC unit prior year</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>emissions rate</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>ERC units</mtext>
+              </munder>
+              <msub>
+                <mi>SO</mi>
+                <mn>2</mn>
+              </msub>
+              <msub>
+                <mtext>emissions</mtext>
+                <mtext>prior year</mtext>
+              </msub>
+              <mspace width=".6em"/>
+              <mtext>(in pounds)</mtext>
+            </mrow>
+            <mrow>
+              <mrow>
+                <munder>
+                  <mo>&#8721;</mo>
+                  <mtext>ERC units</mtext>
+                </munder>
+                <msub>
+                  <mtext>Heat input</mtext>
+                  <mtext>prior year</mtext>
+                </msub>
+              </mrow>
+              <mspace width=".6em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Non-ERC unit prior year</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>emissions rate</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mtext></mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>non-ERC units</mtext>
+              </munder>
+              <mrow>
+                <msub>
+                  <mrow>
+                    <msub>
+                      <mi>SO</mi>
+                      <mn>2</mn>
+                    </msub>
+                    <mtext>emissions</mtext>
+                  </mrow>
+                  <mtext>prior year</mtext>
+                </msub>
+              </mrow>
+              <mspace width=".6em"/>
+              <mtext>(in pounds)</mtext>
+            </mrow>
+            <mrow>
+              <mrow>
+                <munder>
+                  <mo>&#8721;</mo>
+                  <mtext>non-ERC units</mtext>
+                </munder>
+                <msub>
+                  <mtext>Heat input</mtext>
+                  <mtext>prior year</mtext>
+                </msub>
+              </mrow>
+              <mspace width=".6em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

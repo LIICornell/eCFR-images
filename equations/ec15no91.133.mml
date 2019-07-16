@@ -1,0 +1,92 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>(1)</mtext>
+        <mspace width="4em"/>
+        <mtext>Determine</mtext>
+        <mspace width=".2em"/>
+        <mfrac>
+          <mi>CTcalc</mi>
+          <msub>
+            <mi>CT</mi>
+            <mn>99.9</mn>
+          </msub>
+        </mfrac>
+        <mspace width=".2em"/>
+        <mtext>for each sequence.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(2)</mtext>
+        <mspace width="4em"/>
+        <mtext>Add the</mtext>
+        <mspace width=".2em"/>
+        <mfrac>
+          <mi>CTcalc</mi>
+          <msub>
+            <mi>CT</mi>
+            <mn>99.9</mn>
+          </msub>
+        </mfrac>
+        <mspace width=".2em"/>
+        <mtext>values together</mtext>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mo>&#8721;</mo>
+            <mspace width=".2em"/>
+            <mfrac>
+              <mrow>
+                <mo>(</mo>
+                <mi>CTcalc</mi>
+                <mo>)</mo>
+              </mrow>
+              <msub>
+                <mi>CT</mi>
+                <mn>99.9</mn>
+              </msub>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(3)</mtext>
+        <mspace width="4em"/>
+        <mi>If</mi>
+        <mrow>
+          <mspace width="2em"/>
+          <mo>&#8721;</mo>
+          <mspace width="2em"/>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mi>CTcalc</mi>
+              <msub>
+                <mi>CT</mi>
+                <mn>99.9</mn>
+              </msub>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>&#8805;</mo>
+        <mn>1.0</mn>
+        <mo>,</mo>
+        <mi>the</mi>
+        <mspace width=".4em"/>
+        <mn>99.9</mn>
+        <mspace width=".4em"/>
+        <mrow>
+          <mtext>percent</mtext>
+          <mspace width=".4em"/>
+          <mtext style="font-style: italic">Giardia</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>NO</mi>
+          <mi>X</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mi>h</mi>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>E</mi>
+    <mi>h</mi>
+  </msub>
+  <msub>
+    <mi>t</mi>
+    <mi>h</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-26c)</mtext>
+</math>

@@ -1,0 +1,68 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">FER</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>CH</mi>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>E</mi>
+              <mi style="font-style: italic">Max</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi style="font-style: italic">HH</mi>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>E</mi>
+              <mi style="font-style: italic">Heat</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi style="font-style: italic">CCH</mi>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>E</mi>
+              <mi style="font-style: italic">Circ</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi style="font-style: italic">CH</mi>
+            <mo>+</mo>
+            <mn>830</mn>
+            <mo>+</mo>
+            <mi style="font-style: italic">CCH</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">Max</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>1000</mn>
+  </mrow>
+</math>

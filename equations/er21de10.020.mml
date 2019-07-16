@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>v</mi>
+      <mo>max</mo>
+    </msub>
+    <mo>=</mo>
+    <msup>
+      <msub>
+        <mi>v</mi>
+        <mi>n</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mn>1.5</mn>
+        <mo>)</mo>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 21)</mtext>
+</math>

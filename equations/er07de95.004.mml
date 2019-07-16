@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>Dif</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <msub>
+              <mi>A</mi>
+              <mi>i</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>B</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <mfrac>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>A</mi>
+                <mi>i</mi>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>B</mi>
+                <mi>i</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. (2)</mtext>
+</math>

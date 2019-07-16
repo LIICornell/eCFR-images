@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>NHV</mi>
+    <mi style="font-style: italic">dd</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">vg</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mi style="font-style: italic">Diam</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi style="font-style: italic">NHV</mi>
+        <mi style="font-style: italic">vg</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">vg</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>.</mo>
+            <mi style="font-style: italic">premix</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>.</mo>
+            <mi style="font-style: italic">perimeter</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

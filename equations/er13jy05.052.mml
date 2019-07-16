@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mover>
+        <mi>x</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>NMHC</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>1.5</mn>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo>
+        <mspace width=".2em"/>
+        <mn>5.389</mn>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mn>13.875389</mn>
+            <mspace width=".2em"/>
+            <mo>&#183;</mo>
+            <msup>
+              <mrow>
+                <mspace width=".2em"/>
+                <mn>10</mn>
+              </mrow>
+              <mrow>
+                <mo>&#8722;</mo>
+                <mn>6</mn>
+              </mrow>
+            </msup>
+          </mrow>
+          <mo>&#183;</mo>
+          <mspace width=".2em"/>
+          <mn>6.021</mn>
+        </mrow>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo>
+        <mspace width=".2em"/>
+        <mn>1800</mn>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

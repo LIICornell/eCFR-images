@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Baseline BAF </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mfrac>
+          <msubsup>
+            <mtext>Measured BAF</mtext>
+            <mi>T</mi>
+            <mi>t</mi>
+          </msubsup>
+          <msub>
+            <mi>f</mi>
+            <mi>fd</mi>
+          </msub>
+        </mfrac>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mn>1</mn>
+    <msub>
+      <mi>f</mi>
+      <mn>1</mn>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+</math>

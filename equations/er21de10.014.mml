@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>Q</mi>
+            <mi>s</mi>
+          </msub>
+          <mrow>
+            <mn>60</mn>
+            <mfrac>
+              <mo>min</mo>
+              <mi>s</mi>
+            </mfrac>
+          </mrow>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>n</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 15)</mtext>
+</math>

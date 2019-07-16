@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mn>17.03</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>N</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

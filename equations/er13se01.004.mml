@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>RS</mi>
+    <mi>q</mi>
+  </msub>
+  <mo>=</mo>
+  <mi style = "font-style: italic">avg</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>MIR</mi>
+          <mi>ORIG</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>MCON</mi>
+          <mrow>
+            <mi>m</mi>
+            <mo>+</mo>
+            <mi>DM</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>MIR</mi>
+        <mi>ORIG</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

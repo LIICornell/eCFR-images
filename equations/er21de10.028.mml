@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>sST</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>V</mi>
+        <mi>ms</mi>
+      </msub>
+      <mi>&#952;</mi>
+    </mfrac>
+    <mspace width="4em"/>
+  </mrow>
+  <mtext>(Eq. 29)</mtext>
+</math>

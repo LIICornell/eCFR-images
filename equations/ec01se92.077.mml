@@ -1,0 +1,77 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>ERC unit's Heat input</mtext>
+      <mtext>prior year</mtext>
+    </msub>
+    <mspace width="1em"/>
+    <mtext>(in mmBtu)</mtext>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>ERC units</mtext>
+              </munder>
+              <msub>
+                <mtext>Heat input</mtext>
+                <mn>1990</mn>
+              </msub>
+              <mspace width="2em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>all units</mtext>
+              </munder>
+              <msub>
+                <mtext>Heat input</mtext>
+                <mn>1990</mn>
+              </msub>
+              <mspace width="2em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>ERC units</mtext>
+              </munder>
+                <msub>
+                  <mtext>Heat input</mtext>
+                  <mtext>prior year</mtext>
+                </msub>
+              <mspace width="2em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mtext>all units</mtext>
+              </munder>
+              <msub>
+                <mtext>Heat input</mtext>
+                <mtext>prior year</mtext>
+              </msub>
+              <mspace width="2em"/>
+              <mtext>(in mmBtu)</mtext>
+            </mrow>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

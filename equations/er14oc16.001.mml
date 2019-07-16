@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mover>
+        <mi>m</mi>
+        <mo>&#183;</mo>
+      </mover>
+      <mi style="font-style: italic">SD</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mrow>
+            <mi style="font-style: italic">co</mi>
+            <mo>_</mo>
+            <mi style="font-style: italic">SD</mi>
+          </mrow>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>&#961;</mi>
+          <mrow>
+            <mi style="font-style: italic">co</mi>
+            <mo>_</mo>
+            <mi style="font-style: italic">SD</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <msub>
+            <mi>&#969;</mi>
+            <mrow>
+              <mi style="font-style: italic">co</mi>
+              <mo>_</mo>
+              <mi style="font-style: italic">SD</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>CH</mi>
+        <mrow>
+          <mn>4</mn>
+          <mi>Destroyedonsite</mi>
+        </mrow>
+      </msub>
+      <mo>*</mo>
+      <mrow>
+        <mn>44</mn>
+        <mo>/</mo>
+        <mn>16</mn>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. FF-8)</mtext>
+</math>

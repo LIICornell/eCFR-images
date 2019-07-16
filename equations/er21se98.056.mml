@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>TU</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mi>D</mi>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>E</mi>
+        <mi>TC</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>TU</mi>
+    </msub>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq.  62)</mtext>
+</math>

@@ -1,0 +1,54 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mrow>
+        <mn>4</mn>
+        <mi>DTotal</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>j</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>w</mi>
+        </munderover>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi style="font-style: italic">CH</mi>
+              <mrow>
+                <mn>4</mn>
+                <mi>D</mi>
+              </mrow>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mrow>
+            <mi>i</mi>
+            <mo>,</mo>
+            <mi>j</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. FF-4)</mtext>
+</math>

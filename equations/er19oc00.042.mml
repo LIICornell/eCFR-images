@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>c</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>B</mi>
+      <mo>&#183;</mo>
+      <mrow>
+        <mi>sin</mi>
+        <mo>&#x2061;</mo>
+        <mspace width=".2em"/>
+        <mi>L</mi>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mi>sin</mi>
+      <mspace width=".2em"/>
+      <mo>&#x2061;</mo>
+      <mi>&#948;</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation A34)</mtext>
+</math>

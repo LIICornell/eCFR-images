@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>ES</mi>
+    <mi>iACTUAL</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>ES</mi>
+    <mi>iu</mi>
+  </msub>
+  <mo>*</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mtext>Percent reduction</mtext>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

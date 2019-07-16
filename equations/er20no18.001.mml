@@ -1,0 +1,83 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>(</mo>
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Pre-production</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>absorption ratio</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>&#215;</mo>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Pre-production</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>section 471 costs</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>remaining on hand</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>at year end</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>)</mo>
+      <mo>+</mo>
+      <mo>(</mo>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Production</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>absorption ratio</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mo>&#215;</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Production</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>section 471 costs</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>remaining on hand</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>at year end</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mo>)</mo>
+</math>

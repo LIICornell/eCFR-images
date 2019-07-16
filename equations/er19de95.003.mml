@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 2:</mtext>
+  <mspace width="5em"/>
+  <mi>M</mi>
+  <mo>=</mo>
+  <mn>2</mn>
+  <msqrt>
+    <mrow>
+      <msubsup>
+        <mi>&#963;</mi>
+        <mi>U</mi>
+        <mn>2</mn>
+      </msubsup>
+      <mo>+</mo>
+      <msubsup>
+        <mi>&#963;</mi>
+        <mi>&#916;</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+  </msqrt>
+</math>

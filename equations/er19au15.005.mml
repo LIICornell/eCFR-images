@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mo>(</mo>
+  <mi>P</mi>
+  <mi>K</mi>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. BB-3)</mtext>
+</math>

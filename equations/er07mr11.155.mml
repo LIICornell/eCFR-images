@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>n</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <mi>t</mi>
+          <msub>
+            <mi>S</mi>
+            <mn>1</mn>
+          </msub>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>108</mn>
+              <mo>&#8722;</mo>
+              <mrow>
+                <mn>0.08</mn>
+                <mi style="font-style: italic">RE</mi>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mi style="font-style: italic">RE</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>8</mn>
+              <mo>&#8722;</mo>
+              <mrow>
+                <mn>0.08</mn>
+                <mi style="font-style: italic">RE</mi>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mspace width="8em"/>
+  <mtext>[6]</mtext>
+</math>

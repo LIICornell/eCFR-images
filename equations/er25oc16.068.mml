@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Set the axle ratio</mtext>
+  <mo>,</mo>
+  <msub>
+    <mi>k</mi>
+    <mi>a</mi>
+  </msub>
+  <mo>,</mo>
+  <mtext>and tire size</mtext>
+  <mo>,</mo>
+  <mspace width=".2em"/>
+  <mfrac>
+    <msub>
+      <mi>f</mi>
+      <mi>ntire</mi>
+    </msub>
+    <msub>
+      <mi>v</mi>
+      <mi>vehicle</mi>
+    </msub>
+  </mfrac>
+  <mo>,</mo>
+  <mtext>for each test configuration based on the</mtext>
+</math>

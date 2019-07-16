@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <mn>3.056</mn>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>Q</mi>
+            </mrow>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>v</mi>
+          <mi>s</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width="6em"/>
+  <mtext>(Eq. 14)</mtext>
+</math>

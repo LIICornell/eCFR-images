@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>QMW</mi>
+          <mi>a</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>QMW</mi>
+              <mi>b</mi>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>QMG</mi>
+              <mi>b</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msub>
+      <mi>QMW</mi>
+      <mi>a</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 51)</mtext>
+</math>

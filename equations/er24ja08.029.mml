@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mrow>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>X</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mtext>time period</mtext>
+      </msub>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>h</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>p</mi>
+      </munderover>
+      <mi>M</mi>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>x</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+    </mrow>
+    <mn>2000</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-27)</mtext>
+</math>

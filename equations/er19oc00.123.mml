@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#952;</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>F</mi>
+        <mi>ri</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>*</mo>
+    <mtext>45 degrees.</mtext>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B10)</mtext>
+</math>

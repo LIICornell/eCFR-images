@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RT</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mtext>Distance from injection to peak maximum</mtext>
+    <mtext>Recorder chart speed</mtext>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. (4)</mtext>
+</math>

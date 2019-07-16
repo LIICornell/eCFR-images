@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>n</mi>
+    <mi>HAP</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mi>V</mi>
+      <mrow>
+        <mi>R</mi>
+        <mspace width=".6em"/>
+        <mi>T</mi>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 18)</mtext>
+</math>

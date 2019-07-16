@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mi>y</mi>
+    <mo>^</mo>
+  </mover>
+  <mo>=</mo>
+  <msub>
+    <mi>b</mi>
+    <mn>0</mn>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>b</mi>
+    <mn>1</mn>
+  </msub>
+  <mi>x</mi>
+  <mo>+</mo>
+  <msub>
+    <mi>b</mi>
+    <mn>2</mn>
+  </msub>
+  <msup>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msup>
+  <mspace width="3em"/>
+  <mtext>(Eq. 11-16)</mtext>
+</math>

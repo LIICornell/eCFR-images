@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>F</mi>
+      <mn>1</mn>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>W</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>F</mi>
+        <mn>2</mn>
+      </msub>
+      <msub>
+        <mi>W</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

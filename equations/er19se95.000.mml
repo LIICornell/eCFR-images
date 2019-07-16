@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>P</mi>
+            <mo>&#8722;</mo>
+            <mn>550,000</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+        <mn>40</mn>
+      </mrow>
+      <mn>365</mn>
+    </mfrac>
+  </mrow>
+</math>

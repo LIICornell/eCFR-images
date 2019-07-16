@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Pre-production additional</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>section 263A costs</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Pre-production</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>section 471 costs</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>200,000</mn>
+        </mrow>
+        <mrow>
+          <mo>$</mo>
+          <mn>2,500,000</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>8.00</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+</math>

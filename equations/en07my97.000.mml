@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Actual Splice Loss</mtext>
+    <mspace width=".2em"/>
+    <mrow>
+      <mo>(</mo>
+      <mi>dB</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>OTDR Reading</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>From A to B</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mo>+</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>OTDR Reading</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>From B to A</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mrow>
+      <mn>2</mn>
+    </mfrac>
+  </mrow>
+</math>

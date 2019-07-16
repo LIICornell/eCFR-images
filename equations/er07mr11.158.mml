@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">LCL</mi>
+      <mi>z</mi>
+    </msub>
+    <mo>=</mo>
+    <mi style="font-style: italic">SSD</mi>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>m</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mi style="font-style: italic">tSE</mi>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mover>
+          <mi>X</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mn>2</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>[9]</mtext>
+</math>

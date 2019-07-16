@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mover>
+        <mi>P</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>&#8212;</mo>
+    </mover>
+    <mi>loss</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>1.6029</mn>
+      <mo>+</mo>
+      <mn>1.6019</mn>
+      <mo>+</mo>
+      <mn>1.6039</mn>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mn>1.6029</mn>
+  <mspace width=".5em"/>
+  <mi>kW</mi>
+</math>

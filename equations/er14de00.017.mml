@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>j</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>F</mi>
+  <mspace width=".2em"/>
+  <mi>K</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>V</mi>
+    <mi>s</mi>
+  </msub>
+  <msub>
+    <mi>C</mi>
+    <mi>t</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. 158-6)</mtext>
+</math>

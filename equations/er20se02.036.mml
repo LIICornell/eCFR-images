@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>o</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>i</mi>
+    </msub>
+  </mfrac>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>)</mo>
+  <mspace width="6em"/>
+  <mtext>(Eq. 37)</mtext>
+</math>

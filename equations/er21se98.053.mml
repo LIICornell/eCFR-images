@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>Ti</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mi>D</mi>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>E</mi>
+        <mi>To</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>TI</mi>
+    </msub>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq.  59)</mtext>
+</math>

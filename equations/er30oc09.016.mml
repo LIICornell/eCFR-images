@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>or</mtext>
+  <mspace width=".2em"/>
+  <msub>
+    <mi style="font-style: normal">N</mi>
+    <mn>2</mn>
+  </msub>
+  <mi style="font-style: normal">O</mi>
+  <mo>=</mo>
+    <mn>0.001</mn>
+  <mo>&#8727;</mo>
+  <msub>
+    <mrow>
+      <mo>(</mo>
+      <mi>HI</mi>
+      <mo>)</mo>
+    </mrow>
+    <mi style="font-style: normal">A</mi>
+  </msub>
+  <mo>&#8727;</mo>
+  <mi>EF</mi>
+  <mspace width="3em"/>
+  <mtext>(Eq. C-10)</mtext>
+</math>

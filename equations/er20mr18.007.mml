@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mfrac>
+          <mi>B</mi>
+          <mrow>
+            <mi>C</mi>
+            <mi>S</mi>
+          </mrow>
+        </mfrac>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-8)</mtext>
+</math>

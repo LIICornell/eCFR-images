@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>D</mi>
+        <mi>F</mi>
+      </mrow>
+      <mi>w</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>N</mi>
+        </munderover>
+        <msub>
+          <mi>t</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>N</mi>
+        </munderover>
+        <mrow>
+          <mfrac>
+            <mn>1</mn>
+            <msub>
+              <mrow>
+                <mi>D</mi>
+                <mi>F</mi>
+              </mrow>
+              <mi>i</mi>
+            </msub>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#183;</mo>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>t</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1066.620-4</mtext>
+</math>

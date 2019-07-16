@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mi>Unit</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>s</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>HI</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>t</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>t</mi>
+        <mi>Unit</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-21c)</mtext>
+</math>

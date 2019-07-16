@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mi>b</mi>
+  <mo>*</mo>
+  <mi>t</mi>
+  <mo>)</mo>
+  <mo>+</mo>
+  <mo>(</mo>
+  <mi>a</mi>
+  <mo>*</mo>
+  <mo>(</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mi>t</mi>
+  <mo>)</mo>
+  <mo>)</mo>
+  <mspace width="2in"/>
+  <mtext>(Eq. 11g)</mtext>
+</math>

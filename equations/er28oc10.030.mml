@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+      <mi>E</mi>
+      <mrow>
+          <msub>
+            <mi>N</mi>
+            <mn>2</mn>
+          </msub>
+          <mi>O</mi>
+          <mi>t</mi>
+      </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>EF</mi>
+        <mrow>
+          <mi>N</mi>
+          <mn>20</mn>
+          <mi>t</mi>
+        </mrow>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>t</mi>
+      </msub>
+    </mrow>
+    <mn>2205</mn>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>(Eq. V-3d)</mtext>
+</math>

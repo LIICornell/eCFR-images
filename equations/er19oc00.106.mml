@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>x</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>y</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation C8)</mtext>
+</math>

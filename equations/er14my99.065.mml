@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>d</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>B</mi>
+        <mi>ws</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mrow>
+      <mn>18.0</mn>
+      <mspace width=".2em"/>
+      <mi>B</mi>
+    </mrow>
+    <mi>ws</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 2G-2</mtext>
+</math>

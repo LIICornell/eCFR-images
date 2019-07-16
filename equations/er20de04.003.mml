@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>U</mi>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>923</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>PO</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mn>47032</mn>
+  </mfrac>
+</math>

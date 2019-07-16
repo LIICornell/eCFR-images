@@ -1,0 +1,62 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>W</mi>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mo>(</mo>
+                <mtext>maximum displacement</mtext>
+                <mo>)</mo>
+              </mrow>
+              <mn>5</mn>
+            </mfrac>
+            <mo>&#8722;</mo>
+            <mfrac>
+              <mtext>boat weight</mtext>
+              <mn>5</mn>
+            </mfrac>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mfrac>
+            <mrow>
+              <mn>4</mn>
+              <mrow>
+                <mo>(</mo>
+                <mtext>machinery weight</mtext>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mn>5</mn>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>or</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>W</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mtext>maximum displacement</mtext>
+              <mo>&#8722;</mo>
+              <mtext>boat weight</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mn>7</mn>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

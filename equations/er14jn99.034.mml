@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>e</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>DF</mi>
+      <mo>&#215;</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>S</mi>
+          <mi>u</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>DF</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(2)</mtext>
+</math>

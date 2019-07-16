@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CS</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>DF</mi>
+    <mo>*</mo>
+    <mrow>
+      <msub>
+        <mi>Spike</mi>
+        <mi>dir</mi>
+      </msub>
+      <mo>+</mo>
+      <mi>Unspike</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>DF</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4)</mtext>
+</math>

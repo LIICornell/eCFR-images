@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>v</mi>
+      <mrow>
+        <mi>a</mi>
+        <mo>(</mo>
+        <mi>avg</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>v</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>(</mo>
+            <mi>i</mi>
+            <mo>)</mo>
+          </mrow>
+        </msub>
+      </mrow>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2F-9</mtext>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>d</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>C</mi>
+        <mi>w</mi>
+      </msub>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>B</mi>
+          <mi>ws</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>EQ. 30A-4a</mtext>
+</math>

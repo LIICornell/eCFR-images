@@ -1,0 +1,54 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi style="font-style: italic">PV</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mrow>
+        <mo>&#8721;</mo>
+      </mrow>
+      <mrow>
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <msub>
+        <mi style="font-style: italic">ER</mi>
+        <mi>T</mi>
+      </msub>
+      <mo>&#8727;</mo>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi style="font-style: italic">PR</mi>
+          <mi>p</mi>
+        </msub>
+        <msub>
+          <mi style="font-style: italic">PR</mi>
+          <mi>T</mi>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>&#8727;</mo>
+  <msub>
+    <mi>l</mi>
+    <mi>p</mi>
+  </msub>
+  <mo>&#8727;</mo>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <mspace width="3em"/>
+  <mtext>(Eq. O-7)</mtext>
+</math>

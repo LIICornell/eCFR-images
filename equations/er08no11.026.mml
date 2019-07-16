@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mtext>Periodic Addition</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mtext>Adjustment Factor</mtext>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mtext>Section 7520 Rate</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mn>1</mn>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mtext>Section 7520 Rate</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>T</mi>
+      </msup>
+    </mfrac>
+  </mrow>
+</math>

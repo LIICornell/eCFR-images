@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi style="font-style: italic">Cf</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mn>1</mn>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>H</mi>
+          <mi style="font-style: italic">Bfj</mi>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mn>1</mn>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>H</mi>
+          <mi style="font-style: italic">Efj</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-32)</mtext>
+</math>

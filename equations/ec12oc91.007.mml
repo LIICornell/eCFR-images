@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>HOME investment</mtext>
+            <mrow>
+              <mtext>HOME investment</mtext>
+              <mo>+</mo>
+              <mtext>homeowner investment</mtext>
+            </mrow>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mrow>
+            <mtext>Net proceeds</mtext>
+            <mo>=</mo>
+            <mtext>HOME amount to be recaptured</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>homeowner investment</mtext>
+            <mrow>
+              <mtext>HOME investment </mtext>
+              <mo>+</mo>
+              <mtext>homeowner investment</mtext>
+            </mrow>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mrow>
+            <mtext>Net proceeds</mtext>
+            <mo>=</mo>
+            <mtext>amount to homeowner</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

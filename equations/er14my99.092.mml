@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mover>
+        <mi>v</mi>
+        <mo>^</mo>
+      </mover>
+      <mi>final</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mover>
+        <mi>WAF</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>v</mi>
+        <mi>avg</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-20</mtext>
+</math>

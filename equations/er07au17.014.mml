@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mi>L</mi>
+  <mo>=</mo>
+  <mn>5.0</mn>
+  <mi style="font-style: italic">ft</mi>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <msup>
+              <mn>62.4</mn>
+              <mi style="font-style: italic">lb</mi>
+            </msup>
+            <mo>/</mo>
+            <msup>
+              <mi style="font-style: italic">ft</mi>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+          <msub>
+            <mi>&#961;</mi>
+            <mi style="font-style: italic">test</mi>
+          </msub>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mrow>
+              <mi style="font-style: italic">abs</mi>
+              <mo>,</mo>
+              <mi style="font-style: italic">test</mi>
+            </mrow>
+          </msub>
+          <mrow>
+            <mn>14.7</mn>
+            <mi style="font-style: italic">psia</mi>
+          </mrow>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

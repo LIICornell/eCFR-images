@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>AFR</mi>
+    <mi>episode</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>FR</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>[Eq. 13]</mtext>
+</math>

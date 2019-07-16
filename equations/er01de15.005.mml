@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>d</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>1,000,000</mn>
+        <mo>&#215;</mo>
+        <mrow>
+            <mo>&#8721;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>X</mi>
+                <mi>i</mi>
+              </msub>
+              <mo>&#215;</mo>
+              <msub>
+                <mi style="font-style: italic">MEV</mi>
+                <mi>i</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>X</mi>
+              <mi>i</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <msub>
+              <mi style="font-style: italic">MHC</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 13)</mtext>
+</math>

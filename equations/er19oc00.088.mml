@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <mi>&#949;</mi>
+  <mo>=</mo>
+  <mrow>
+    <msup>
+      <mi>tan</mi>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+    </msup>
+    <mo>&#x2061;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mi>&#916;</mi>
+          <msub>
+            <mi>&#949;</mi>
+            <msub>
+              <mi>s</mi>
+              <mn>5</mn>
+            </msub>
+          </msub>
+        </mrow>
+        <mrow>
+          <mi>&#916;</mi>
+          <msub>
+            <mi>&#949;</mi>
+            <msub>
+              <mi>c</mi>
+              <mn>5</mn>
+            </msub>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B65)</mtext>
+</math>

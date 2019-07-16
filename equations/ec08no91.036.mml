@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>K</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>&#956;</mi>
+      <mi>d</mi>
+    </msub>
+    <mrow>
+      <msubsup>
+        <mi>M</mi>
+        <mi>W</mi>
+        <mn>0.2051</mn>
+      </msubsup>
+      <msubsup>
+        <mi>M</mi>
+        <mi>d</mi>
+        <mn>0.2949</mn>
+      </msubsup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>&#956;</mi>
+            <mi>d</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <mn>74.143</mn>
+        </mrow>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>B</mi>
+          <mi>ws</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width="4em"/>
+    <mspace width="4em"/>
+  </mfrac>
+</math>

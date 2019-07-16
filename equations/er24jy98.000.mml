@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>YCF</mi>
+          <mi>t</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>APF</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>YCF</mi>
+              <mi>t</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>APF</mi>
+              <mi>t</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>amount reserved for</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Territories at paragraph</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>(a) of this section.</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

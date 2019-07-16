@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>n</mi>
+      <mi>z</mi>
+    </msub>
+    <mo>=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>ts</mi>
+            <mn>1</mn>
+          </msub>
+          <mrow>
+            <mn>0.05</mn>
+            <mi style="font-style: italic">EES</mi>
+          </mrow>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mn>2</mn>
+    </msup>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>n</mi>
+      <mn>1</mn>
+    </msub>
+    <mspace width="6em"/>
+    <mtext>[6]</mtext>
+  </mrow>
+</math>

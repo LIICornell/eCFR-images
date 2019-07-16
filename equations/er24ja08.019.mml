@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mrow>
+      <msub>
+        <mi>SO</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>&#8722;</mo>
+      <mi>hr</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mtext>all-fuels</mtext>
+    </munder>
+    <msub>
+      <mi>SO</mi>
+      <msub>
+        <mn>2</mn>
+        <mrow>
+          <mi>rate</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>t</mi>
+    <mi>i</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-12)</mtext>
+</math>

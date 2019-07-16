@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>a</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mi>r</mi>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>&#949;</mi>
+          <mi>c</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B52)</mtext>
+</math>

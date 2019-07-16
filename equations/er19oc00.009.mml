@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msup>
+      <mi>&#949;</mi>
+      <mn>2</mn>
+    </msup>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msup>
+            <mi>a</mi>
+            <mn>2</mn>
+          </msup>
+          <mo>&#8722;</mo>
+          <msup>
+            <mi>b</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <msup>
+        <mi>b</mi>
+        <mn>2</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A2)</mtext>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>cpm</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>m</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mo>+</mo>
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>m</mi>
+      <mi>fb</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

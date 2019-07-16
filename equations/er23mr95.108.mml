@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Baseline BAF</mtext>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>FCM</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <msubsup>
+      <mtext>Measured BCF</mtext>
+      <mi>T</mi>
+      <mi>t</mi>
+    </msubsup>
+    <msub>
+      <mi>f</mi>
+      <mi>fd</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mn>1</mn>
+  </mrow>
+  <mo>]</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mn>1</mn>
+    <msub>
+      <mi>f</mi>
+      <mi>i</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+</math>

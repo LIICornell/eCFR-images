@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic;">DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>Q</mi>
+      <mi style="font-style: italic;">spike</mi>
+    </msub>
+    <msub>
+      <mi>Q</mi>
+      <mi style="font-style: italic;">probe</mi>
+    </msub>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>Eq. A1</mtext>
+</math>

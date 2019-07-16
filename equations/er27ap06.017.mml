@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>nc</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>ncl</mi>
+    </msub>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <mn>1</mn>
+    <mo>+</mo>
+    <mn>0.00065</mn>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>T</mi>
+        <mi>nm</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>T</mi>
+        <mi>nr</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(4-2)</mtext>
+</math>

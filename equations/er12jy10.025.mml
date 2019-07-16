@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MG</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>G</mi>
+      <mrow>
+        <mi>CH</mi>
+        <mn>4</mn>
+      </mrow>
+    </msub>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mi>OX</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. TT-6)</mtext>
+</math>

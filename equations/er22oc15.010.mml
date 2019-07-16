@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>s</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>o</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>C</mi>
+              <mi>F</mi>
+            </mrow>
+            <mi>n</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <mfrac>
+            <msub>
+              <mi>E</mi>
+              <mi>n</mi>
+            </msub>
+            <mn>8760</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>n</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. W-16)</mtext>
+</math>
