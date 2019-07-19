@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#949;</mi>
+      <msub>
+        <mi>c</mi>
+        <mi>k</mi>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>a</mi>
+            <mi>t</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>r</mi>
+            <mrow>
+              <mi>k</mi>
+              <mo>,</mo>
+              <mn>1</mn>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <msub>
+        <mi>a</mi>
+        <mi>t</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B55)</mtext>
+</math>

@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+        <mi>A</mi>
+        <mo>=</mo>
+    </msub>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>T</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>B</mi>
+        </msub>
+        <mo>)</mo>
+        <mi>L</mi>
+      </mrow>
+      <mrow>
+        <mn>2.22</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>E</mi>
+          <mi>y</mi>
+        </msub>
+          <mover>
+            <msub>
+              <mi>E</mi>
+              <mi>C</mi>
+            </msub>
+            <mo>&#8212;</mo>
+          </mover>
+        <mi>T</mi>
+        <mspace width=".2em"/>
+        <mi>D</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 111-7</mtext>
+</math>

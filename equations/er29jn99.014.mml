@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>P</mi>
+      <mo>/</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>f</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>/</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>t</mi>
+        <mi>f</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>t</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mspace width="2em"/>
+    <mtext>[Eq. 5]</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>exp</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>t</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>C</mi>
+          <mi>est</mi>
+        </msub>
+        <mo>]</mo>
+      </mrow>
+      <mspace width=".2em"/>
+      <mi>x</mi>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>3</mn>
+        </mrow>
+      </msup>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation 12B-1)</mtext>
+</math>

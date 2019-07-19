@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>w</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>w</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>b</mi>
+      </msub>
+    </mfrac>
+    <mspace width="4em"/>
+    <mtext>Eq. 5F-1</mtext>
+  </mrow>
+</math>

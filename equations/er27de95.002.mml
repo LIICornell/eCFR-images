@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mtext>Value of addition</mtext>
+        <mtext>Total value of trust</mtext>
+      </mfrac>
+      <mo>=</mo>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>100,000</mn>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mo>$</mo>
+            <mn>400,000</mn>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>100,000</mn>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mo>.</mo>
+    <mn>2</mn>
+  </mrow>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi style="font-style: italic">CO</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>5.18</mn>
+  <mo>&#215;</mo>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>7</mn>
+    </mrow>
+  </msup>
+  <mo>&#8727;</mo>
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi style="font-style: italic">CO</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>&#8727;</mo>
+  <mi>Q</mi>
+  <mspace width="3em"/>
+  <mtext>(Eq. C-6)</mtext>
+</math>

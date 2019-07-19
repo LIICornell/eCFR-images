@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Processtype</mtext>
+  <msub>
+    <mrow>
+      <mi>B</mi>
+      <mi>E</mi>
+    </mrow>
+    <mi>k</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>N</mi>
+    </munderover>
+    <munder>
+      <mo>&#8721;</mo>
+      <mi>i</mi>
+    </munder>
+    <msub>
+      <mrow>
+        <mi>B</mi>
+        <mi>E</mi>
+      </mrow>
+      <mi style="font-style: italic">ijk</mi>
+    </msub>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. I-7)</mtext>
+</math>

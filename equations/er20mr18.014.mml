@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>S</mi>
+    <mi>p</mi>
+    <mn>2</mn>
+  </msubsup>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+        <mi>n</mi>
+      </munderover>
+      <msubsup>
+        <mi>d</mi>
+        <mi>i</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+    <mrow>
+      <mn>2</mn>
+      <mi>n</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-15)</mtext>
+</math>

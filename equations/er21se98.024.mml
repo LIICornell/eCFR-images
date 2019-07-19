@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#951;</mi>
+    <mi>HAP</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>Y</mi>
+          <mi>HAP</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>V</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mi>R</mi>
+      <mspace width=".2em"/>
+      <mi>T</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 27)</mtext>
+</math>

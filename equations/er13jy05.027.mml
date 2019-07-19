@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>rms</mi>
+      <mi>y</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msqrt>
+      <mfrac>
+        <mrow>
+          <mn>10.60</mn>
+          <mo>+</mo>
+          <msup>
+            <mn>11.91</mn>
+            <mn>2</mn>
+          </msup>
+          <mo>+</mo>
+          <msup>
+            <mn>11.09</mn>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+        <mn>3</mn>
+      </mfrac>
+    </msqrt>
+  </mrow>
+</math>

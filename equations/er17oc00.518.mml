@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>F</mi>
+    <mi>d</mi>
+  </msub>
+  <msub>
+    <mi>V</mi>
+    <mi>n</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 108-3</mtext>
+</math>

@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">COP</mi>
+    <mi style="font-style: italic">ss</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>T</mi>
+      <mi>cyc</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msubsup>
+        <mover>
+          <mi>Q</mi>
+          <mo>&#183;</mo>
+        </mover>
+        <mi>h</mi>
+        <mi>k</mi>
+      </msubsup>
+      <mo>(</mo>
+      <msub>
+        <mi>T</mi>
+        <mi style="font-style: italic">cyc</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mn>3.413</mn>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mi style="font-style: italic">Btu</mi>
+            <mo>/</mo>
+            <mi>h</mi>
+          </mrow>
+          <mi>W</mi>
+        </mfrac>
+        <mo>*</mo>
+        <msubsup>
+          <mover>
+            <mi>E</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi>h</mi>
+          <mi>k</mi>
+        </msubsup>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>cyc</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

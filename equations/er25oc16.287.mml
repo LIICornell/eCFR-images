@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <mi style="font-style: italic">Re</mi>
+    <mo>#</mo>
+  </msup>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mn>4</mn>
+        <mo>&#183;</mo>
+        <mn>1.1964</mn>
+      </mrow>
+      <mo>&#183;</mo>
+      <mn>2.395</mn>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mn>3.14159</mn>
+          <mo>&#183;</mo>
+          <mn>0.1524</mn>
+        </mrow>
+        <mo>&#183;</mo>
+        <mn>1.838</mn>
+      </mrow>
+      <mo>&#183;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>5</mn>
+        </mrow>
+      </msup>
+    </mrow>
+  </mfrac>
+</math>

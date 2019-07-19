@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mi>&#8721;</mi>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>w</mi>
+    </mrow>
+    <mi>T</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mo>&#183;</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>H</mi>
+    </mrow>
+    <mi>T</mi>
+  </msub>
+</math>

@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>K</mi>
+  <mn>1</mn>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mi>L</mi>
+        <mrow>
+          <mi>g</mi>
+          <mo>&#8722;</mo>
+          <mi>h</mi>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>t</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>o</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>X</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 304A-6</mtext>
+</math>

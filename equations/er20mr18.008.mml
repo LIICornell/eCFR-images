@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RSD</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mi>SD</mi>
+        <msub>
+          <mi>S</mi>
+          <mi>m</mi>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-9)</mtext>
+</math>

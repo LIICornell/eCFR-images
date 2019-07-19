@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>V</mi>
+    <mi>Q</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 304A-4</mtext>
+</math>

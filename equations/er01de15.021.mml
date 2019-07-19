@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Opacity Limit</mtext>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mtext style="font-style: italic">Opacity</mtext>
+        <mi>st</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <mn>1</mn>
+            <mspace width=".4em"/>
+            <mi>lb</mi>
+            <mo>/</mo>
+            <mn>1000</mn>
+            <mspace width=".4em"/>
+            <mi>lb</mi>
+            <mspace width=".4em"/>
+            <mtext>coke burn</mtext>
+          </mrow>
+          <msub>
+            <mi style="font-style: italic">PMEmR</mi>
+            <mrow>
+              <mi>s</mi>
+              <mi>t</mi>
+            </mrow>
+          </msub>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

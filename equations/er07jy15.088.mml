@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic;">DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mtext style="font-style: italic;">spiked tracer</mtext>
+      </mrow>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mtext>tracer spiked</mtext>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>Eq. A2</mtext>
+</math>

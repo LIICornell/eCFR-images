@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>annual fuel consumption</mtext>
+    <mo>=</mo>
+
+  </mrow>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mtext>Fuel Types</mtext>
+    </munder>
+    <mrow>
+      <mo>[</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>quantity of fuel consumed</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mrow>
+                <mo>&#215;</mo>
+                <mtext>heat content</mtext>
+              </mrow>
+              <mo>&#215;</mo>
+              <mtext>unit conversion</mtext>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>R</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>V</mi>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>tan</mi>
+        <mspace width=".2em"/>
+        <mo>&#x2061;</mo>
+        <mi>&#981;</mi>
+      </mrow>
+      <mo>&#43;</mo>
+      <mi>cA</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(5)</mtext>
+</math>

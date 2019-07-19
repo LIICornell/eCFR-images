@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>G</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>W</mi>
+        <mi>oi</mi>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mi>ci</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>L</mi>
+        <mi>si</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>ci</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 7)</mtext>
+</math>

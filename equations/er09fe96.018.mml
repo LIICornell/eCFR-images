@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>U</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>U</mi>
+      <mi>ds</mi>
+    </msub>
+    <mn>2</mn>
+  </mfrac>
+  <mo>[</mo>
+  <mrow>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mi>Cos</mi>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mi>&#960;s</mi>
+        <mi>H</mi>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+</math>

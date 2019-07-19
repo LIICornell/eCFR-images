@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+  </mrow>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mi>S</mi>
+        <mo>*</mo>
+        <msub>
+          <mi>EF</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mrow>
+          <mi>G</mi>
+          <mi>W</mi>
+          <mi>P</mi>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>*</mo>
+    <mn>0.001</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. I-1)</mtext>
+</math>

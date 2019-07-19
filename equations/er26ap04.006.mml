@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <msub>
+      <mi>A</mi>
+      <mi>unc</mi>
+    </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>VOLD</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>D</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>W</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2C)</mtext>
+</math>

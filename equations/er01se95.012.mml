@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>r</mi>
+      </msub>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <msub>
+              <mi>W</mi>
+              <mi>oi</mi>
+            </msub>
+            <msub>
+              <mi>M</mi>
+              <mi>ci</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>RS</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 9</mtext>
+</math>

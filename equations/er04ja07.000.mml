@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 1</mtext>
+  <mspace width="4em"/>
+  <mi>PIR</mi>
+  <mo>=</mo>
+  <mi>Mean</mi>
+  <mo>&#177;</mo>
+  <mrow>
+    <mi>s</mi>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>t</mi>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>df</mi>
+          <mo>,</mo>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <mi>&#945;</mi>
+          <mo>/</mo>
+          <mn>2</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <msqrt>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mfrac>
+        <mn>1</mn>
+        <mi>n</mi>
+      </mfrac>
+    </msqrt>
+  </mrow>
+</math>

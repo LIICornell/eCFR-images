@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#969;</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>&#960;</mi>
+        <mi>V</mi>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <msub>
+          <mi>V</mi>
+          <mi>A</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mtext> radians per second;</mtext>
+</math>

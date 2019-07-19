@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>$</mo>
+          <mn>25,000</mn>
+          <mrow>
+            <mspace width=".2em"/>
+            <mo>(</mo>
+            <mtext>1984 transfer</mtext>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mo>$</mo>
+              <mn>100,000</mn>
+              <mspace width=".2em"/>
+              <mtext>(Fair mar-</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>ket value of corpus</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>immediately after</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>the 1984 transfer)</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mfrac>
+      <mo>=</mo>
+      <mrow>
+        <mn>25</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mo>)</mo>
+  </mrow>
+</math>

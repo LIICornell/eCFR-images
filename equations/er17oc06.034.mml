@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Equation 20</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Intercept </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mover>
+            <mi>C</mi>
+            <mo>&#8212;</mo>
+          </mover>
+        </mrow>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mtext>slope </mtext>
+            <mo>&#215;</mo>
+            <mover>
+              <mi>R</mi>
+              <mo>&#8212;</mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

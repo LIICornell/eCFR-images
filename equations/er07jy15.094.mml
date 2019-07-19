@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">SAR</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">MC</mi>
+      <mi style="font-style: italic">SA</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi style="font-style: italic">MC</mi>
+      <mi style="font-style: italic">native</mi>
+    </msub>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. A8</mtext>
+</math>

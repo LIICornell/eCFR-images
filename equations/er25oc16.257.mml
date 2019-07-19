@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>e</mi>
+            <mrow>
+              <mo>[</mo>
+              <mi>emission</mi>
+              <mo>]</mo>
+            </mrow>
+          </msub>
+          <mo>&#8722;</mo>
+          <mfrac>
+            <msub>
+              <mi>m</mi>
+              <mrow>
+                <mo>[</mo>
+                <mi>emission</mi>
+                <mo>]</mo>
+              </mrow>
+            </msub>
+            <mi>D</mi>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.605-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

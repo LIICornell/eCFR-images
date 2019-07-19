@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mo>[</mo>
+            <msub>
+              <mi>NO</mi>
+              <mi>x</mi>
+            </msub>
+            <mo>]</mo>
+          </mrow>
+          <mi>OUT</mi>
+        </msub>
+        <mi>URL</mi>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>+</mo>
+    <msub>
+      <mi>Z</mi>
+      <msub>
+        <mi>NO</mi>
+        <mi>x</mi>
+      </msub>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(12)</mtext>
+</math>

@@ -1,0 +1,116 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">NHV</mi>
+    <mi style="font-style: italic">dd</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>Q</mi>
+                <mi style="font-style: italic">vg</mi>
+              </msub>
+              <mo>&#8722;</mo>
+              <mrow>
+                <msub>
+                  <mi>Q</mi>
+                  <mrow>
+                    <mi style="font-style: italic">NG</mi>
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+                <mo>+</mo>
+                <msub>
+                  <mi>Q</mi>
+                  <mrow>
+                    <mi style="font-style: italic">NG</mi>
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <msub>
+              <mi style="font-style: italic">NHV</mi>
+              <mi style="font-style: italic">vg</mi>
+            </msub>
+            <mo>+</mo>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>Q</mi>
+                    <mrow>
+                      <mi style="font-style: italic">NG</mi>
+                      <mn>2</mn>
+                    </mrow>
+                  </msub>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>Q</mi>
+                    <mrow>
+                      <mi style="font-style: italic">NG</mi>
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#215;</mo>
+              <msub>
+                <mi>NHV</mi>
+                <mi>NG</mi>
+              </msub>
+            </mrow>
+          </mrow>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi style="font-style: italic">Diam</mi>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">vg</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>.</mo>
+            <mi style="font-style: italic">premix</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>.</mo>
+            <mi style="font-style: italic">perimeter</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

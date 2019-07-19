@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>BRHClEL</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>HCl</mi>
+      <mn>2010</mn>
+    </msub>
+    <msub>
+      <mi>P</mi>
+      <mn>2010</mn>
+    </msub>
+  </mfrac>
+  <mo>*</mo>
+  <mn>1.74</mn>
+</math>

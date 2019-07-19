@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mrow>
+        <mo>[</mo>
+        <msub>
+          <mi>SF</mi>
+          <mn>6</mn>
+        </msub>
+        <mo>]</mo>
+      </mrow>
+      <mi>direct</mi>
+    </msub>
+    <msub>
+      <mrow>
+        <mo>[</mo>
+        <msub>
+          <mi>SF</mi>
+          <mn>6</mn>
+        </msub>
+        <mo>]</mo>
+      </mrow>
+      <mi>spiked</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 4</mtext>
+</math>

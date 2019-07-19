@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mn>2</mn>
+      <mi>d</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn>100</mn>
+  <mfrac>
+      <mi>Fc</mi>
+    <mi>F</mi>
+  </mfrac>
+  <mfrac>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>O</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>d</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <mn>20.9</mn>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. F-14a)</mtext>
+</math>

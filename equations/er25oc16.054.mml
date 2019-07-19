@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>e</mi>
+      <mrow>
+        <mi>CO</mi>
+        <mn>2</mn>
+        <mi>cor</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>630.0</mn>
+      <mo>&#183;</mo>
+      <mfrac>
+        <mn>42.528</mn>
+        <mrow>
+          <mn>49.3112</mn>
+          <mo>&#183;</mo>
+          <mn>0.870</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

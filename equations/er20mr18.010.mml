@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>B</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>d</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-11)</mtext>
+</math>

@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>CTDI</mi>
+    <mo>=</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>/</mo>
+      <mi>nT</mi>
+      <mrow>
+        <msubsup>
+          <mo>&#8747;</mo>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mn>7</mn>
+            <mi>T</mi>
+          </mrow>
+          <mrow>
+            <mo>+</mo>
+            <mn>7</mn>
+            <mi>T</mi>
+          </mrow>
+        </msubsup>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>D</mi>
+          <mo>(</mo>
+          <mi>z</mi>
+          <mo>)</mo>
+          <mi>dz</mi>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

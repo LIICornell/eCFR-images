@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>SAI</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>SPUPB</mi>
+        <mrow>
+          <mi>m</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+      <mo>&#215;</mo>
+      <mfrac>
+        <msub>
+          <mi>PTR</mi>
+          <mn>0</mn>
+        </msub>
+        <mn>12</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

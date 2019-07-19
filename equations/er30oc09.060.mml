@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>k</mi>
+      </munderover>
+      <mfrac>
+        <mn>44</mn>
+        <mn>12</mn>
+      </mfrac>
+    </mrow>
+    <mo>&#8727;</mo>
+    <msub>
+      <mi style="font-style: italic">Fdstk</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>&#8727;</mo>
+    <msub>
+      <mi style="font-style: italic">CC</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>&#8727;</mo>
+    <mfrac>
+      <mi style="font-style: italic">MW</mi>
+      <mi style="font-style: italic">MVC</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#8727;</mo>
+  <mn>0.001</mn>
+  <mspace width="3em"/>
+  <mtext>(Eq. P-1)</mtext>
+</math>

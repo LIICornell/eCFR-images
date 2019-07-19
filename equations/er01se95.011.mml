@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>G</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mrow>
+            <msub>
+              <mrow>
+                <mo>(</mo>
+                <mi>VOC</mi>
+                <mo>)</mo>
+              </mrow>
+              <mi>ci</mi>
+            </msub>
+            <mi>V</mi>
+          </mrow>
+          <mi>ci</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>C</mi>
+        <mrow>
+          <mn>1</mn>
+          <mi>wes</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. 8</mtext>
+</math>

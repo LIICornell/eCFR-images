@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>P</mi>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>E</mi>
+            <mi>inlet</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>E</mi>
+            <mi>outlet</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>inlet</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>C</mi>
+        <msub>
+          <mi>O</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>s</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi style="font-style: italic">Vol</mi>
+        <msub>
+          <mrow>
+            <mi>C</mi>
+            <mi>O</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. W-3)</mtext>
+</math>

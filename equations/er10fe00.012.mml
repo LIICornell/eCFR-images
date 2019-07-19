@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>N</mi>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>NO</mi>
+            <mi>x</mi>
+          </msub>
+        </mrow>
+        <mtext>emission standard</mtext>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Total number of vehicles of the appropriate category</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>(e.g., all LDV/Ts and MDPVs, or interim non-Tier 2</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>HLDT/MDPVs, etc.) sold including HEVs and ZEVs</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>t</mi>
+      <mo>&#8722;</mo>
+      <mi>u</mi>
+    </mrow>
+    <mi>s</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 18-6</mtext>
+</math>

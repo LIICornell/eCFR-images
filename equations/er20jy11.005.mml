@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mi style="font-style: italic">CCL</mi>
+      <mspace width=".2em"/>
+      <mi>Rev</mi>
+      <mspace width=".2em"/>
+      <mi>Req</mi>
+    </mrow>
+    <mrow>
+      <mi>CCL</mi>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>MOU</mi>
+        </mrow>
+        <mi>b</mi>
+      </msub>
+      <mo>*</mo>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mrow>
+              <mi>h</mi>
+              <mo>/</mo>
+              <mn>2</mn>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mfrac>
+</math>

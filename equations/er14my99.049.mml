@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mn>4</mn>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>P</mi>
+            <mn>5</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>P</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2F-1</mtext>
+</math>

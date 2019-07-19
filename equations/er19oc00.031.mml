@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>f</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mi>b</mi>
+    <mi>a</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation A23)</mtext>
+</math>

@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>A</mi>
+  <mo>=</mo>
+  <mrow>
+    <mover>
+      <msub>
+        <mi>X</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>&#8722;</mo>
+    <mover>
+      <msub>
+        <mi>X</mi>
+        <mi>A</mi>
+      </msub>
+      <mo>&#8212;</mo>
+    </mover>
+  </mrow>
+  <mo>&#177;</mo>
+  <msub>
+    <mi>&#916;</mi>
+    <mrow>
+      <mn>95</mn>
+      <mo>%</mo>
+    </mrow>
+  </msub>
+  <mspace width="8em"/>
+  <mtext>Eq. A.6</mtext>
+</math>

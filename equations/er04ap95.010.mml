@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mtext>first year partial baseline</mtext>
+      <mtext>baseline or alternative baseline</mtext>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mtext>annual allocation of allowances for the first year</mtext>
+  </mrow>
+</math>

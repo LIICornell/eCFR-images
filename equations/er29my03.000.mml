@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>W</mi>
+        <mi>c</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>W</mi>
+      <mi>f</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

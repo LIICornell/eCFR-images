@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>PR</mi>
+      <mrow>
+        <mi>s</mi>
+        <mo>,</mo>
+        <mi>p</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>GOR</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>*</mo>
+      <mfrac>
+        <msub>
+          <mi>V</mi>
+          <mi>p</mi>
+        </msub>
+        <mn>720</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. W-12C)</mtext>
+</math>

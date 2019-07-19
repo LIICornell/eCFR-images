@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>C</mi>
+      <mi>O</mi>
+    </mrow>
+    <mrow>
+      <mn>2</mn>
+      <mi>n</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi style="font-style: italic">Fuel</mi>
+    <mi>z</mi>
+  </msub>
+  <mrow>
+    <mo>*</mo>
+    <msub>
+      <mrow>
+        <mi>E</mi>
+        <mi>F</mi>
+      </mrow>
+      <mi>z</mi>
+    </msub>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. NN-5b)</mtext>
+</math>

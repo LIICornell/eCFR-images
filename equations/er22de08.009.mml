@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi style="font-style: italic">dic</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>E</mi>
+        <mi style="font-style: italic">sds</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>k</mi>
+    </munderover>
+    <msub>
+      <mi>x</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+</math>

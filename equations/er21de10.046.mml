@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>fPM</mi>
+        <mspace width=".2em"/>
+        <mn>2.5</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>7000</mn>
+        <mn>453,592</mn>
+      </mfrac>
+      <mo>)</mo>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>M</mi>
+            <mn>4</mn>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>ms</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 47)</mtext>
+</math>

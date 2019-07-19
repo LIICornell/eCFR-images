@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>A</mi>
+      <mi>F</mi>
+    </mrow>
+    <mrow>
+      <mi>t</mi>
+      <mo>,</mo>
+      <mi>N</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>t</mi>
+        <mo>,</mo>
+        <mi>N</mi>
+      </mrow>
+    </msub>
+    <msub>
+      <mi>P</mi>
+      <mi>t</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. V-2)</mtext>
+</math>

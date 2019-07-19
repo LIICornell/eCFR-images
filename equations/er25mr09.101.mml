@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mi>S</mi>
+        <mn>2</mn>
+      </msup>
+      <mspace width=".2em"/>
+      <mtext style="font-style: italic;">PEMS</mtext>
+    </mrow>
+    <mrow>
+      <msup>
+        <mi>S</mi>
+        <mn>2</mn>
+      </msup>
+      <mi style="font-style: italic;">RM</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-7</mtext>
+</math>

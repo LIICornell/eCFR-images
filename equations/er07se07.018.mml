@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>difavg</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mn>1</mn>
+          <mn>3</mn>
+        </munderover>
+        <msub>
+          <mi>C</mi>
+          <mi>dif</mi>
+        </msub>
+      </mrow>
+      <mn>3</mn>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-13</mtext>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>k</mi>
+      <mi>T</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>P</mi>
+    </msub>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 11-29)</mtext>
+</math>

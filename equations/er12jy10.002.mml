@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>M</mi>
+        <mi>B</mi>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>E</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. T-3)</mtext>
+</math>

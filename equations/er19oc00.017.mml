@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>M</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>m</mi>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <msup>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>&#949;</mi>
+      </mrow>
+      <mn>2</mn>
+    </msup>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A10)</mtext>
+</math>

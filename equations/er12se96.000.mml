@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>ER</mi>
+    <mo>=</mo>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mi>i</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mn>0.001</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>P</mi>
+          <mi>p</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 1]</mtext>
+</math>

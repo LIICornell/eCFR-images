@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mi>ws</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>V</mi>
+          <mi>ws</mi>
+        </msub>
+        <mrow>
+          <msub>
+            <mi>V</mi>
+            <mi>ms</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>V</mi>
+            <mi>ws</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 31)</mtext>
+</math>

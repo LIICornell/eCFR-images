@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>f</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>h</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>q</mi>
+      </munderover>
+      <mfrac>
+        <mrow>
+          <mo>%</mo>
+          <msub>
+            <mi>D</mi>
+            <mi>h</mi>
+          </msub>
+        </mrow>
+        <mi>q</mi>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-1g)</mtext>
+</math>

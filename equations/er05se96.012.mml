@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AE</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>N</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>E</mi>
+      <msub>
+        <mi>cycle</mi>
+        <mi>i</mi>
+      </msub>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>[Eq. 12]</mtext>
+</math>

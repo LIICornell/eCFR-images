@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>bar</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>gi</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-3</mtext>
+</math>

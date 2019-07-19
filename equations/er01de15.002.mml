@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mn>20.9</mn>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi style="font-style: italic">air</mi>
+          </msub>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <msub>
+            <mrow>
+              <mo>%</mo>
+              <mi>O</mi>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <mo>,</mo>
+              <mi style="font-style: italic">oxy</mi>
+            </mrow>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi style="font-style: italic">oxy</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">air</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi style="font-style: italic">oxy</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+    <mspace width="6em"/>
+    <mtext>(Eq. 10)</mtext>
+  </mrow>
+</math>

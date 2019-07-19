@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>AE</mi>
+    <mi>control</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>AE</mi>
+      <mi>uncontrolled</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <mi>R</mi>
+        <mn>100</mn>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>[Equation 15]</mtext>
+</math>

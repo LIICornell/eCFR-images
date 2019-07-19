@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mi>L</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <mi>C</mi>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mfrac>
+          <mn>1</mn>
+          <mi>CE</mi>
+        </mfrac>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-12)</mtext>
+</math>

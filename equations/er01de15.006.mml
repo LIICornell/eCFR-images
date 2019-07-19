@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>=</mo>
+  <msub>
+    <mi>Ratio</mi>
+    <mi style="font-style: italic">Avg</mi>
+  </msub>
+  <mo>&#177;</mo>
+  <mrow>
+    <mn>2.262</mn>
+    <mo>&#215;</mo>
+    <mi style="font-style: italic">SDev</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 14)</mtext>
+</math>

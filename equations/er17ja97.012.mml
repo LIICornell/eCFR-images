@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AMR</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>QMW</mi>
+        <mi>a</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>F</mi>
+        <mi>bio</mi>
+      </msub>
+    </mrow>
+    <mo></mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eqn WW12)</mtext>
+</math>

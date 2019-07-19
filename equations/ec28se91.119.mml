@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>L</mi>
+    <mi>AE</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>10</mn>
+  <mspace width=".4em"/>
+  <msub>
+    <mi style="font-style: italic">Log</mi>
+    <mn>10</mn>
+  </msub>
+  <mfrac>
+    <mn>1</mn>
+    <msub>
+      <mi>T</mi>
+      <mn>0</mn>
+    </msub>
+  </mfrac>
+  <msubsup>
+    <mo>&#8747;</mo>
+    <msubsup>
+      <mi>t</mi>
+      <mn>1</mn>
+      <mi></mi>
+    </msubsup>
+    <msub>
+      <mi>t</mi>
+      <mn>2</mn>
+    </msub>
+  </msubsup>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mn>0.1</mn>
+      <msub>
+        <mi>L</mi>
+        <mi>A</mi>
+      </msub>
+      <mo>(</mo>
+      <mi>t</mi>
+      <mo>)</mo>
+    </mrow>
+  </msup>
+  <mi>dt</mi>
+  <mspace width=".6em"/>
+  <mi>d</mi>
+  <mi>B</mi>
+</math>

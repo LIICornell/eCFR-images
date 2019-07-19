@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>ECFEPV</mi>
+      <mn>2</mn>
+    </mrow>
+    <mi>iBASE</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>ECFEPV</mi>
+        <mn>2</mn>
+      </mrow>
+      <mi>iu</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#x2212;</mo>
+        <mfrac>
+          <mtext>Percent reduction</mtext>
+          <mrow>
+            <mn>100</mn>
+            <mo>%</mo>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+      <mspace width="2em"/>
+      <mtext>[Eq. 48]</mtext>
+    </mrow>
+  </mrow>
+</math>

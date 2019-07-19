@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>721</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>E</mi>
+          <mi>an</mi>
+        </msub>
+      </mrow>
+      <mn>5,000</mn>
+    </mfrac>
+    <mspace width="4em"/>
+  </mrow>
+  <mtext>(Eq. 63)</mtext>
+</math>

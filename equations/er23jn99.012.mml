@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Pa</mi>
+    <mi>n</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>Pa</mi>
+    <mi>atm</mi>
+  </msub>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>P</mi>
+            <mi>j</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mi>Tn</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 13)</mtext>
+</math>

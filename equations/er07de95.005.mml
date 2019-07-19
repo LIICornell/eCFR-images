@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>Accuracy</mi>
+      <mi>x</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>&#215;</mo>
+      <mfrac>
+        <msub>
+          <mover>
+            <mi>X</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mi>x</mi>
+        </msub>
+        <msub>
+          <mi>T</mi>
+          <mi>x</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. (3)</mtext>
+</math>

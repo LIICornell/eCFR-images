@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi style="font-style: italic">Derived</mi>
+        <mspace width=".2em"/>
+        <mi style="font-style: italic">CO</mi>
+        <mn>2</mn>
+      </mrow>
+      <mi style="font-style: italic">alt</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi style="font-style: italic">CO</mi>
+          <mn>2</mn>
+        </mrow>
+        <mi style="font-style: italic">alt</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mn>5</mn>
+          <mi style="font-style: italic">cycle</mi>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">CO</mi>
+              <mn>2</mn>
+            </mrow>
+            <mi style="font-style: italic">gas</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mrow>
+            <mi style="font-style: italic">CO</mi>
+            <mn>2</mn>
+          </mrow>
+          <mi style="font-style: italic">gas</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

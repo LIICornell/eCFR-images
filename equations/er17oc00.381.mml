@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>K</mi>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>C</mi>
+      </mrow>
+      <mi>meas</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 25A-1</mtext>
+</math>

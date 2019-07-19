@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mi>rate-oil</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>OIL</mi>
+      <mi>rate</mi>
+    </msub>
+    <mfrac>
+      <msub>
+        <mi>GCV</mi>
+        <mi>oil</mi>
+      </msub>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-8)</mtext>
+</math>

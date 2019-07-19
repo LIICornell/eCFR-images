@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mtext>q</mtext>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>hour</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mtext>i</mtext>
+      </mrow>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>t</mi>
+    <mi>i</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-18a)</mtext>
+</math>

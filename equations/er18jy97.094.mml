@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>p</mi>
+    </msub>
+    <mo>=</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <mn>6</mn>
+            <mspace width=".2em"/>
+            <mi>Q</mi>
+            <msub>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>C</mi>
+              </mrow>
+              <mi>vol</mi>
+            </msub>
+          </mrow>
+          <mrow>
+            <mi>&#960;</mi>
+            <mspace width=".2em"/>
+            <mi>f</mi>
+          </mrow>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>/</mo>
+        <mn>3</mn>
+      </mrow>
+    </msup>
+  </mrow>
+</math>

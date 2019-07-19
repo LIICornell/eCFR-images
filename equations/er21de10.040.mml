@@ -1,0 +1,64 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>100</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>T</mi>
+          <mi>s</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>V</mi>
+          <mi>ms</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mn>29.92</mn>
+      </mrow>
+      <mrow>
+        <mn>60</mn>
+        <msub>
+          <mrow>
+            <mo></mo>
+            <mi>v</mi>
+          </mrow>
+          <mi>s</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>&#952;</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>A</mi>
+          </mrow>
+          <mi>n</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>P</mi>
+          </mrow>
+          <mi>s</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mi>Bws</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mspace width=".2em"/>
+        <mn>528</mn>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 41)</mtext>
+</math>

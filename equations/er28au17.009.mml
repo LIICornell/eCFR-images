@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>D</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mtext>Higher result</mtext>
+        <mo>&#8722;</mo>
+        <mtext>Lower result</mtext>
+      </mrow>
+      <mtext>Higher result</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RMR</mi>
+  <mo>=</mo>
+  <mn>0.90</mn>
+  <mo>&#215;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>UCEP</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>OH</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+    <mspace width="3em"/>
+    <mtext>(Eq. 1)</mtext>
+  </mrow>
+</math>

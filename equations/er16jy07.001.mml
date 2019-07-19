@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mn>55</mn>
+    <mo>&#215;</mo>
+    <msup>
+      <mi>P</mi>
+      <mn>0.11</mn>
+    </msup>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mn>40</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

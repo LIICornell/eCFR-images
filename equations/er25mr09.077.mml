@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CI</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>df</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>p</mi>
+    </msub>
+  </mrow>
+  <msqrt>
+    <msub>
+      <mi>&#916;</mi>
+      <mo>min</mo>
+    </msub>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-27)</mtext>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#945;</mi>
+      <mi>act</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mn>40.00</mn>
+          <mo>&#8722;</mo>
+          <mn>10.00</mn>
+        </mrow>
+        <mn></mn>
+      </mrow>
+      <mn>30.03</mn>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>b</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>&#8721;</mo>
+        <mi>y</mi>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mi>m</mi>
+      <mrow>
+        <mo>&#8721;</mo>
+        <mi>x</mi>
+      </mrow>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(18)</mtext>
+</math>

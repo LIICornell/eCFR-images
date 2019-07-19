@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">ECredits</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi style="font-style: italic">EIS</mi>
+        <mi style="font-style: italic">iactual</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#247;</mo>
+  <msub>
+    <mi style="font-style: italic">EI</mi>
+    <mi style="font-style: italic">baseline</mi>
+  </msub>
+  <mspace width="3em"/>
+  <mtext>(Eq. 19)</mtext>
+</math>

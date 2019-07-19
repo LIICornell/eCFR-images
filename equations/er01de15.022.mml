@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <msub>
+      <mi>Ni</mi>
+      <mn>2</mn>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>Ni</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi>s</mi>
+          <mi>d</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>c</mi>
+    </msub>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>(Eq. 8)</mtext>
+</math>

@@ -1,0 +1,58 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mrow>
+        <mi>C</mi>
+        <mi>D</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mn>7</mn>
+    </mfrac>
+    <mrow>
+      <munderover>
+        <mrow>
+          <mspace width=".2em"/>
+          <mo>&#x2211;</mo>
+        </mrow>
+        <mrow>
+          <mi>i</mi>
+          <mo>&#x2212;</mo>
+          <mn>6</mn>
+        </mrow>
+        <mi>i</mi>
+      </munderover>
+      <mfrac>
+        <mrow>
+          <mi>&#x394;</mi>
+          <mi>T</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi style="font-style: italic">Set</mi>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">SS</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mi>&#x394;</mi>
+          <mi>T</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi style="font-style: italic">Set</mi>
+              <mspace width=".2em"/>
+              <mi style="font-style: italic">CYC</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

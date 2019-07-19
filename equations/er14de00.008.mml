@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mo>max</mo>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>X</mi>
+            <mrow>
+              <mi>H</mi>
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>K</mi>
+            <mn>1</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mi>K</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 147-1)</mtext>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>T</mi>
+      <mo>=</mo>
+      <msub>
+        <mi>F</mi>
+        <mi>T</mi>
+      </msub>
+    </mrow>
+    <mo>*</mo>
+    <msub>
+      <mi>E</mi>
+      <mi>T</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. OO-3)</mtext>
+</math>

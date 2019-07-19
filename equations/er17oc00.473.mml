@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>t</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mi>B</mi>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mi>SDM</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 10</mtext>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>sc</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>V</mi>
+        <mi>si</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>L</mi>
+    <mi>ci</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Equation 12</mtext>
+</math>

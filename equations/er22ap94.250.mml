@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mi>N</mi>
+          </msub>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mn>180</mn>
+              <mo>+</mo>
+              <mi>N</mi>
+            </mrow>
+            <mrow>
+              <mn>6</mn>
+              <mi>N</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width=".2em"/>
+        <mtext>for turnovers </mtext>
+        <mrow>
+          <mo>&#62;</mo>
+          <mn>36</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mi>N</mi>
+          </msub>
+          <mo>=</mo>
+          <mn>1</mn>
+          <mtext> for turnovers </mtext>
+        </mrow>
+        <mo>&#8804;</mo>
+        <mn>36</mn>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

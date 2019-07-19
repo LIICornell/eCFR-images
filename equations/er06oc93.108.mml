@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>0.02406</mn>
+      <mo>&#215;</mo>
+      <mrow>
+        <mtext>Fuel injected</mtext>
+        <mo>&#215;</mo>
+        <mtext>Fuel density</mtext>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mtext>Air volume</mtext>
+      <mo>&#215;</mo>
+      <mrow>
+        <mi>Mol</mi>
+        <mo>.</mo>
+        <mi>Wt</mi>
+        <mo>.</mo>
+        <mspace width=".2em"/>
+        <mrow>
+          <msub>
+            <mi>CH</mi>
+            <mn>3</mn>
+          </msub>
+          <mi>OH</mi>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

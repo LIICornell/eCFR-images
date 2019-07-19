@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>T</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>9</mn>
+      <msub>
+        <mi>Y</mi>
+        <mn>1</mn>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>*</mo>
+    <msub>
+      <mi>X</mi>
+      <mn>1</mn>
+    </msub>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 13)</mtext>
+</math>

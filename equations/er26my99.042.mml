@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>q</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn>4</mn>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <mi>q</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-4)</mtext>
+</math>

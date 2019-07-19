@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>CSR</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>CSR</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>B</mi>
+          <mi>CSR</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>R</mi>
+        <mi>V</mi>
+      </msub>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

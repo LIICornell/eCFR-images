@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>r</mi>
+  <mo>=</mo>
+  <msqrt>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msubsup>
+          <mi>S</mi>
+          <mi>P</mi>
+          <mn>2</mn>
+        </msubsup>
+        <msubsup>
+          <mi>S</mi>
+          <mi>y</mi>
+          <mn>2</mn>
+        </msubsup>
+      </mfrac>
+    </mrow>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-33)</mtext>
+</math>

@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mtext>m sample kg</mtext>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mi>n</mi>
+      </mrow>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mtext>m sample kg</mtext>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

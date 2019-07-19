@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mrow>
+        <mi>cond</mi>
+        <mo>,</mo>
+        <mi>dd</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>dd</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>T</mi>
+          <mi>dd</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>U</mi>
+        <mi>dd</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(4-19)</mtext>
+</math>

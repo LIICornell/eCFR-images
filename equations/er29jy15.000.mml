@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Percent excess oxygen </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mtext>Oxygen available</mtext>
+              <mtext>Fuel demand for oxygen</mtext>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>C</mi>
+        <mn>2</mn>
+        <mi>F</mi>
+        <mn>6</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi>CF</mi>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>F</mi>
+          <mrow>
+            <mi>C</mi>
+            <mn>2</mn>
+            <mi>F</mi>
+            <mn>6</mn>
+            <mo>/</mo>
+            <mi>CF</mi>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-4)</mtext>
+</math>

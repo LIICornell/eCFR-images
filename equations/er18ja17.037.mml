@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>m</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>t</mi>
+    </munderover>
+    <msub>
+      <mi style="font-style: italic">Volume</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+</math>

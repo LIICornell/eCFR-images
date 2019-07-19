@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Deficit</mtext>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtext>Emission level</mtext>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mtext>Average standard</mtext>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mrow>
+          <munder>
+            <mo>&#8721;</mo>
+            <mi>i</mi>
+          </munder>
+          <msub>
+            <mtext>(Production)</mtext>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mtext>(UL)</mtext>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

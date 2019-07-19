@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Annual Exceedance Fee</mtext>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>c</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mtext>Coating Fee</mtext>
+        <mi>c</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(1)</mtext>
+</math>

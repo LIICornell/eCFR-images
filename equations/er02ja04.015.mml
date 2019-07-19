@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>UNC</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>h</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>q</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>Vol</mi>
+          <mi>h</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>D</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>W</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 1D)</mtext>
+</math>

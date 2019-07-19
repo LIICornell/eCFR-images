@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>R</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>L</mi>
+        <mo>&#215;</mo>
+        <mi>LP</mi>
+      </mrow>
+      <mrow>
+        <mi>T</mi>
+        <mo>&#215;</mo>
+        <mi>TP</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

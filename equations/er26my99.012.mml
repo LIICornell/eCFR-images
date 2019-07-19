@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ACC</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mi>R</mi>
+          <mo>&#8722;</mo>
+          <mi>A</mi>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mi>URV</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-1)</mtext>
+</math>

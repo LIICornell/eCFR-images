@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>WRF</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>RF</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>WF</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Equation 1</mtext>
+</math>

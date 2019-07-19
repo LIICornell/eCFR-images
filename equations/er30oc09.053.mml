@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mn>22</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mi>L</mi>
+        <mi>F</mi>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>O</mi>
+            <mn>22</mn>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>U</mi>
+            <mn>22</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+        <mspace width="4em"/>
+        <mtext>(Eq. O-3)</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

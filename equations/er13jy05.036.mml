@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>y</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msubsup>
+        <mi>&#963;</mi>
+        <mi>y</mi>
+        <mn>2</mn>
+      </msubsup>
+      <msubsup>
+        <mi>&#963;</mi>
+        <mi>ref</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.602-8</mtext>
+</math>

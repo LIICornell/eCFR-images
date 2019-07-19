@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(2)</mtext>
+  <mspace width="8em"/>
+  <mrow>
+    <mrow>
+      <mi>E</mi>
+      <mi>f</mi>
+      <mi>f</mi>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mi>out</mi>
+      </msub>
+      <msub>
+        <mi>E</mi>
+        <mi>in</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>m</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>p</mi>
+    </munderover>
+    <msub>
+      <mi>E</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Z-2)</mtext>
+</math>

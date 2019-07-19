@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>MN</mi>
+    <mi>bi</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>MN</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>MN</mi>
+        <mrow>
+          <mi>i</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mn>2</mn>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>Eq. 5</mtext>
+</math>

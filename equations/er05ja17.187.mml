@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">COP</mi>
+    <mi style="font-style: italic">cyc</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>q</mi>
+      <mi style="font-style: italic">cyc</mi>
+    </msub>
+    <mrow>
+      <mn>3.413</mn>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mi style="font-style: italic">Btu</mi>
+            <mo>/</mo>
+            <mi>h</mi>
+          </mrow>
+          <mi>W</mi>
+        </mfrac>
+        <mo>*</mo>
+        <msub>
+          <mi>e</mi>
+          <mi style="font-style: italic">cyc</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

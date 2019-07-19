@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: normal">E</mi>
+    <mrow>
+      <mi>CO</mi>
+      <mn>2</mn>
+      <mi>PV</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>GA</mi>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi style="font-style: normal">H</mi>
+        <mi style="font-style: normal">w</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mi>BA</mi>
+      <mo>&#8722;</mo>
+      <mi>WT</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#215;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>44</mn>
+      <mo>/</mo>
+      <mn>12</mn>
+    </mrow>
+    <mo>)</mo>
+    <mspace width="3em"/>
+  </mrow>
+  <mtext>(Eq. F-7)</mtext>
+</math>

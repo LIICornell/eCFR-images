@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <msub>
+        <mi>CO</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>a</mi>
+        </mrow>
+      </msub>
+      <mo>=</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>q</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mn>4</mn>
+        </munderover>
+        <msub>
+          <mi>E</mi>
+          <msub>
+            <mi>CO</mi>
+            <mrow>
+              <mn>2</mn>
+              <mi>q</mi>
+            </mrow>
+          </msub>
+        </msub>
+      </mrow>
+      <mspace width="4em"/>
+    </mrow>
+  </msub>
+  <mtext>(Eq. F-13)</mtext>
+</math>

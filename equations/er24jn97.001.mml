@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Unit allowances</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <mn>1.75</mn>
+          <mo>&#8722;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Greater of 1990 emission rate or</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>Prior year emission rate</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mtext>Prior year utilization/2000</mtext>
+    </mrow>
+  </mrow>
+</math>

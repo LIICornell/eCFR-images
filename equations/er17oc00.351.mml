@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>R</mi>
+      </mrow>
+      <mi>g</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>100</mn>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1.0</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msubsup>
+          <mi>E</mi>
+          <mi>ao</mi>
+          <mo>*</mo>
+        </msubsup>
+        <msubsup>
+          <mi>E</mi>
+          <mi>ai</mi>
+          <mo>*</mo>
+        </msubsup>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-29</mtext>
+</math>

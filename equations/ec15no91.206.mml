@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mn>30</mn>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>n</mi>
+  </mfrac>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mi>EC</mi>
+      <mo>(</mo>
+      <mi>i</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>r</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>R</mi>
+    </munderover>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>T</mi>
+        <mo>,</mo>
+        <mi>r</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. RR-3)</mtext>
+</math>

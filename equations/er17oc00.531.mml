@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>Y</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>B</mi>
+          <mi>T</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>B</mi>
+          <mi>B</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mn>2.22</mn>
+        <mspace width=".2em"/>
+        <mover>
+          <mi>F</mi>
+          <mo>&#8212;</mo>
+        </mover>
+          <mover>
+            <msub>
+              <mi>E</mi>
+              <mi>C</mi>
+            </msub>
+            <mo>&#8212;</mo>
+          </mover>
+        <mi>T</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 111-6</mtext>
+</math>

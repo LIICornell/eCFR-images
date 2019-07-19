@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Normality of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>SodiumThiosulfate</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mtext>ml Sodium Thiosulfate Consumed</mtext>
+    </mfrac>
+  </mrow>
+</math>

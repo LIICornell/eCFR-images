@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mo>=</mo>
+  <mi>R</mi>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

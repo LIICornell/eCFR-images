@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>ER</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mi>HI</mi>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-23)</mtext>
+</math>

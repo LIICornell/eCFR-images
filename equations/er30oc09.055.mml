@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mn>23</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>L</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>PV</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>D</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. O-5)</mtext>
+</math>

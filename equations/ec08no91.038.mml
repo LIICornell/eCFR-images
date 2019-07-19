@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>K</mi>
+          <mn>4</mn>
+        </msub>
+        <msub>
+          <mi>K</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>X</mi>
+        <mi>r</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width="6em"/>
+    <mspace width="6em"/>
+  </mfrac>
+</math>

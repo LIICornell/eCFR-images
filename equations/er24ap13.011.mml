@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>y</mi>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>x</mi>
+        <mo>&#8722;</mo>
+        <mi>z</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. 11)</mtext>
+</math>

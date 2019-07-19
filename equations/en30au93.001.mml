@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Refrigerant Recovered = </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <msub>
+          <mi>SCF</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>SCO</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>+</mo>
+  <mi>RSF</mi>
+  <mo>&#8722;</mo>
+  <mi>RSO</mi>
+  <mo>&#8722;</mo>
+  <mi>OL</mi>
+</math>

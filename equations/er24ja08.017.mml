@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>ST</mi>
+    <mi>qtr</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>all</mi>
+        <mo>&#8722;</mo>
+        <mi>hours</mi>
+      </mrow>
+    </munder>
+    <mi>ST</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. LM-6 (for steam output)</mtext>
+</math>

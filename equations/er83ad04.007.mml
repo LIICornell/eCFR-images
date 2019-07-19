@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>SE</mi>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mover>
+          <mi>X</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mn>1</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>S</mi>
+        <mn>1</mn>
+      </msub>
+      <msqrt>
+        <msub>
+          <mi>n</mi>
+          <mn>1</mn>
+        </msub>
+      </msqrt>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(3)</mtext>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <msub>
+    <mi>P</mi>
+    <mi>r</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>B</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mi>&#916;p</mi>
+      <mo>)</mo>
+    </mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+  </msup>
+  <mo>=</mo>
+  <mspace width="4em" style="border-bottom: 1px solid #000;"/>
+  <mi>in</mi>
+  <mo>.</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>H</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mi>O</mi>
+</math>

@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Non-ERC unit 1990</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>emission rate</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munder>
+        <mo>&#8721;</mo>
+        <mtext>non-ERC units</mtext>
+      </munder>
+      <msub>
+        <mi>SO</mi>
+        <mn>2</mn>
+      </msub>
+      <msub>
+        <mtext>emissions</mtext>
+        <mtext>1990</mtext>
+      </msub>
+      <mspace width=".6em"/>
+      <mtext>(in pounds)</mtext>
+    </mrow>
+    <mrow>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mtext>non-ERC units</mtext>
+        </munder>
+        <msub>
+          <mtext>Heat input</mtext>
+          <mtext>1990</mtext>
+        </msub>
+      </mrow>
+      <mspace width=".6em"/>
+      <mtext>(in mmBtu)</mtext>
+    </mrow>
+  </mfrac>
+</math>

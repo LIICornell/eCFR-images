@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>bi</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>ci</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msub>
+          <mi>H</mi>
+          <mi>g</mi>
+        </msub>
+        <msub>
+          <mi>H</mi>
+          <mi>b</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>ci</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>g</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-11</mtext>
+</math>

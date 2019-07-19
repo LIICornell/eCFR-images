@@ -1,0 +1,60 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>(</mo>
+  <mn>50</mn>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mn>97.5</mn>
+  <mo>&#8722;</mo>
+  <mn>20</mn>
+  <mspace width=".2em"/>
+  <mrow>
+    <mi>log</mi>
+    <mo>&#x2061;</mo>
+    <mi>D</mi>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#8722;</mo>
+  <mo>(</mo>
+  <mn>2</mn>
+  <mi>&#960;</mi>
+  <mo>+</mo>
+  <mn>4.95</mn>
+  <mspace width=".2em"/>
+  <msup>
+    <mrow>
+      <mi>tan</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <msub>
+    <mi>&#981;</mi>
+    <mi>M</mi>
+  </msub>
+  <mo>)</mo>
+  <msqrt>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mi>D</mi>
+        <mn>1000</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </msqrt>
+  <mspace width="3em"/>
+  <mi>d</mi>
+  <mi>B</mi>
+  <mo>(</mo>
+  <mi>&#956;V</mi>
+  <mo>/</mo>
+  <mi>m</mi>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

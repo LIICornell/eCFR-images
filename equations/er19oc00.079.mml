@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <mi>&#949;</mi>
+    <mn>2</mn>
+  </msup>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msubsup>
+        <mi>&#949;</mi>
+        <mi>c</mi>
+        <mn>2</mn>
+      </msubsup>
+      <mo>+</mo>
+      <msubsup>
+        <mi>&#949;</mi>
+        <mi>s</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B54)</mtext>
+</math>

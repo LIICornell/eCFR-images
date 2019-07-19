@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Effective</mtext>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi style="font-style: italic">EPE</mi>
+      </mrow>
+      <msub>
+        <mi>t</mi>
+        <mi>k</mi>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mtext style="font-style: italic">Effective</mtext>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi style="font-style: italic">EE</mi>
+          </mrow>
+          <mi>k</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>t</mi>
+          <mi>k</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

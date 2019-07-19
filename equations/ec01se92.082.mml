@@ -1,0 +1,66 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Forfeited Repowering</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Allowances</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mrow>
+      <mtext>Forfeiture Period</mtext>
+      <mo>&#215;</mo>
+      <mo>[</mo>
+    </mrow>
+    <mfrac>
+      <mrow>
+        <mtext>Unit's Baseline</mtext>
+        <mo>&#215;</mo>
+        <mtext>the lesser of [</mtext>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mn>1995</mn>
+              <mspace width=".2em"/>
+              <mtext>SIP</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mi>or</mi>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mn>1995</mn>
+              <mspace width=".2em"/>
+              <mtext>Actual Rate</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtext>]</mtext>
+      </mrow>
+      <mn>2000</mn>
+    </mfrac>
+  </mrow>
+  <mo>&#8722;</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Unit's Adjusted</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Basic Allowances</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mtext>]</mtext>
+</math>

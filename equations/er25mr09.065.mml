@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>CI</mi>
+      <mo>%</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mi>CI</mi>
+        <mi>EL</mi>
+      </mfrac>
+      <mo>&#183;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-10)</mtext>
+</math>

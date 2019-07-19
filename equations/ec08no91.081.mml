@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>D</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>F</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>&#8242;</mo>
+    <msub>
+      <mi>F</mi>
+      <mi>O</mi>
+    </msub>
+    <mo>&#8242;</mo>
+  </mrow>
+  <msub>
+    <mi>F</mi>
+    <mi>NO</mi>
+  </msub>
+  <mspace width="5em"/>
+  <mtext>(8)</mtext>
+</math>

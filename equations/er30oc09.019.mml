@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>ff</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mtext>Fuel</mtext>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>F</mi>
+            <mi>c</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <mi>HHV</mi>
+      </mrow>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. C-13)</mtext>
+</math>

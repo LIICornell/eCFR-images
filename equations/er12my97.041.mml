@@ -1,0 +1,79 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>AFUE</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>2,950</mn>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>&#951;</mi>
+        </mrow>
+        <mrow>
+          <mi>SS</mi>
+          <mo>&#8722;</mo>
+          <mi>WT</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>&#951;</mi>
+        </mrow>
+        <mi>u</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>Q</mi>
+        </mrow>
+        <mrow>
+          <mi>in</mi>
+          <mo>&#8722;</mo>
+          <mo>max</mo>
+        </mrow>
+      </msub>
+    </mrow>
+    <mrow>
+      <mn>2,950</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>&#951;</mi>
+        <mrow>
+          <mi>SS</mi>
+          <mo>&#8722;</mo>
+          <mi>WT</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>Q</mi>
+        </mrow>
+        <mrow>
+          <mi>in</mi>
+          <mo>&#8722;</mo>
+          <mo>max</mo>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <mrow>
+        <mn>2.083</mn>
+        <mo>(</mo>
+        <mn>4,600</mn>
+        <mo>)</mo>
+        <msub>
+          <mi>&#951;</mi>
+          <mi>u</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>Q</mi>
+          </mrow>
+          <mi>P</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

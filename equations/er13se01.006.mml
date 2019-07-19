@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">Exp</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>q</mi>
+      </munderover>
+      <msub>
+        <mi>HPGR</mi>
+        <mrow>
+          <mi>k</mi>
+          <mo>+</mo>
+          <mi>DQ</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>H</mi>
+        <mi>n</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mi>IP</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>H</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation D1)</mtext>
+</math>

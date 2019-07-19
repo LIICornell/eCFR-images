@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mn>0.0778</mn>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mi>ECT</mi>
+      <mo>&#8722;</mo>
+      <mn>9.8889</mn>
+      <mspace width="4em"/>
+      <mtext>Equation (2)</mtext>
+    </mrow>
+  </mrow>
+</math>

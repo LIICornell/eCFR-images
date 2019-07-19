@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mn>60</mn>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>i</mi>
+  </msub>
+  <msub>
+    <mi>t</mi>
+    <mi>vi</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-7</mtext>
+</math>

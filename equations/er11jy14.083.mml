@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>annual</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>365</mn>
+    <mspace width=".2em"/>
+    <mi>x</mi>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>V</mi>
+          <mo>)</mo>
+        </mrow>
+        <mo></mo>
+        <mrow>
+          <mo>(</mo>
+          <mo>&#961;</mo>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>C</mi>
+            <mi>p</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mn>67</mn>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mi>U</mi>
+        <mi>E</mi>
+        <mi>F</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Credit</mtext>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>g</mi>
+      <mrow>
+        <mi>m</mi>
+        <mi>i</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mn>33.16</mn>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>CD</mi>
+      <mi>reduced</mi>
+    </msub>
+  </mrow>
+</math>

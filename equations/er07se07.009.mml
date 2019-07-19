@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>w</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>B</mi>
+            <mi>ws</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-4b</mtext>
+</math>

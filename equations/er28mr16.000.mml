@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Equation 1</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>d</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mi style="font-style: italic">meas</mi>
+                <mo>&#8722;</mo>
+                <mi style="font-style: italic">audit</mi>
+              </mrow>
+              <mi style="font-style: italic">audit</mi>
+            </mfrac>
+            <mspace width=".2em"/>
+            <mo>&#183;</mo>
+            <mspace width=".2em"/>
+            <mn>100</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

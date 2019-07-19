@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>cos</mi>
+      <mo></mo>
+      <mspace width=".2em"/>
+      <mi>&#948;</mi>
+    </mrow>
+    <mo>=</mo>
+    <mi>A</mi>
+    <mo>+</mo>
+    <mi>B</mi>
+  </mrow>
+  <mrow>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mi>cos</mi>
+    <mspace width=".2em"/>
+  </mrow>
+  <mi>L</mi>
+  <mspace width="4em"/>
+  <mtext>(Equation A29)</mtext>
+</math>

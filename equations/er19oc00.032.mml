@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>L</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>&#955;</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>&#955;</mi>
+      <mn>1</mn>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A24)</mtext>
+</math>

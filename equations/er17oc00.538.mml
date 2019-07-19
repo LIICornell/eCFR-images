@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>ob</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>2</mn>
+          <mo>&#215;</mo>
+          <mi>N</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>D</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>D</mi>
+            <mi>no</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 303-4</mtext>
+</math>

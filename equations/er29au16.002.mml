@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>NMOC</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1.89</mn>
+  <mo>&#215;</mo>
+  <msup>
+    <mn>10</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <msub>
+    <mi>Q</mi>
+    <mi>LFG</mi>
+  </msub>
+  <msub>
+    <mi>C</mi>
+    <mi>NMOC</mi>
+  </msub>
+  <mspace width="12em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>E</mi>
+        <msub>
+          <mrow>
+            <mi>CO</mi>
+            <mn>2</mn>
+          </mrow>
+          <mi>k</mi>
+        </msub>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. G-5)</mtext>
+</math>

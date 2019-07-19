@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Ni Operating Value</mtext>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mi>Opacity</mi>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>mon</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>E-Cat</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11)</mtext>
+</math>

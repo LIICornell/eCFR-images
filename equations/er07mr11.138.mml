@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>s</mi>
+      <msub>
+        <mi>x</mi>
+        <mn>2</mn>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msup>
+        <mi>s</mi>
+        <mn>1</mn>
+      </msup>
+      <msqrt>
+        <mrow>
+          <msub>
+            <mi>n</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>n</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+      </msqrt>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[8]</mtext>
+</math>

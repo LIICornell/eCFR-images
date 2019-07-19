@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <msub>
+      <mi style="font-style: italic">tGHG</mi>
+      <mi style="font-style: italic">iOUT</mi>
+    </msub>
+    <msub>
+      <mi style="font-style: italic">tGHG</mi>
+      <mi style="font-style: italic">iIN</mi>
+    </msub>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>(Eq. A-2)</mtext>
+</math>

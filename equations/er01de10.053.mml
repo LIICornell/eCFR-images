@@ -1,0 +1,70 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>User Emissions</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mo>(</mo>
+            <mtext>Decrease in</mtext>
+            <msub>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>SF</mi>
+              </mrow>
+              <mn>6</mn>
+            </msub>
+            <mspace width=".2em"/>
+            <mtext>Inventory</mtext>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mtext>Acquisitions</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>of</mi>
+            <msub>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>SF</mi>
+              </mrow>
+              <mn>6</mn>
+            </msub>
+            <mo>)</mo>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mo>(</mo>
+              <mtext>Disbursements of</mtext>
+              <msub>
+                <mrow>
+                  <mspace width=".2em"/>
+                  <mi>SF</mi>
+                </mrow>
+                <mn>6</mn>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mo>(</mo>
+          <mtext>Net Increase in Total</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Nameplate Capacity of Equipment Operated </mtext>
+        <mo>)</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="4em"/>
+  <mtext>(Eq. DD-1)</mtext>
+</math>

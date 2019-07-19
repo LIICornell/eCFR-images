@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>F</mi>
+              <mrow>
+                <mi>error</mi>
+                <mo>max</mo>
+              </mrow>
+            </msub>
+            <mo>=</mo>
+            <mfrac>
+              <mrow>
+                <mn>2.2</mn>
+                <mspace width=".2em"/>
+                <mi>lbf</mi>
+              </mrow>
+              <msub>
+                <mi>F</mi>
+                <mi>ref</mi>
+              </msub>
+            </mfrac>
+          </mrow>
+          <mo>&#183;</mo>
+          <mn>100</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Eq. 1066.270-3</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Market value of total acres</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>less contributory value of</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>structural improvements</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Percent calculated in (i)(1)</mtext>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width=".2em"/>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Market value of</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>acres in the contract</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mfrac>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>VR</mi>
+    <mi>tot</mi>
+  </msub>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>IDA</mi>
+        <mrow>
+          <mi>i</mi>
+          <mo>,</mo>
+          <mi>m</mi>
+        </mrow>
+      </msub>
+      <mrow>
+          <mo>&#8721;</mo>
+        <msub>
+          <mi>IA</mi>
+          <mi>total</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <msub>
+    <mi>VR</mi>
+    <mrow>
+      <mi>inlet</mi>
+      <mo>,</mo>
+      <mi>a</mi>
+    </mrow>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>(3)</mtext>
+</math>

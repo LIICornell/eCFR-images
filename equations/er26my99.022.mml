@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>OIL</mi>
+      <mi>rate</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>oil-rate</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>D</mi>
+        <mi>oil</mi>
+      </msub>
+      <mspace width="4em"/>
+      <mtext>(Eq. D-3)</mtext>
+    </mrow>
+  </mrow>
+</math>

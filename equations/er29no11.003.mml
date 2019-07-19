@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>P</mi>
+      </mrow>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>X</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>w</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>W</mi>
+        </munderover>
+        <msub>
+          <mi>CO</mi>
+          <mrow>
+            <mn>2</mn>
+            <mo>,</mo>
+            <mi>w</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. RR-9)</mtext>
+</math>

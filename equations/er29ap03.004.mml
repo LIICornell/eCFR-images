@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CE</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>CO</mi>
+          <mo>/</mo>
+          <msub>
+            <mi>CO</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>THC</mi>
+        <mo>/</mo>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

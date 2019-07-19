@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>P</mi>
+        <mi>V</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi>E</mi>
+          <mi>C</mi>
+          <mi>F</mi>
+        </mrow>
+        <mrow>
+          <mi>P</mi>
+          <mi>V</mi>
+        </mrow>
+      </msub>
+      <mo>*</mo>
+      <mtext style="font-style: italic">Activity</mtext>
+      <mspace width="2em"/>
+      <mtext>(Eq. L-26)</mtext>
+    </mrow>
+  </mrow>
+</math>

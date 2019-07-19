@@ -1,0 +1,60 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>ave</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mrow>
+              <mi style="font-style: italic">adj</mi>
+              <mo>,</mo>
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi style="font-style: italic">adj</mi>
+          <mo>,</mo>
+          <mi>n</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>(Eq. 12)</mtext>
+</math>

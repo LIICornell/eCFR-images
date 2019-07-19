@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>P</mi>
+        <mi>f</mi>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>1</mn>
+        <mi>o</mi>
+      </munderover>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mn>1</mn>
+          <mi>v</mi>
+        </munderover>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi>P</mi>
+            <mi>V</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-28)</mtext>
+</math>

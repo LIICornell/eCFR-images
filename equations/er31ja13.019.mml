@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mn>90</mn>
+  <mo>=</mo>
+  <mtext>mean +</mtext>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mrow>
+        <mi>S</mi>
+        <mi>D</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mspace width="4em"/>
+    <mtext>(Eq. 15)</mtext>
+  </mrow>
+</math>

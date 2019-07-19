@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>EBEP</mi>
+    <mi>iACTUAL</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mn>1,000</mn>
+    <mo>)</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mspace width="2em"/>
+    <mtext>[Eq. 36]</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Result from (h)(4)</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>60</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width=".2em"/>
+    <mtext>Maximum debt reduction for a 30-year contract</mtext>
+  </mfrac>
+</math>

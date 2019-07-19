@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mtext>Index Ratio</mtext>
+    <mi>Date</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mrow>
+        <mi>Ref</mi>
+        <mspace width=".2em"/>
+        <mi>CPI</mi>
+      </mrow>
+      <mi>Date</mi>
+    </msub>
+    <msub>
+      <mrow>
+        <mi>Ref</mi>
+        <mspace width=".2em"/>
+        <mi>CPI</mi>
+      </mrow>
+      <mtext>Issue Date</mtext>
+    </msub>
+  </mfrac>
+</math>

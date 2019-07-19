@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">HCl</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi style="font-style: italic">Ci</mi>
+        <mn>90</mn>
+        <mo>&#215;</mo>
+        <mi style="font-style: italic">Qi</mi>
+        <mo>&#215;</mo>
+        <mn>1.028</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 16)</mtext>
+</math>

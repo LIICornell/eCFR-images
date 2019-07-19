@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Y</mi>
+        <mi>m</mi>
+      </msub>
+      <mtext> (manufacturer's or pretest value)</mtext>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>Y</mi>
+        <mi>m</mi>
+      </msub>
+      <mtext> (post-test value)</mtext>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 306A-3</mtext>
+</math>

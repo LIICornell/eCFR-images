@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Net Income </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mtext>Contribution </mtext>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext>Adjusted Closing Balance </mtext>
+            <mo>&#8722;</mo>
+            <mtext>Adjusted Opening Balance</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mtext>Adjusted Opening Balance.</mtext>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Band Sum</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mn>10</mn>
+    <mrow>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi style="font-style: italic">log</mi>
+        </mrow>
+        <mn>10</mn>
+      </msub>
+      <mo>&#x2061;</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mn>2</mn>
+        </munderover>
+        <msup>
+          <mn>10</mn>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>SPL</mi>
+              <mi>i</mi>
+            </msub>
+            <mo>/</mo>
+            <mn>10</mn>
+            <mo>)</mo>
+          </mrow>
+        </msup>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

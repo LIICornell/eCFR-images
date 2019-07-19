@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>e</mi>
+      <mi>SR</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>e</mi>
+        <mi>SA</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>a</mi>
+          <mo>+</mo>
+          <mi>b</mi>
+          <mo>+</mo>
+          <mi>c</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-2)</mtext>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Equation 2</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>e</mi>
+        <mo>=</mo>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>q</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mn>4</mn>
+          </munderover>
+          <msub>
+            <mi>e</mi>
+            <mi>q</mi>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

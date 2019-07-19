@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <msub>
+      <mrow>
+        <mi>p</mi>
+        <mn>1</mn>
+      </mrow>
+      <mi>released</mi>
+    </msub>
+  </msub>
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <msub>
+        <mrow>
+          <mi>p</mi>
+          <mn>1</mn>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+    </msub>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mrow>
+            <mo>%</mo>
+            <mspace width=".4em"/>
+            <mi>reduction</mi>
+          </mrow>
+          <mn>100</mn>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+      <mspace width="4em"/>
+      <mtext>(Eq. 4)</mtext>
+    </mrow>
+  </mrow>
+</math>

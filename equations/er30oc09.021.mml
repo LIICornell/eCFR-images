@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>(</mo>
+      <mi style="font-style: italic">Fuel</mi>
+      <mo>)</mo>
+    </mrow>
+    <mi>p</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>[</mo>
+      <mi>H</mi>
+      <mo>&#8727;</mo>
+      <mi>S</mi>
+      <mo>]</mo>
+      <mo>&#8722;</mo>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi style="font-style: italic">HI</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi style="font-style: italic">nb</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mn>2000</mn>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi style="font-style: italic">HHV</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi style="font-style: italic">bio</mi>
+      </msub>
+      <mspace width=".2em"/>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi style="font-style: italic">Eff</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi style="font-style: italic">bio</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. C-15)</mtext>
+</math>

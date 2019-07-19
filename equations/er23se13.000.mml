@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Ccorr</mi>
+  <mo>=</mo>
+  <mi>Cmeas</mi>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>3</mn>
+      <msub>
+        <mi>CO</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>meas</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mtext style="font-style: italic">Input Power</mtext>
+    <mrow>
+      <mtext style="font-style: italic">Input Current </mtext>
+      <mo>&#215;</mo>
+      <mtext style="font-style: italic">Input Current</mtext>
+    </mrow>
+  </mfrac>
+</math>

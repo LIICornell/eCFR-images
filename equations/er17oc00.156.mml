@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>m</mi>
+          <mi>d</mi>
+        </msub>
+        <mo>=</mo>
+        <mo>(</mo>
+        <msub>
+          <mi>m</mi>
+          <mi>e</mi>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>f</mi>
+        </msub>
+        <mo>/</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>d</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>b</mi>
+    </msub>
+  </mrow>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>Eq. 5F-5</mtext>
+</math>

@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#945;</mi>
+      <mi>error</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mn>0.999</mn>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn></mn>
+      </mrow>
+      <mn>1</mn>
+    </mfrac>
+  </mrow>
+  <mo>&#183;</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+</math>

@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext style="font-style: italic">PEMS</mtext>
+      <mi style="font-style: italic">iAdjusted</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mtext style="font-style: italic">PEMS</mtext>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi>x</mi>
+  <mspace width=".2em"/>
+  <mi>B</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-5</mtext>
+</math>

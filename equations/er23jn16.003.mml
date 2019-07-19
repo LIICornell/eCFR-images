@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>o</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mi>n</mi>
+      </mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>X</mi>
+          <mn>1</mn>
+        </msub>
+      </mrow>
+      <mspace width="8em"/>
+      <mtext>(Eq. 4)</mtext>
+    </mrow>
+  </mrow>
+</math>

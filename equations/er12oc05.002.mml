@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RSD</mi>
+      <mi>TA</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>a</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>p</mi>
+        </munderover>
+        <msub>
+          <mi>RSD</mi>
+          <mi>a</mi>
+        </msub>
+      </mrow>
+      <mi>p</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

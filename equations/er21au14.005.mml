@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>State Gross-up</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mi>S</mi>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <mi>F</mi>
+            </mrow>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <mi>C</mi>
+            </mrow>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>N</mi>
+    </mrow>
+  </mrow>
+</math>

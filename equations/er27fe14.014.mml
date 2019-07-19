@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>o</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq.5H-10</mtext>
+</math>

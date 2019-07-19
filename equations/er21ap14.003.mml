@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>off</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>t</mi>
+      <mrow>
+        <mi>off</mi>
+        <mo>,</mo>
+        <mi>sensors</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mi>t</mi>
+    <mrow>
+      <mi>off</mi>
+      <mo>,</mo>
+      <mi>controls</mi>
+    </mrow>
+  </msub>
+</math>

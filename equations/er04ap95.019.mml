@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Number of allowances allocated for the calendar year </mtext>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mtext>average utilization</mtext>
+            <mtext>Verified</mtext>
+          </msub>
+          <mrow>
+            <mo>&#8722;</mo>
+            <msub>
+              <mtext>Average utilization</mtext>
+              <mtext>Estimate</mtext>
+            </msub>
+          </mrow>
+        </mrow>
+        <mtext>baseline</mtext>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

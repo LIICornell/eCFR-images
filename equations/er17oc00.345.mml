@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>di</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>K</mi>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <mi>S</mi>
+      </mrow>
+      <mi>GCV</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-25</mtext>
+</math>

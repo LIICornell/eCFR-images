@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>B</mi>
+    <mi>g</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi style="font-style: italic">cuft</mi>
+      <mi style="font-style: italic">scf</mi>
+    </mfrac>
+    <mo>)</mo>
+    <mrow>
+      <mo>=</mo>
+      <mn>0.0283</mn>
+      <mspace width=".2em"/>
+      <mrow>
+        <mo>&#183;</mo>
+        <mspace width=".2em"/>
+        <mfrac>
+          <mrow>
+            <mi>Z</mi>
+            <mrow>
+              <mo>&#183;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>T</mi>
+                    <mi>BH</mi>
+                  </msub>
+                  <mo>+</mo>
+                  <mn>460</mn>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>BH</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mo>(</mo>
+  <mo>)</mo>
+</math>

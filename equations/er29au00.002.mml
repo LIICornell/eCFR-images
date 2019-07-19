@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>17.9</mn>
+      <mrow>
+        <mn>20.9</mn>
+        <mo>&#8722;</mo>
+        <mo>%</mo>
+        <msub>
+          <mi>O</mi>
+          <mrow>
+            <mn>2</mn>
+            <mi>d</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 7A)</mtext>
+</math>

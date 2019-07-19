@@ -1,0 +1,69 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>Capital gain</mtext>
+            <mtext>net investment income</mtext>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Amount expended</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>on an exempt function</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+        <mo>=</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Portion of income</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>subject to tax under SS</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>section 1201</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mo>$</mo>
+              <mn>10,000</mn>
+            </mrow>
+            <mrow>
+              <mo>$</mo>
+              <mn>100,000</mn>
+            </mrow>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mo>$</mo>
+          <mn>5,000</mn>
+          <mrow>
+            <mo>=</mo>
+            <mo>$</mo>
+            <mn>500</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

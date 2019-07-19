@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>P</mi>
+        <mi>S</mi>
+      </mrow>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#8721;</mo>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>P</mi>
+            <mi>S</mi>
+          </mrow>
+          <mrow>
+            <mi>i</mi>
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mi>N</mi>
+    </mfrac>
+    <mspace width="4em"/>
+    <mtext>Eq. 12.1</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>H</mi>
+      </mrow>
+      <mn>4</mn>
+    </msub>
+    <msub>
+      <mi>L</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>R</mi>
+        <mi>n</mi>
+      </msub>
+      <mo>*</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mfrac>
+            <mn>1</mn>
+            <mi>CE</mi>
+          </mfrac>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. II-5)</mtext>
+</math>

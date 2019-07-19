@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>q</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mfrac>
+        <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+        </msub>
+        <mi>n</mi>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-9)</mtext>
+</math>

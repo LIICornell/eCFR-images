@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mtext>months = Apr., Jul., or Oct.</mtext>
+      <mi>Dec</mi>
+    </munderover>
+    <mtext> </mtext>
+    <mo>&#183;</mo>
+  </mrow>
+  <munder>
+    <mo>&#8721;</mo>
+    <mtext>Fuel Types</mtext>
+  </munder>
+  <mrow>
+    <mtext>quantity of fuel consumed </mtext>
+    <mo>&#215;</mo>
+    <mrow>
+      <mtext>heat content </mtext>
+      <mo>&#215;</mo>
+      <mtext>unit conversion</mtext>
+    </mrow>
+  </mrow>
+</math>

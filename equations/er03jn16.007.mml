@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mi>BH</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mi>p</mi>
+    <mi>s</mi>
+    <mi>i</mi>
+    <mi>a</mi>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mn>2</mn>
+  </mfrac>
+  <msub>
+    <mi>P</mi>
+    <mi>R</mi>
+  </msub>
+</math>

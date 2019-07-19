@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>d</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>d</mi>
+      <mrow>
+        <mi>i</mi>
+        <mspace width="4em"/>
+      </mrow>
+    </msub>
+    <mtext>Eq. 16-1</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>10</mn>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>log</mi>
+    </mrow>
+    <mn>10</mn>
+  </msub>
+  <mspace width="1em"/>
+  <mn>1</mn>
+  <mo>/</mo>
+  <mi>A</mi>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>N</mi>
+    </munderover>
+    <mi>pigi</mi>
+    <mrow>
+      <mspace width=".2em"/>
+      <mrow>
+        <mi>dBW</mi>
+        <mo>/</mo>
+        <mi>MHz-</mi>
+        <msup>
+          <mi>km</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

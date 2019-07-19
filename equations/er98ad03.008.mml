@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mi>c</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>A</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>B</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>H</mi>
+      <mi>unc</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>CE</mi>
+      <mn>100</mn>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mi>DRE</mi>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

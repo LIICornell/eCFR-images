@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>&#981;</mi>
+    <mi>i</mi>
+    <mo>&#8242;</mo>
+  </msubsup>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mi>sin</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>G</mi>
+        <mn>5</mn>
+      </msub>
+      <mrow>
+        <mi>r</mi>
+        <mn>5</mn>
+        <mo>,</mo>
+        <mn>2</mn>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+    <mspace width="4em"/>
+    <mtext>(Equation B67)</mtext>
+  </mrow>
+</math>

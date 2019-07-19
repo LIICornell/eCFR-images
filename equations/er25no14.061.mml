@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>s</mi>
+      <mo>,</mo>
+      <mi>i</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mi>E</mi>
+          <msub>
+            <mi>F</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <mi style="font-style: italic">Count</mi>
+        <mo>*</mo>
+      </mrow>
+    </mrow>
+    <mn>1000</mn>
+    <mspace width="6em"/>
+    <mtext>(Eq. W-5)</mtext>
+  </mrow>
+</math>

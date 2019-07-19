@@ -1,0 +1,87 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Annual</mtext>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>SO</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mspace width=".2em"/>
+    <mtext>Emissions</mtext>
+    <mo>=</mo>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>months</mi>
+        <mo>=</mo>
+        <mi>Jan</mi>
+      </mrow>
+      <mi>Dec</mi>
+    </munderover>
+  </mrow>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mtext>Fuel Types</mtext>
+    </munder>
+    <mrow>
+      <mo>[</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>quantity of fuel consumed</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mo>&#215;</mo>
+              <msub>
+                <mi>SO</mi>
+                <mn>2</mn>
+              </msub>
+            </mrow>
+            <mtext>emissions factor</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext> </mtext>
+            <mrow>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>&#8722;</mo>
+                </mrow>
+                <mtext>control system efficiency</mtext>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext> </mtext>
+            <mrow>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>&#8722;</mo>
+                  <mtext>fuel pre-treatment efficiency</mtext>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

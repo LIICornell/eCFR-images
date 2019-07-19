@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>dt</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>ref</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>int</mi>
+        </msub>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-14</mtext>
+</math>

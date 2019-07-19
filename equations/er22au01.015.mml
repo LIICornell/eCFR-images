@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>PV</mi>
+      <mi>F</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>PV</mi>
+        <mi>u</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>100</mn>
+            <mo>&#8722;</mo>
+            <mo>%</mo>
+            <mspace width=".2em"/>
+            <mtext>Filler</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>100</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

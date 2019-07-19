@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>E</mi>
+              <mi>pi</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>T</mi>
+              <mi>ti</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+
+          <msub>
+            <mi>T</mi>
+            <mi>ti</mi>
+          </msub>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

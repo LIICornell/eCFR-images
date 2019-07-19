@@ -1,0 +1,88 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext style="font-style: italic">Maximum</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext style="font-style: italic">Rate</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>=</mo>
+          <mrow>
+            <mrow>
+              <mtext style="font-style: italic">Space Factor</mtext>
+              <mo>&#215;</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext style="font-style: italic">Net</mtext>
+                    <mspace width=".2em"/>
+                    <mtext>Cost of</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext style="font-style: italic">a</mtext>
+                    <mspace width=".2em"/>
+                    <mtext>Bare Pole</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+            </mrow>
+            <mo>&#215;</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext style="font-style: italic">Carrying</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext style="font-style: italic">Charge</mtext>
+                  <mspace width=".2em"/>
+                  <mtext>Rate</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext style="font-style: italic">Where</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext style="font-style: italic">Space</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext style="font-style: italic">Factor</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>=</mo>
+          <mfrac>
+            <mtext>Space Occupied by Attachment</mtext>
+            <mtext>Total Usable Space</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

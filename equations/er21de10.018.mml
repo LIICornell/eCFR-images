@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>v</mi>
+      <mo>min</mo>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>v</mi>
+      <mi>n</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>R</mi>
+    </mrow>
+    <mo>min</mo>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. 19)</mtext>
+</math>

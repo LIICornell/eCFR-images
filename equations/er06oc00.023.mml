@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>U</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>/</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>t</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>R</mi>
+          <mi>t</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <msub>
+            <mi>R</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>R</mi>
+            <mi>e</mi>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="4em"/>
+  <mtext>Equation 402.1.2.1a</mtext>
+</math>

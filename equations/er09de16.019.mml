@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">BE</mi>
+      <mi style="font-style: italic">ijk</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>B</mi>
+          <mi style="font-style: italic">ijk</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mi>C</mi>
+          <mi style="font-style: italic">ij</mi>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mrow>
+                  <msub>
+                    <mi>a</mi>
+                    <mi style="font-style: italic">ij</mi>
+                  </msub>
+                  <mo>*</mo>
+                  <msub>
+                    <mi>d</mi>
+                    <mi style="font-style: italic">jk</mi>
+                  </msub>
+                </mrow>
+                <mo>*</mo>
+                <msub>
+                  <mi style="font-style: italic">UT</mi>
+                  <mi style="font-style: italic">ijk</mi>
+                </msub>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>*</mo>
+        <mn>0.001</mn>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. I-9)</mtext>
+</math>

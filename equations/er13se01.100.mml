@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>SBV</mi>
+      <mn>0</mn>
+    </msub>
+    <mo>&gt;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>m</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>RM</mi>
+      </munderover>
+      <msub>
+        <mi>SACF</mi>
+        <mi>m</mi>
+      </msub>
+    </mrow>
+  </mrow>
+</math>

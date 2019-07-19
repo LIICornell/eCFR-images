@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>VOC</mi>
+      <mrow>
+        <mo>lim</mo>
+        <mi>it</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>20</mn>
+      <mo>&#215;</mo>
+      <mfrac>
+        <msub>
+          <mi>C</mi>
+          <mrow>
+            <mi>VOHAP</mi>
+            <mo>,</mo>
+            <mi>avg</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>C</mi>
+          <mi>CEM</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

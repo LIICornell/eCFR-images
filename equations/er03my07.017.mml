@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ET</mi>
+      <mi>unit</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>j</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mn>12</mn>
+        </munderover>
+        <msub>
+          <mi>E</mi>
+          <mi>unit</mi>
+        </msub>
+      </mrow>
+      <mo>]</mo>
+      <mspace width="4em"/>
+      <mtext>(Eq. 11)</mtext>
+    </mrow>
+  </mrow>
+</math>

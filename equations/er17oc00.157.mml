@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mi>t</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>V</mi>
+              <mi>c</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>N</mi>
+        <mspace width=".2em"/>
+        <mi>W</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>V</mi>
+          </mrow>
+          <mi>e</mi>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mi>f</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>a</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>V</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>Eq. 5F-6</mtext>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>E</mi>
+      <mi>i</mi>
+    </msub>
+    <mrow>
+      <mi>R</mi>
+      <msub>
+        <mi>P</mi>
+        <mi>m</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>[Eq.5]</mtext>
+</math>

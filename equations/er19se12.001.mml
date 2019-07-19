@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mo>&#8721;</mo>
+    <msub>
+      <mi>VR</mi>
+      <mi>inlet</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mrow>
+      <mo>&#215;</mo>
+      <mi>EL</mi>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>60</mn>
+    <mrow>
+      <mtext></mtext>
+      <mspace width=".2em"/>
+      <mtext>minutes</mtext>
+      <mo>/</mo>
+      <mtext>hour</mtext>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <msub>
+    <mi>AMR</mi>
+    <mi>sys</mi>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>(2)</mtext>
+</math>

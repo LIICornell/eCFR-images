@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>L</mi>
+    <mi>OPT</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1.15</mn>
+  <mo>*</mo>
+  <mn>3.0</mn>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>gal</mi>
+        <mspace width=".4em"/>
+        <mi>TEG</mi>
+      </mrow>
+      <mrow>
+        <mi>lb</mi>
+        <msub>
+          <mrow>
+            <mspace width=".4em"/>
+            <mi>H</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+        <mi>O</mi>
+      </mrow>
+    </mfrac>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mi>F</mi>
+          <mo>*</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>I</mi>
+              <mo>&#8722;</mo>
+              <mi>O</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mn>24</mn>
+          <mspace width=".4em"/>
+          <mi>hr</mi>
+          <mo>/</mo>
+          <mi>day</mi>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

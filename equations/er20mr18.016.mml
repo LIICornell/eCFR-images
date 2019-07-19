@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msubsup>
+      <mi>S</mi>
+      <mi>p</mi>
+      <mn>2</mn>
+    </msubsup>
+    <msubsup>
+      <mi>S</mi>
+      <mi>v</mi>
+      <mn>2</mn>
+    </msubsup>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-17)</mtext>
+</math>

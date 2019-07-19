@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>U</mi>
+        <mi>T</mi>
+      </mrow>
+      <mi>f</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>1</mn>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mo>&#8721;</mo>
+        <mi>p</mi>
+        <mi>T</mi>
+        <msub>
+          <mi>d</mi>
+          <mrow>
+            <mi>p</mi>
+            <mi>f</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mrow>
+        <mo>&#8721;</mo>
+        <mi>p</mi>
+        <msub>
+          <mrow>
+            <mi>U</mi>
+            <mi>T</mi>
+          </mrow>
+          <mrow>
+            <mi>p</mi>
+            <mi>f</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. I-23)</mtext>
+</math>

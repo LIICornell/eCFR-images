@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Opacity</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>13</mn>
+          <mspace width=".2em"/>
+          <mi>g</mi>
+          <mspace width=".2em"/>
+          <mi>Ni</mi>
+          <mo>/</mo>
+          <mi>hr</mi>
+        </mrow>
+        <msub>
+          <mrow>
+            <mi>NiEmR</mi>
+            <mn>1</mn>
+          </mrow>
+          <mi>st</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>Opacity</mi>
+        <mi>st</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

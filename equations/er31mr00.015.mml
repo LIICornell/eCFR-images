@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>S</mi>
+  <mo>(</mo>
+  <mi>n</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>F</mi>
+      <mo>(</mo>
+      <mi>n</mi>
+      <mo>)</mo>
+    </mrow>
+    <mi>A</mi>
+  </mfrac>
+  <mo>;</mo>
+  <mi>n</mi>
+  <mo>=</mo>
+  <mn>1,2,3</mn>
+</math>

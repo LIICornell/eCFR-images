@@ -1,0 +1,109 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>ERC unit's</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <msub>
+                  <mrow>
+                    <msub>
+                      <mi>SO</mi>
+                      <mn>2</mn>
+                    </msub>
+                    <mtext> emission rate</mtext>
+                  </mrow>
+                  <mn>1990</mn>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mi>in</mi>
+                    <mspace width=".2em"/>
+                    <mi>lb</mi>
+                    <mo>/</mo>
+                    <mi>mmBtu</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>&#8722;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>ERC unit's</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <msub>
+                  <mi>SO</mi>
+                  <mn>2</mn>
+                </msub>
+                <mspace width=".2em"/>
+                <msub>
+                  <mtext>emission rate</mtext>
+                  <mtext>prior year</mtext>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mi>in</mi>
+                    <mspace width=".2em"/>
+                    <mi>lb</mi>
+                    <mo>/</mo>
+                    <mi>mmBtu</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <msub>
+              <mtext>heat input</mtext>
+              <mtext>prior year</mtext>
+            </msub>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>in</mi>
+                <mspace width=".2em"/>
+                <mi>mmBtu</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mrow>
+    <mn>2000</mn>
+  </mfrac>
+</math>

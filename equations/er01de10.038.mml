@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>E</mi>
+      <mi>F</mi>
+    </mrow>
+    <mrow>
+      <mi>P</mi>
+      <mi>V</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>1</mn>
+        <mi>r</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>E</mi>
+            <mrow>
+              <mi>P</mi>
+              <mi>V</mi>
+            </mrow>
+          </msub>
+          <msub>
+            <mi style="font-style: italic">Activity</mi>
+            <mi style="font-style: italic">EmissionTest</mi>
+          </msub>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>r</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-20)</mtext>
+</math>

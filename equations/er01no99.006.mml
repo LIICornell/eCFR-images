@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mtext>Number of semester, trimester, quarter, or clock hours
+          enrolled</mtext>
+          <mtext>Number of semester, trimester, quarter, or clock hours in
+          academic year</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>or</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mtext>Number of weeks enrolled</mtext>
+          <mtext>Number of weeks in academic year.</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

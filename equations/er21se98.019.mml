@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>nc</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>VP</mi>
+        <msub>
+          <mi>nc</mi>
+          <mn>2</mn>
+        </msub>
+      </msub>
+      <mn>760</mn>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 22)</mtext>
+</math>

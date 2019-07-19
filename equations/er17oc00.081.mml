@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <mi>f</mi>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>L</mi>
+      </mrow>
+      <mi>o</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-11</mtext>
+</math>

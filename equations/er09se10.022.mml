@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>B</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mn>2</mn>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mn>1</mn>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+    <mspace width="4em"/>
+    <mtext>(Equation 12B-5)</mtext>
+  </mrow>
+</math>

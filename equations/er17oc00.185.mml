@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>std</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>sb</mi>
+          <mo>(</mo>
+          <mi>std</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+      <mi>&#952;</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 6-5</mtext>
+</math>

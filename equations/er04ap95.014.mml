@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Annual Utilization</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Actual heat input</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>for the remaining calendar quarters</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>+</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Reduction from improved efficiency</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>for the remaining calendar quarters</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+    </mrow>
+  </mrow>
+</math>

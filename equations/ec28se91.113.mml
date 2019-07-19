@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;dB</mi>
+  <mo>=</mo>
+  <mn>60</mn>
+  <mo>&#8722;</mo>
+  <mn>20</mn>
+  <mspace width=".2em"/>
+  <msub>
+    <mrow>
+      <mi>log</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+    <mn>10</mn>
+  </msub>
+  <mo>{</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mn>11,430</mn>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>D</mi>
+      <mn>50</mn>
+    </msub>
+    <mspace width=".4em"/>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mi>R</mi>
+          <mo>/</mo>
+          <mi>C</mi>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>y</mi>
+        </msub>
+      </mfrac>
+      <mo>+</mo>
+      <mn>50</mn>
+    </mrow>
+  </mrow>
+  <mo>}</mo>
+</math>

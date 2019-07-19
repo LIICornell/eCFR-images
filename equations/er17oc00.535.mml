@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>4</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>D</mi>
+          <mi>t</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>10</mn>
+        <mo>&#215;</mo>
+        <mi>L</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 303-1</mtext>
+</math>

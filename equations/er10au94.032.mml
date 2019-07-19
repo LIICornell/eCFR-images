@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>d</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mn>2.93</mn>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+      <mn>108</mn>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mn>2.71</mn>
+  <mi>mm</mi>
+</math>

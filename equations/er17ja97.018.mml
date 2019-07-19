@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>QMG</mi>
+        <mi>a</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>QMG</mi>
+        <mi>b</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>QMG</mi>
+      <mi>a</mi>
+    </msub>
+  </mfrac>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mtext>(Eqn WW18)</mtext>
+</math>

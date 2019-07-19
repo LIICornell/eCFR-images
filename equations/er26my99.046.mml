@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <msub>
+        <mi>CO</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>q</mi>
+        </mrow>
+      </msub>
+      <mo>=</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>h</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>Hg</mi>
+        </munderover>
+        <msub>
+          <mi>E</mi>
+          <mi>h</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>t</mi>
+        <mi>h</mi>
+      </msub>
+      <mspace width="4em"/>
+    </mrow>
+  </msub>
+  <mtext>(Eq. F-12)</mtext>
+</math>

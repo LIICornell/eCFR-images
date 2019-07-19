@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>TRE</mi>
+  <mo>=</mo>
+  <mi>A</mi>
+  <mo>*</mo>
+  <mo>[</mo>
+  <mi>B</mi>
+  <mo>+</mo>
+  <mi>C</mi>
+  <mo>+</mo>
+  <mi>D</mi>
+  <mo>+</mo>
+  <mi>E</mi>
+  <mo>+</mo>
+  <mi>F</mi>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 64-5)</mtext>
+</math>

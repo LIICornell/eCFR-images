@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>5</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>TOC</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <mfrac bevelled="true">
+        <mn>1</mn>
+        <mn>6</mn>
+      </mfrac>
+    </mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>methane</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>s</mi>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

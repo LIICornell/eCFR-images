@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>User Emissions</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mrow>
+                <mtext>Decrease in</mtext>
+                <mspace width=".2em"/>
+                <mi>SF</mi>
+              </mrow>
+              <mn>6</mn>
+            </msub>
+            <mtext><mrow>
+              <mspace width=".2em"/>
+              <mtext>Inventory</mtext>
+            </mrow>
+            </mtext>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mtext> Acquisitions</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>of</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>SF</mi>
+          <mn>6</mn>
+        </msub>
+        <mo>)</mo>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mtext>Disbursements of</mtext>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>SF</mi>
+            <mn>6</mn>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mspace width="8em"/>
+        <mtext>(Eq. SS-1)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

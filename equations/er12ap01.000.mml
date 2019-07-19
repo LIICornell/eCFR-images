@@ -1,0 +1,62 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Monthly Quantity</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>of Each Oilseed</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Processed (tons)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>SEED</mi>
+            <mi>B</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <mrow>
+            <msub>
+              <mi>SEED</mi>
+              <mi>E</mi>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>SEED</mi>
+              <mi>R</mi>
+            </msub>
+            <mo>&#177;</mo>
+            <msub>
+              <mi>SEED</mi>
+              <mi>A</mi>
+            </msub>
+          </mrow>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

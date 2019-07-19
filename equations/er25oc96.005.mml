@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>PT gr /hr</mtext>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mi>n</mi>
+      </mrow>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mtext>PT gr /hr</mtext>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>WF</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+</math>

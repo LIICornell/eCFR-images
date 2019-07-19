@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">CAFE</mi>
+      <mi style="font-style: italic">required</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>&#8721;</mi>
+          <mi>i</mi>
+        </msub>
+        <msub>
+          <mi style="font-style: italic">PRODUCTION</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>&#8721;</mi>
+          <mi>i</mi>
+        </msub>
+        <mfrac>
+          <msub>
+            <mi style="font-style: italic">PRODUCTION</mi>
+            <mi>i</mi>
+          </msub>
+          <msub>
+            <mi style="font-style: italic">TARGET</mi>
+            <mi>i</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

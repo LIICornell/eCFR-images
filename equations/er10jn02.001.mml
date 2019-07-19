@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DRE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>M</mi>
+          <mi>fi</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>M</mi>
+          <mi>fo</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>fi</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

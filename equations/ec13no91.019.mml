@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#949;</mi>
+    <mo>&#8773;</mo>
+    <mrow>
+      <mrow>
+        <mi>&#967;</mi>
+        <mspace width=".2em"/>
+        <mrow>
+          <mi>tan</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <mi>b</mi>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mrow>
+      <mspace width="4em"/>
+      <mtext>(Eq. 3)</mtext>
+    </mrow>
+  </mrow>
+</math>

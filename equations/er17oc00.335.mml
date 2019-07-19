@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>K</mi>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>K</mi>
+            <mi>cc</mi>
+          </msub>
+          <mo>%</mo>
+          <mi>C</mi>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mi>GCV</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-15</mtext>
+</math>

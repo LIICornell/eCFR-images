@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>E</mi>
+      <mi>F</mi>
+    </mrow>
+    <mrow>
+      <mi>s</mi>
+      <mo>,</mo>
+      <mi>m</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>p</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <msub>
+          <mtext style="font-style: italic">Count</mtext>
+          <mi>m</mi>
+        </msub>
+      </munderover>
+      <msub>
+        <mrow>
+          <mi>M</mi>
+          <mi>T</mi>
+        </mrow>
+        <mrow>
+          <mi>s</mi>
+          <mo>,</mo>
+          <mi>m</mi>
+          <mo>,</mo>
+          <mi>p</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <msub>
+      <mtext style="font-style: italic">Count</mtext>
+      <mi>m</mi>
+    </msub>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. W-28)</mtext>
+</math>

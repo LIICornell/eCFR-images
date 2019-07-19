@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Cooling intermediate speed </mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mtext>Cooling minimum speed </mtext>
+      <mo>+</mo>
+      <mfrac>
+        <mrow>
+          <mtext>Cooling full speed </mtext>
+          <mo>&#8722;</mo>
+          <mtext>Cooling minimum speed</mtext>
+        </mrow>
+        <mn>3</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

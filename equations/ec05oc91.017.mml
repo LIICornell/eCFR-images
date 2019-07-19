@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mrow>
+            <mo>$</mo>
+            <mn>1,158.57</mn>
+            <mspace width=".2em"/>
+            <mtext>(X's allocable share of tax)</mtext>
+          </mrow>
+          <mrow>
+            <mo>$</mo>
+            <mn>2,807.54</mn>
+            <mspace width=".2em"/>
+            <mtext>(total tax)</mtext>
+          </mrow>
+        </mfrac>
+        <mspace width="3em"/>
+        <mo>$</mo>
+        <mn>1,000</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(tax remitted). Since $1,807.54 is less than $2,039.34</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>($2,452.00 minus $412.66), X and Y are jointly and
+        severally</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>liable for $1,807.54</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

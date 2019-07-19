@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>1</mn>
+    </msub>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>D</mi>
+        <mi>j</mi>
+      </msub>
+      <msub>
+        <mi>H</mi>
+        <mi>j</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq.1]</mtext>
+</math>

@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <mspace width=".2em"/>
+    <mtext>Perennial ryegrass</mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>%</mo>
+          <mtext></mtext>
+          <mspace width=".2em"/>
+          <mi>VFL</mi>
+          <mspace width=".2em"/>
+          <mrow>
+            <mo>(</mo>
+            <mi>annual</mi>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mo>%</mo>
+            <mspace width=".2em"/>
+            <mi>TFL</mi>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mo>%</mo>
+            <mspace width=".2em"/>
+            <mi>VFL</mi>
+            <mspace width=".2em"/>
+            <mrow>
+              <mo>(</mo>
+              <mi>annual</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mo>%</mo>
+            <mspace width=".2em"/>
+            <mi>VFL</mi>
+            <mrow>
+              <mspace width=".2em"/>
+              <mo>(</mo>
+              <mi>perennial</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mo>%</mo>
+      <mspace width=".2em"/>
+      <mtext>Pure ryegrass</mtext>
+    </mrow>
+  </mrow>
+</math>

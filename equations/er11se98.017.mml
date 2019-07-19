@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>VOC</mtext>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mtext>(Volume Manufactured or Imported)</mtext>
+        <mo>*</mo>
+        <mtext>(VOC Amount) / 1</mtext>
+      </mrow>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4)</mtext>
+</math>

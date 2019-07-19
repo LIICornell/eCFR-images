@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <msub>
+            <mi>d</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>&#8594;</mo>
+          <msub>
+            <mi>d</mi>
+            <mi>last</mi>
+          </msub>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>Q</mi>
+        <mi>drem</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-14</mtext>
+</math>

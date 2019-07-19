@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">EF</mi>
+      <mrow>
+        <mi style="font-style: italic">LKD</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi style="font-style: italic">avg</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi style="font-style: italic">EF</mi>
+      <mrow>
+        <mi style="font-style: italic">LKD</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mi>n</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. S-6)</mtext>
+</math>

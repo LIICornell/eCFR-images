@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mtext>Blending Component</mtext>
+          <mrow>
+            <mi>i</mi>
+            <mo>.</mo>
+            <mo>.</mo>
+            <mo>.</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mrow>
+            <mi>E</mi>
+            <mi>F</mi>
+          </mrow>
+          <mrow>
+            <mi>i</mi>
+            <mo>.</mo>
+            <mo>.</mo>
+            <mo>.</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mspace width="4em"/>
+    <mtext>(Eq. MM-12)</mtext>
+  </mrow>
+</math>

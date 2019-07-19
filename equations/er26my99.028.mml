@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>OIL</mi>
+    <mi>rate</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>OIL</mi>
+      <mi>unit</mi>
+    </msub>
+    <mi>t</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-9)</mtext>
+</math>

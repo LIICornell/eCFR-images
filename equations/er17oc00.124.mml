@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Y</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>Y</mi>
+      <mrow>
+        <mi>cr</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>m</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5-14</mtext>
+</math>

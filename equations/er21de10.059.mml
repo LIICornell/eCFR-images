@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>fb</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>ib</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>ob</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

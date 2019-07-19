@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>O</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mn>0.001</mn>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mn>44</mn>
+          <mn>12</mn>
+        </mfrac>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>g</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>C</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. X-4)</mtext>
+</math>

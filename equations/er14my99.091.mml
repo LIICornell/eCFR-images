@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>WAF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mover>
+        <mi>v</mi>
+        <mo>^</mo>
+      </mover>
+      <mi>avg</mi>
+    </msub>
+    <msub>
+      <mover>
+        <mi>v</mi>
+        <mo>^</mo>
+      </mover>
+      <mi>avg</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-19</mtext>
+</math>

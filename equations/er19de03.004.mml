@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>Hg</mi>
+      <mo>,</mo>
+      <msub>
+        <mi>H</mi>
+        <mn>2</mn>
+      </msub>
+      <mi>EB</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mi>E</mi>
+      <mrow>
+        <mi>Hg</mi>
+        <mo>,</mo>
+        <mi>avg</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 5)</mtext>
+</math>

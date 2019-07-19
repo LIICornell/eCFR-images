@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>WE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>PCE</mi>
+        <mo>&#215;</mo>
+        <mi>A</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>TCE</mi>
+        <mo>&#215;</mo>
+        <mi>B</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>MC</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq.9)</mtext>
+</math>

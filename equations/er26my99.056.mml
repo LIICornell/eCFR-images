@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HI</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+  </mrow>
+  <msub>
+    <mi>M</mi>
+    <mi>o</mi>
+  </msub>
+    <mfrac>
+      <msub>
+        <mi>GCV</mi>
+        <mi>o</mi>
+      </msub>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-19)</mtext>
+</math>

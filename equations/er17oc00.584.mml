@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi>Cr</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>V</mi>
+            <mi>mL</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>S</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <mi>F</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>D</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 306A-6</mtext>
+</math>

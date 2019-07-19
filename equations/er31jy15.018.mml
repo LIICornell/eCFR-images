@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mi>W</mi>
+        <mo>&#215;</mo>
+        <mn>24</mn>
+      </mrow>
+      <mrow>
+        <mn>1.04</mn>
+        <mo>&#215;</mo>
+        <mi>T</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

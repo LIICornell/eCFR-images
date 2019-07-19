@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Er</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mover>
+        <mi>x</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mi>CC</mi>
+      <mo>&#x2223;</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1-6</mtext>
+</math>

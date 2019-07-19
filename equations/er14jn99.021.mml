@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>MAU</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munder>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>&#8712;</mo>
+          <mo>{</mo>
+          <msup>
+            <mi>m</mi>
+            <mo>&#8242;</mo>
+          </msup>
+          <mo>}</mo>
+        </mrow>
+      </munder>
+      <msub>
+        <mi>W</mi>
+        <mi>k</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>MAU</mi>
+    <mi>ik</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(D.2)</mtext>
+</math>

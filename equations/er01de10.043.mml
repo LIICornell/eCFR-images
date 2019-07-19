@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">ECF</mi>
+      <mi style="font-style: italic">PV</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>E</mi>
+        <mrow>
+          <mi>P</mi>
+          <mi>V</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi style="font-style: italic">Activity</mi>
+        <mrow>
+          <mi>Re</mi>
+          <mspace width=".2em"/>
+          <mtext style="font-style: italic">presentative</mtext>
+        </mrow>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. L-25)</mtext>
+</math>

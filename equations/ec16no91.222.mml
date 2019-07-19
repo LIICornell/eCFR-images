@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>*</mo>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mi>m</mi>
+          <mi>rs</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>A</mi>
+          <mi>rs</mi>
+        </msub>
+        <msub>
+          <mi>RF</mi>
+          <mi>rs</mi>
+        </msub>
+        <msub>
+          <mi>m</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>*</mo>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 23-4</mtext>
+</math>

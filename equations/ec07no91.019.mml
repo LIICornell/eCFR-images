@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>Bi</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>DO</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>H</mi>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>DH</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>DO</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 4</mtext>
+</math>

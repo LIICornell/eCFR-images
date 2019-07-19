@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>D</mi>
+        <mi>F</mi>
+        <mo>=</mo>
+        <mfrac>
+          <msub>
+            <mi>V</mi>
+            <mi>dexhstd</mi>
+          </msub>
+          <msub>
+            <mi>V</mi>
+            <mi>exhstd</mi>
+          </msub>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.610-3</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

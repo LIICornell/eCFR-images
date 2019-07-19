@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mrow>
+        <mi>NO</mi>
+        <mi>dry</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>NO</mi>
+          <mi>meas</mi>
+        </mrow>
+      </msub>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow>
+            <mi>H</mi>
+            <mn>2</mn>
+            <mi>O</mi>
+            <mi>NO</mi>
+            <mi>meas</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.655-16</mtext>
+</math>

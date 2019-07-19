@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MPC</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>(</mo>
+    <mtext>or</mtext>
+    <mspace width=".2em"/>
+    <mi>MEC</mi>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mn>66.93</mn>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mn>6</mn>
+    </msup>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <mi>S</mi>
+      </mrow>
+      <mi>GCV</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <msub>
+          <mi>O</mi>
+          <mrow>
+            <mn>2</mn>
+            <mi>w</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-1b)</mtext>
+</math>

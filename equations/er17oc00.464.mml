@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>TC</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>cell</mi>
+      </msub>
+      <mspace width=".2em"/>
+    </mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 1</mtext>
+</math>

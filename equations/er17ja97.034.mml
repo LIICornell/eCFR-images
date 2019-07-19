@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>S</mi>
+        <mn>0</mn>
+      </msub>
+      <msub>
+        <mi>X</mi>
+        <mn>0</mn>
+      </msub>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>S</mi>
+        <mi>i</mi>
+      </msub>
+      <mrow>
+        <mn>1.42</mn>
+        <mspace width=".2em"/>
+        <mi>X</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width=".2em"/>
+  <mtext>(Eqn App. C-1)</mtext>
+</math>

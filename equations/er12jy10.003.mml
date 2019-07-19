@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>CHG</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>GHG</mi>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mi>Mg</mi>
+    <mo>*</mo>
+    <mn>0.001</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. T-4)</mtext>
+</math>

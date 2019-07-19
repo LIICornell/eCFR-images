@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>A</mi>
+        <mi>I</mi>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mfrac>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>d</mi>
+                  <mo>&#8722;</mo>
+                  <mi>r</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mi>y</mi>
+            </mfrac>
+            <mo>&#x2223;</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mi>C</mi>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(Equation 36)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

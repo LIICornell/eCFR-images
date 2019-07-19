@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi style="font-style: italic">var</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mo style="font-style: italic">max</mo>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mo style="font-style: italic">min</mo>
+          </msub>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>Q</mi>
+                <mo style="font-style: italic">max</mo>
+              </msub>
+              <mo>+</mo>
+              <msub>
+                <mi>Q</mi>
+                <mo style="font-style: italic">min</mo>
+              </msub>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>*</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mtext>Average of Monthly NYMEX CMA for Previous 12 Months</mtext>
+        <mo>&#8722;</mo>
+        <mtext>Average of Monthly Major Portion Prices for Previous 12
+        Months</mtext>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mtext>Average of Monthly NYMEX CMA  for Previous 12 Months</mtext>
+  </mfrac>
+  <mo>]</mo>
+</math>

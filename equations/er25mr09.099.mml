@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>B</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#43;</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mover>
+        <mi>d</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mtext style="font-style: italic">PEMS</mtext>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-6a</mtext>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>Q</mi>
+      <mi>probe</mi>
+    </msub>
+    <msub>
+      <mi>Q</mi>
+      <mi>spike</mi>
+    </msub>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>Tdir</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>TNative</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>Ttv</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>TNative</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-9</mtext>
+</math>

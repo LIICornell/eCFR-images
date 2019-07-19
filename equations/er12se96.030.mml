@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ECPVS</mi>
+      <mi>jstd</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>EF</mi>
+        <mi>std</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>PP</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 31]</mtext>
+</math>

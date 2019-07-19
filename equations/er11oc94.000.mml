@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>T</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>L</mi>
+      <mi>S</mi>
+    </msub>
+    <msub>
+      <mi>L</mi>
+      <mi>E</mi>
+    </msub>
+  </mfrac>
+  <mo>,</mo>
+  <mtext>truncated after 3 decimal places.</mtext>
+</math>

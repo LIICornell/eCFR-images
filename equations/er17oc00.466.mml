@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>B</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>S</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <msub>
+    <mi>M</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mi>CS<mrow>
+    <mspace width="4em"/>
+    <mtext>Eq</mtext>
+  </mrow>
+  </mi>
+  <mo>.</mo>
+  <mn>3</mn>
+</math>

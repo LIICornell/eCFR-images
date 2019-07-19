@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mtext>revised annual utilization</mtext>
+            <mtext>year 1</mtext>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mtext>revised annual utilizaiton</mtext>
+            <mrow>
+              <mi>year</mi>
+              <mn>2</mn>
+            </mrow>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mtext>annual utilization</mtext>
+            <mtext>year 3</mtext>
+          </msub>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Number of months</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>in year 1, year 2, and year 3</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>for which the opt-in permit is effective</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>12</mn>
+  </mrow>
+</math>

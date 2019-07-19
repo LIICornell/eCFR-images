@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>t</mi>
+        <mspace width=".2em"/>
+        <mi>f</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>7000</mn>
+        <mn>453,592</mn>
+      </mfrac>
+      <mo>)</mo>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>M</mi>
+            <mn>2</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>M</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>M</mi>
+            <mn>4</mn>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>ms</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 45)</mtext>
+</math>

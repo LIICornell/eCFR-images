@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>EF</mi>
+    <mrow>
+      <mi>i</mi>
+      <mo>,</mo>
+      <mi>j</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mtext>Density</mtext>
+  <mspace width="2em"/>
+  <mtext>Carbon Share</mtext>
+  <mspace width="2em"/>
+  <mo>(</mo>
+  <mn>44</mn>
+  <mo>/</mo>
+  <mn>12</mn>
+  <mo>)</mo>
+  <mspace width="2em"/>
+  <mtext>(Eq. MM-6)</mtext>
+</math>

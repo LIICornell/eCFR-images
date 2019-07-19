@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>percent L </mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mi>zx</mi>
+        <mo>)</mo>
+      </mrow>
+      <mtext>Fullscale linear chart deflection</mtext>
+    </mfrac>
+  </mrow>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>)</mo>
+</math>

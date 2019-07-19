@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi style="font-style: italic">FCgj</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>c</mi>
+        <mi style="font-style: italic">FCgj</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>S</mi>
+        <mi>j</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-9)</mtext>
+</math>

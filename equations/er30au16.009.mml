@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mi>C</mi>
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>Dir</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>v</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>C</mi>
+        <mi>S</mi>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>Eq. 16C-1</mtext>
+</math>

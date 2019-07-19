@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mtext>Max. Height</mtext>
+        <mo>*</mo>
+        <mtext>Width</mtext>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>*</mo>
+    <msup>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mtext>Vegetative Density</mtext>
+          <mn>0.4</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mn>0.5</mn>
+    </msup>
+  </mrow>
+  <mo>=</mo>
+  <mtext>Frontal Silhouette Area</mtext>
+  <mspace width="4em"/>
+  <mtext>Eq. 13</mtext>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ALF</mi>
+  <mo>=</mo>
+  <mtext>Hydrogen mass percentage of fuel </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>1.008</mn>
+          <mo>&#215;</mo>
+          <mi>&#945;</mi>
+        </mrow>
+        <mrow>
+          <mn>12.01</mn>
+          <mo>+</mo>
+          <mrow>
+            <mn>1.008</mn>
+            <mo>&#215;</mo>
+            <mi>&#945;</mi>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mn>13.12</mn>
+  <mspace width=".2em"/>
+  <mi>for</mi>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>CH</mi>
+    </mrow>
+    <mn>1.8</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mi>fuel</mi>
+</math>

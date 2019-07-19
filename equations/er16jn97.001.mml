@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>NEAR</mi>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mi>N</mi>
+      </msub>
+      <msub>
+        <mi>A</mi>
+        <mi>T</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 204-2</mtext>
+</math>

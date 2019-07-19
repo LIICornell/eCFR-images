@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>j</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>M</mi>
+          <mi>oj</mi>
+        </msub>
+      </mrow>
+      <mi>T</mi>
+    </mfrac>
+  </mrow>
+</math>

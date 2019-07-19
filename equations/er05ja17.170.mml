@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi style="font-style: italic">CLF</mi>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>q</mi>
+        <mrow>
+          <mi style="font-style: italic">cyc</mi>
+          <mo>,</mo>
+          <mi style="font-style: italic">dry</mi>
+        </mrow>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi style="font-style: italic">ss</mi>
+            <mo>,</mo>
+            <mi style="font-style: italic">dry</mi>
+          </mrow>
+        </msub>
+        <mrow>
+          <mo>*</mo>
+          <msub>
+            <mi>&#916; &#964;</mi>
+            <mrow>
+              <mi>cyc</mi>
+              <mo>,</mo>
+              <mi>dry</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

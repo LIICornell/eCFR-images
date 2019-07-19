@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>Ii</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>S</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>B</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mn>2.22</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>A</mi>
+          <mi>A</mi>
+        </msub>
+        <mi>T</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 111-3</mtext>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Fuel associated with</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>Qualifying thermal energy</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Qualifying thermal energy</mtext>
+      <mtext>Efficiency constant</mtext>
+    </mfrac>
+  </mrow>
+</math>

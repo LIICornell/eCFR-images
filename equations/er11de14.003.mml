@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi style="font-style: italic">cf</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>h</mi>
+            <mi style="font-style: italic">fj</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+            <mi>N</mi>
+            <mi style="font-style: italic">fj</mi>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mi>F</mi>
+          <mi style="font-style: italic">fj</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-34)</mtext>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>i</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>100</mn>
+        <mo>&#8722;</mo>
+        <mi>P</mi>
+      </mrow>
+      <mi>P</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mi>y</mi>
+      <mi>r</mi>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+</math>

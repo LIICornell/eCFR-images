@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>B</mi>
+      <mi style="font-style: italic">kl</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>c</mi>
+        <mi style="font-style: italic">Bkl</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>S</mi>
+        <mi>l</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-10)</mtext>
+</math>

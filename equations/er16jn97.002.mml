@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>FV</mi>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>O</mi>
+        </msub>
+        <mrow>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi>I</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <msub>
+        <mi>A</mi>
+        <mi>N</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 204-3</mtext>
+</math>

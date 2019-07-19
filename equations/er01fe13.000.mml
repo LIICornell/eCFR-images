@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>10-day average</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mi style="font-style: italic">Hpvi</mi>
+      </mrow>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

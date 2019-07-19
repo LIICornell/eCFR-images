@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>C</mi>
+    <mi>d</mi>
+  </msub>
+  <msub>
+    <mi>F</mi>
+    <mi>c</mi>
+  </msub>
+  <mfrac>
+    <mn>100</mn>
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>CO</mi>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mi>d</mi>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 19-6</mtext>
+</math>

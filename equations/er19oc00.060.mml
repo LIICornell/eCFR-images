@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>H</mi>
+          <mi>j</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>Tj</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B6)</mtext>
+</math>

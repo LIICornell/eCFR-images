@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>CriticalValue</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>0.5</mn>
+      <mo>*</mo>
+      <mi>n</mi>
+      <mo>*</mo>
+      <mo>(</mo>
+      <mi>N</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo>)</mo>
+      <mo>&#8722;</mo>
+      <mn>3.0902</mn>
+      <mo>*</mo>
+    </mrow>
+  </mrow>
+  <msqrt>
+    <mi>V</mi>
+  </msqrt>
+</math>

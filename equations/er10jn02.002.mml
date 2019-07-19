@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>siap</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>hi</mi>
+        </msub>
+        <msub>
+          <mi>D</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>si</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

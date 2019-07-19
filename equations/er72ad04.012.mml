@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>MC</mi>
+    <mi>dry</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>MC</mi>
+        <mi>wet</mi>
+      </msub>
+      <mo>/</mo>
+      <mn>100</mn>
+    </mrow>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>MC</mi>
+          <mi>wet</mi>
+        </msub>
+        <mo>/</mo>
+        <mn>100</mn>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mn>100</mn>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

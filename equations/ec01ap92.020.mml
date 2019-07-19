@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mover>
+            <mi>I</mi>
+            <mo>^</mo>
+          </mover>
+          <mi>a</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>f</mi>
+        <mo>(</mo>
+        <mi>t</mi>
+        <mo>)</mo>
+        <mo>&#8722;</mo>
+        <mi>b</mi>
+      </mrow>
+      <mi>m</mi>
+    </mfrac>
+  </mrow>
+</math>

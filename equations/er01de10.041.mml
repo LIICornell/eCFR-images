@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>E</mi>
+        <mi>F</mi>
+      </mrow>
+      <mi style="font-style: italic">PVadj</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mrow>
+          <mi>E</mi>
+          <mi>C</mi>
+          <mi>F</mi>
+        </mrow>
+        <mrow>
+          <mi>U</mi>
+          <mi>T</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mrow>
+          <mi>E</mi>
+          <mi>C</mi>
+          <mi>F</mi>
+        </mrow>
+        <mi>T</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mrow>
+        <mi>E</mi>
+        <mi>F</mi>
+      </mrow>
+      <mrow>
+        <mi>P</mi>
+        <mi>V</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-23)</mtext>
+</math>

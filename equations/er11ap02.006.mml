@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Ni Operating Limit</mtext>
+      <mn>1</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>Opacity</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>mon</mi>
+            <mo>,</mo>
+            <mi>st</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>E-Cat</mi>
+        <mi>st</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 7)</mtext>
+</math>

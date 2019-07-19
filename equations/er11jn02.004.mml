@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ER</mi>
+      <msub>
+        <mi>HAP</mi>
+        <mi>t</mi>
+      </msub>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </munderover>
+      <msub>
+        <mi>ER</mi>
+        <msub>
+          <mi>HAP</mi>
+          <mi>j</mi>
+        </msub>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

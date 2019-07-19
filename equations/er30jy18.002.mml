@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(Eq. 1):</mtext>
+  <mspace width="3em"/>
+  <mrow>
+    <mfrac>
+      <mi>Q</mi>
+      <mi>A</mi>
+    </mfrac>
+    <mo>=</mo>
+    <mrow>
+      <mi>q</mi>
+      <mo>=</mo>
+      <mi>k</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <mi>h</mi>
+        <mi>t</mi>
+      </mfrac>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

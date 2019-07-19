@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CE</mi>
+      <mrow>
+        <mi>zone</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mn>100</mn>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mi>P</mi>
+    <msub>
+      <mi>voc</mi>
+      <mrow>
+        <mi>pan</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. A-5)</mtext>
+</math>

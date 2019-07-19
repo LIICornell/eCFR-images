@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mtext>Production additional section 263A costs </mtext>
+        <mo>+</mo>
+        <mtext>Residual pre-production additional section 263A costs</mtext>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mtext>Production section 471 costs </mtext>
+        <mo>+</mo>
+        <mtext>Direct materials adjustment</mtext>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>W</mi>
+    <mi>a</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>a</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>aw</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>a</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5H-3</mtext>
+</math>

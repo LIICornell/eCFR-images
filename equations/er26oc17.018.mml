@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>f</mi>
+    <mi>e</mi>
+  </msub>
+  <mtext>monthly =</mtext>
+  <mo>&#8721;</mo>
+  <mi>E</mi>
+  <mo>/</mo>
+  <mo>&#8721;</mo>
+  <mi>L</mi>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

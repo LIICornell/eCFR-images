@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CC</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>t</mi>
+    <mn>0.975</mn>
+  </msub>
+  <mfrac>
+    <msub>
+      <mi>S</mi>
+      <mi>d</mi>
+    </msub>
+    <msqrt>
+      <mi>n</mi>
+    </msqrt>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

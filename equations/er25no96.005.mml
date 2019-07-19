@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>bio</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>bio</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

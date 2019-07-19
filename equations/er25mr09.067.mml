@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>k</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>u</mi>
+      <mi>n</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>v</mi>
+      <mi>df</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-12)</mtext>
+</math>

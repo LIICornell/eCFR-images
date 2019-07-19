@@ -1,0 +1,84 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mo>$</mo>
+      <mn>500</mn>
+      <mo>&#8722;</mo>
+      <mo>$</mo>
+      <mn>100</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>15</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+      <mo>&#8722;</mo>
+      <mo>$</mo>
+      <mn>300</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>15</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+      <mo>&#8722;</mo>
+      <mo>$</mo>
+      <mn>300</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>28</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+      <mo>&#8722;</mo>
+      <mo>$</mo>
+      <mn>100</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>28</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>1,000</mn>
+      <mo>+</mo>
+      <mo>$</mo>
+      <mn>500</mn>
+      <mo>+</mo>
+      <mo>$</mo>
+      <mn>500</mn>
+      <mo>+</mo>
+      <mo>$</mo>
+      <mn>100</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>28</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+      <mo>+</mo>
+      <mo>$</mo>
+      <mn>200</mn>
+      <mspace width=".2em"/>
+      <mo>(</mo>
+      <mn>25</mn>
+      <mo>%</mo>
+      <mo>/</mo>
+      <mn>35</mn>
+      <mo>%</mo>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

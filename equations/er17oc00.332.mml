@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>100</mn>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mfrac>
+        <msub>
+          <mi>E</mi>
+          <mi>bo</mi>
+        </msub>
+        <msub>
+          <mi>E</mi>
+          <mi>bi</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+    <mspace width="4em"/>
+    <mtext>Eq. 19-12</mtext>
+  </mrow>
+</math>

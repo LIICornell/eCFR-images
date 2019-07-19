@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtext>Unit Proceeds</mtext>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mtext>Unit's Deduction at Table 2 Column D</mtext>
+          <mn>250,000</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mtext>Remaining Proceeds</mtext>
+    </mrow>
+  </mrow>
+</math>

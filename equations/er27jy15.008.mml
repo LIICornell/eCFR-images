@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>O</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mi>z</mi>
+  <mo>+</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>0.75</mn>
+      <mo>(</mo>
+      <mi>L</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mi>R</mi>
+  <mspace width="8em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

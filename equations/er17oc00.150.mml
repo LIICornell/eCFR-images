@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>c</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>4</mn>
+    </msub>
+    <msub>
+      <mi>m</mi>
+      <mi>TOC</mi>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>m</mi>
+      <mo>(</mo>
+      <mi>std</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+      <mspace width="4em"/>
+  <mtext>Eq. 5E-4</mtext>
+</math>

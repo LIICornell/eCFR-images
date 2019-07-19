@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>EGLR</mi>
+      <mi>ic</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>8</mn>
+        </mrow>
+      </msup>
+    </mrow>
+  </mrow>
+  <mi>G</mi>
+</math>

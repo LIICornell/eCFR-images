@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>$</mo>
+      <mn>100</mn>
+      <mi>x</mi>
+      <mspace width=".2em"/>
+      <mtext>gain </mtext>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mn>945</mn>
+        <mspace width=".2em"/>
+        <mtext>days in possession holding period</mtext>
+      </mrow>
+      <mrow>
+        <mn>1461</mn>
+        <mspace width=".2em"/>
+        <mtext>days in total holding period</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Response Factor (RF)</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mtext>Concentration </mtext>
+        <mi>mol</mi>
+        <mo>/</mo>
+        <mi>L</mi>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mtext>Average Area</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>AUFS</mi>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

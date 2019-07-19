@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>T</mi>
+    <mi>p</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mrow>
+          <mi>H</mi>
+          <mi>R</mi>
+        </mrow>
+        <mi>p</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mi>M</mi>
+          <mi>P</mi>
+        </mrow>
+        <mi>p</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>D</mi>
+      <mi>p</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. W-7B)</mtext>
+</math>

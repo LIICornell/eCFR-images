@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>CO</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi>CO</mi>
+        <mn>21</mn>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>m</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. NN-8)</mtext>
+</math>

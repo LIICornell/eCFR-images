@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtext>If </mtext>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>DEF</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>=</mo>
+      <mrow>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mtext> then </mtext>
+      <mspace width=".2em"/>
+        <msubsup>
+          <mi>ALPD</mi>
+          <mi>m</mi>
+          <mi>DCC</mi>
+        </msubsup>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mn>0</mn>
+  </mrow>
+</math>

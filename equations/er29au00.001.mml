@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>FRI</mi>
+  <mo>=</mo>
+  <mrow>
+    <mn>0.02</mn>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mi>HL</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mn>1,000</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

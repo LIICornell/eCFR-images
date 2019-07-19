@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>d</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>vdec</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>A</mi>
+        <mi>d</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-9</mtext>
+</math>

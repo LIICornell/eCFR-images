@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CO</mi>
+      <mrow>
+        <mn>2</mn>
+        <mi>j</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mi>k</mi>
+        </munder>
+        <msub>
+          <mi style="font-style: italic">Fuel</mi>
+          <mi>k</mi>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mrow>
+          <mi>E</mi>
+          <mi>F</mi>
+        </mrow>
+        <mi>k</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. NN-2)</mtext>
+</math>

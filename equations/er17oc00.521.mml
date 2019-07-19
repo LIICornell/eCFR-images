@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>s</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>sd</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 108-6</mtext>
+</math>

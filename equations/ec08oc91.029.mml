@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>Number of units cut</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>held for six months or less</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+            </mrow>
+            <mtext>Total units covered by the contract</mtext>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mtext>Amount of bonus </mtext>
+        </mrow>
+        <mo>=</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Amount of bonus treated</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>as ordinary income</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>subject to depletion</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mn>10,000</mn>
+            <mn>50,000</mn>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mo>$</mo>
+          <mn>5,000</mn>
+          <mrow>
+            <mo>=</mo>
+            <mo>$</mo>
+            <mn>1,000</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

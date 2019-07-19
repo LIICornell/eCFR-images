@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Weighted Average Emission Limit</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mtext>(</mtext>
+      <msub>
+        <mtext>EL</mtext>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mtext>Material</mtext>
+        <mi>i</mi>
+      </msub>
+      <mtext>)</mtext>
+    </mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mtext>Material</mtext>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq.3)</mtext>
+</math>

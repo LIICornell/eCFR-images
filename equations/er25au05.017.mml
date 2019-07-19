@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>PR</mtext>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mtext>(Inlet)</mtext>
+      <mo>&#8722;</mo>
+      <mtext>(Outlet)</mtext>
+    </mrow>
+    <mtext>(Inlet)</mtext>
+  </mfrac>
+  <mo>&#215;</mo>
+  <mn>100</mn>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

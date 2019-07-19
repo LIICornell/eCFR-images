@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>R</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mi>p</mi>
+          <mo>*</mo>
+          <mi>V</mi>
+        </mrow>
+        <mo>*</mo>
+        <mi>MW</mi>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mi>Z</mi>
+            <mo>*</mo>
+            <mi>R</mi>
+          </mrow>
+          <mo>*</mo>
+          <mi>T</mi>
+        </mrow>
+        <mo>*</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>6</mn>
+        </msup>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. L-33)</mtext>
+</math>

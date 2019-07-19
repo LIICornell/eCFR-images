@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>r</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <msub>
+            <mi>&#916;p</mi>
+            <mi>CFV</mi>
+          </msub>
+          <msub>
+            <mi>p</mi>
+            <mi>in</mi>
+          </msub>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.640-13</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

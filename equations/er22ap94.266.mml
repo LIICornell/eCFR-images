@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>G</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mn>1</mn>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mi>n</mi>
+      </mrow>
+    </munderover>
+    <msub>
+      <mi>G</mi>
+      <mi>j</mi>
+    </msub>
+  </mrow>
+</math>

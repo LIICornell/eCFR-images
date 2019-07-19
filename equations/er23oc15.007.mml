@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>(</mo>
+      <mi>Pt</mi>
+      <mo>)</mo>
+    </mrow>
+    <mi>PS</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mi>H</mi>
+    </mrow>
+    <mi>CF</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

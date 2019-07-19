@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Pa</mi>
+  <mo>=</mo>
+  <mn>101.325</mn>
+  <mo>&#8722;</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mi>T</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext><mrow>
+    <mtext>[Eq. 6]</mtext>
+  </mrow>
+  </mtext>
+</math>

@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 11: </mtext>
+  <msub>
+    <mi>T</mi>
+    <mi>SURV</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mi>m</mi>
+    <mrow>
+      <mi>s</mi>
+      <mi>e</mi>
+      <mo>(</mo>
+      <mi>m</mi>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+</math>

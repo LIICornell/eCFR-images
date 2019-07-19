@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>TOC</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>TC</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>IC</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 5E-2</mtext>
+</math>

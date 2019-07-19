@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>q</mi>
+      <mi>w</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mi style="font-style: italic">cf</mi>
+        <mi style="font-style: italic">sec</mi>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mi>Qw</mi>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mi>bbl</mi>
+              <mi>day</mi>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>5.614</mn>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mi>cf</mi>
+            <mi>bbl</mi>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+      </mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mrow>
+          <mrow>
+            <mn>24</mn>
+            <mo>&#215;</mo>
+            <mn>60</mn>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>60</mn>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi style="font-style: italic">day</mi>
+      <mi style="font-style: italic">sec</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>m</mi>
+        <mi>volatiles</mi>
+      </msub>
+      <msub>
+        <mi>D</mi>
+        <mi>avg</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>adj</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <mi style="font-style: italic">ECredits</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 20)</mtext>
+</math>

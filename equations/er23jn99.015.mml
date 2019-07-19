@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>N</mi>
+    <mi>avg</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>VP</mi>
+      <mi>T</mi>
+    </msub>
+    <mrow>
+      <mn>2</mn>
+      <mi>R</mi>
+    </mrow>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <msub>
+          <mi>T</mi>
+          <mn>1</mn>
+        </msub>
+      </mfrac>
+      <mo>+</mo>
+      <mfrac>
+        <mn>1</mn>
+        <msub>
+          <mi>T</mi>
+          <mn>2</mn>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 16)</mtext>
+</math>

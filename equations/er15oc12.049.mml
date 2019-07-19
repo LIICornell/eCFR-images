@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Credit = [</mtext>
+  <mrow>
+    <mi>Z</mi>
+    <mo>&#215;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>T</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>G</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mi>G</mi>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mtext>]</mtext>
+</math>

@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>BAVOC</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>BAE</mi>
+    <mo>*</mo>
+    <mi>CF</mi>
+    <mo>+</mo>
+    <mi>y</mi>
+    <mspace width="4em"/>
+    <mtext>(Eq. 1)</mtext>
+  </mrow>
+</math>

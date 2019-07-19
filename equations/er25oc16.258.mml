@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>e</mi>
+      <mi>NOx</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>0.3177</mn>
+        <mn>10.19</mn>
+      </mfrac>
+      <mo>=</mo>
+      <mrow>
+        <mn>0.0312</mn>
+        <mspace width=".2em"/>
+        <mi>g</mi>
+        <mo>/</mo>
+        <mi>mi</mi>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

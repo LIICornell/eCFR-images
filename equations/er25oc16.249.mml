@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>F</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>62.16</mn>
+        <mo>&#183;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>36.66</mn>
+            <mo>&#8722;</mo>
+            <mn>22.0</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mn>5.00</mn>
+    </mfrac>
+  </mrow>
+</math>

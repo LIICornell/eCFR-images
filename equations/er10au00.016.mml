@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>OD</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mi>L</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mn>1</mn>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>OD</mi>
+        <mn>1</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1-8</mtext>
+</math>

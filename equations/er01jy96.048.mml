@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Reported Result</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Measured Mass of Compound</mtext>
+      <mtext>R for that compound</mtext>
+    </mfrac>
+  </mrow>
+</math>

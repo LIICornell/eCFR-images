@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>q</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>A</mi>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>A</mi>
+            <mi>o</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>B</mi>
+        <mi>x</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(22)</mtext>
+</math>

@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Duration</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mn>1.4</mn>
+      <mo>&#183;</mo>
+      <mfrac>
+        <mrow>
+          <mtext style="font-style: italic">RatedChargeCapacity </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mi>Ah</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mtext style="font-style: italic">ChargeCurrent </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mi>A</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mn>5</mn>
+  <mi>h</mi>
+</math>

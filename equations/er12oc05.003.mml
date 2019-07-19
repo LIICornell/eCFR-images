@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mfrac>
+      <mtext>HCI-Equivalent Emission Rate Limit Adjusted</mtext>
+      <msub>
+        <mtext>HCI-Equivalent Emission Rate Limit Table</mtext>
+        <mi>i</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>&#8804;</mo>
+  <mn>1.0</mn>
+</math>

@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>W</mi>
+    <mi style="font-style: italic">water</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mn>60</mn>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>t</mi>
+        <mn>1</mn>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

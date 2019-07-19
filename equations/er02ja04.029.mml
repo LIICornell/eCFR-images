@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>DRE</mi>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>TVHC</mi>
+              <mi>inlet</mi>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>TVHC</mi>
+              <mi>outlet</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <msub>
+          <mi>TVHC</mi>
+          <mi>inlet</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

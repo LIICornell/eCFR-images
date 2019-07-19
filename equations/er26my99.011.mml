@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <msub>
+              <mi>R</mi>
+              <mi>ref</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>R</mi>
+              <mi>h</mi>
+            </msub>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <msub>
+          <mi>R</mi>
+          <mi>ref</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. B-2)</mtext>
+</math>

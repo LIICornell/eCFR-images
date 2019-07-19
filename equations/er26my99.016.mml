@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>h</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mi>h</mi>
+      </msub>
+      <msub>
+        <mi>L</mi>
+        <mi>h</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-1d)</mtext>
+</math>

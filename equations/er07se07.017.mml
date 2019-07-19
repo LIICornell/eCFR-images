@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#8721;</mo>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>C</mi>
+          </mrow>
+          <mi>difavg</mi>
+        </msub>
+      </mrow>
+      <mi>CS</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+    <mspace width="4em"/>
+    <mtext>Eq. 30A-12</mtext>
+  </mrow>
+</math>

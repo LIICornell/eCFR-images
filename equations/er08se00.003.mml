@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>R</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>R</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>+</mo>
+      <mrow>
+        <msub>
+          <mi>Sa</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>SSR</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 8)</mtext>
+</math>

@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>v</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>v</mi>
+        <mi>s</mi>
+      </msub>
+    </mrow>
+    <mi>S</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 18-9</mtext>
+</math>

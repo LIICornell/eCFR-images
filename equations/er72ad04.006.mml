@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>SW</mi>
+    <mo>%</mo>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mi>SW</mi>
+    <mi>T</mi>
+  </mfrac>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>)</mo>
+  <mspace width="2em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

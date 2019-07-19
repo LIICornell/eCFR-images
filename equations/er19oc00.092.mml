@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#955;</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mi>tan</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>F</mi>
+          <mn>5</mn>
+        </msub>
+        <msub>
+          <mi>E</mi>
+          <mn>5</mn>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mi>&#969;t</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation B69)</mtext>
+</math>

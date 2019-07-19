@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>U</mi>
+      <mi>ds</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>U</mi>
+      <mi>ref</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>F</mi>
+    <mi>g</mi>
+  </msub>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>H</mi>
+        <mn>350</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mn>1</mn>
+      <mspace width=".2em"/>
+      <mn>6</mn>
+    </mrow>
+  </msup>
+</math>

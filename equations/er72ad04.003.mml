@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PR</mi>
+  <mo>=</mo>
+  <mi>CE</mi>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>ER</mi>
+        <mi>in</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>ER</mi>
+        <mi>out</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>ER</mi>
+      <mi>in</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mn>100</mn>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mn>0.2500</mn>
+          <mn>13.8138</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mn>0.7500</mn>
+          <mn>13.2203</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>13.3638</mn>
+  <mo>,</mo>
+  <mtext> which rounds to </mtext>
+  <mrow>
+    <mn>13</mn>
+    <msup>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>MPG</mi>
+      </mrow>
+      <mn>1</mn>
+    </msup>
+  </mrow>
+</math>

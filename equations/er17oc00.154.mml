@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>m</mi>
+              <mi>n</mi>
+            </msub>
+            <mo>=</mo>
+            <msub>
+              <mi>m</mi>
+              <mi>t</mi>
+            </msub>
+          </mrow>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>m</mi>
+            <mi>b</mi>
+          </msub>
+        </mrow>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>m</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>f</mi>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>V</mi>
+      <mi>s</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>w</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mspace width=".2em"/>
+  <mtext>Eq. 5F-3</mtext>
+</math>

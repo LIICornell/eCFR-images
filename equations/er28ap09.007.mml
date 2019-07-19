@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>v</mi>
+      <mi>e</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mi>f</mi>
+      </msub>
+      <msub>
+        <mi>A</mi>
+        <mi>e</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

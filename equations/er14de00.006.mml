@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>%</mo>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>C</mi>
+      <mi>L</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>L</mi>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>t</mi>
+    </msub>
+    <mo>*</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 108-1)</mtext>
+</math>

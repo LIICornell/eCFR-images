@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>20,000</mn>
+        <mspace width=".2em"/>
+        <mtext>(net appreciation)</mtext>
+      </mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>70,000</mn>
+        <mtext> (distribution)</mtext>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>$</mo>
+      <mn>38,500</mn>
+      <mtext> (section 2056 A estate tax)</mtext>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>11,100</mn>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mrow>
+        <mi>NTE</mi>
+        <mo>,</mo>
+        <mo>min</mo>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>37</mn>
+        <mo>+</mo>
+        <mn>40</mn>
+      </mrow>
+      <mn>0.2406</mn>
+    </mfrac>
+  </mrow>
+</math>

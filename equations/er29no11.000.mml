@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>CH</mi>
+        <mn>4</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>f</mi>
+        <mi>NMOC</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>TGOC</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. FF-9)</mtext>
+</math>

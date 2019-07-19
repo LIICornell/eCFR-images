@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">EWALGD</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munder>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+      </munder>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">LGD</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi style="font-style: italic">EAD</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mrow>
+      <munder>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+      </munder>
+      <msub>
+        <mi style="font-style: italic">EAD</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

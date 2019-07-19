@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>m</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>m</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>t</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30B-3</mtext>
+</math>

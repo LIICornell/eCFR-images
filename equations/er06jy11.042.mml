@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Derived</mtext>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>F</mi>
+      <mi>E</mi>
+    </mrow>
+    <mi>alt</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>F</mi>
+        <mi>E</mi>
+      </mrow>
+      <mi>alt</mi>
+    </msub>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mrow>
+          <mn>5</mn>
+          <mspace width=".2em"/>
+          <mi>cycle</mi>
+        </mrow>
+        <mi>gw</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mi>F</mi>
+          <mi>E</mi>
+        </mrow>
+        <mi>gw</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+</math>

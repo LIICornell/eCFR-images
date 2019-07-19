@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic;">DSCD</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mi style="font-style: italic">DSE</mi>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mrow>
+      <mi>S</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>Eq. A6</mtext>
+</math>

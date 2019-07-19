@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mover>
+    <mover>
+      <mi>m</mi>
+      <mo>&#183;</mo>
+    </mover>
+    <mo>&#8212;</mo>
+  </mover>
+  <mo>=</mo>
+  <mi>M</mi>
+  <mrow>
+    <mo>&#183;</mo>
+    <mover>
+      <mi>x</mi>
+      <mo>&#8212;</mo>
+    </mover>
+  </mrow>
+  <mo>&#183;</mo>
+  <mover>
+    <mi>n</mi>
+    <mover>
+      <mo>&#183;</mo>
+      <mo>&#8212;</mo>
+    </mover>
+  </mover>
+  <mspace width="3em"/>
+  <mtext>Eq. 1065.650-12</mtext>
+</math>

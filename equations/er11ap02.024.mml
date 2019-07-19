@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>%</mo>
+      <mi>HCHO</mi>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>mL</mi>
+            <mspace width=".4em"/>
+            <mn>0.1</mn>
+            <mspace width=".4em"/>
+            <mi>N</mi>
+            <mspace width=".4em"/>
+            <mi>HC</mi>
+            <mn>1</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mtext>N of Acid</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mn>3.003</mn>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mtext>Weight of Sample</mtext>
+    </mfrac>
+  </mrow>
+</math>

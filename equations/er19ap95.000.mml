@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mn>1</mn>
+          <mi>k</mi>
+        </munderover>
+        <msub>
+          <mi>a</mi>
+          <mn>1</mn>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>(</mo>
+  <mn>1</mn>
+  <mo>+</mo>
+  <mi>b</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <mtext>indirect work factor</mtext>
+</math>

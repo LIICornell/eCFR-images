@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>SD</mi>
+        <mo>=</mo>
+    <msqrt>
+      <mfrac>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mi>i</mi>
+            <mi>n</mi>
+          </munderover>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <msub>
+                  <mi>S</mi>
+                  <mi>i</mi>
+                </msub>
+                <mo>&#8722;</mo>
+                <msub>
+                  <mi>S</mi>
+                  <mi>m</mi>
+                </msub>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>n</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+    </msqrt>
+
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-23)</mtext>
+</math>

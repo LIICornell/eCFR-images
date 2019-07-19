@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>250</mn>
+        <mspace width=".2em"/>
+        <mtext>(</mtext>
+        <mtext>desired picocuries in aliquot</mtext>
+        <mtext>)</mtext>
+      </mrow>
+      <mi>P</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 111-5</mtext>
+</math>

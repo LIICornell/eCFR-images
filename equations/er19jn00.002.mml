@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>episode</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mi>y</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mi>V</mi>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mi>P</mi>
+      <mo>)</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>MW</mi>
+          <mi>WAVG</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>RT</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>[Eq. 3]</mtext>
+</math>

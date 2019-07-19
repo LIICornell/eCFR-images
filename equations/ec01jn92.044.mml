@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>C</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>FC</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+</math>

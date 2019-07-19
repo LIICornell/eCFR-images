@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Full Transducer Ratio = </mtext>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>I</mi>
+        <mi style="font-style: italic">in</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi style="font-style: italic">out</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <msub>
+        <mi>R</mi>
+        <mi style="font-style: italic">in</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>R</mi>
+          <mi style="font-style: italic">in</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

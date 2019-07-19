@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#961;</mi>
+    <mi>o</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mi>l</mi>
+        <mi>b</mi>
+        <mi>m</mi>
+      </mrow>
+      <mrow>
+        <mi style="font-style: italic">cu</mi>
+        <mspace width=".2em"/>
+        <mi style="font-style: italic">ft</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mn>0.5</mn>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>&#961;</mi>
+          <mrow>
+            <mi>W</mi>
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo>&#43;</mo>
+        <msub>
+          <mi>&#961;</mi>
+          <mrow>
+            <mi>B</mi>
+            <mi>H</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>

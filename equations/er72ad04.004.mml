@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MP</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>ER</mi>
+      <mi>HAP</mi>
+    </msub>
+    <mrow>
+      <mi>P</mi>
+      <mo>&#215;</mo>
+      <mi>CE</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

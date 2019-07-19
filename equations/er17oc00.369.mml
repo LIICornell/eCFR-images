@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Percent Recovery</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mi>K</mi>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mi>M</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>V</mi>
+          <mi>v</mi>
+        </msub>
+        <msub>
+          <mi>P</mi>
+          <mi>t</mi>
+        </msub>
+        <msub>
+          <mi>C</mi>
+          <mi>cm</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>L</mi>
+        <mspace width=".2em"/>
+        <mi>P</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>T</mi>
+          <mi>f</mi>
+        </msub>
+        <mi>N</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 25-6</mtext>
+</math>

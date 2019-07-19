@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>*</mo>
+        <mfrac>
+          <mrow>
+            <mi>Em</mi>
+            <msub>
+              <mi>F</mi>
+              <mn>2</mn>
+            </msub>
+          </mrow>
+          <mrow>
+            <mi>Em</mi>
+            <msub>
+              <mi>F</mi>
+              <mn>1</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Y-9)</mtext>
+</math>

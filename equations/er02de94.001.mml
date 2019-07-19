@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>n</mi>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>SA</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>LSR</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>SSR</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mo>(</mo>
+  <mn>3</mn>
+  <mo>)</mo>
+</math>

@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>SD</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>=</mo>
+    <msqrt>
+      <mfrac>
+        <mrow>
+          <mo>&#8721;</mo>
+          <msub>
+            <mi>d</mi>
+            <mi>i</mi>
+          </msub>
+          <mn>2</mn>
+        </mrow>
+        <mrow>
+          <mn>2</mn>
+          <mi>n</mi>
+        </mrow>
+      </mfrac>
+    </msqrt>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 7</mtext>
+</math>

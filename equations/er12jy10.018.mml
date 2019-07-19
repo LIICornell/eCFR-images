@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>C</mi>
+        <mi>H</mi>
+      </mrow>
+      <mn>4</mn>
+    </msub>
+    <msub>
+      <mi>E</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>j</mi>
+      </munderover>
+      <msub>
+        <mrow>
+          <mi>C</mi>
+          <mi>H</mi>
+        </mrow>
+        <mn>4</mn>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>n</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. II-7)</mtext>
+</math>

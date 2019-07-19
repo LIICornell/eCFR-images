@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>B</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>S</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mi>CS</mi>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-4)</mtext>
+</math>

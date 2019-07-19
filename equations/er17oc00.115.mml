@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>a</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>a</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>V</mi>
+    <mi>aw</mi>
+  </msub>
+  <msub>
+    <mi>&#961;</mi>
+    <mi>a</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 5-5</mtext>
+</math>

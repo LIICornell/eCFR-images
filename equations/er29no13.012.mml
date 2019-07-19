@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>A</mi>
+        <mi>F</mi>
+      </mrow>
+      <mi>N</mi>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>P</mi>
+        <mrow>
+          <mi>z</mi>
+          <mo>,</mo>
+          <mi>N</mi>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mi>z</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. E-2)</mtext>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mi>t</mi>
+    </munder>
+    <mrow>
+      <msub>
+        <mi>S</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>N</mi>
+        <mi>t</mi>
+      </msub>
+      <mo>*</mo>
+      <mn>0.001</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. QQ-2)</mtext>
+</math>

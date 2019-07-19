@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RE</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>W</mi>
+      <mi>X</mi>
+    </msub>
+    <msub>
+      <mi>W</mi>
+      <mi>C</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 305-1</mtext>
+</math>

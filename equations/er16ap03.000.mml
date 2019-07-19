@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mrow>
+        <mi>THC</mi>
+        <mo>&#8722;</mo>
+        <mi>C</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>2.9</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>THC</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>20.9</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>C</mi>
+            <msub>
+              <mi>O</mi>
+              <mn>2</mn>
+            </msub>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+    <mspace width="4em"/>
+    <mtext>(Eq. 1)</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mover>
+      <mi>V</mi>
+      <mo>&#183;</mo>
+    </mover>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>0.074954</mn>
+        <mo>&#183;</mo>
+        <mn>99.654</mn>
+      </mrow>
+      <msqrt>
+        <mn>353</mn>
+        <mo>.</mo>
+        <mn>13</mn>
+      </msqrt>
+    </mfrac>
+  </mrow>
+</math>

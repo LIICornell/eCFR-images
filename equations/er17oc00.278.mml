@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msub>
+        <mi>S</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mi>N</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-1</mtext>
+</math>

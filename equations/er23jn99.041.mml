@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>EPV</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iA</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>EPV</mi>
+        <mn>1</mn>
+      </mrow>
+      <mi>iU</mi>
+    </msub>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>N</mi>
+          <mi>eff</mi>
+        </msub>
+      </mrow>
+      <mo>/</mo>
+      <mn>100</mn>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 42)</mtext>
+</math>

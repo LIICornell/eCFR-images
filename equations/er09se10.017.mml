@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>A</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mover>
+              <mi>d</mi>
+              <mo>&#8722;</mo>
+            </mover>
+            <mo>&#x2223;</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mrow>
+              <mi>C</mi>
+              <mi>C</mi>
+            </mrow>
+            <mo>&#x2223;</mo>
+          </mrow>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mover>
+        <mi>RM</mi>
+        <mo>&#8212;</mo>
+      </mover>
+    </mfrac>
+    <mi>x</mi>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation 12A-8)</mtext>
+</math>

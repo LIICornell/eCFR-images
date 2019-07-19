@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mn>0.4000</mn>
+          <mn>16.1001</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mn>0.6000</mn>
+          <mn>14.6840</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>15.2185</mn>
+  <mo>,</mo>
+  <mtext> which rounds to </mtext>
+  <mrow>
+    <mn>15</mn>
+    <msup>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>MPG</mi>
+      </mrow>
+      <mn>1</mn>
+    </msup>
+  </mrow>
+</math>

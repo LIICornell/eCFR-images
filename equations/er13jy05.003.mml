@@ -1,0 +1,13 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>PercentRPM</mtext>
+    <mn>43</mn>
+  </mfrac>
+  <mfrac>
+    <mrow>
+      <mspace width=".2em"/>
+      <mtext>PercentTorque</mtext>
+    </mrow>
+    <mn>82</mn>
+  </mfrac>
+</math>

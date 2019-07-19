@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>v</mi>
+      <mo>min</mo>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>v</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>(</mo>
+    <mn>0.5</mn>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 18)</mtext>
+</math>

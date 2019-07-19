@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>Bonus</mtext>
+            <mrow>
+              <mrow>
+                <mi>Bonus</mi>
+                <mo>+</mo>
+              </mrow>
+              <mtext>amount of expected royalties</mtext>
+            </mrow>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mtext>Basis of timber </mtext>
+        </mrow>
+        <mo>=</mo>
+        <mtext>Basis attributable to bonus</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mo>$</mo>
+              <mn>5,000</mn>
+            </mrow>
+            <mrow>
+              <mo>$</mo>
+              <mn>100,000</mn>
+            </mrow>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mo>$</mo>
+          <mn>90,000</mn>
+          <mrow>
+            <mo>=</mo>
+            <mo>$</mo>
+            <mn>4</mn>
+            <mo>,</mo>
+            <mn>500</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

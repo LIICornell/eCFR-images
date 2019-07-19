@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mrow>
+        <msub>
+          <mi>d</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>&#8594;</mo>
+        <msub>
+          <mi>d</mi>
+          <mi>last</mi>
+        </msub>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>d</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <msub>
+          <mi>d</mi>
+          <mi>last</mi>
+        </msub>
+      </munderover>
+      <msub>
+        <mi>Q</mi>
+        <mi>d</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-10</mtext>
+</math>

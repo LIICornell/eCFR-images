@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>native</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mover>
+        <mi>C</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>baseline</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-11</mtext>
+</math>

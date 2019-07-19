@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>LC</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>94.1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mn>1.886</mn>
+      <mo>)</mo>
+      <mo>(</mo>
+      <mn>3.55</mn>
+      <mo>)</mo>
+    </mrow>
+    <msqrt>
+      <mn>3</mn>
+    </msqrt>
+  </mfrac>
+  <mo>=</mo>
+  <mn>90.23</mn>
+  <mspace width="3em"/>
+  <mtext>Eq 12</mtext>
+</math>

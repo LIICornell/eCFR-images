@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>NO</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mrow>
+            <mo>[</mo>
+            <mi>NO</mi>
+            <mo>]</mo>
+          </mrow>
+          <mi>OUT</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>F</mi>
+          <mi>T</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mrow>
+          <mo>[</mo>
+          <mi>NO</mi>
+          <mo>]</mo>
+        </mrow>
+        <mi>STD</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(5)</mtext>
+</math>

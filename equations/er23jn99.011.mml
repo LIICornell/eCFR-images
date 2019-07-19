@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;&#951;</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>V</mi>
+    <mi>R</mi>
+  </mfrac>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>Pa</mi>
+          <mn>1</mn>
+        </msub>
+        <msub>
+          <mi>T</mi>
+          <mn>1</mn>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>Pa</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mi>T</mi>
+          <mn>2</mn>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 12)</mtext>
+</math>

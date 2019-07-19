@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>&#916;</mi>
+    <msub>
+      <mi>p</mi>
+      <mi>s</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mi>&#916;</mi>
+    <msub>
+      <mi>p</mi>
+      <mi>m</mi>
+    </msub>
+  </mrow>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>C</mi>
+          <mi>p</mi>
+        </msub>
+        <msubsup>
+          <mi>C</mi>
+          <mi>p</mi>
+          <mo>&#8242;</mo>
+        </msubsup>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 25)</mtext>
+</math>

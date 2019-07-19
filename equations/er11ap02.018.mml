@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Ecat-Limit</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>1.0</mn>
+          <mspace width=".4em"/>
+          <mi>mg</mi>
+          <mo>/</mo>
+          <mi>kg</mi>
+          <mspace width=".4em"/>
+          <mtext>coke burn-off</mtext>
+        </mrow>
+        <msub>
+          <mrow>
+            <mi>NiEmR</mi>
+            <mn>2</mn>
+          </mrow>
+          <mi>st</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>Ecat</mi>
+        <mi>st</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>n</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>VP</mi>
+        <mrow>
+          <msub>
+          <mi>nc</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+      </msub>
+      <mi>RT</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 20)</mtext>
+</math>

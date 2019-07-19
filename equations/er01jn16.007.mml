@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>A</mi>
+      <mi>E</mi>
+      <mi>C</mi>
+    </mrow>
+    <mi>T</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mi>m</mi>
+    </munder>
+    <mrow>
+      <mi>A</mi>
+      <mi>E</mi>
+      <msub>
+        <mi>C</mi>
+        <mi>m</mi>
+      </msub>
+    </mrow>
+  </mrow>
+</math>

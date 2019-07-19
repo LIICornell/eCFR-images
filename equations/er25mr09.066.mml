@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>TI</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>k</mi>
+      <mi>T</mi>
+    </msub>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>L</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11-11)</mtext>
+</math>

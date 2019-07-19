@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>EBEP</mi>
+      <mi>C</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mn>1,000</mn>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>HAP</mi>
+      <mrow>
+        <mo>lim</mo>
+        <mspace width=".2em"/>
+        <mi>it</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>month</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>[Eq. 37]</mtext>
+</math>

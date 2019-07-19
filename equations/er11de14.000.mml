@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>C</mi>
+      <mi>O</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mi>e</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <msub>
+        <mi>GHG</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>GWP</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. A-1)</mtext>
+</math>

@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>L</mi>
+        <mi>full</mi>
+      </msub>
+      <mo>=</mo>
+      <mfrac>
+        <mi>MotorHP</mi>
+        <mrow>
+          <mo>[</mo>
+          <mfrac bevelled="true">
+            <mrow>
+              <msub>
+                <mi>&#951;</mi>
+                <mrow>
+                  <mi>motor</mi>
+                  <mo>,</mo>
+                  <mi>full</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mn>100</mn>
+          </mfrac>
+          <mo>]</mo>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mi>MotorHP</mi>
+  </mrow>
+</math>

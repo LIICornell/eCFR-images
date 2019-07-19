@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>H</mi>
+    <mn>2</mn>
+  </msub>
+  <mi>O</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>O</mi>
+            <mrow>
+              <mn>2</mn>
+              <mi>d</mi>
+            </mrow>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>O</mi>
+            <mrow>
+              <mn>2</mn>
+              <mi>w</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <msub>
+        <mi>O</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>d</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. F-31)</mtext>
+</math>

@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>T</mi>
+  <mi>W</mi>
+  <mi>C</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn>12</mn>
+      </munderover>
+      <msub>
+        <mrow>
+          <mi>W</mi>
+          <mi>C</mi>
+        </mrow>
+        <mrow>
+          <mi>p</mi>
+          <mo>,</mo>
+          <mi>n</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. EE-3)</mtext>
+</math>

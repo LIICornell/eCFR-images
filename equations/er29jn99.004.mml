@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>o</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>K</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>C</mi>
+        <mi>oj</mi>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mi>oj</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>o</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>[Eq. 5]</mtext>
+</math>

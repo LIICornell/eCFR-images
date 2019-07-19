@@ -1,0 +1,16 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Limiting multiplier</mtext>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mn>600</mn>
+    </mfrac>
+  </mrow>
+  <mo>*</mo>
+  <mtext>test duration </mtext>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mn>4</mn>
+  </mrow>
+</math>

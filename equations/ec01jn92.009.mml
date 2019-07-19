@@ -1,0 +1,72 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>K</mi>
+        <mo>=</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Constant,</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mn>1.740</mn>
+              <mo>&#215;</mo>
+              <msup>
+                <mn>10</mn>
+                <mrow>
+                  <mo>&#8722;</mo>
+                  <mn>7</mn>
+                </mrow>
+              </msup>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mn>1</mn>
+            <mi>ppm</mi>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mtext>g mole</mtext>
+            <mi>scm</mi>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mi>MJ</mi>
+            <mi>kcal</mi>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where the standard temperature for</mtext>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mtext>g mole</mtext>
+            <mi>scm</mi>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mspace width=".2em"/>
+        <mtext>is 20&#176;C;</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>E</mi>
+      <mi>D</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi>R</mi>
+          <mi>E</mi>
+        </mrow>
+        <mi>D</mi>
+      </msub>
+      <mo>*</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <mi>D</mi>
+          <mi>E</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-31)</mtext>
+</math>

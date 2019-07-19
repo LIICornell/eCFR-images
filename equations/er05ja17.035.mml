@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>H</mi>
+  <mi>L</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>q</mi>
+      <mi style="font-style: italic">cyc</mi>
+    </msub>
+    <mrow>
+      <msubsup>
+        <mover>
+          <mi>Q</mi>
+          <mo>&#183;</mo>
+        </mover>
+        <mi>h</mi>
+        <mi>k</mi>
+      </msubsup>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>T</mi>
+          <mi style="font-style: italic">cyc</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mi>&#916;</mi>
+      <msub>
+        <mi>&#964;</mi>
+        <mi style="font-style: italic">cyc</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

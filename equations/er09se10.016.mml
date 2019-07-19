@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mi>C</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>t</mi>
+    <mn>0.975</mn>
+  </msub>
+  <mfrac>
+    <msub>
+      <mi>S</mi>
+      <mi>d</mi>
+    </msub>
+    <msqrt>
+      <mi>n</mi>
+    </msqrt>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation 12A-7)</mtext>
+</math>

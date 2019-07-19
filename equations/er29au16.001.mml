@@ -1,0 +1,55 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>NMOC</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>2</mn>
+  <msub>
+    <mi>L</mi>
+    <mi>O</mi>
+  </msub>
+  <mi>R</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>(</mo>
+    <msup>
+      <mi>e</mi>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mi>kc</mi>
+      </mrow>
+    </msup>
+    <mo>&#8722;</mo>
+    <msup>
+      <mi>e</mi>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mi>kt</mi>
+      </mrow>
+    </msup>
+    <mo>)</mo>
+    <mspace width=".2em"/>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>NMOC</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>3.6</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>9</mn>
+        </mrow>
+      </msup>
+    </mrow>
+    <mo>)</mo>
+    <mspace width="8em"/>
+    <mtext>(Eq. 2)</mtext>
+  </mrow>
+</math>

@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mn>100</mn>
+      <mrow>
+        <mi>ATE</mi>
+        <mi>mix</mi>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mrow>
+      <munder>
+        <mo>&#8721;</mo>
+        <mi>n</mi>
+      </munder>
+      <mfrac>
+        <mi>Ci</mi>
+        <msub>
+          <mi>ATE</mi>
+          <mi>i</mi>
+        </msub>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

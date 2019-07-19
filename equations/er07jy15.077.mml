@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>d</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>=</mo>
+      <msub>
+        <mi style="font-style: italic;">RM</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi style="font-style: italic;">MN</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. 9</mtext>
+</math>

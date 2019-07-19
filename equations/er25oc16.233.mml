@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>RMC</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>2</mn>
+        <mrow>
+          <mn>17.86</mn>
+          <mo>+</mo>
+          <mn>2</mn>
+        </mrow>
+      </mfrac>
+      <mo>=</mo>
+      <mn>0.10</mn>
+    </mrow>
+  </mrow>
+</math>

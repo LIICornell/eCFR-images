@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>e</mi>
+            <mi>NMOGh</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mi>NMHCh</mi>
+            </msub>
+            <mo>&#183;</mo>
+            <mn>1.03</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.635-2</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

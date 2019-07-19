@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>I</mi>
+            <mi>Bi</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>I</mi>
+            <mi>Ei</mi>
+          </msub>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <msub>
+            <mi>A</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>D</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. I-11)</mtext>
+</math>

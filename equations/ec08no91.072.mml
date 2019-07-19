@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <mi>H</mi>
+  <mo>=</mo>
+  <mi>K</mi>
+  <mspace width=".2em"/>
+  <mi>&#916;</mi>
+  <mi>p</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width="4em"/>
+    <mspace width="4em"/>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mi>in</mi>
+  <mo>.</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>H</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mi>O</mi>
+</math>

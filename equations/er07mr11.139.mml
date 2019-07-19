@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>L</mi>
+        <mi>C</mi>
+        <mi>L</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mi>E</mi>
+      <mi>E</mi>
+      <mi>S</mi>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mrow>
+        <mi>t</mi>
+        <mi>s</mi>
+      </mrow>
+      <msub>
+        <mi>x</mi>
+        <mn>2</mn>
+      </msub>
+    </msub>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>[9]</mtext>
+</math>

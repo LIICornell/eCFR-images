@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>R</mi>
+      <mi>A</mi>
+      <mi>A</mi>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mover>
+          <mrow>
+            <mi>P</mi>
+            <mi>E</mi>
+            <mi>M</mi>
+            <mi>S</mi>
+          </mrow>
+          <mo>&#8212;</mo>
+        </mover>
+        <mo>&#8722;</mo>
+        <mover>
+          <mrow>
+            <mi>R</mi>
+            <mi>M</mi>
+          </mrow>
+          <mo>&#8212;</mo>
+        </mover>
+      </mrow>
+      <mover>
+        <mrow>
+          <mi>R</mi>
+          <mi>M</mi>
+        </mrow>
+        <mo>&#8212;</mo>
+      </mover>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mi>x</mi>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-9</mtext>
+</math>

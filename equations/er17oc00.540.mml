@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>b</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>L</mi>
+      <mi>s</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>N</mi>
+        <mo>&#215;</mo>
+        <mn>0.06</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mspace width="4em"/>
+    <mtext>Eq. 303-6</mtext>
+  </mrow>
+</math>

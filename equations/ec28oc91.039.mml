@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mover>
+        <mi>X</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>VE</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mi>n</mi>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msub>
+        <mi>VE</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4)</mtext>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mi>A</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mover>
+          <mi>d</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mo>&#43;</mo>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mi>cc</mi>
+        <mo>&#x2223;</mo>
+      </mrow>
+    </mrow>
+    <mover>
+      <mrow>
+        <mi>R</mi>
+        <mi>M</mi>
+      </mrow>
+      <mo>&#8212;</mo>
+    </mover>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 16-4</mtext>
+</math>

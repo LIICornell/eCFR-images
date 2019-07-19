@@ -1,0 +1,68 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>Percent</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>O</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+        <mi>I</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mi>B</mi>
+            <mo>&#8722;</mo>
+            <mtext>Analyzer response </mtext>
+            <mrow>
+              <mo>(</mo>
+              <mi>ppmC</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>B</mi>
+        </mfrac>
+        <mo>(</mo>
+        <mn>100</mn>
+        <mo>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Analyzer response </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mi>A</mi>
+              <mrow>
+                <mo>%</mo>
+                <mspace width=".2em"/>
+                <mtext>of full-scale analyzer response due to A</mtext>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mo>%</mo>
+            <mspace width=".2em"/>
+            <mtext>of full-scale analyzer response due to B</mtext>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

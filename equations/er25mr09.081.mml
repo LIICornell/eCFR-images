@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>T</mi>
+      <mi>I</mi>
+      <mo>%</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mi>T</mi>
+          <mi>I</mi>
+        </mrow>
+        <mrow>
+          <mi>E</mi>
+          <mi>L</mi>
+        </mrow>
+      </mfrac>
+      <mo>&#183;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 11-32)</mtext>
+</math>

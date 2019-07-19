@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mn>30</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>48</mn>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mn>8</mn>
+            <mi>n</mi>
+          </mrow>
+          <mi>f</mi>
+        </msub>
+        <mo>+</mo>
+        <mn>63</mn>
+        <mspace width=".2em"/>
+        <msub>
+          <mrow>
+            <mn>0</mn>
+            <mi>n</mi>
+          </mrow>
+          <mi style="font-style: italic">af</mi>
+        </msub>
+        <mo>+</mo>
+        <mn>80</mn>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mn>0</mn>
+            <mi>n</mi>
+          </mrow>
+          <mi>a</mi>
+        </msub>
+      </mrow>
+      <mn>30</mn>
+    </mfrac>
+  </mrow>
+</math>

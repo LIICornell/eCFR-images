@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>d</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>R</mi>
+      <mrow>
+        <mo>min</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mo>&#8722;</mo>
+  <msub>
+    <mi>R</mi>
+    <mrow>
+      <mo>max</mo>
+      <mi>i</mi>
+    </mrow>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>(Eq. 301-1)</mtext>
+</math>

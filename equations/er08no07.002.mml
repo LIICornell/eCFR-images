@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mspace width=".2em"/>
+      <mtext>Total FLP debt</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>33</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mspace width=".2em"/>
+    <mspace width="8em"/>
+  </mfrac>
+</math>

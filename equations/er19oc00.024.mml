@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mi>&#948;</mi>
+      <mo>=</mo>
+      <mi>&#952;</mi>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <msub>
+        <mi>A</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>A</mi>
+        <mn>2</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>A</mi>
+        <mn>3</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>A</mi>
+        <mn>4</mn>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>XA</mi>
+        <mn>5</mn>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width=".2em"/>
+  <mtext>(radians)</mtext>
+  <mspace width="4em"/>
+  <mtext>(Equation A17)</mtext>
+</math>

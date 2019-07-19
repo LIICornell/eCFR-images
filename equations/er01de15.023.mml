@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext style="font-style: italic">Opacity</mtext>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>1.0</mn>
+        <mspace width=".4em"/>
+        <mi>mg</mi>
+        <mo>/</mo>
+        <mi>kg</mi>
+        <mspace width=".4em"/>
+        <mtext>coke</mtext>
+      </mrow>
+      <msub>
+        <mrow>
+          <mi style="font-style: italic">NiEmR</mi>
+          <mn>2</mn>
+        </mrow>
+        <mrow>
+          <mi>s</mi>
+          <mi>t</mi>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <msub>
+      <mtext style="font-style: italic">Opacity</mtext>
+      <mi>st</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 9)</mtext>
+</math>

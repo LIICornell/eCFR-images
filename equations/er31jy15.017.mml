@@ -1,0 +1,67 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: normal">W</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi style="font-style: normal">i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi style="font-style: normal">n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>AH</mi>
+          <mrow>
+            <mi style="font-style: normal">&#921;</mi>
+            <mo>,</mo>
+            <mi style="font-style: normal">i</mi>
+          </mrow>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi style="font-style: normal">X</mi>
+          <mrow>
+            <mi>&#921;</mi>
+            <mo>,</mo>
+            <mi style="font-style: normal">i</mi>
+          </mrow>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>AH</mi>
+          <mrow>
+            <mi style="font-style: normal">O</mi>
+            <mo>,</mo>
+            <mi style="font-style: normal">i</mi>
+          </mrow>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>X</mi>
+          <mrow>
+            <mi style="font-style: normal">O</mi>
+            <mo>,</mo>
+            <mi style="font-style: normal">i</mi>
+          </mrow>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>&#215;</mo>
+  <mfrac>
+    <mi>t</mi>
+    <mn>60</mn>
+  </mfrac>
+</math>

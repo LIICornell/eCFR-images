@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>percent efficiency </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mfrac>
+            <mrow>
+              <mi>a</mi>
+              <mo>&#8722;</mo>
+              <mi>b</mi>
+            </mrow>
+            <mrow>
+              <mi>c</mi>
+              <mo>&#8722;</mo>
+              <mi>d</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

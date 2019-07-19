@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>L</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>=</mo>
+    <mn>10</mn>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>log</mi>
+      <mn>10</mn>
+    </msub>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>T</mi>
+  </mfrac>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi>AEi</mi>
+        </msub>
+        <mo>/</mo>
+        <mn>10</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(2)</mtext>
+</math>

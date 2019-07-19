@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>RA</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>R</mi>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mi>S</mi>
+        </msub>
+        <msub>
+          <mi>P</mi>
+          <mi>S</mi>
+        </msub>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>RSA</mi>
+          </mrow>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>S</mi>
+        </msub>
+        <msub>
+          <mi>L</mi>
+          <mi>R</mi>
+        </msub>
+        <msub>
+          <mi>P</mi>
+          <mi>R</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>ISC</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(I.1)</mtext>
+</math>
