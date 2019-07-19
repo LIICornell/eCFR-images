@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>O</mi>
+    <mi>pc</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>O</mi>
+        <mi>P</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>Cos</mi>
+      <mspace width="0.5em"/>
+      <mo>(</mo>
+      <mi>&#960;</mi>
+      <mo>/</mo>
+      <mn>2</mn>
+      <mo>&#8722;</mo>
+      <mi>&#949;</mi>
+      <mo>)</mo>
+    </mrow>
+  </msup>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <msup>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>O</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>Sin</mi>
+      <mspace width="0.2em"/>
+      <mi>&#949;</mi>
+    </mrow>
+  </msup>
+  <mspace width="2em"/>
+  <mtext>(AM1-8)</mtext>
+</math>

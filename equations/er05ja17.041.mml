@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi style="font-style: italic">def</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>+</mo>
+  <mrow>
+    <mrow>
+      <mn>0.03</mn>
+    </mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>&#916;&#964;</mi>
+              <mi style="font-style: italic">def</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <mn>1.5</mn>
+          </mrow>
+          <mrow>
+            <msub>
+              <mi>&#916;&#964;</mi>
+              <mo>max</mo>
+            </msub>
+            <mo>&#8722;</mo>
+            <mn>1.5</mn>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

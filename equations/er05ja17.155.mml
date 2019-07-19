@@ -1,0 +1,98 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 3-1</mtext>
+  <mspace width="4em"/>
+  <msub>
+    <mover>
+      <mover>
+        <mi>V</mi>
+        <mo>&#183;</mo>
+      </mover>
+      <mo>&#8212;</mo>
+    </mover>
+    <mi>S</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mover>
+        <msub>
+          <mover>
+            <mi>V</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi style="font-style: italic">mx</mi>
+        </msub>
+        <mo>&#8212;</mo>
+      </mover>
+      <mrow>
+        <mn>0.075</mn>
+        <mrow>
+          <mfrac>
+            <msub>
+              <mi style="font-style: italic">lbm</mi>
+              <mi style="font-style: italic">da</mi>
+            </msub>
+            <msup>
+              <mi>ft</mi>
+              <mn>3</mn>
+            </msup>
+          </mfrac>
+          <mo>*</mo>
+          <mrow>
+            <msubsup>
+              <mi>v</mi>
+              <mi>n</mi>
+              <mo>&#8242;</mo>
+            </msubsup>
+            <mo>*</mo>
+            <mrow>
+              <mo>[</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <msub>
+                  <mi>W</mi>
+                  <mi>n</mi>
+                </msub>
+              </mrow>
+              <mo>]</mo>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mover>
+        <msub>
+          <mover>
+            <mi>V</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi>mx</mi>
+        </msub>
+        <mo>&#8212;</mo>
+      </mover>
+      <mrow>
+        <mn>0.075</mn>
+        <mrow>
+          <mfrac>
+            <msub>
+              <mi style="font-style: italic">lbm</mi>
+              <mi style="font-style: italic">da</mi>
+            </msub>
+            <msup>
+              <mi style="font-style: italic">ft</mi>
+              <mn>3</mn>
+            </msup>
+          </mfrac>
+          <mo>*</mo>
+          <msub>
+            <mi>v</mi>
+            <mi>n</mi>
+          </msub>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

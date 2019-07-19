@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>O</mi>
+    <mi>p</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mo>)</mo>
+  <mo>[</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>I</mi>
+          <mi>f</mi>
+        </msub>
+        <msub>
+          <mi>R</mi>
+          <mi>f</mi>
+        </msub>
+      </mfrac>
+      <mspace width=".2em"/>
+      <mfrac>
+        <msub>
+          <mi>R</mi>
+          <mi>n</mi>
+        </msub>
+        <msub>
+          <mi>I</mi>
+          <mi>n</mi>
+        </msub>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mfrac bevelled="true">
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+  </msup>
+  <mo>]</mo>
+  <mo>,</mo>
+  <mspace width="10em"/>
+  <mtext>(AMI-2)</mtext>
+</math>
