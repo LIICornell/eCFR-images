@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>I</mi>
+    <mi>n</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>ch</mi>
+  </mfrac>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>m</mi>
+    </munderover>
+    <msub>
+      <mi>I</mi>
+      <mi>ni</mi>
+    </msub>
+  </mrow>
+  <mo>,</mo>
+  <mspace width="3em"/>
+  <mtext>(AMI-3)</mtext>
+</math>

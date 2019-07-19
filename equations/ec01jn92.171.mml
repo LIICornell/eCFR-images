@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>O</mi>
+    <mi>pc</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mo>)</mo>
+  <mo>[</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mn>0.01</mn>
+      <msub>
+        <mi>O</mi>
+        <mi>p</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mi>Cos&#946;</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+  </msup>
+  <mi>p</mi>
+  <mo>]</mo>
+  <mo>,</mo>
+  <mspace width="5em"/>
+  <mtext>(AMI-14)</mtext>
+</math>

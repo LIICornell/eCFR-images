@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#949;</mi>
+  <mo>=</mo>
+  <msup>
+    <mi>Cos</mi>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <msubsup>
+        <mi>R</mi>
+        <mi>p</mi>
+        <mn>2</mn>
+      </msubsup>
+      <mo>+</mo>
+      <msubsup>
+        <mi>R</mi>
+        <mi>&#948;</mi>
+        <mn>2</mn>
+      </msubsup>
+      <mo>&#8722;</mo>
+      <msubsup>
+        <mi>R</mi>
+        <mi>s</mi>
+        <mrow>
+          <mo>&quot;</mo>
+          <mspace width=".2em"/>
+          <mn>2</mn>
+        </mrow>
+      </msubsup>
+    </mrow>
+    <mrow>
+      <mn>2</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>R</mi>
+        <mi>p</mi>
+      </msub>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>R</mi>
+        <mi>&#948;</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="5em"/>
+  <mtext>(AM1-12)</mtext>
+</math>

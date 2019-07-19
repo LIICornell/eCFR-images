@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>O</mi>
+    <mi>pa</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>O</mi>
+    <mi>pc</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mo>[</mo>
+  <mn>2</mn>
+  <msub>
+    <mi>S</mi>
+    <mi>o</mi>
+  </msub>
+  <mo>+</mo>
+  <mn>5</mn>
+  <mo>%</mo>
+  <mo>]</mo>
+  <mo>.</mo>
+  <mspace width="2em"/>
+  <mtext>(AMI-15)</mtext>
+</math>
