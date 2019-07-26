@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 3.5-3.</mtext>
+  <mspace width="4em"/>
+  <mfrac>
+    <mrow>
+      <mn>1385</mn>
+      <mspace width=".2em"/>
+      <mi style="font-style: italic">Btu</mi>
+      <mo>/</mo>
+      <mi>h</mi>
+    </mrow>
+    <mrow>
+      <mn>1000</mn>
+      <mspace width=".2em"/>
+      <mi style="font-style: italic">scfm</mi>
+    </mrow>
+  </mfrac>
+  <mrow>
+    <mo>*</mo>
+    <msub>
+      <mover>
+        <mover>
+          <mi>V</mi>
+          <mo>&#183;</mo>
+        </mover>
+        <mo>&#8212;</mo>
+      </mover>
+      <mi>s</mi>
+    </msub>
+  </mrow>
+  <mo>*</mo>
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mi>&#964;</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>&#964;</mi>
+      <mn>1</mn>
+    </msub>
+  </mrow>
+  <mo>]</mo>
+</math>
