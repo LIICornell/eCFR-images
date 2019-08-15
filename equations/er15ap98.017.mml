@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mi>tot</mi>
+      </msub>
+      <msub>
+        <mi>Q</mi>
+        <mi>sd</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>m</mi>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>Equation 308-3</mtext>
+</math>

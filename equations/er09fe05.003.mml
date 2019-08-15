@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>HCI</mi>
+      <mo>,</mo>
+      <mn>3</mn>
+      <mo>%</mo>
+      <msub>
+        <mi>O</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>17.9</mn>
+        <mo>%</mo>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mn>20.9</mn>
+          <mo>%</mo>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mo>%</mo>
+        <msub>
+          <mi>O</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>HCI</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

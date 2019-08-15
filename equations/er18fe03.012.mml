@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>ER</mi>
+    <mi>SCCU</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>THC</mi>
+        <mi>meas</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mi>BLS</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11)</mtext>
+</math>

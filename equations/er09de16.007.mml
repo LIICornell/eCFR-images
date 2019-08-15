@@ -1,0 +1,90 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CF</mi>
+    <mi style="font-style: italic">avg</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>F</mi>
+            <mrow>
+              <mi>g</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>*</mo>
+          <mfrac>
+            <msub>
+              <mi style="font-style: italic">MW</mi>
+              <mi>i</mi>
+            </msub>
+            <mi style="font-style: italic">MVC</mi>
+          </mfrac>
+          <mo>*</mo>
+          <msub>
+            <mi>C</mi>
+            <mrow>
+              <mi>gf</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>*</mo>
+          <mn>0.001</mn>
+          <mo>+</mo>
+          <msub>
+            <mi>F</mi>
+            <mrow>
+              <mi>l</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>*</mo>
+          <msub>
+            <mi>C</mi>
+            <mrow>
+              <mi>lf</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>*</mo>
+          <mn>0.001</mn>
+          <mo>+</mo>
+          <msub>
+            <mi>F</mi>
+            <mrow>
+              <mi>s</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>*</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>sf</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi style="font-style: italic">Fuel</mi>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. Q-12)</mtext>
+</math>

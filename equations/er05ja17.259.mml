@@ -1,0 +1,81 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 4.2.3-3</mtext>
+  <mspace width="2em"/>
+  <mi>&#948;</mi>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>T</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mo>{</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mi>if</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>T</mi>
+          </mrow>
+          <mi>j</mi>
+        </msub>
+        <mo>&#8804;</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>off</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mn>1</mn>
+        <mo>/</mo>
+        <mn>2</mn>
+        <mo>,</mo>
+        <mi>if</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>T</mi>
+          <mi>off</mi>
+        </msub>
+        <mo>&lt;</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mo>&#8804;</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>on</mi>
+        </msub>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mi>if</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>T</mi>
+          </mrow>
+          <mi>j</mi>
+        </msub>
+        <mo>&gt;</mo>
+        <msub>
+          <mi>T</mi>
+          <mi>on</mi>
+        </msub>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

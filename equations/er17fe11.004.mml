@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>OLR</mi>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>test</mi>
+    </msub>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>EL</mi>
+        <mo>/</mo>
+        <mi>CT</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq 2)</mtext>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>ER</mi>
+    <mi>SDT</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mi>F</mi>
+  <mn>1</mn>
+  <mo>)</mo>
+  <mo>(</mo>
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>EL</mi>
+      <mo>,</mo>
+      <mi>SDT</mi>
+    </mrow>
+  </msub>
+  <mo>)</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi>SDT</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mi>BLS</mi>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

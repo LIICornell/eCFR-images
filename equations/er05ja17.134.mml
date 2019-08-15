@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mtable>
     <mtr>
       <mtd>
-        <mtext>Calculate </mtext>
+        <mtext>Calculate</mtext>
+        <mspace width=".2em"/>
         <mfrac>
           <mrow>
             <mi>R</mi>
@@ -18,7 +20,8 @@
           </mrow>
           <mi>N</mi>
         </mfrac>
-        <mtext>and using Eq. 4.2.3-2. Evaluate </mtext>
+        <mspace width=".2em"/>
+        <mtext>and using Eq. 4.2.3-2. Evaluate</mtext>
         <mfrac>
           <mrow>
             <msub>
@@ -85,7 +88,7 @@
                   <msubsup>
                     <mover>
                       <mi>E</mi>
-                      <mo>&#183;</mo>
+                      <mo>&#xb7;</mo>
                     </mover>
                     <mi>h</mi>
                     <mrow>
@@ -105,7 +108,7 @@
                 </mrow>
                 <mo>*</mo>
                 <msup>
-                  <mi>&#948;</mi>
+                  <mi>&#x3b4;</mi>
                   <mo>&#8242;</mo>
                 </msup>
                 <mrow>

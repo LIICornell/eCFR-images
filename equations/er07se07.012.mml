@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>DF</mi>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>C</mi>
+                <mi>ss</mi>
+              </msub>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>C</mi>
+                <mi>native</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>native</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>spike</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-7</mtext>
+</math>

@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>G</mi>
+    <mi>a</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+        <mrow>
+          <msub>
+            <mrow>
+              <mo>(</mo>
+              <mi>VOC</mi>
+              <mo>)</mo>
+            </mrow>
+            <mi>mi</mi>
+          </msub>
+        </mrow>
+      <msub>
+        <mi>V</mi>
+        <mi>mi</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mn>1</mn>
+        <mi>wes</mi>
+      </mrow>
+    </msub>
+  </mfrac>
+  <mspace width="5em"/>
+  <mtext>Eq. 23</mtext>
+</math>

@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>P</mi>
+  <mo>=</mo>
+  <mo>{</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mover>
+        <mi>D</mi>
+        <mo>&#8212;</mo>
+      </mover>
+      <mrow>
+        <mo>&#8722;</mo>
+        <msub>
+          <mover>
+            <mi>D</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mi>b</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+
+          <mover>
+            <mi>U</mi>
+            <mo>&#8212;</mo>
+          </mover>
+
+        <mo>&#8722;</mo>
+        <msub>
+          <mover>
+            <mi>U</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mi>b</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>}</mo>
+  <mo>/</mo>
+  <msub>
+    <mi>P</mi>
+    <mn>100</mn>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Eq.319-3)</mtext>
+</math>

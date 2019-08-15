@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ECB</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>BECON</mi>
+        <mrow>
+          <mi>m</mi>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+      <mn>1</mn>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>ECOS</mi>
+        <mrow>
+          <mi>m</mi>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mo>&#8230;</mo>
+  <mo>+</mo>
+  <mrow>
+    <msub>
+      <mi>BECON</mi>
+      <mi>mi</mi>
+    </msub>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>ECOS</mi>
+      <mi>mi</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation 502.2. b)</mtext>
+</math>

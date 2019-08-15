@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>P</mi>
+      <mspace width=".2em"/>
+      <mi style="font-style: italic">Mpp</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>Q</mi>
+          <mi>sd</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>b</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mi>K</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Equation 3)</mtext>
+</math>

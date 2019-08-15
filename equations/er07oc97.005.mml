@@ -1,0 +1,98 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>R</mi>
+          <mi>e</mi>
+        </msub>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>5</mn>
+                <mspace width=".2em"/>
+                <mi>&#956;g</mi>
+                <mo>/</mo>
+                <msup>
+                  <mi>ft</mi>
+                  <mn>3</mn>
+                </msup>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>250</mn>
+                <mspace width=".2em"/>
+                <mi>ft</mi>
+                <mo>/</mo>
+                <mo>min</mo>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mn>17,400</mn>
+              <mspace width=".2em"/>
+              <msup>
+                <mi>ft</mi>
+                <mn>2</mn>
+              </msup>
+              <mo>)</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>2.2</mn>
+                  <mo>&#215;</mo>
+                  <msup>
+                    <mn>10</mn>
+                    <mrow>
+                      <mo>&#8722;</mo>
+                      <mn>9</mn>
+                    </mrow>
+                  </msup>
+                  <mspace width=".2em"/>
+                  <mi>lb</mi>
+                  <mo>/</mo>
+                  <mi>&#956;g</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>0.116</mn>
+              <mspace width=".2em"/>
+              <mi>ton</mi>
+              <mo>/</mo>
+              <mo>min</mo>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mfrac>
+        <mspace width="4em"/>
+        <mtext>Eq. 14A-6</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>R</mi>
+          <mi>e</mi>
+        </msub>
+        <mo>=</mo>
+        <mn>0.41</mn>
+        <mspace width=".2em"/>
+        <mtext>lb/ton of aluminum produced</mtext>
+        <mspace width="4em"/>
+        <mtext>Eq. 14A-7</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

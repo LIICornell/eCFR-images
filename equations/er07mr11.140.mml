@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>LCL</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mi>EES</mi>
+  <mo>&#8722;</mo>
+  <msub>
+    <mi>ts</mi>
+    <msub>
+      <mi>x</mi>
+      <mn>1</mn>
+    </msub>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>and</mtext>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>UCL</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mi>ECS</mi>
+    <mo>+</mo>
+    <msub>
+      <mi>ts</mi>
+      <msub>
+        <mi>x</mi>
+        <mn>1</mn>
+      </msub>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[10]</mtext>
+</math>

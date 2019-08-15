@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>A</mi>
+    <mi>drem</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mn>4</mn>
+  </mfrac>
+  <mi>&#960;</mi>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>r</mi>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>d</mi>
+          <mi>last</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mn>3</mn>
+      <mn>16</mn>
+    </mfrac>
+  </mrow>
+  <mi>&#960;</mi>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mi>r</mi>
+      <mo>)</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-12</mtext>
+</math>

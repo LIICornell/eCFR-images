@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mtable>
     <mtr>
@@ -17,7 +18,7 @@
                     <msubsup>
                       <mover>
                         <mi>Q</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -31,11 +32,11 @@
                       <mn>82</mn>
                       <mo>)</mo>
                     </mrow>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msubsup>
                       <mover>
                         <mi>Q</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -52,7 +53,7 @@
                   </mrow>
                   <mrow>
                     <mn>82</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <mn>67</mn>
                   </mrow>
                 </mfrac>
@@ -61,7 +62,7 @@
                   <mo>(</mo>
                   <mrow>
                     <mn>1</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msub>
                       <mi>N</mi>
                       <mi>Q</mi>
@@ -86,7 +87,7 @@
                     <msubsup>
                       <mover>
                         <mi>Q</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -100,11 +101,11 @@
                       <mn>95</mn>
                       <mo>)</mo>
                     </mrow>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msubsup>
                       <mover>
                         <mi>Q</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -121,7 +122,7 @@
                   </mrow>
                   <mrow>
                     <mn>95</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <mn>82</mn>
                   </mrow>
                 </mfrac>
@@ -149,7 +150,7 @@
                     <msubsup>
                       <mover>
                         <mi>E</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -161,11 +162,11 @@
                     <mo>(</mo>
                     <mn>82</mn>
                     <mo>)</mo>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msubsup>
                       <mover>
                         <mi>E</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -182,7 +183,7 @@
                   </mrow>
                   <mrow>
                     <mn>82</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <mn>67</mn>
                   </mrow>
                 </mfrac>
@@ -191,7 +192,7 @@
                   <mo>(</mo>
                   <mrow>
                     <mn>1</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msub>
                       <mi>N</mi>
                       <mi>E</mi>
@@ -216,7 +217,7 @@
                     <msubsup>
                       <mover>
                         <mi>E</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -228,11 +229,11 @@
                     <mo>(</mo>
                     <mn>95</mn>
                     <mo>)</mo>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <msubsup>
                       <mover>
                         <mi>E</mi>
-                        <mo>&#183;</mo>
+                        <mo>·</mo>
                       </mover>
                       <mi>c</mi>
                       <mrow>
@@ -249,7 +250,7 @@
                   </mrow>
                   <mrow>
                     <mn>95</mn>
-                    <mo>&#8722;</mo>
+                    <mo>−</mo>
                     <mn>82</mn>
                   </mrow>
                 </mfrac>
@@ -278,7 +279,7 @@
               <msubsup>
                 <mover>
                   <mi>Q</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -292,11 +293,11 @@
                 <mn>87</mn>
                 <mo>)</mo>
               </mrow>
-              <mo>&#8722;</mo>
+              <mo>−</mo>
               <msubsup>
                 <mover>
                   <mi>Q</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -315,7 +316,7 @@
               <msubsup>
                 <mover>
                   <mi>Q</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -329,11 +330,11 @@
                 <mn>87</mn>
                 <mo>)</mo>
               </mrow>
-              <mo>&#8722;</mo>
+              <mo>−</mo>
               <msubsup>
                 <mover>
                   <mi>Q</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -362,7 +363,7 @@
               <msubsup>
                 <mover>
                   <mi>E</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -376,11 +377,11 @@
                 <mn>87</mn>
                 <mo>)</mo>
               </mrow>
-              <mo>&#8722;</mo>
+              <mo>−</mo>
               <msubsup>
                 <mover>
                   <mi>E</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -399,7 +400,7 @@
               <msubsup>
                 <mover>
                   <mi>E</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
@@ -413,17 +414,17 @@
                 <mn>87</mn>
                 <mo>)</mo>
               </mrow>
-              <mo>&#8722;</mo>
+              <mo>−</mo>
               <msubsup>
                 <mover>
                   <mi>E</mi>
-                  <mo>&#183;</mo>
+                  <mo>·</mo>
                 </mover>
                 <mi>c</mi>
                 <mrow>
                   <mi>k</mi>
                   <mo>=</mo>
-                  <mn>2</mn>
+                  <mn>1</mn>
                 </mrow>
               </msubsup>
               <mrow>

@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi style="font-style: italic">UCL</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mi style="font-style: italic">ECS</mi>
+          <mo>+</mo>
+          <msub>
+            <mi style="font-style: italic">ts</mi>
+            <msub>
+              <mi>x</mi>
+              <mn>1</mn>
+            </msub>
+          </msub>
+        </mrow>
+        <mspace width="6em"/>
+        <mtext>[5a]</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>or</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi style="font-style: italic">UCL</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mn>1.05</mn>
+          <mi style="font-style: italic">ECS</mi>
+          <mo>,</mo>
+        </mrow>
+        <mspace width="6em"/>
+        <mtext>[5b]</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>[</mo>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mrow>
+        <mo>(</mo>
+        <mi>P</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>actual</mi>
+          <mo>)</mo>
+          <mspace width=".2em"/>
+        </mrow>
+        <mn>100</mn>
+        <mo>)</mo>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mi>P</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext style="font-style: italic">nominal</mtext>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mspace width=".2em"/>
+        <mn>100</mn>
+      </mrow>
+      <mo>)</mo>
+      <mo>]</mo>
+    </mrow>
+  </mfrac>
+</math>

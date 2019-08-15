@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#968;</mi>
+    <mrow>
+      <mi>air</mi>
+      <mo>,</mo>
+      <mi>th</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>&#946;</mi>
+      <mn>0</mn>
+    </msub>
+    <mo>+</mo>
+    <mrow>
+      <msub>
+        <mi>&#946;</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>&#183;</mo>
+      <msub>
+        <mi>&#968;</mi>
+        <mrow>
+          <mi>air</mi>
+          <mo>,</mo>
+          <mi>meas</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1037.528-5</mtext>
+</math>

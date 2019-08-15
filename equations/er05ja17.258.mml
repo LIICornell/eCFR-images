@@ -1,0 +1,74 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 4.2.3-2</mtext>
+  <mspace width="2em"/>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi style="font-style: italic">RH</mi>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>j</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mi>N</mi>
+    </mfrac>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mi style="font-style: italic">BL</mi>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>T</mi>
+              <mi>j</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mo>*</mo>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <mi>&#948;</mi>
+              <mrow>
+                <mo>(</mo>
+                <msub>
+                  <mi>T</mi>
+                  <mi>j</mi>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mn>3.413</mn>
+          <mspace width=".2em"/>
+          <mfrac>
+            <mrow>
+              <mi style="font-style: italic">Btu</mi>
+              <mo>/</mo>
+              <mi>h</mi>
+            </mrow>
+            <mi>W</mi>
+          </mfrac>
+        </mrow>
+      </mfrac>
+      <mo>*</mo>
+      <mfrac>
+        <msub>
+          <mi>n</mi>
+          <mi>j</mi>
+        </msub>
+        <mi>N</mi>
+      </mfrac>
+    </mrow>
+  </mrow>
+</math>

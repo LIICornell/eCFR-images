@@ -1,0 +1,55 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>dd</mi>
+      <mo>,</mo>
+      <mi>thermal</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>Q</mi>
+        <mrow>
+          <mi>cond</mi>
+          <mo>,</mo>
+          <mi>dd</mi>
+        </mrow>
+      </msub>
+      <mi>EER</mi>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mn>24</mn>
+          <mspace width=".2em"/>
+          <mi>h</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mrow>
+          <mn>1</mn>
+          <mspace width=".2em"/>
+          <mi>kW</mi>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mn>1</mn>
+          <mspace width=".2em"/>
+          <mi>day</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mrow>
+          <mn>1000</mn>
+          <mspace width=".2em"/>
+          <mi>W</mi>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4-25)</mtext>
+</math>

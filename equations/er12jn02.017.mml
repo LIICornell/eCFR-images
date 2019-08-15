@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ER</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mn>2.0</mn>
+          <mn>7000</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>[</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>6</mn>
+        </msup>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>S</mi>
+          <mi>total</mi>
+        </msub>
+        <mi>GCV</mi>
+      </mfrac>
+      <mo>]</mo>
+      <mspace width="4em"/>
+      <mtext>(Eq. D-1h)</mtext>
+    </mrow>
+  </mrow>
+</math>

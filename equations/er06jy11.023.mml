@@ -1,0 +1,83 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>StartFuel</mi>
+    <mn>75</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>3.6</mn>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mi>Bag</mi>
+            <mspace width=".2em"/>
+            <mn>1</mn>
+            <msub>
+              <mi>FE</mi>
+              <mn>75</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mi>Bag</mi>
+            <mspace width=".2em"/>
+            <mn>3</mn>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>FE</mi>
+              <mn>75</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mn>3.9</mn>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mi>Bag</mi>
+            <mspace width=".2em"/>
+            <mn>2</mn>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>FE</mi>
+              <mn>75</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mi>Bag</mi>
+            <mspace width=".2em"/>
+            <mn>4</mn>
+            <msub>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>FE</mi>
+              </mrow>
+              <mn>75</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

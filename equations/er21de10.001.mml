@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>w</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>M</mi>
+    <mi>d</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>B</mi>
+        <mi>ws</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>+</mo>
+  <mn>18</mn>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>B</mi>
+      <mi>ws</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

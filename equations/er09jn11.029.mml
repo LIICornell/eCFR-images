@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mrow>
+      <mi>cond</mi>
+      <mo>&#8722;</mo>
+      <mi>nd</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mi>&#916;</mi>
+      <msub>
+        <mi>T</mi>
+        <mi>nd</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>A</mi>
+        <mi>nd</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>U</mi>
+      <mi>nd</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4-28)</mtext>
+</math>

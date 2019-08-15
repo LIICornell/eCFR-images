@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ECB</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>ECB</mi>
+    <mi>jan</mi>
+  </msub>
+  <mo>+</mo>
+  <mo>&#8230;</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>ECB</mi>
+    </mrow>
+    <mi>m</mi>
+  </msub>
+  <mo>+</mo>
+  <mo>&#8230;</mo>
+  <mo>+</mo>
+  <msub>
+    <mi>ECB</mi>
+    <mi>dec</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>(Equation 502.2. a)</mtext>
+</math>

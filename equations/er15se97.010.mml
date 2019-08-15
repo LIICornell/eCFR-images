@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Concentration in solid </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>ng</mi>
+      <mo>/</mo>
+      <mi>kg</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>ex</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>ex</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msub>
+      <mi>W</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+</math>

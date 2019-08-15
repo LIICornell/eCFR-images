@@ -1,0 +1,152 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msubsup>
+          <mover>
+            <mi>m</mi>
+            <mo>·</mo>
+          </mover>
+          <mi style="font-style: italic">da</mi>
+          <mi>k=1</mi>
+        </msubsup>
+        <mo>=</mo>
+        <mrow>
+          <msub>
+            <mover>
+              <mover>
+                <mi>V</mi>
+                <mo>·</mo>
+              </mover>
+              <mo>¯</mo>
+            </mover>
+            <mi>s</mi>
+          </msub>
+          <mo>*</mo>
+          <mrow>
+            <mn>0.075</mn>
+            <mspace width=".2em"/>
+            <mfrac>
+              <msub>
+                <mi style="font-style: italic">lbm</mi>
+                <mi style="font-style: italic">da</mi>
+              </msub>
+              <msup>
+                <mi style="font-style: italic">ft</mi>
+                <mn>3</mn>
+              </msup>
+            </mfrac>
+            <mo>*</mo>
+            <mfrac>
+              <msub>
+                <mn>60</mn>
+                <mo style="font-style: italic">min</mo>
+              </msub>
+              <mi style="font-style: italic">hr</mi>
+            </mfrac>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <msub>
+              <mover>
+                <mover>
+                  <mi>V</mi>
+                  <mo>·</mo>
+                </mover>
+                <mo>¯</mo>
+              </mover>
+              <mi style="font-style: italic">mx</mi>
+            </msub>
+            <mrow>
+              <msubsup>
+                <mi>v</mi>
+                <mi>n</mi>
+                <mo>‘</mo>
+              </msubsup>
+              <mo>*</mo>
+              <mrow>
+                <mo>[</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <msub>
+                    <mi>W</mi>
+                    <mi>n</mi>
+                  </msub>
+                </mrow>
+                <mo>]</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+          <mo>*</mo>
+          <mfrac>
+            <msub>
+              <mn>60</mn>
+              <mo style="font-style: italic">min</mo>
+            </msub>
+            <mi style="font-style: italic">hr</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <msub>
+              <mover>
+                <mover>
+                  <mi>V</mi>
+                  <mo>·</mo>
+                </mover>
+                <mo>¯</mo>
+              </mover>
+              <mi style="font-style: italic">mx</mi>
+            </msub>
+            <msub>
+              <mi>v</mi>
+              <mi>n</mi>
+            </msub>
+          </mfrac>
+          <mo>*</mo>
+          <mfrac>
+            <msub>
+              <mn>60</mn>
+              <mo style="font-style: italic">min</mo>
+            </msub>
+            <mi style="font-style: italic">hr</mi>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msubsup>
+          <mi>C</mi>
+          <mrow>
+            <mi>p</mi>
+            <mo>,</mo>
+            <mi style="font-style: italic">da</mi>
+          </mrow>
+          <mrow>
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+        </msubsup>
+        <mo>=</mo>
+        <mrow>
+          <mn>0.24</mn>
+          <mo>+</mo>
+          <mrow>
+            <mn>0.444</mn>
+            <mo>*</mo>
+            <msub>
+              <mi>W</mi>
+              <mi>n</mi>
+            </msub>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

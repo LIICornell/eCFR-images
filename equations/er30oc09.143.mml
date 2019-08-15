@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>OD</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>V</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mrow>
+              <mn>1,440</mn>
+              <mspace width=".2em"/>
+              <mtext>minutes</mtext>
+            </mrow>
+            <mtext>day</mtext>
+          </mfrac>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>OD</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-7)</mtext>
+</math>

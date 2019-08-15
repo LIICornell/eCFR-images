@@ -1,0 +1,54 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mn>100</mn>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>SD</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mtext>Structurally Deficient</mtext>
+        </munderover>
+        <msub>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <mi>Length</mi>
+              <mo>&#215;</mo>
+              <mi>Width</mi>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+          <mtext>Bridge SD</mtext>
+        </msub>
+      </mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>s</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>TOTAL</mi>
+        </munderover>
+        <msub>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <mi>Length</mi>
+              <mo>&#215;</mo>
+              <mi>Width</mi>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+          <mtext>Bridge s</mtext>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

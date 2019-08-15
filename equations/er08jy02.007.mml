@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mo>=</mo>
+  <mn>10</mn>
+  <mspace width=".2em"/>
+  <mi>log</mi>
+  <mrow>
+    <mspace width=".2em"/>
+    <mo>&#8968;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>0</mn>
+        </mrow>
+        <mrow>
+          <mi></mi>
+          <mn>2</mn>
+          <mi>d</mi>
+        </mrow>
+      </munderover>
+      <mi>anti</mi>
+      <mi>log</mi>
+    </mrow>
+    <mfrac>
+      <mrow>
+        <mi>PNLT</mi>
+        <mo>(</mo>
+        <mi>k</mi>
+        <mo>)</mo>
+      </mrow>
+      <mn>10</mn>
+    </mfrac>
+    <mo>&#8969;</mo>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mi>PNLTM</mi>
+  </mrow>
+  <mo>&#8722;</mo>
+  <mn>13</mn>
+</math>

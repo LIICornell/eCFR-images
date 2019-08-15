@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>HI</mi>
+    <mrow>
+      <mi>qtr</mi>
+      <mo>&#8722;</mo>
+      <mi>total</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>all</mi>
+        <mo>&#8722;</mo>
+        <mi>fuels</mi>
+      </mrow>
+    </munder>
+    <msub>
+      <mi>HI</mi>
+      <mrow>
+        <mi>fuel</mi>
+        <mo>&#8722;</mo>
+        <mi>qtr</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. LM-4)</mtext>
+</math>

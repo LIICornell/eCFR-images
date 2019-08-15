@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>SG</mi>
+    </msub>
+    <mo>*</mo>
+    <mrow>
+      <mfrac>
+        <mn>44</mn>
+        <mi>MVC</mi>
+      </mfrac>
+      <mo>*</mo>
+      <mrow>
+        <msub>
+          <mi>MF</mi>
+          <mi>C</mi>
+        </msub>
+        <mo>*</mo>
+        <mn>0.001</mn>
+        <mspace width="4em"/>
+        <mtext>(Eq. Y-12)</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

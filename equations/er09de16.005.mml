@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>NFI</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mn>0</mn>
+              <mo>+</mo>
+              <mi style="font-style: italic">Iron</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Scrap</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Flux</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Carbon</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Coal</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Feed</mi>
+            </mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow>
+              <mo>+</mo>
+              <mi style="font-style: italic">Electrode</mi>
+              <mo>+</mo>
+              <msub>
+                <mi style="font-style: italic">Steel</mi>
+                <mi>in</mi>
+              </msub>
+              <mo>+</mo>
+              <mi style="font-style: italic">Ore</mi>
+              <mo>+</mo>
+              <mi style="font-style: italic">Other</mi>
+            </mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Q-10)</mtext>
+</math>

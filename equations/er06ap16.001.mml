@@ -1,0 +1,101 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>W</mi>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi style="font-style: italic">AER</mi>
+    </mrow>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <mrow>
+            <munderover>
+              <mo>&#8721;</mo>
+              <mrow>
+                <mi>j</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>p</mi>
+            </munderover>
+            <msub>
+              <mi style="font-style: italic">Herm</mi>
+              <mi>j</mi>
+            </msub>
+          </mrow>
+          <mo>&#215;</mo>
+          <msub>
+            <mi style="font-style: italic">Rmm</mi>
+            <mi>j</mi>
+          </msub>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>k</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>m</mi>
+          </munderover>
+          <msub>
+            <mi style="font-style: italic">Ter</mi>
+            <mi>k</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi style="font-style: italic">Rmt</mi>
+          <mi>k</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>j</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>p</mi>
+          </munderover>
+          <msub>
+            <mi style="font-style: italic">Rmm</mi>
+            <mi>j</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <msubsup>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>k</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>m</mi>
+      </msubsup>
+      <msub>
+        <mi style="font-style: italic">Rmt</mi>
+        <mi>k</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1a)</mtext>
+</math>

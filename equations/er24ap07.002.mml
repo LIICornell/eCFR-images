@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CE</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>sdep</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mn>100</mn>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>VOC</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

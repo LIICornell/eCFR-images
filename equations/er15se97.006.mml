@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Percent lipid</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mtext>Weight of residue (g)</mtext>
+        <mtext>Weight of tissue (g)</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

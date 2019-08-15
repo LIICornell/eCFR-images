@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>r</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msubsup>
+          <mi>E</mi>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>F</mi>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>G</mi>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Equation B47)</mtext>
+</math>

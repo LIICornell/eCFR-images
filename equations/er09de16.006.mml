@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Products</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>P</mi>
+          <mo>+</mo>
+          <mi>R</mi>
+          <mo>+</mo>
+          <msub>
+            <mi style="font-style: italic">Steel</mi>
+            <mi style="font-style: italic">out</mi>
+          </msub>
+          <mo>+</mo>
+          <mi style="font-style: italic">Slag</mi>
+          <mo>+</mo>
+          <mi style="font-style: italic">Coke</mi>
+          <mo>+</mo>
+          <mi style="font-style: italic">Sinter</mi>
+          <mo>+</mo>
+          <mi style="font-style: italic">Iron</mi>
+          <mo>+</mo>
+          <mi style="font-style: italic">NM</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Q-11)</mtext>
+</math>

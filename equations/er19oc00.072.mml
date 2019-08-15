@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>r</mi>
+    <mrow>
+      <mi>k</mi>
+      <mo>,</mo>
+      <mn>1</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msubsup>
+          <mi>E</mi>
+          <mn>0</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>F</mi>
+          <mn>0</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>G</mi>
+          <mn>0</mn>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Equation B46)</mtext>
+</math>

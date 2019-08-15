@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">CREE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">CREE</mi>
+          <mi style="font-style: italic">CNG</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mi style="font-style: italic">UF</mi>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">CREE</mi>
+          <mi style="font-style: italic">GAS</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mi style="font-style: italic">UF</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mrow>
+      <mi>dd</mi>
+      <mo>&#8722;</mo>
+      <mi>tot</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>dd</mi>
+        <mo>&#8722;</mo>
+        <mi>tot</mi>
+        <mo>,</mo>
+        <mi>int</mi>
+      </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>dd</mi>
+        <mo>&#8722;</mo>
+        <mi>tot</mi>
+        <mo>,</mo>
+        <mi>ext</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4-23)</mtext>
+</math>

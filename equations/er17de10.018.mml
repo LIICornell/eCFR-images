@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mi>or</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>N</mi>
+    <mn>2</mn>
+  </msub>
+  <mi>O</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mspace width=".2em"/>
+  <mi>x</mi>
+  <msup>
+    <mrow>
+      <mspace width=".2em"/>
+      <mn>10</mn>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>*</mo>
+        <mi style="font-style: italic">Fuel</mi>
+      </mrow>
+      <mo>*</mo>
+      <mn>0.1</mn>
+    </mrow>
+    <mo>*</mo>
+    <mi style="font-style: italic">EF</mi>
+    <mspace width="6em"/>
+    <mtext>(Eq. C-8a)</mtext>
+  </mrow>
+</math>

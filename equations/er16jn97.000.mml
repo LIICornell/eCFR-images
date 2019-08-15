@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CE</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>G</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>G</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>Q</mi>
+        <mi>G</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>G</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>Q</mi>
+        <mi>F</mi>
+      </msub>
+      <msub>
+        <mi>C</mi>
+        <mi>F</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 204-1</mtext>
+</math>

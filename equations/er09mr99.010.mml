@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>EBPV</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iACTUAL</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mi>EBPV</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iu</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mtext>Percent reduction</mtext>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq.S 40]</mtext>
+</math>

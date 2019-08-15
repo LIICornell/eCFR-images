@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext><mrow>
+      <mtext>DSA Accuracy</mtext>
+    </mrow>
+    </mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mn>1</mn>
+            <mn>3</mn>
+          </munderover>
+          <mrow>
+            <mo>[</mo>
+            <mfrac>
+              <mrow>
+                <mo>&#x2223;</mo>
+                <msub>
+                  <mi>DSE</mi>
+                  <mi>i</mi>
+                </msub>
+                <mo>&#x2223;</mo>
+              </mrow>
+              <mi>S</mi>
+            </mfrac>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+        <mn>3</mn>
+      </mfrac>
+      <mo>*</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. 6-3</mtext>
+</math>

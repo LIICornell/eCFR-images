@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>DECOS</mi>
+    <mo>=</mo>
+    <msub>
+      <mi>DECOS</mi>
+      <mi>jan</mi>
+    </msub>
+  </mrow>
+  <mo>+</mo>
+  <mo>&#8230;</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>DECOS</mi>
+    </mrow>
+    <mi>m</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mo>&#8230;</mo>
+  <mo>+</mo>
+  <msub>
+    <mi>DECOS</mi>
+    <mi>dec</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Equation 508.1</mtext>
+</math>

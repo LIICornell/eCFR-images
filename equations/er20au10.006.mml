@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Q</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>d</mi>
+      </msub>
+      <msub>
+        <mi>Q</mi>
+        <mi>g</mi>
+      </msub>
+      <msub>
+        <mi>GCV</mi>
+        <mi>g</mi>
+      </msub>
+    </mrow>
+    <msup>
+      <mn>10</mn>
+      <mn>6</mn>
+    </msup>
+  </mfrac>
+  <mo>[</mo>
+  <mfrac>
+    <mn>20.9</mn>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>O</mi>
+        <mrow>
+          <mn>2</mn>
+          <mi>d</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>Eq. 323-2</mtext>
+</math>

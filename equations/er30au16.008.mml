@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>NO</mi>
+    <msub>
+      <mi>X</mi>
+      <mi>Corr</mi>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mi>NO</mi>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mfrac>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>NO</mi>
+                <mi>X</mi>
+              </msub>
+              <mo>&#8722;</mo>
+              <mi>NO</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>Eff</mi>
+            <msub>
+              <mi>NO</mi>
+              <mn>2</mn>
+            </msub>
+          </msub>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mn>100</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 7E-8</mtext>
+</math>

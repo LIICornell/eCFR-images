@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msubsup>
+          <mi>X</mi>
+          <mn>1</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>Y</mi>
+          <mi>i</mi>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>Z</mi>
+          <mi>i</mi>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width=".2em"/>
+  <mi>ft</mi>
+  <mo>/</mo>
+  <mi>sec</mi>
+  <mspace width="4em"/>
+  <mtext>(Equation B11)</mtext>
+</math>

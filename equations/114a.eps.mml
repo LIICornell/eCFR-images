@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>if</mtext>
+  <mspace width="5mm"/>
+  <mfrac>
+    <msubsup>
+      <mo>S</mo>
+      <mo>A</mo>
+      <mn>2</mn>
+    </msubsup>
+    <msubsup>
+      <mo>S</mo>
+      <mo>B</mo>
+      <mn>2</mn>
+    </msubsup>
+  </mfrac>
+  <mo>&#60;</mo>
+  <mspace width=".2em"/>
+  <mn>3.05</mn>
+</math>

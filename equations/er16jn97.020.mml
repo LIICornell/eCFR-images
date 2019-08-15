@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>Fj</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>j</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>DO</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>H</mi>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>DH</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>DO</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>Eq. 204E-2</mtext>
+</math>

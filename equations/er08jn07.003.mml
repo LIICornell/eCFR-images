@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>W</mi>
+    <mi>R</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>5</mn>
+    <mo>+</mo>
+    <mn>17</mn>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi>exp</mi>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#8722;</mo>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mi>n</mi>
+            <mrow>
+              <mo>(</mo>
+              <mn>2</mn>
+              <msub>
+                <mi>E</mi>
+                <mi>n</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+    <mn>6</mn>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width=".2em"/>
+  <mtext>Where </mtext>
+  <msub>
+    <mi>E</mi>
+    <mi>n</mi>
+  </msub>
+  <mtext>is the neutron energy in MeV.</mtext>
+</math>

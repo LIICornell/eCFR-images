@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>gas</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>avg</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mn>0</mn>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>C</mi>
+      <mi>ma</mi>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mn>0</mn>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-3</mtext>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">RA</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">MN</mi>
+          <mi style="font-style: italic">avg</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi style="font-style: italic">RM</mi>
+          <mi style="font-style: italic">avg</mi>
+        </msub>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <msub>
+      <mi style="font-style: italic">RM</mi>
+      <mi style="font-style: italic">avg</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mspace width=".2em"/>
+      <mi>Eq</mi>
+      <mo>.</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. 6-2</mtext>
+</math>

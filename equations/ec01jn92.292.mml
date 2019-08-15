@@ -13,14 +13,14 @@
           </mrow>
           <mi>n</mi>
         </munderover>
-        <msub>
-          <mi>E</mi>
-          <mi>i</mi>
-        </msub>
       </mrow>
       <mi>n</mi>
     </mfrac>
   </mrow>
+          <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+        </msub>
   <mo>=</mo>
   <mfrac>
     <mrow>

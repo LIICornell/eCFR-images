@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>f</mi>
+      <mi>ni</mi>
+    </msub>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>T</mi>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.650-11</mtext>
+</math>

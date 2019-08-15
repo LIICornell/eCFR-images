@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>C</mi>
+    <mi>ss</mi>
+    <mo>*</mo>
+  </msubsup>
+  <mo>=</mo>
+  <msub>
+    <mi>C</mi>
+    <mi>native</mi>
+  </msub>
+  <mo>+</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>spike</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>native</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mi>DF</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-6</mtext>
+</math>

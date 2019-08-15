@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>tot</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>i</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>V</mi>
+      <mi>af</mi>
+    </msub>
+    <msub>
+      <mi>C</mi>
+      <mi>af</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>V</mi>
+      <mi>ab</mi>
+    </msub>
+  </mrow>
+  <msub>
+    <mi>C</mi>
+    <mi>ab</mi>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>Equation 308-1</mtext>
+</math>

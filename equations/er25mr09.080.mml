@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>k</mi>
+          <mi>T</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <msub>
+            <mi>u</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>&#183;</mo>
+          <msub>
+            <mi>v</mi>
+            <mi>df</mi>
+          </msub>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>(Eq. 11-30)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msup>
+          <mi>n</mi>
+          <mo>&#8242;</mo>
+        </msup>
+        <mo>=</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mi>&#916;</mi>
+        </mfrac>
+        <mspace width="4em"/>
+        <mtext>(Eq. 11-31)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

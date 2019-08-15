@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mn>7</mn>
+      <mo>%</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>unc</mi>
+    </msub>
+    <mo>*</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mn>13.9</mn>
+        <mo>)</mo>
+      </mrow>
+      <mo>*</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>/</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>20.9</mn>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>CO</mi>
+                <mn>2</mn>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

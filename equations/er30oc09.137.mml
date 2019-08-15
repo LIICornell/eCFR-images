@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CAGF</mi>
+  <mo>=</mo>
+  <msub>
+    <mo>&#8721;</mo>
+    <mtext>Animal Groups</mtext>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>AAAP</mi>
+        <mtext>AG, Facility</mtext>
+      </msub>
+      <msub>
+        <mi>APTL</mi>
+        <mi>AG</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-1)</mtext>
+</math>

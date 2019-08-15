@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mn>12</mn>
+    </munderover>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mi>T</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+            <mi>EF</mi>
+            <mrow>
+              <mi>CO</mi>
+              <mn>2</mn>
+              <mo>,</mo>
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+      <mo>*</mo>
+      <mfrac>
+        <mn>2000</mn>
+        <mn>2205</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. BB-2)</mtext>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>EUB</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>EUB</mi>
+    <mn>1</mn>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>EUB</mi>
+    <mn>2</mn>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mn>2</mn>
+  </msub>
+  <mo></mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>+</mo>
+  <msub>
+    <mi>EUB</mi>
+    <mi>i</mi>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mi>i</mi>
+  </msub>
+  <mspace width="2em"/>
+  <mtext>Equation 602.2</mtext>
+</math>

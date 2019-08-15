@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>z</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mi>a</mi>
+    <mo>&#215;</mo>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>i</mi>
+          </msub>
+          <mtext>MotorHP</mtext>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mn>2</mn>
+    </msup>
+  </mrow>
+  <mo>+</mo>
+  <mrow>
+    <mrow>
+      <mi>b</mi>
+      <mspace width=".2em"/>
+    </mrow>
+    <mo>&#215;</mo>
+    <mspace width=".2em"/>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>P</mi>
+          <mi>i</mi>
+        </msub>
+        <mtext>MotorHP</mtext>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>+</mo>
+  <mi>c</mi>
+</math>

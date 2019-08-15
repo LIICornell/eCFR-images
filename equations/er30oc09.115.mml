@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>EF</mi>
+    <mrow>
+      <mi>CO</mi>
+      <mn>2</mn>
+      <mo>,</mo>
+      <mi>n</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mn>0.65</mn>
+      <mo>*</mo>
+      <msub>
+        <mi>CCF</mi>
+        <mi>n</mi>
+      </msub>
+    </mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>44</mn>
+        <mn>12</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. BB-1)</mtext>
+</math>

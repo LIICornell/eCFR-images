@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#916;T</mi>
+    <mi>nd</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>&#x2223;</mo>
+    <mrow>
+      <msub>
+        <mi>T</mi>
+        <mrow>
+          <mi>DB</mi>
+          <mo>,</mo>
+          <mi>ext</mi>
+          <mo>,</mo>
+          <mi>nd</mi>
+        </mrow>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>T</mi>
+        <mrow>
+          <mi>DB</mi>
+          <mo>,</mo>
+          <mi>int</mi>
+          <mo>,</mo>
+          <mi>nd</mi>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>&#x2223;</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(4-27)</mtext>
+</math>

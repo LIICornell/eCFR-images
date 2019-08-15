@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Time</mi>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>half</mi>
+    </msub>
+    <mn>1</mn>
+    <mo>)</mo>
+  </mrow>
+  <mo>&#8722;</mo>
+  <mi>Time</mi>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>P</mi>
+      <mi>half</mi>
+    </msub>
+    <mn>2</mn>
+    <mo>)</mo>
+  </mrow>
+  <mo>&lt;</mo>
+  <mn>20</mn>
+  <mo>%</mo>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>T</mi>
+    </mrow>
+    <mi>AVG</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>[Equation 13]</mtext>
+</math>

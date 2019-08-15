@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>GHG</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>p</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>Q</mi>
+        <mi>p</mi>
+      </msub>
+    </mrow>
+    <mo>*</mo>
+    <mn>0.001</mn>
+    <mspace width="4em"/>
+    <mtext>(Eq. T-2)</mtext>
+  </mrow>
+</math>

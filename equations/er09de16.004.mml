@@ -1,0 +1,194 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>44</mn>
+    <mn>12</mn>
+  </mfrac>
+  <mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mi style="font-style: italic">Iron</mi>
+            <mo>)</mo>
+          </mrow>
+          <mo>*</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>C</mi>
+              <mi style="font-style: italic">iron</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>(</mo>
+            <mi style="font-style: italic">Scrap</mi>
+            <mo>)</mo>
+          </mrow>
+          <mo>*</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>C</mi>
+              <mi style="font-style: italic">scrap</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>(</mo>
+            <mi style="font-style: italic">Flux</mi>
+            <mo>)</mo>
+          </mrow>
+          <mo>*</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>C</mi>
+              <mi style="font-style: italic">Flux</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>(</mo>
+            <mi style="font-style: italic">Electrode</mi>
+            <mo>)</mo>
+          </mrow>
+          <mo>*</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>C</mi>
+              <mi style="font-style: italic">Electrode</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>(</mo>
+            <mi style="font-style: italic">Carbon</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mrow>
+            <mrow>
+              <mrow>
+                <mrow>
+                  <mrow>
+                    <mrow>
+                      <mrow>
+                        <mrow>
+                          <mrow>
+                            <mo>*</mo>
+                            <mrow>
+                              <mo>(</mo>
+                              <msub>
+                                <mi>C</mi>
+                                <mi style="font-style: italic">Carbon</mi>
+                              </msub>
+                              <mo>)</mo>
+                            </mrow>
+                          </mrow>
+                          <mo>&#8722;</mo>
+                          <mrow>
+                            <mo>(</mo>
+                            <mi style="font-style: italic">Steel</mi>
+                            <mo>)</mo>
+                          </mrow>
+                        </mrow>
+                        <mo>*</mo>
+                        <mrow>
+                          <mo>(</mo>
+                          <msub>
+                            <mi>C</mi>
+                            <mi style="font-style: italic">Steel</mi>
+                          </msub>
+                          <mo>)</mo>
+                        </mrow>
+                      </mrow>
+                      <mo>+</mo>
+                      <mrow>
+                        <mo>(</mo>
+                        <msub>
+                          <mi>F</mi>
+                          <mi>g</mi>
+                        </msub>
+                        <mo>)</mo>
+                      </mrow>
+                    </mrow>
+                    <mo>*</mo>
+                    <mrow>
+                      <mo>(</mo>
+                      <msub>
+                        <mi>C</mi>
+                        <mi style="font-style: italic">gf</mi>
+                      </msub>
+                      <mo>)</mo>
+                    </mrow>
+                  </mrow>
+                  <mo>*</mo>
+                  <mrow>
+                    <mo>(</mo>
+                    <mfrac>
+                      <mi style="font-style: italic">MW</mi>
+                      <mi style="font-style: italic">MVC</mi>
+                    </mfrac>
+                    <mo>)</mo>
+                  </mrow>
+                </mrow>
+                <mo>*</mo>
+                <mo>0.001</mo>
+              </mrow>
+              <mo>&#8722;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mi style="font-style: italic">Slag</mi>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mo>*</mo>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>C</mi>
+                <mi style="font-style: italic">Slag</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mi>R</mi>
+              <mo>)</mo>
+            </mrow>
+            <mo>*</mo>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>C</mi>
+                <mi>R</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Q-5)</mtext>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CD</mi>
+    <mi style="font-style: italic">IP</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">MC</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi style="font-style: italic">MN</mi>
+            <mi style="font-style: italic">bi</mi>
+          </msub>
+        </mrow>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mrow>
+            <mi>i</mi>
+            <mo>,</mo>
+            <mi style="font-style: italic">eff</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+    <mi>S</mi>
+  </mfrac>
+  <mrow>
+    <mo>*</mo>
+    <mn>100</mn>
+    <mspace width="6em"/>
+    <mtext>Eq. 6B</mtext>
+  </mrow>
+</math>

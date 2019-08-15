@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>ACA Accuracy</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <msub>
+              <mi>R</mi>
+              <mi>CEM</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>R</mi>
+              <mi>V</mi>
+            </msub>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <msub>
+          <mi>R</mi>
+          <mi>V</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2-1a</mtext>
+</math>

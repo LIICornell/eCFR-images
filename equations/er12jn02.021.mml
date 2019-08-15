@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+      <mi>HI</mi>
+      <mtext>qtr</mtext>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munder>
+      <mo>&#8721;</mo>
+      <mtext>all-hours-in-qtr</mtext>
+    </munder>
+    <msub>
+      <mi>HI</mi>
+      <mi>hr</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-16)</mtext>
+</math>

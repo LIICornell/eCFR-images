@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi style="font-style: italic">SAR</mi>
+  <mo>=</mo>
+  <msub>
+    <mi style="font-style: italic">MC</mi>
+    <mi style="font-style: italic">spiked</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi style="font-style: italic">DF</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>*</mo>
+    <msub>
+      <mi style="font-style: italic">MC</mi>
+      <mi style="font-style: italic">native</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. A4</mtext>
+</math>

@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi style="text-decoration: underline">A</mi>
+          <mo>=</mo>
+          <msub>
+            <mi style="text-decoration: underline">VMT</mi>
+            <mi style="text-decoration: underline">u</mi>
+          </msub>
+          <mo style="text-decoration: underline">*</mo>
+        </mrow>
+        <msub>
+          <mi style="text-decoration: underline">MPG</mi>
+          <mi style="text-decoration: underline">ae</mi>
+        </msub>
+        <mo style="text-decoration: underline">*</mo>
+        <msub>
+          <mi style="text-decoration: underline">MPG</mi>
+          <mi style="text-decoration: underline">se</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <msub>
+              <mi>VMT</mi>
+              <mi>e</mi>
+            </msub>
+            <mo>*</mo>
+            <msub>
+              <mi>MPG</mi>
+              <mi>au</mi>
+            </msub>
+          </mrow>
+          <mo>*</mo>
+          <msub>
+            <mi>MPG</mi>
+            <mi>su</mi>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

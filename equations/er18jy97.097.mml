@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <msub>
+      <mi>D</mi>
+      <mi>p</mi>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>1</mn>
+    <mo>+</mo>
+    <mfrac>
+      <mn>0.1659</mn>
+      <msub>
+        <mi>D</mi>
+        <mi>p</mi>
+      </msub>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mn>0.053</mn>
+      <msub>
+        <mi>D</mi>
+        <mi>p</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi>exp</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>8.33</mn>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>D</mi>
+        </mrow>
+        <mi>p</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

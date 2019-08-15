@@ -1,0 +1,102 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>ME</mi>
+          <mi style="font-style: italic">IP</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <munderover>
+                <mo>&#8721;</mo>
+                <mn>1</mn>
+                <mn>3</mn>
+              </munderover>
+              <mrow>
+                <mo>&#x2223;</mo>
+                <mrow>
+                  <mrow>
+                    <mo>(</mo>
+                    <mrow>
+                      <msub>
+                        <mi>MC</mi>
+                        <mi>i</mi>
+                      </msub>
+                      <mo>&#8722;</mo>
+                      <msub>
+                        <mi>MN</mi>
+                        <mi style="font-style: italic">bi</mi>
+                      </msub>
+                    </mrow>
+                    <mo>)</mo>
+                  </mrow>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>C</mi>
+                    <mi style="font-style: italic">ieff</mi>
+                  </msub>
+                </mrow>
+                <mo>&#x2223;</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mn>3</mn>
+              <mi>S</mi>
+            </mrow>
+          </mfrac>
+          <mo>*</mo>
+          <mn>100</mn>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>Eq. 6A</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>CD</mi>
+          <mi style="font-style: italic">IP</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mo>&#x2223;</mo>
+              <mrow>
+                <mrow>
+                  <msub>
+                    <mi>MC</mi>
+                    <mi>i</mi>
+                  </msub>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>MN</mi>
+                    <mi style="font-style: italic">bi</mi>
+                  </msub>
+                </mrow>
+                <mo>&#8722;</mo>
+                <msub>
+                  <mi>C</mi>
+                  <mrow>
+                    <mi>i</mi>
+                    <mo>,</mo>
+                    <mi style="font-style: italic">eff</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+              <mo>&#x2223;</mo>
+            </mrow>
+            <mi>S</mi>
+          </mfrac>
+          <mo>*</mo>
+          <mn>100</mn>
+          <mspace width="4em"/>
+          <mtext>Eq. 6B</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

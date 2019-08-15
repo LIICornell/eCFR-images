@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>emission rate =</mtext>
+  <mfrac>
+    <msub>
+      <mrow>
+        <mo>&#8721;</mo>
+        <mi>M</mi>
+      </mrow>
+      <mrow>
+        <mi>CO</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mrow>
+      <msub>
+        <mrow>
+          <mo>&#8721;</mo>
+          <mi>MWh</mi>
+        </mrow>
+        <mi>op</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mrow>
+          <mo>&#8721;</mo>
+          <mi>MWh</mi>
+        </mrow>
+        <mi>ERC</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+</math>

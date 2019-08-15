@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>$</mo>
+  <mn>12</mn>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mo>$</mo>
+        <mn>50</mn>
+        <mspace width=".2em"/>
+        <mtext>Tax-exempt U.S. assets</mtext>
+      </mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>150</mn>
+        <mspace width=".2em"/>
+        <mtext>Total U.S. assets</mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mo>$</mo>
+  <mn>4</mn>
+</math>

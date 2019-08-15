@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>h</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>K</mi>
+  <msub>
+    <mi>C</mi>
+    <mi>h</mi>
+  </msub>
+  <msub>
+    <mi>Q</mi>
+    <mi>h</mi>
+  </msub>
+  <mspace width="6em"/>
+  <mtext>(Equation A-2)</mtext>
+</math>

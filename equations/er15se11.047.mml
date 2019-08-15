@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mn>1800.2</mn>
+          <mo>&#183;</mo>
+          <mn>177.23</mn>
+        </mrow>
+        <mo>&#183;</mo>
+        <mn>2</mn>
+      </mrow>
+      <mo>&#183;</mo>
+      <mn>3.14159</mn>
+    </mrow>
+    <mrow>
+      <mn>60</mn>
+      <mo>&#183;</mo>
+      <mn>1000</mn>
+    </mrow>
+  </mfrac>
+</math>

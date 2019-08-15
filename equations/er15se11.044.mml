@@ -1,0 +1,17 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>m</mi>
+    <mi>PM</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>m</mi>
+    <mi>PMdil</mi>
+  </msub>
+  <mrow>
+    <mo>&#183;</mo>
+    <mi style="font-style: italic">DR</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.650-9</mtext>
+</math>

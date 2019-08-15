@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Average Collection</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Period</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mo>=</mo>
+  <mfrac>
+    <mn>365</mn>
+    <mn>2.21</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mtable>
+    <mtr>
+      <mtd>
+        <mn>165.16</mn>
+        <mspace width=".2em"/>
+        <mtext>days, rounded to the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>nearest whole day </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mrow>
+            <mn>165</mn>
+            <mspace width=".2em"/>
+            <mi>days</mi>
+            <mo>.</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

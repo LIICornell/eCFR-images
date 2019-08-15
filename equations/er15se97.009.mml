@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Recovery (%) </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mtext>Concentration found </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mi>&#956;g</mi>
+            <mo>/</mo>
+            <mi>mL</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow>
+          <mtext>Concentration spiked </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mi>&#956;g</mi>
+            <mo>/</mo>
+            <mi>mL</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

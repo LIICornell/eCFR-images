@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>C</mi>
+    <mi>spike</mi>
+    <mo>*</mo>
+  </msubsup>
+  <mo>=</mo>
+  <mi>DF</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mrow>
+          <mi>t</mi>
+          <mi>arg</mi>
+          <mi>et</mi>
+        </mrow>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>native</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>+</mo>
+  <msub>
+    <mi>C</mi>
+    <mi>native</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 30A-5</mtext>
+</math>

@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mspace width=".2em"/>
+  <mi>x</mi>
+  <msup>
+    <mrow>
+      <mspace width=".2em"/>
+      <mn>10</mn>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>*</mo>
+        <mi style="font-style: italic">Fuel</mi>
+      </mrow>
+      <mo>*</mo>
+      <mi style="font-style: italic">HHV</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi style="font-style: italic">EF</mi>
+    <mspace width=".2em"/>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. C-1)</mtext>
+</math>

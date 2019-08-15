@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+      <mi>HI</mi>
+      <mtext>rate-hr</mtext>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munder>
+          <mo>&#8721;</mo>
+          <mtext>all-fuels</mtext>
+      </munder>
+      <msub>
+        <mi>HI</mi>
+        <mrow>
+          <mtext>rate-i</mtext>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>t</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>u</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-15a)</mtext>
+</math>

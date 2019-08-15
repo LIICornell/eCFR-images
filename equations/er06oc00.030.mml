@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>DEU</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>DEU</mi>
+    <mn>1</mn>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>DEU</mi>
+    <mn>2</mn>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>+</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>.</mo>
+  <mo>+</mo>
+  <msub>
+    <mi>DEU</mi>
+    <mi>i</mi>
+  </msub>
+  <msub>
+    <mi>xf</mi>
+    <mi>i</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Equation 603.1</mtext>
+</math>

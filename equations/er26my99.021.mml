@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>SO</mi>
+      <mn>2</mn>
+    </mrow>
+    <mtext>rate-oil</mtext>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>2.0</mn>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>OIL</mi>
+      <mi>rate</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <msub>
+          <mi>S</mi>
+          <mi>oil</mi>
+        </msub>
+      </mrow>
+      <mn>100.0</mn>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-2)</mtext>
+</math>

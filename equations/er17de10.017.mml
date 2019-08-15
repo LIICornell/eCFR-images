@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mspace width=".2em"/>
+  <mi>x</mi>
+  <msup>
+    <mrow>
+      <mspace width=".2em"/>
+      <mn>10</mn>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>3</mn>
+    </mrow>
+  </msup>
+  <mo></mo>
+  <mrow>
+    <mrow>
+      <mo>*</mo>
+      <mi>Gas</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi>EF</mi>
+  </mrow>
+  <mspace width="6em"/>
+  <mo></mo>
+  <mtext>(Eq. C-1b)</mtext>
+</math>

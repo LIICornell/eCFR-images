@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ER</mi>
+      <mi>tot</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>ER</mi>
+        <mi>RFtot</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>ER</mi>
+        <mi>SDTtot</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>ER</mi>
+        <mi>LKtot</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>
