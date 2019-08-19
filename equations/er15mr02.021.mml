@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>FALD</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mo style="font-style: italic">min</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>MLTI</mi>
+      <mi>m</mi>
+    </msub>
+    <mo>,</mo>
+    <mo style="font-style: italic">max</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>0</mn>
+        <mo>,</mo>
+        <msub>
+          <mi>IFALD</mi>
+          <mi>m</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

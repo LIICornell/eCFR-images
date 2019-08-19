@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Percent Difference = </mtext>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mtext>Unadjusted Value</mtext>
+          <mo>&#8722;</mo>
+          <mtext>Adjusted Value</mtext>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+      <mtext>Unadjusted Value</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+</math>

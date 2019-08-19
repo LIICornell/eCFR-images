@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>% Theoretical gas production of reference fluid</mtext>
+      <mtext>% Theoretical gas production of NAF</mtext>
+    </mfrac>
+    <mo>&#8804;</mo>
+    <mn>1.0</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 20]</mtext>
+</math>

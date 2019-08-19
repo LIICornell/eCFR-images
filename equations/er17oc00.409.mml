@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <mi>P</mi>
+    <mo>*</mo>
+  </msup>
+  <mo>=</mo>
+  <mi>&#946;</mi>
+  <msub>
+    <mi>P</mi>
+    <mi>bar</mi>
+  </msub>
+  <msub>
+    <mi>C</mi>
+    <mi>a</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 25E-5</mtext>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mover>
+            <mi>X</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <msub>
+            <mi>q</mi>
+            <mi>c</mi>
+          </msub>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>q</mi>
+        <mi>c</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>q</mi>
+        <mi>d</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>Eq. 18-1</mtext>
+</math>

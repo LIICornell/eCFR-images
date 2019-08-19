@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>emitted (net) =</mtext>
+  <mrow>
+    <msub>
+      <mi>CH</mi>
+      <mrow>
+        <mn>4</mn>
+        <mi>VTotal</mi>
+      </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>CH</mi>
+      <mrow>
+        <mn>4</mn>
+        <mi>DTotal</mi>
+      </mrow>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>CH</mi>
+      <mtext>4destroyedTotal</mtext>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. FF-7)</mtext>
+</math>

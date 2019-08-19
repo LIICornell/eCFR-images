@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>x</mi>
+    <mrow>
+      <mi>H</mi>
+      <mn>2</mn>
+      <mi>Oexh</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>x</mi>
+      <mrow>
+        <mi>H</mi>
+        <mn>2</mn>
+        <mi>Oexhdry</mi>
+      </mrow>
+    </msub>
+    <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>Oexhdry</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>Eq. 1065.655-2</mtext>
+</math>

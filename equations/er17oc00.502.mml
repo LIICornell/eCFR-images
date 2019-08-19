@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>D</mi>
+    <mi>e</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mn>2</mn>
+      <mo>&#183;</mo>
+        <mi>L</mi>
+      </mrow>
+      <mo>&#183;</mo>
+      <mi>W</mi>
+    </mrow>
+    <mrow>
+      <mi>L</mi>
+      <mo>+</mo>
+      <mi>W</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 103-1</mtext>
+</math>

@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>V</mi>
+  <mo>=</mo>
+  <mn>0.40</mn>
+  <mspace width=".2em"/>
+  <mo>&#928;</mo>
+  <msup>
+    <msub>
+      <mrow>
+        <mspace width=".2em"/>
+        <mi>R</mi>
+      </mrow>
+      <mi>ma</mi>
+    </msub>
+    <mn>2</mn>
+  </msup>
+  <msub>
+    <mi>D</mi>
+    <mi>st</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-6</mtext>
+</math>

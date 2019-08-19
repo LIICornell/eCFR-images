@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mi>&#956;g</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>NO</mi>
+          <mover>
+            <mn>2</mn>
+            <mo>&#8212;</mo>
+          </mover>
+        </msub>
+      </mrow>
+      <mi>ml</mi>
+    </mfrac>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mi>g</mi>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>NaNO</mi>
+            </mrow>
+            <mn>2</mn>
+          </msub>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mtext>purity, %</mtext>
+            <mn>100</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>3</mn>
+        </msup>
+      </mrow>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mn>46.01</mn>
+        <mn>69.01</mn>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>Eq. 7C-1</mtext>
+</math>

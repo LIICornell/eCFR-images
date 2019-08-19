@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Monthly Discount Factor</mtext>
+    <mo>=</mo>
+    <msup>
+      <mrow>
+        <mo>[</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>&#8722;</mo>
+                <mi>Effective</mi>
+                <mi>Tax</mi>
+                <mi>Rate</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mo>&#215;</mo>
+            <mtext>6-month CMT yield</mtext>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>/</mo>
+        <mn>6</mn>
+      </mrow>
+    </msup>
+  </mrow>
+</math>

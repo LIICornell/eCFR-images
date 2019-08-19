@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>% Difference</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>ref</mi>
+            <mo>,</mo>
+            <mi>ave</mi>
+          </mrow>
+        </msub>
+        <mo>&#8722;</mo>
+        <mn>16.67</mn>
+      </mrow>
+      <mn>16.67</mn>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+    </mrow>
+  </mrow>
+</math>

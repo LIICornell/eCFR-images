@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>60</mn>
+        <mspace width=".2em"/>
+        <mtext>mg carbon per bottle</mtext>
+        <mrow>
+          <mo>/</mo>
+          <mn>1,000</mn>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mn>12</mn>
+        <mspace width=".2em"/>
+        <mtext>g/mole</mtext>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mn>0.005</mn>
+    <mspace width=".2em"/>
+    <mtext>moles carbon</mtext>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>[Eq. 18]</mtext>
+</math>

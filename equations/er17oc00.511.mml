@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>c</mi>
+      </msub>
+      <msub>
+        <mi>P</mi>
+        <mi>r</mi>
+      </msub>
+      <msub>
+        <mi>T</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mi>T</mi>
+        <mi>r</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>B</mi>
+            <mi>wb</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>Eq. 106-2</mtext>
+</math>

@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>V</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mi>VOHAP</mi>
+        <mspace width=".2em"/>
+        <mtext>limit</mtext>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mi>mVOC</mi>
+    </mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>th</mi>
+    </msub>
+  </mfrac>
+  <mspace width="1em"/>
+  <mtext>Eqn. 1</mtext>
+</math>

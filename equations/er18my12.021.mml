@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>2000</mn>
+  <mrow>
+    <mtext></mtext>
+    <mtext>mg carbon/kg sediment</mtext>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <mn>30</mn>
+          <mspace width=".2em"/>
+          <mi>g</mi>
+        </mrow>
+        <mo>&#247;</mo>
+        <mn>1,000</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mtext></mtext>
+  </mrow>
+  <mo>=</mo>
+  <mn>60</mn>
+  <mtext> mg carbon per bottle</mtext>
+  <mspace width="4em"/>
+  <mtext>[Eq. 17]</mtext>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>a</mi>
+    <mrow>
+      <mn>0</mn>
+        <mi>y</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mover>
+      <mi>y</mi>
+      <mo>&#8212;</mo>
+    </mover>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>a</mi>
+          <mrow>
+            <mn>1</mn>
+            <mi>y</mi>
+          </mrow>
+        </msub>
+        <mo>&#183;</mo>
+        <msub>
+          <mover>
+            <mi>y</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mi>ref</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1065.602-10</mtext>
+</math>

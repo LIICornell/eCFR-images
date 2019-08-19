@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>w</mi>
+      <mrow>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>2</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>fi</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>bi</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 108-1</mtext>
+</math>

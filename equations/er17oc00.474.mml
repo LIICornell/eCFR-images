@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>b</mi>
+      <mrow>
+        <mo>(</mo>
+        <mtext>corrected</mtext>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>C</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>(</mo>
+  <mn>10.9</mn>
+  <mo>)</mo>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <mtext>percent </mtext>
+      <msub>
+        <mi>O</mi>
+        <mn>2</mn>
+      </msub>
+      <mspace width=".2em"/>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+</math>

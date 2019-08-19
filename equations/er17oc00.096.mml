@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>(</mo>
+  <mi>adj</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mo>%</mo>
+      <mi>O</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mo>&#8722;</mo>
+  <mn>0.5</mn>
+  <mspace width=".2em"/>
+  <mo>%</mo>
+  <mi>CO</mi>
+  <mspace width="3em"/>
+  <mtext>Eq. 3B-4</mtext>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>AverageTRS</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>TRS</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>N</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>B</mi>
+              <mi>wo</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 16-3</mtext>
+</math>

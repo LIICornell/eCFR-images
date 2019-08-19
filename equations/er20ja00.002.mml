@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>TRE</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>/</mo>
+  <msub>
+    <mi>E</mi>
+    <mi>HAP</mi>
+  </msub>
+  <mrow>
+    <mo>*</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mi>A</mi>
+        <mo>+</mo>
+        <mi>B</mi>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>Q</mi>
+            <mi>S</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mi>C</mi>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>H</mi>
+            <mi>T</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 3]</mtext>
+</math>

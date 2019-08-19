@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mi>K</mi>
+      <mi>m</mi>
+    </mrow>
+    <mrow>
+      <mi>XH</mi>
+      <mo>,</mo>
+      <mi>X</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>/</mo>
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>m</mi>
+      <mrow>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>Eq. 26-6</mtext>
+</math>

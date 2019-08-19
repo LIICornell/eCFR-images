@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>p</mi>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>C</mi>
+    <mrow>
+      <mi>p</mi>
+      <mo>(</mo>
+      <mi>std</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <mi>&#916;</mi>
+        <msub>
+          <mi>p</mi>
+          <mi>std</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mi>&#916;</mi>
+        <mi>p</mi>
+      </mrow>
+    </mfrac>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>Eq. 2-3</mtext>
+</math>

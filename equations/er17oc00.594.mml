@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ER</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mi>cr</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>Q</mi>
+        <mi>std</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>3</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mi>mg</mi>
+      <mo>/</mo>
+      <mi>hr</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 306A-13</mtext>
+</math>

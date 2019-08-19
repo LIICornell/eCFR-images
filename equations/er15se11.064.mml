@@ -1,0 +1,18 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Highway CREE</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mtext>Start CREE </mtext>
+          <mo>+</mo>
+          <mtext>Running CREE</mtext>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mn>0.905</mn>
+    </mfrac>
+  </mrow>
+</math>

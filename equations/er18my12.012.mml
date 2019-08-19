@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mn>480</mn>
+      <mspace width=".2em"/>
+      <mtext>mg carbon</mtext>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>77.3</mn>
+        <mo>&#247;</mo>
+        <mn>100</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>621</mn>
+  <mtext>mg ethyl oleate</mtext>
+  <mspace width="8em"/>
+  <mtext>[Eq. 5]</mtext>
+</math>

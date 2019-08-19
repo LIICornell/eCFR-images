@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>HI</mi>
+    <mtext>fuel-qtr</mtext>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>M</mi>
+    <mi>qtr</mi>
+  </msub>
+  <mfrac>
+    <msub>
+      <mi>GCV</mi>
+      <mo>max</mo>
+    </msub>
+    <msup>
+      <mn>10</mn>
+      <mn>6</mn>
+    </msup>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. LM-2 (for fuel oil)</mtext>
+</math>

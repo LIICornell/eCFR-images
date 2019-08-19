@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>RSD</mi>
+    <mi>a</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>)</mo>
+  <mtext>Absolute Value [</mtext>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi>C</mi>
+          <mn>1</mn>
+        </mrow>
+        <mi>a</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mrow>
+          <mi>C</mi>
+          <mn>2</mn>
+        </mrow>
+        <mi>a</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mrow>
+          <mi>C</mi>
+          <mn>1</mn>
+        </mrow>
+        <mi>a</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mrow>
+          <mi>C</mi>
+          <mn>2</mn>
+        </mrow>
+        <mi>a</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mtext>]</mtext>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

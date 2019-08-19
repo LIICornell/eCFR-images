@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mi>s</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>1</mn>
+  </msub>
+  <msub>
+    <mi>Y</mi>
+    <mi>m</mi>
+  </msub>
+  <msub>
+    <mi>Q</mi>
+    <mi>m</mi>
+  </msub>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>bar</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>m</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>m</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq, 2D-1</mtext>
+</math>

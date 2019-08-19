@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mrow>
+          <mo>%</mo>
+          <mi>R</mi>
+        </mrow>
+        <mi>THC</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>E</mi>
+              <mi>i</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>E</mi>
+              <mi>o</mi>
+            </msub>
+          </mrow>
+          <msub>
+            <mi>E</mi>
+            <mi>i</mi>
+          </msub>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>{Eq. 12}</mtext>
+</math>

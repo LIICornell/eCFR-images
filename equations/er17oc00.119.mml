@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Q</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>1</mn>
+  </msub>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>bar</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>w</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>T</mi>
+            <mi>w</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>std</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>&#952;</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5-9</mtext>
+</math>

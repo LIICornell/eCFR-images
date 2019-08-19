@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mi>A</mi>
+            <mn>0</mn>
+          </msub>
+          <mo>+</mo>
+          <mrow>
+            <mi>m</mi>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>IRP</mi>
+                <mo>+</mo>
+                <mn>1</mn>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mrow>
+        <mo>]</mo>
+        <mspace width=".2em"/>
+        <mi style="font-style: italic">mod</mi>
+        <mspace width=".2em"/>
+        <mi>RRP</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>and</mi>
+        <mspace width="3em"/>
+        <mrow>
+          <msub>
+            <mi>A</mi>
+            <mn>0</mn>
+          </msub>
+          <mo>+</mo>
+          <mrow>
+            <mi>m</mi>
+            <mo>&#8722;</mo>
+            <mn>1</mn>
+          </mrow>
+        </mrow>
+        <mo>&gt;</mo>
+        <mi>IRP</mi>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>m</mi>
+    <mi>HX</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mrow>
+      <mi>HC</mi>
+      <mn>1</mn>
+      <mo>,</mo>
+      <mi>Hbr</mi>
+      <mo>,</mo>
+      <mi>HF</mi>
+    </mrow>
+  </msub>
+  <msub>
+    <mi>V</mi>
+    <mi>s</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msup>
+        <msub>
+          <mi>S</mi>
+          <mi>x</mi>
+        </msub>
+        <mo>&#8722;</mo>
+      </msup>
+      <mo>&#8722;</mo>
+      <msup>
+        <msub>
+          <mi>B</mi>
+          <mi>x</mi>
+        </msub>
+        <mo>&#8722;</mo>
+      </msup>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 26-4</mtext>
+</math>

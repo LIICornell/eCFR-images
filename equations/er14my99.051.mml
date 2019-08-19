@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>Diff</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msubsup>
+          <mi>F</mi>
+          <mn>2</mn>
+          <mo>max</mo>
+        </msubsup>
+        <mo>&#8722;</mo>
+        <msubsup>
+          <mi>F</mi>
+          <mn>2</mn>
+          <mo>min</mo>
+        </msubsup>
+      </mrow>
+      <msubsup>
+        <mi>F</mi>
+        <mn>2</mn>
+        <mo>min</mo>
+      </msubsup>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>%</mo>
+      <mspace width="2em"/>
+      <mtext>Eq. 2F-3</mtext>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <msub>
+      <mi>k</mi>
+      <mi>e</mi>
+    </msub>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mi>k</mi>
+    </mrow>
+  </msup>
+  <msub>
+    <mi>A</mi>
+    <mi>avg</mi>
+  </msub>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <msub>
+      <mi>Q</mi>
+      <mi>f</mi>
+    </msub>
+    <mrow>
+      <mn>2</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>L</mi>
+        <mi>o</mi>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mi>r</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mspace width="4em"/>
+  <mtext>Eq. 2E-12</mtext>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>N</mi>
+    <mi>T</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>K</mi>
+        <mn>3</mn>
+      </msub>
+      <msub>
+        <mi>N</mi>
+        <mi>C</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>Y</mi>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>Y</mi>
+        <mi>CO</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>Y</mi>
+        <mi>HC</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5H-6</mtext>
+</math>

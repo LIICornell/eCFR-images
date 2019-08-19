@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>2,000</mn>
+        <mtext> mg carbon</mtext>
+      </mrow>
+      <mtext>Per kg dry sediment</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mn>240</mn>
+        <mspace width=".2em"/>
+        <mi>g</mi>
+      </mrow>
+      <mn>1,000</mn>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mn>480</mn>
+  <mspace width=".2em"/>
+  <mtext>mg carbon</mtext>
+  <mspace width="4em"/>
+  <mtext>[Eq. 4]</mtext>
+</math>

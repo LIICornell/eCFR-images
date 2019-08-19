@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>SO</mi>
+    <mn>2</mn>
+  </msub>
+  <msub>
+    <mtext>equivalent</mtext>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+      <mo>&#8721;</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>H</mi>
+        <mn>2</mn>
+      </msub>
+      <mi>S</mi>
+      <mo>,</mo>
+      <mi>COS</mi>
+      <mo>,</mo>
+      <msub>
+        <mrow>
+          <mn>2</mn>
+          <mi>CS</mi>
+        </mrow>
+        <mn>2</mn>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mi>d</mi>
+  <mspace width="4em"/>
+  <mtext>Eq. 15-2</mtext>
+</math>

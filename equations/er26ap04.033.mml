@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CE</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>CE</mi>
+      <mrow>
+        <mi>zone</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>zone</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>booth</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+      </mrow>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>S(Eq. A-6)</mtext>
+</math>

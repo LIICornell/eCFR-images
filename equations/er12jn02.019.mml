@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>SO</mi>
+    <msub>
+      <mn>2</mn>
+      <mrow>
+        <mtext>rate-gas</mtext>
+        <mi></mi>
+      </mrow>
+    </msub>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mn>2.0</mn>
+          <mn>7000</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>GAS</mi>
+        <mi>rate</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>gas</mi>
+    </msub>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. D-4)</mtext>
+</math>

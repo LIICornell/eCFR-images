@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>COS</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>[</mo>
+        <mi>K</mi>
+        <mo>]</mo>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>[</mo>
+        <mfrac>
+          <mi>Y</mi>
+          <mi>Z</mi>
+        </mfrac>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mi>S</mi>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mo>&#8230;</mo>
+  <mtext>{Equation 4}</mtext>
+</math>

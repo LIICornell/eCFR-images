@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>rms</mi>
+    <mi>y</mi>
+  </msub>
+  <mo>=</mo>
+  <msqrt>
+    <mfrac>
+      <mn>1</mn>
+      <mi>N</mi>
+    </mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>N</mi>
+      </munderover>
+      <msubsup>
+        <mi>y</mi>
+        <mi>i</mi>
+        <mn>2</mn>
+      </msubsup>
+    </mrow>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>Eq.1065.602-3</mtext>
+</math>

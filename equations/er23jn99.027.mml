@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mi>B</mi>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mfrac>
+          <msub>
+            <mi>PS</mi>
+            <mn>1</mn>
+          </msub>
+          <mrow>
+            <mn>100</mn>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>PS</mi>
+              <mn>1</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <msub>
+            <mi>PS</mi>
+            <mn>2</mn>
+          </msub>
+          <mrow>
+            <mn>100</mn>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>PS</mi>
+              <mn>2</mn>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 28)</mtext>
+</math>

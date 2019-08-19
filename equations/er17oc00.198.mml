@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <msub>
+      <mi>SO</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>5</mn>
+  </msub>
+  <msub>
+    <mi>F</mi>
+    <mi>c</mi>
+  </msub>
+  <msub>
+    <mi>m</mi>
+    <mrow>
+      <msub>
+      <mi>so</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+  </msub>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>af</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>ai</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 6A-7</mtext>
+</math>

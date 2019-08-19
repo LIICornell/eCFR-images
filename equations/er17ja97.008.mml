@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>RMR</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mi>&#961;</mi>
+    <msup>
+      <mn>10</mn>
+      <mn>9</mn>
+    </msup>
+  </mfrac>
+  <mi>Q</mi>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mi>Fr</mi>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eqn WW9)</mtext>
+</math>

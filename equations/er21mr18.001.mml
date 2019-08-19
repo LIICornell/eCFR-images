@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>N</mi>
+      <mi>re</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>8.64</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mn>5</mn>
+      </msup>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>M</mi>
+        <mi>w</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mo>[</mo>
+  <mfrac>
+    <msub>
+      <mi>Q</mi>
+      <mi>s</mi>
+    </msub>
+    <mi>&#956;</mi>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 10)</mtext>
+</math>

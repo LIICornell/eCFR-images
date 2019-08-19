@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>G</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>Gj</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi>B</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <msub>
+    <mi>Q</mi>
+    <mi>Gj</mi>
+  </msub>
+  <msub>
+    <mi>&#952;</mi>
+    <mi>C</mi>
+  </msub>
+  <msub>
+    <mi>K</mi>
+    <mn>1</mn>
+  </msub>
+  <mspace width="2em"/>
+  <mtext>Eq. 204C-1</mtext>
+</math>

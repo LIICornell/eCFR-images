@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Deviation</mtext>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mrow>
+          <mi>p</mi>
+          <mo>(</mo>
+          <mi>s</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mover>
+          <mi>C</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mrow>
+          <mi>p</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>A</mi>
+              <mspace width=".2em"/>
+              <mi>or</mi>
+              <mspace width=".2em"/>
+              <mi>B</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 2-4</mtext>
+</math>
