@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>ho</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>h</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>MW</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi>h</mi>
+      </msub>
+    </mfrac>
+    <mi>x</mi>
+    <msup>
+      <mn>10</mn>
+      <mn>3</mn>
+    </msup>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Equation A-4)</mtext>
+</math>

@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mtext>CPI-U-Year of Service</mtext>
+      <mtext>CPI-U-Base Year</mtext>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mrow>
+      <mrow>
+        <mo>$</mo>
+        <mn>125</mn>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>or</mi>
+            <mspace width=".2em"/>
+            <mo>$</mo>
+            <mn>75</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>/</mo>
+        <mi>hr</mi>
+      </mrow>
+      <mo>=</mo>
+      <mtext>Adjusted Rate</mtext>
+    </mrow>
+  </mrow>
+</math>

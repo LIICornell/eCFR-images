@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Control Efficiency</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>NMOC</mi>
+          <mi>in</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>NMOC</mi>
+          <mi>out</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>NMOC</mi>
+      <mi>in</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

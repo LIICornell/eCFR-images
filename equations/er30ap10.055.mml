@@ -1,0 +1,87 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mrow>
+        <mi>H</mi>
+        <mn>2</mn>
+        <mi>Oexhdry</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mi>&#945;</mi>
+      <mn>2</mn>
+    </mfrac>
+    <mrow>
+      <msub>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>x</mi>
+                <mi>Coombdry</mi>
+              </msub>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>x</mi>
+                <mi>THCdry</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mi>x</mi>
+        </mrow>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>Odil</mi>
+        </mrow>
+      </msub>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>dil</mi>
+          <mo>/</mo>
+          <mi>exhdry</mi>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>Oint</mi>
+        </mrow>
+      </msub>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>int</mi>
+          <mo>/</mo>
+          <mi>exhdry</mi>
+        </mrow>
+      </msub>
+      <mspace width=".2em"/>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>H</mi>
+          <mn>2</mn>
+          <mi>dry</mi>
+        </mrow>
+      </msub>
+      <mspace width=".2em"/>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 1065.655-5</mtext>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>d</mi>
+  </msub>
+  <msub>
+    <mi>A</mi>
+    <mrow>
+      <mi>i</mi>
+      <mn>70</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>2</mn>
+        <mo>&#183;</mo>
+        <mn>3410.5</mn>
+      </mrow>
+      <mn>1089.5</mn>
+    </mfrac>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mn>287.058</mn>
+        <mo>&#183;</mo>
+        <mn>293.68</mn>
+      </mrow>
+      <mn>101300</mn>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+</math>

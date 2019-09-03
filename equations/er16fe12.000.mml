@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>Csg</mi>
+          <mo>&#215;</mo>
+          <mi>Qsg</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>Cte</mi>
+          <mo>&#215;</mo>
+          <mi>Qte</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>Osg</mi>
+        <mo>&#215;</mo>
+        <mi>h</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>(Eq. 2)</mtext>
+</math>

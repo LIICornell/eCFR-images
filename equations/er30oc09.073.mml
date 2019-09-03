@@ -1,0 +1,69 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">EF</mi>
+    <mrow>
+      <mi style="font-style: italic">LIME</mi>
+      <mo>,</mo>
+      <mi>i</mi>
+      <mo>,</mo>
+      <mi>n</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">SR</mi>
+          <mi style="font-style: italic">CaO</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mrow>
+            <mi style="font-style: italic">Ca</mi>
+            <mi>O</mi>
+          </mrow>
+          <mrow>
+            <mi>i</mi>
+            <mo>,</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">SR</mi>
+          <mi style="font-style: italic">MgO</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mi style="font-style: italic">MgO</mi>
+          <mrow>
+            <mi>i</mi>
+            <mo>,</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mrow>
+    <mo>*</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mn>2000</mn>
+      <mn>2205</mn>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. S-1)</mtext>
+</math>

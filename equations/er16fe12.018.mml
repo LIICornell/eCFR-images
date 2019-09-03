@@ -1,0 +1,23 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Reported Result</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mtext>Measured Concentration in Stack</mtext>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>%</mo>
+        <mi>R</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi>x</mi>
+  <mspace width=".2em"/>
+  <mn>100</mn>
+  <mspace width="6em"/>
+  <mtext>(Eq. B-1)</mtext>
+</math>

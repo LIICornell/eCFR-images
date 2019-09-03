@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Official transient emission result</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mn>0.05</mn>
+          <mo>&#183;</mo>
+          <mtext>cold-start emissions (g) </mtext>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mn>0.95</mn>
+          <mo>&#183;</mo>
+          <mtext>hot-start emissions (g)</mtext>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mn>0.05</mn>
+          <mo>&#183;</mo>
+          <mtext>cold-start work </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>kW</mi>
+              <mo>&#183;</mo>
+              <mi>hr</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mn>0.95</mn>
+          <mo>&#183;</mo>
+          <mtext>hot-start work </mtext>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>kW</mi>
+              <mo>&#183;</mo>
+              <mi>hr</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

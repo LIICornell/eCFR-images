@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow>
+              <mn>995,000</mn>
+              <mo>&#215;</mo>
+              <msub>
+                <mi>Q</mi>
+                <mi style="font-style: italic">un</mi>
+              </msub>
+            </mrow>
+            <mo>&#215;</mo>
+            <mi>&#916;P</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi style="font-style: italic">MF</mi>
+          <mrow>
+            <mi style="font-style: italic">CH</mi>
+            <mspace width=".2em"/>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mn>16</mn>
+        <mi style="font-style: italic">MVC</mi>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mn>0.001</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Y-23)</mtext>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mrow>
+              <msub>
+                <mi>Re</mi>
+                <mi>f</mi>
+              </msub>
+            </mrow>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi style="font-style: italic">EF</mi>
+            <mi style="font-style: italic">BD</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mn>16</mn>
+          <mi style="font-style: italic">MVC</mi>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+    </mrow>
+    <mn>0.001</mn>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. Y-20)</mtext>
+</math>

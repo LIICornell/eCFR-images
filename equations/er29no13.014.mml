@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>CH</mi>
+        <mn>4</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mn>1</mn>
+      <mi>i</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mrow>
+              <mi>product</mi>
+                <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mn>2</mn>
+            <mn>2205</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>EF</mi>
+          <msub>
+            <mi>product</mi>
+            <mi>i</mi>
+          </msub>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. K-3)</mtext>
+</math>

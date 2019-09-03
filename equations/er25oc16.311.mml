@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>f</mi>
+    <mrow>
+      <mi>nref</mi>
+      <mn>1000</mn>
+      <mo>,</mo>
+      <mi>dyno</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>4.0</mn>
+          <mo>&#183;</mo>
+          <mn>20.00128</mn>
+        </mrow>
+        <mrow>
+          <mn>2</mn>
+          <mo>&#183;</mo>
+          <mrow>
+            <mn>3.14</mn>
+            <mo>&#183;</mo>
+            <mn>0.399</mn>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>=</mo>
+      <mrow>
+        <mn>31.9515</mn>
+        <mspace width=".2em"/>
+        <mi>r</mi>
+        <mo>/</mo>
+        <mi>s</mi>
+      </mrow>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>1917.09</mn>
+      <mspace width=".2em"/>
+      <mi>rpm</mi>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>&#8226; </mtext>
+  <mtext>Sample size with FPC </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>Py</mi>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>Pn</mi>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <msup>
+          <mtext>Std. error</mtext>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <msup>
+            <mrow>
+              <mi>Std</mi>
+              <mo>.</mo>
+              <mi>error</mi>
+            </mrow>
+            <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mi>Py</mi>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mi>Pn</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>N</mi>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mrow>
+      <mi>&#956;g</mi>
+      <mspace width=".2em"/>
+      <msubsup>
+        <mi>NO</mi>
+        <mn>3</mn>
+        <mo>&#8722;</mo>
+      </msubsup>
+    </mrow>
+    <mrow>
+      <mi>m</mi>
+      <mn>1</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mi>g</mi>
+  <mspace width=".2em"/>
+  <mi>of</mi>
+  <mspace width=".2em"/>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>KNO</mi>
+        <mn>3</mn>
+      </msub>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mn>3</mn>
+      </msup>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mn>62.01</mn>
+      <mn>101.10</mn>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 7D-1</mtext>
+</math>

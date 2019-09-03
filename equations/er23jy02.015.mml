@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CE</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>TVH</mi>
+        <mi>captured</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>TVH</mi>
+            <mi>captured</mi>
+          </msub>
+          <mo>+</mo>
+          <msub>
+            <mi>TVH</mi>
+            <mi>uncaptured</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

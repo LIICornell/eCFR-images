@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+              <mrow>
+                <mi>&#916;</mi>
+                <msub>
+                  <mi>F</mi>
+                  <mi>spin</mi>
+                </msub>
+              </mrow>
+            <mo>=</mo>
+            <msub>
+              <mi>F</mi>
+              <mi>spinhi</mi>
+            </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>F</mi>
+            <mi>spinlo</mi>
+          </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1037.528-10</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

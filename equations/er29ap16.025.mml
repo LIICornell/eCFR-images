@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>c</mi>
+    <mi>adj</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>c</mi>
+    <mi>meas</mi>
+  </msub>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>20.9</mn>
+        <mo>&#8722;</mo>
+        <mn>7</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>/</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>20.9</mn>
+        <mo>&#8722;</mo>
+        <msub>
+          <mrow>
+            <mo>%</mo>
+            <mi>O</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

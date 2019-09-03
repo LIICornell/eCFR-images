@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Idle Test Threshold </mtext>
+  <mrow>
+    <mo>(</mo>
+    <mi>ITT</mi>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>=</mo>
+    <mn>20.5</mn>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1.58</mn>
+          <mo>&#215;</mo>
+          <mtext>Displacement</mtext>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

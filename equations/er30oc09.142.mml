@@ -1,0 +1,66 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mi>C</mi>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mrow>
+              <mi>V</mi>
+              <mo>&#215;</mo>
+              <mfrac>
+                <mi>C</mi>
+                <mrow>
+                  <mn>100</mn>
+                  <mo>%</mo>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo>&#215;</mo>
+            <mn>0.0423</mn>
+          </mrow>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mrow>
+              <mn>520</mn>
+              <mo>&#176;</mo>
+              <mi>R</mi>
+            </mrow>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mi>P</mi>
+          <mrow>
+            <mn>1</mn>
+            <mspace width=".2em"/>
+            <mi>atm</mi>
+          </mrow>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mn>0.454</mn>
+          <mspace width=".2em"/>
+          <mtext>metric ton</mtext>
+        </mrow>
+        <mrow>
+          <mn>1,000</mn>
+          <mspace width=".2em"/>
+          <mtext>pounds</mtext>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ=6)</mtext>
+</math>

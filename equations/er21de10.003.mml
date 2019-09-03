@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>+</mo>
+  <mn>0.0057193</mn>
+  <mo>[</mo>
+  <mfrac>
+    <mi>&#956;</mi>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>s</mi>
+      </msub>
+      <msub>
+        <mi>D</mi>
+        <mn>50</mn>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>T</mi>
+          <mi>s</mi>
+        </msub>
+        <msub>
+          <mi>M</mi>
+          <mi>w</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 4)</mtext>
+</math>

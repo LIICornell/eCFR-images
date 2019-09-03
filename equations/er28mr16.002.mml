@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Equation 3</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mo>&#x2223;</mo>
+            <mi>bias</mi>
+            <mo>&#x2223;</mo>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mi style="font-style: italic">AB</mi>
+            <mo>+</mo>
+            <mrow>
+              <msub>
+                <mi>t</mi>
+                <mrow>
+                  <mn>0.95</mn>
+                  <mo>,</mo>
+                  <mi>n</mi>
+                  <mo>&#8722;</mo>
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo>&#183;</mo>
+              <mfrac>
+                <mi style="font-style: italic">AS</mi>
+                <msqrt>
+                  <mi>n</mi>
+                </msqrt>
+              </mfrac>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

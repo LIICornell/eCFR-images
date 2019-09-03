@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>,</mo>
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>,</mo>
+  <mi>or</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>N</mi>
+    <mn>2</mn>
+  </msub>
+  <mi>O</mi>
+  <mspace width=".2em"/>
+  <mtext>from biomass</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mn>0.907.18</mn>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mo>*</mo>
+        <mi>Solids</mi>
+      </mrow>
+      <mo>*</mo>
+      <mi>HHV</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi>EF</mi>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. AA-1)</mtext>
+</math>

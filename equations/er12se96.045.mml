@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Percent reduction</mtext>
+  <mrow>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mi>B</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>E</mi>
+                <mi>pp</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>P</mi>
+                <mi>B</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>pp</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+      <msub>
+        <mi>E</mi>
+        <mi>B</mi>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mn>100</mn>
+  <mo>%</mo>
+  <mspace width="3em"/>
+  <mtext>[Eq. 46]</mtext>
+</math>

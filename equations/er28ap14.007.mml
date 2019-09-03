@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Actual rpm </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <mspace width=".2em"/>
+        <mi>rpm</mi>
+        <mrow>
+          <mo></mo>
+          <mrow>
+            <mo>&#183;</mo>
+            <mo>(</mo>
+            <mrow>
+              <mtext>Max Test Speed</mtext>
+              <mo>&#8722;</mo>
+              <mtext>Curb Idle Speed</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mn>112</mn>
+    </mfrac>
+  </mrow>
+  <mrow>
+    <mo>+</mo>
+    <mtext>Curb Idle Speed</mtext>
+  </mrow>
+</math>

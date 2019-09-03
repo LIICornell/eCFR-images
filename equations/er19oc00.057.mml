@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mi>W</mi>
+      <mo>&#8212;</mo> 
+    </mover>
+    <mi>az</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mi>u</mi>
+    <mo>&#183;</mo> 
+    <mrow>
+      <mrow>
+        <mi>cos</mi>
+        <mo>&#x2061;</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>90</mn>
+          <mo>&#8722;</mo>
+          <mi>az</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mi>v</mi>
+        <mspace width=".2em"/>
+        <mo>&#183;</mo> 
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>sin</mi>
+          <mo>&#x2061;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>90</mn>
+              <mo>&#8722;</mo>
+              <mi>az</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Equation B3)</mtext>
+</math>

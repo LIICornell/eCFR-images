@@ -1,0 +1,85 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Equation 5:</mtext>
+  <mspace width="2em"/>
+  <mi>CF</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mi>A</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msubsup>
+            <mi>f</mi>
+            <mi>i</mi>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>0.28</mn>
+                <mo>&#8722;</mo>
+                <mn>0.10</mn>
+                <mspace width=".2em"/>
+                <mi>log</mi>
+                <mspace width=".2em"/>
+                <msub>
+                  <mi>f</mi>
+                  <mi>i</mi>
+                </msub>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </msubsup>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo>[</mo>
+        <msubsup>
+          <mi>f</mi>
+          <mi>i</mi>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>0.56</mn>
+              <mo>&#8722;</mo>
+              <mn>0.20</mn>
+              <mspace width=".2em"/>
+              <mi>log</mi>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>f</mi>
+                <mi>i</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </msubsup>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

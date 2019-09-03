@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>FR</mi>
+    <mi>a</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <mn>1.27</mn>
+        <mo>*</mo>
+        <msup>
+          <mn>10</mn>
+          <mn>5</mn>
+        </msup>
+      </mrow>
+      <mo>*</mo>
+      <mi>A</mi>
+    </mrow>
+    <mo>*</mo>
+  </mrow>
+  <msqrt>
+    <mrow>
+      <mn>187.08</mn>
+      <mo>*</mo>
+      <msub>
+        <mi>T</mi>
+        <mi>u</mi>
+      </msub>
+    </mrow>
+  </msqrt>
+  <mspace width="6em"/>
+  <mtext>(Eq. W-11B)</mtext>
+</math>

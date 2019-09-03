@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mi>P</mi>
+      <mo>=</mo>
+    </mover>
+    <mi>loss</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>4.295</mn>
+      <mo>+</mo>
+      <mn>4.285</mn>
+      <mo>+</mo>
+      <mn>4.292</mn>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mn>4.291</mn>
+  <mspace width=".2em"/>
+  <mi>k</mi>
+  <mspace width=".2em"/>
+  <mi>W</mi>
+</math>

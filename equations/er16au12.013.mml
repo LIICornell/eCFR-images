@@ -1,0 +1,68 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi style="font-style: italic">EL</mi>
+      <mi style="font-style: italic">BTEX</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mrow>
+              <mn>5.44</mn>
+              <mspace width=".2em"/>
+              <mi>x</mi>
+              <msup>
+                <mrow>
+                  <mspace width=".2em"/>
+                  <mn>10</mn>
+                </mrow>
+                <mrow>
+                  <mo>&#8722;</mo>
+                  <mn>5</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mo>*</mo>
+            <mtext style="font-style: italic">Throughput</mtext>
+          </mrow>
+          <mo>*</mo>
+          <msub>
+            <mi>C</mi>
+            <mrow>
+              <mi>i</mi>
+              <mo>,</mo>
+              <mi style="font-style: italic">BTEX</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <mn>365</mn>
+        <mspace width=".2em"/>
+        <mfrac>
+          <mi>days</mi>
+          <mi>yr</mi>
+        </mfrac>
+      </mrow>
+      <mo>*</mo>
+      <mfrac>
+        <mrow>
+          <mn>1</mn>
+          <mi>Mg</mi>
+        </mrow>
+        <mrow>
+          <mn>1</mn>
+          <mi>x</mi>
+          <msup>
+            <mn>10</mn>
+            <mn>4</mn>
+          </msup>
+          <mtext style="font-style: italic">grams</mtext>
+        </mrow>
+      </mfrac>
+      <mspace width="4em"/>
+      <mtext>Equation 2</mtext>
+    </mrow>
+  </mrow>
+</math>

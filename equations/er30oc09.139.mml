@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>TVS</mi>
+    <mi>AT</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mtext>Population</mtext>
+        <mi>AT</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>TAM</mi>
+        <mi>AT</mi>
+      </msub>
+    </mrow>
+    <mo>&#215;</mo>
+    <msub>
+      <mi>VS</mi>
+      <mi>AT</mi>
+    </msub>
+  </mrow>
+  <mo>/</mo>
+  <mn>1000</mn>
+  <mspace width=".2em"/>
+</math>

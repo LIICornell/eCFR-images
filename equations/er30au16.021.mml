@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>SVA Accuracy</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mo>&#x2223;</mo>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mi>M</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>V</mi>
+              <mi>R</mi>
+            </msub>
+          </mrow>
+          <mo>&#x2223;</mo>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>R</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq. 2-4</mtext>
+</math>

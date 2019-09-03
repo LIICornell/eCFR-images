@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>QMW</mi>
+          <mi>a</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi>QMW</mi>
+          <mi>b</mi>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>QMW</mi>
+        <mi>a</mi>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eqn WW3)</mtext>
+</math>

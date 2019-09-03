@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Or</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>BMI</mi>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mtext>Weight in Kilograms</mtext>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mtext>Height in Centimeters</mtext>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mtext>Height in Centimeters</mtext>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+          <mo>)</mo>
+          <mo>&#215;</mo>
+          <mn>10,000</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

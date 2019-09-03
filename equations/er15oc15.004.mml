@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>L</mi>
+    <mi style="font-style: italic">TFC</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>L</mi>
+          <mi style="font-style: italic">TFE</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>E</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>0.018</mn>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>N</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mo>/</mo>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>E</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>N</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 6-A</mtext>
+</math>

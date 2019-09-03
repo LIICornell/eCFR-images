@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>QMG</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>K</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>(</mo>
+    <mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <msub>
+          <mi>CG</mi>
+          <mrow>
+            <mi>b</mi>
+            <mo>,</mo>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mi>MW</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+    <msub>
+      <mi>QG</mi>
+      <mi>b</mi>
+    </msub>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eqn WW6)</mtext>
+</math>

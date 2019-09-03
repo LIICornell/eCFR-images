@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>R</mi>
+    <mi>batchcycle</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mrow>
+              <mi>epox</mi>
+              <mo>,</mo>
+              <mi>f</mi>
+            </mrow>
+          </msub>
+          <msub>
+            <mi>P</mi>
+            <mrow>
+              <mi>epox</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+        </mfrac>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>*</mo>
+    <mn>100</mn>
+    <mspace width="4em"/>
+    <mtext>[Equation 11]</mtext>
+  </mrow>
+</math>

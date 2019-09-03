@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>,</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mi style="font-style: italic">GOR</mi>
+            <mo>*</mo>
+            <mi style="font-style: italic">FR</mi>
+          </mrow>
+          <mo>*</mo>
+          <mi>D</mi>
+        </mrow>
+        <mspace width="6em"/>
+        <mtext>(Eq. W-17A)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>,</mo>
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi style="font-style: italic">PR</mi>
+        <mo>*</mo>
+        <mi>D</mi>
+        <mspace width="6em"/>
+        <mtext>(Eq. W-17B)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

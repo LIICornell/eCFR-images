@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>point</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>K</mi>
+  <mrow>
+    <mo>&#8970;</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>j</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <mrow>
+        <mo></mo>
+        <msub>
+          <mi>C</mi>
+          <mi>j</mi>
+        </msub>
+        <mo></mo>
+        <msub>
+          <mi>M</mi>
+          <mi>j</mi>
+        </msub>
+      </mrow>
+    </mrow>
+    <mo>&#8971;</mo>
+  </mrow>
+  <mo>FR</mo>
+  <mspace width="2em"/>
+  <mtext>[Eq. 10]</mtext>
+</math>

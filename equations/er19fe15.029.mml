@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mi>NOxcor</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>x</mi>
+        <mi>NOx</mi>
+      </msub>
+      <mo>&#183;</mo> 
+      <mfrac>
+        <msub>
+          <mi>H</mi>
+          <mi>s</mi>
+        </msub>
+        <mrow>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mn>0.0329</mn>
+          </mrow>
+          <mo>&#183;</mo> 
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi>H</mi>
+              <mo>&#8722;</mo>
+              <mn>10.71</mn>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 1066.615-2</mtext>
+</math>

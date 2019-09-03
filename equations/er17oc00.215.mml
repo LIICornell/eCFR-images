@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>E</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>200</mn>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>x</mi>
+            <mo>&#8722;</mo>
+            <mi>y</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mn>1.0</mn>
+        <mspace width=".2em"/>
+        <mi>s</mi>
+        <mspace width=".2em"/>
+        <mfrac>
+          <mn>46.01</mn>
+          <mn>62.01</mn>
+        </mfrac>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>269.6</mn>
+        <mrow>
+          <mspace width=".2em"/>
+          <mo>(</mo>
+          <mrow>
+            <mi>x</mi>
+            <mo>&#8722;</mo>
+            <mi>y</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mi>s</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 7C-4</mtext>
+</math>

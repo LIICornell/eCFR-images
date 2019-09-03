@@ -1,0 +1,70 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Total Emissions</mtext>
+  <mrow>
+    <mo>(</mo>
+    <mtext>metric tons </mtext>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+    <mi>e</mi>
+    <mrow>
+      <mo>/</mo>
+      <mi>yr</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>CH</mi>
+              <mn>4</mn>
+            </msub>
+            <msub>
+              <mi>emissions</mi>
+              <mi>MMS</mi>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>CH</mi>
+              <mn>4</mn>
+            </msub>
+            <msub>
+              <mi>emissions</mi>
+              <mi>AD</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#215;</mo>
+        <mn>21</mn>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <mo>+</mo>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mrow>
+            <mtext>Direct </mtext>
+            <mi>N</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+        <mtext>O emissions </mtext>
+        <mo>&#215;</mo>
+        <mn>310</mn>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-15)</mtext>
+</math>

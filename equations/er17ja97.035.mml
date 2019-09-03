@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>&#8722;</mo>
+  <mn>1</mn>
+  <mi>n</mi>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>C</mi>
+        <mo>/</mo>
+        <msub>
+          <mi>C</mi>
+          <mn>0</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>GK</mi>
+          <mi>eq</mi>
+        </msub>
+        <mo>/</mo>
+        <mi>V</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mi>t</mi>
+  <mspace width="4em"/>
+  <mtext>(Eqn App. C-2)</mtext>
+</math>

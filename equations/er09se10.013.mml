@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Concentration</mtext>
+      <mtext>(wet)</mtext>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mtext>Concentration</mtext>
+        <mtext>(dry)</mtext>
+      </msub>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>B</mi>
+            <mi>ws</mi>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation 12A-4b)</mtext>
+</math>

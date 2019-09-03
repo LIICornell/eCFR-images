@@ -1,0 +1,54 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>m</mi>
+        <mo>=</mo>
+        <mn>250</mn>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mn>1000</mn>
+            <mn>50</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mn>46.01</mn>
+            <mn>62.01</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>S</mi>
+            <mo>&#8722;</mo>
+            <mi>B</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>Eq. 7D-2</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mn>3710</mn>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>S</mi>
+            <mo>&#8722;</mo>
+            <mi>B</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

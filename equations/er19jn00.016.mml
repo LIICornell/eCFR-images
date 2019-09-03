@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>point</mi>
+      <mo>,</mo>
+      <mi>inlet</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mi>K</mi>
+  <mo>[</mo>
+  <munderover>
+    <mo>&#8721;</mo>
+    <mrow>
+      <mi>j</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>n</mi>
+  </munderover>
+  <msub>
+    <mi>C</mi>
+    <mi>j</mi>
+  </msub>
+  <msub>
+    <mi>M</mi>
+    <mi>j</mi>
+  </msub>
+  <mo>]</mo>
+  <msub>
+    <mi>FR</mi>
+    <mi>inlet</mi>
+  </msub>
+  <mspace width="4em"/>
+  <mtext>[Eq. 20]</mtext>
+</math>

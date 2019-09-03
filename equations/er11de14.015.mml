@@ -1,0 +1,80 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>R</mi>
+      <mo>&#8722;</mo>
+      <mi style="font-style: italic">ip</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi style="font-style: italic">FER</mi>
+        <mi>d</mi>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>E</mi>
+        <mi>F</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>d</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>v</mi>
+          </munderover>
+          <msub>
+            <mi style="font-style: italic">FER</mi>
+            <mi>d</mi>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mi style="font-style: italic">MFF</mi>
+          <mi style="font-style: italic">Rd</mi>
+        </msub>
+        <mo>+</mo>
+        <mi style="font-style: italic">FEP</mi>
+        <mo>*</mo>
+        <msub>
+          <mi style="font-style: italic">MFF</mi>
+          <mi>p</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>k</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>u</mi>
+          </munderover>
+          <msub>
+            <mi style="font-style: italic">FEB</mi>
+            <mi>k</mi>
+          </msub>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mi style="font-style: italic">MFF</mi>
+          <mi style="font-style: italic">Bk</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-11)</mtext>
+</math>

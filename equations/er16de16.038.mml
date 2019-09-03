@@ -1,0 +1,15 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Loss recapture income</mtext>
+    <mspace width="8em"/>
+    <mo>&#215;</mo>
+    <mspace width="8em"/>
+    <mfrac>
+      <mtext>gain from intangible property </mtext>
+      <mrow>
+        <mtext>gain from all branch assets</mtext>
+        <mtext></mtext>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

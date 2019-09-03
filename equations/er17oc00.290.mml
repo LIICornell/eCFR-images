@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>N</mi>
+    <mi>T</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mrow>
+      <mi>mL</mi>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>Na</mi>
+        </mrow>
+        <mn>2</mn>
+      </msub>
+      <msub>
+        <mi>S</mi>
+        <mn>2</mn>
+      </msub>
+      <msub>
+        <mi>O</mi>
+        <mn>3</mn>
+      </msub>
+      <mspace width=".2em"/>
+      <mtext>consumed</mtext>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 16A-5</mtext>
+</math>

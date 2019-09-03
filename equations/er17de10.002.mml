@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>CO</mi>
+    <mn>2</mn>
+    <mo>*</mo>
+  </msubsup>
+  <mo>=</mo>
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>100</mn>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>%</mo>
+          <msub>
+            <mi>H</mi>
+            <mn>2</mn>
+          </msub>
+          <mi>O</mi>
+        </mrow>
+      </mrow>
+      <mn>100</mn>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. C-7)</mtext>
+</math>

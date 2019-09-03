@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>English Formula</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>BMI</mi>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mtext>Weight in Pounds</mtext>
+              <mrow>
+                <mrow>
+                  <mo>(</mo>
+                  <mtext>Height in Inches</mtext>
+                  <mo>)</mo>
+                </mrow>
+                <mo>&#215;</mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mtext>Height in Inches</mtext>
+                  <mo>)</mo>
+                </mrow>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>703</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

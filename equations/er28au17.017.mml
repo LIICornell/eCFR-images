@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>samp</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mi>&#956;g</mi>
+    <mo>/</mo>
+    <mi>L</mi>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>C</mi>
+          <mi>ex</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>x</mi>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>V</mi>
+          </mrow>
+          <mi>ex</mi>
+        </msub>
+      </mrow>
+      <mspace width=".2em"/>
+      <mi>x</mi>
+      <mspace width=".2em"/>
+      <mi>DF</mi>
+    </mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>Equation 3</mtext>
+</math>

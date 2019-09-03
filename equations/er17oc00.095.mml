@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mo>%</mo>
+      <mi>CO</mi>
+    </mrow>
+    <mn>2</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mi>adj</mi>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>%</mo>
+        <mi>CO</mi>
+      </mrow>
+      <mn>2</mn>
+    </msub>
+    <mo>+</mo>
+    <mrow>
+      <mo>%</mo>
+      <mi>CO</mi>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 3B-3</mtext>
+</math>

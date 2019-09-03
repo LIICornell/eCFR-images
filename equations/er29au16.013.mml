@@ -1,0 +1,60 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>2</mn>
+  <mspace width=".2em"/>
+  <mi>k</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>L</mi>
+    <mi>o</mi>
+  </msub>
+  <msub>
+    <mi>M</mi>
+    <mi>i</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <msup>
+      <mrow>
+        <mi>e</mi>
+        <mo>&#8722;</mo>
+      </mrow>
+      <msub>
+        <mi>kt</mi>
+        <mi>i</mi>
+      </msub>
+    </msup>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="2em"/>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>C</mi>
+      <mi>NMOC</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="2em"/>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>3.6</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>9</mn>
+        </mrow>
+      </msup>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq.7)</mtext>
+</math>

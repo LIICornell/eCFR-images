@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <msub>
+      <mi>&#963;</mi>
+      <mi>P</mi>
+    </msub>
+  <mo>=</mo>
+  <mi>P</mi>
+  <msqrt>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msubsup>
+          <mi>CV</mi>
+          <mtext>upstream</mtext>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mi>CV</mi>
+          <mtext>downstream</mtext>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </msqrt>
+</math>

@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <mrow>
+          <mo>[</mo>
+          <mfrac>
+            <mn>10000</mn>
+            <mn>25000</mn>
+          </mfrac>
+          <mo>]</mo>
+          <mfrac>
+            <mn>1</mn>
+            <mn>14.2343</mn>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mo>[</mo>
+          <mfrac>
+            <mn>15000</mn>
+            <mn>25000</mn>
+          </mfrac>
+          <mo>]</mo>
+          <mfrac>
+            <mn>1</mn>
+            <mn>15.0000</mn>
+          </mfrac>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mn>14.6840</mn>
+    <mspace width=".2em"/>
+    <mtext>miles per gallon</mtext>
+  </mrow>
+</math>

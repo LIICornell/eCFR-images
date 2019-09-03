@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mn>4</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>0.02</mn>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>AB</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>EF</mi>
+          <mrow>
+            <mi>AB</mi>
+            <mo>,</mo>
+            <mi>CH</mi>
+            <mspace width=".2em"/>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. Y-17)</mtext>
+</math>

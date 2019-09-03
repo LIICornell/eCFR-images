@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>&#8226;</mo>
+  <mtext>Standard error, 90 percent confidence interval = </mtext>
+  <mfrac>
+    <mrow>
+      <mo>.</mo>
+      <mn>05</mn>
+    </mrow>
+    <mn>1.645</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mo>.</mo>
+  <mn>0303951</mn>
+</math>

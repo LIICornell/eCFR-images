@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Mass</mi>
+      <mrow>
+        <mi>N</mi>
+        <mn>20</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#215;</mo>
+              <msup>
+                <mn>10</mn>
+                <mrow>
+                  <mo>&#8722;</mo>
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mi>Fuel</mi>
+        </mrow>
+        <mo>&#215;</mo>
+        <mi>HHV</mi>
+      </mrow>
+      <mo>&#215;</mo>
+      <mi>EF</mi>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. W-40)</mtext>
+</math>

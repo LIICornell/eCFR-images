@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Carbon Share</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+        <mo>&#8721;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mrow>
+              <mo>%</mo>
+              <mtext>Composition</mtext>
+            </mrow>
+            <mrow>
+              <mi>i</mi>
+              <mo>&#8230;</mo>
+              <mi>n</mi>
+            </mrow>
+          </msub>
+          <mspace width="1em"/>
+          <msub>
+            <mrow>
+              <mo>%</mo>
+              <mi>Mass</mi>
+            </mrow>
+            <mrow>
+              <mi>i</mi>
+              <mo>&#8230;</mo>
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. MM-7)</mtext>
+</math>

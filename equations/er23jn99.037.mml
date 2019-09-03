@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>HAP</mi>
+      <mi>reduced</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>HF</mi>
+        <mi>base</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>0.85</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>R</mi>
+        <mrow>
+          <mi>P</mi>
+          <mn>2</mn>
+        </mrow>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>prod</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 38)</mtext>
+</math>

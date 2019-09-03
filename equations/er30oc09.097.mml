@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mn>1</mn>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <mrow>
+          <mrow>
+            <msub>
+              <mrow>
+                <mo>(</mo>
+                <msub>
+                  <mi>CB</mi>
+                  <mi>Q</mi>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+              <mi>n</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <mi>CC</mi>
+          </mrow>
+          <mo>&#215;</mo>
+          <mfrac>
+            <mn>44</mn>
+            <mn>12</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#215;</mo>
+        <mn>0.001</mn>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. Y-11)</mtext>
+</math>

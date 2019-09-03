@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>PLD</mi>
+    <mrow>
+      <mo>(</mo>
+      <mn>30</mn>
+      <mo>&#8722;</mo>
+      <mi>day</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>PLL</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>PLL</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>+</mo>
+        <mo>&#8230;</mo>
+        <mo>+</mo>
+        <msub>
+          <mi>PLL</mi>
+          <mn>30</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>30</mn>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 303-10</mtext>
+</math>

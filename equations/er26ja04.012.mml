@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CSI</mi>
+  <mo>=</mo>
+  <mn>10</mn>
+  <mo>[</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mtext>grams of </mtext>
+          <mn>235</mn>
+        </msup>
+        <mi>U</mi>
+      </mrow>
+      <mi>X</mi>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mtext>grams of </mtext>
+          <mn>233</mn>
+        </msup>
+        <mi>U</mi>
+      </mrow>
+      <mi>Y</mi>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+        <mtext>grams of Pu </mtext>
+      <mi>Z</mi>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+  <mo>;</mo>
+</math>

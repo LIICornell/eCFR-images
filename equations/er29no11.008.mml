@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>DOC</mi>
+    <mi>x</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>F</mi>
+        <mi>DOC</mi>
+      </msub>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mo>%</mo>
+          <mspace width=".2em"/>
+          <msub>
+            <mtext>VolatileSolids</mtext>
+            <mi>x</mi>
+          </msub>
+        </mrow>
+        <mrow>
+          <mn>100</mn>
+          <mo>%</mo>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <mspace width=".2em"/>
+        <msub>
+          <mtext>TotalSolids</mtext>
+          <mi>x</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. TT-8)</mtext>
+</math>

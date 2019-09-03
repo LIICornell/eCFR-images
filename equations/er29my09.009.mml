@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>R</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>D</mi>
+      <mi>F</mi>
+      <mo>(</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>ss</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>native</mi>
+      </msub>
+      <mo>)</mo>
+      <mo>+</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>native</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>Spike</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 7E-12</mtext>
+</math>

@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi style="font-style: italic">FGHGf</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi style="font-style: italic">Rp</mi>
+            <mo>&#8722;</mo>
+            <mi style="font-style: italic">FGHGf</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi style="font-style: italic">Pp</mi>
+            <mo>&#8722;</mo>
+            <mi style="font-style: italic">FGHGf</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi style="font-style: italic">Bp</mi>
+            <mo>&#8722;</mo>
+            <mi style="font-style: italic">FGHGf</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-5)</mtext>
+</math>

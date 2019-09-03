@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Approximate sampling time</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Optimum volume</mtext>
+      <mtext>Critical orifice flow rate</mtext>
+    </mfrac>
+  </mrow>
+</math>

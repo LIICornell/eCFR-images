@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>d</mi>
+    <mi>rem</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>r</mi>
+  <mo>&#8722;</mo>
+  <msqrt>
+    <mrow>
+      <mfrac>
+        <mn>7</mn>
+        <mn>8</mn>
+      </mfrac>
+      <msup>
+        <mi>r</mi>
+        <mn>2</mn>
+      </msup>
+      <mo>&#8722;</mo>
+      <mrow>
+        <msub>
+          <mi>rd</mi>
+          <mi>last</mi>
+        </msub>
+        <mo>+</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mn>2</mn>
+        </mfrac>
+        <msubsup>
+          <mi>d</mi>
+          <mi>last</mi>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+    </mrow>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>Eq. 2H-2</mtext>
+</math>

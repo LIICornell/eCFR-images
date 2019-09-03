@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>C</mi>
+    <mi>Cr</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>M</mi>
+        <mi>Cr</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>m</mi>
+          <mrow>
+            <mo>(</mo>
+            <mi>std</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>3</mn>
+      </mrow>
+    </msup>
+    <mfrac>
+      <mi>mg</mi>
+      <mi>&#956;g</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 306-4</mtext>
+</math>

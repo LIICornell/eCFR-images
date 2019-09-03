@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>P</mi>
+    <mrow>
+      <mo>max</mo>
+      <mspace width=".2em"/>
+      <mi>i</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi style="font-style: italic">HCl</mi>
+      <mo>&#8722;</mo>
+      <mi style="font-style: italic">eq</mi>
+    </mrow>
+    <mrow>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">MP</mi>
+          <mi style="font-style: italic">iHCl</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi style="font-style: italic">MP</mi>
+            <mi style="font-style: italic">iHF</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <msub>
+              <mi style="font-style: italic">RfC</mi>
+              <mi style="font-style: italic">HCl</mi>
+            </msub>
+            <msub>
+              <mi style="font-style: italic">RfC</mi>
+              <mi style="font-style: italic">HF</mi>
+            </msub>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>(Eq. 8)</mtext>
+</math>

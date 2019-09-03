@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mover>
+            <mi>n</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mo>&#8722;</mo>
+          <mrow>
+            <msub>
+              <mi>f</mi>
+              <mi>nPDP</mi>
+            </msub>
+            <mspace width=".2em"/>
+            <mo>&#183;</mo>
+            <mspace width=".2em"/>
+            <mfrac>
+              <mrow>
+                <msub>
+                  <mi>V</mi>
+                  <mi>rev</mi>
+                </msub>
+                <mo>&#183;</mo>
+                <msub>
+                  <mi>p</mi>
+                  <mi>in</mi>
+                </msub>
+              </mrow>
+              <mrow>
+                <mi>R</mi>
+                <mo>&#183;</mo>
+                <msub>
+                  <mi>T</mi>
+                  <mi>in</mi>
+                </msub>
+              </mrow>
+            </mfrac>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.642-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

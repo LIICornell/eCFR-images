@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#948;</mi>
+  <mo>=</mo>
+  <msup>
+    <mi>tan</mi>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mi>sin</mi>
+        <mo>&#x2061;</mo>
+        <mi>&#948;</mi>
+      </mrow>
+      <mrow>
+        <mi>cos</mi>
+        <mo>&#x2061;</mo>
+        <mi>&#948;</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mtext>evaluated in positive radians &#8804;</mtext>
+  <mspace width=".2em"/>
+  <mtext>&#960;</mtext>
+  <mspace width="3em"/>
+  <mtext>(Equation A33)</mtext>
+</math>

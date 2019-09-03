@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Heat Output Rate</mtext>
+  <mrow>
+    <mo>=</mo>
+    <msub>
+      <mi>Q</mi>
+      <mi>out</mi>
+    </msub>
+    <mo>/</mo>
+  </mrow>
+  <mi>&#920;</mi>
+  <mo>,</mo>
+  <mi>BTU</mi>
+  <mo>/</mo>
+  <mi>hr</mi>
+  <mspace width="8em"/>
+  <mtext><mrow>
+    <mtext>Eq. 12</mtext>
+  </mrow>
+  </mtext>
+</math>

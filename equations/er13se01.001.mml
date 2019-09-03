@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Subcategory Starting UPB </mtext>
+        <mo>=</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mo>[</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Starting UPB for</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>Commitment Loan</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>Group Category</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mi>MDP</mi>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PT</mi>
+  <mspace width=".4em"/>
+  <mi>gr</mi>
+  <mo>/</mo>
+    <mi>hr</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>P</mi>
+          <mi>fcorr</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>mg</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>m</mi>
+          <mspace width=".4em"/>
+          <mi>mix</mi>
+          <mspace width=".4em"/>
+          <mi>kg</mi>
+          <mo>/</mo>
+          <mi>hr</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mi>avg</mi>
+      <mo>.</mo>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mi>m</mi>
+          <mspace width=".4em"/>
+          <mi>sample</mi>
+          <mspace width=".4em"/>
+          <mi>kg</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1000</mn>
+          <mspace width=".4em"/>
+          <mi>mg</mi>
+          <mo>/</mo>
+          <mi>gr</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+</math>

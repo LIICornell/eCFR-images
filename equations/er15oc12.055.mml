@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">CREE</mi>
+            <mi style="font-style: italic">UP</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mi style="font-style: italic">EC</mi>
+              <mi style="font-style: italic">GRIDLOSS</mi>
+            </mfrac>
+            <mo>&#215;</mo>
+            <mi style="font-style: italic">AVGUSUP</mi>
+          </mrow>
+        </mrow>
+        <mo>,</mo>
+        <mtext>and</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">CREE</mi>
+            <mi style="font-style: italic">GAS</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mn>2478</mn>
+              <mn>8887</mn>
+            </mfrac>
+            <mo>&#215;</mo>
+            <msub>
+              <mtext style="font-style: italic">TargetCO</mtext>
+              <mn>2</mn>
+            </msub>
+            <mo>,</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

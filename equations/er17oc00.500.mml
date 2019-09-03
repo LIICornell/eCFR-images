@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>m</mi>
+      <mi>Hg</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>HCI</mi>
+          <mo>)</mo>
+          <mi>Hg</mi>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>m</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>fltr</mi>
+          <mo>)</mo>
+          <mi>Hg</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 101A-3</mtext>
+</math>

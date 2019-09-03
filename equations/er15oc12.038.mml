@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">Leakage Credit </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mtext style="font-style: italic">MaxCredit </mtext>
+    <mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mrow>
+          <mo>[</mo>
+          <mn>1</mn>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mfrac>
+                  <mtext style="font-style: italic">LeakScore</mtext>
+                  <mn>16.6</mn>
+                </mfrac>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mfrac>
+                  <msub>
+                      <mi style="font-style: italic">GWP</mi>
+                      <mi style="font-style: italic">REF</mi>
+                    </msub>
+                  <mn>1430</mn>
+                </mfrac>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mi style="font-style: italic">HiLeakDis</mi>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

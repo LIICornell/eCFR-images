@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>PLO</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>T</mi>
+        <mi>VE</mi>
+      </msub>
+      <mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>ovn</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi>N</mi>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi>N</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mi>J</mi>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>NO</mi>
+          </msub>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 303-11</mtext>
+</math>

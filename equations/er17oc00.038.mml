@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>R</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mtext>arc cosine </mtext>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <mo>(</mo>
+    <mtext>cosine </mtext>
+    <msub>
+      <mi>Y</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+    <mrow>
+      <mo>(</mo>
+      <mtext>cosine </mtext>
+      <msub>
+        <mi>P</mi>
+        <mi>i</mi>
+      </msub>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>Eq. 1-2</mtext>
+</math>

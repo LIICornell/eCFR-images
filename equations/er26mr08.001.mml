@@ -1,0 +1,62 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>ABA</mi>
+      <mrow>
+        <mo>lim</mo>
+        <mspace width=".2em"/>
+        <mi>it</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mn>0.2</mn>
+            <mspace width=".2em"/>
+            <mrow>
+              <mo>(</mo>
+              <mi>IFD</mi>
+              <mo>)</mo>
+            </mrow>
+            <mo>&#8722;</mo>
+            <mn>19.1</mn>
+            <mrow>
+              <mo>(</mo>
+              <mfrac>
+                <mn>1</mn>
+                <mi>IFD</mi>
+              </mfrac>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>&#8722;</mo>
+          <mn>15.3</mn>
+          <mrow>
+            <mo>(</mo>
+            <mi>DEN</mi>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mn>6.8</mn>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mn>1</mn>
+              <mi>DEN</mi>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mo>+</mo>
+          <mn>36.5</mn>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Equation 1)</mtext>
+</math>

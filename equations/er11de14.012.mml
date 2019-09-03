@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>M</mi>
+      <mi style="font-style: italic">FGHGfj</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>DE</mi>
+          <mi style="font-style: italic">FGHGf</mi>
+        </msub>
+        <mo>*</mo>
+        <msub>
+          <mi>c</mi>
+          <mi style="font-style: italic">FGHGfj</mi>
+        </msub>
+      </mrow>
+      <mo>*</mo>
+      <msub>
+        <mi>S</mi>
+        <mi>j</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(Eq. L-8)</mtext>
+</math>

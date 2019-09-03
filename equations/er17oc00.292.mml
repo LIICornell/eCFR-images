@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>m</mi>
+      <mrow>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>Q</mi>
+    <mi>std</mi>
+  </msub>
+  <msub>
+    <mi>&#920;</mi>
+    <mi>s</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>B</mi>
+        <mi>wa</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mfrac>
+    <msub>
+      <mi>M</mi>
+      <mi>a</mi>
+    </msub>
+    <msub>
+      <mi>M</mi>
+      <mi>b</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 16A-7</mtext>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>log</mi>
+  <mspace width="1em"/>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>Op</mi>
+        <mn>2</mn>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>L</mi>
+      <mn>2</mn>
+    </msub>
+    <msub>
+      <mi>L</mi>
+      <mn>1</mn>
+    </msub>
+  </mfrac>
+  <mspace width=".2em"/>
+  <mi>log</mi>
+  <mspace width="1em"/>
+  <mo>(</mo>
+  <mrow>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <msub>
+      <mi>Op</mi>
+      <mn>1</mn>
+    </msub>
+  </mrow>
+  <mo>)</mo>
+  <mspace width="3em"/>
+  <mtext>Eq. 1-7</mtext>
+</math>

@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mover>
+      <mover>
+        <mi>m</mi>
+        <mo>&#183;</mo>
+      </mover>
+      <mo>&#8212;</mo>
+    </mover>
+    <mi>fuel</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>0.933</mn>
+  <mspace width=".2em"/>
+  <mo>&#183;</mo>
+  <mfrac>
+    <mrow>
+      <mspace width=".2em"/>
+      <mn>42.7984</mn>
+    </mrow>
+    <mrow>
+      <mn>49.3112</mn>
+      <mo>&#183;</mo>
+      <mn>0.874</mn>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>0.927</mn>
+  <mspace width=".2em"/>
+  <mi>g</mi>
+  <mo>/</mo>
+  <mi>s</mi>
+</math>

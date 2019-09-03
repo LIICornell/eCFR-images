@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Exempt consignment activity limit for mixture </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mi>i</mi>
+        </munder>
+        <mfrac>
+          <mrow>
+            <mi>f</mi>
+            <mrow>
+              <mo>(</mo>
+              <mi>i</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mrow>
+            <mi>A</mi>
+            <mrow>
+              <mo>(</mo>
+              <mi>i</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>D</mi>
+    <mrow>
+      <mn>50</mn>
+      <mspace width=".2em"/>
+      <mi>LL</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn>10.0959</mn>
+  <mspace width=".2em"/>
+  <msup>
+    <mi>C</mi>
+    <mn>0.4400</mn>
+  </msup>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mi>w</mi>
+          </msub>
+          <msub>
+            <mi>P</mi>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>S</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.0600</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 12)</mtext>
+</math>

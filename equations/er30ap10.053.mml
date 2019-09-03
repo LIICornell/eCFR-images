@@ -1,0 +1,73 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mi>Ccombdry</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>CO</mi>
+          <mn>2</mn>
+          <mi>dry</mi>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>x</mi>
+        <mi>COdry</mi>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>x</mi>
+        <mi>THCdry</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>CO</mi>
+          <mn>2</mn>
+          <mi>dil</mi>
+        </mrow>
+      </msub>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>x</mi>
+        </mrow>
+        <mrow>
+          <mi>dil</mi>
+          <mo>/</mo>
+          <mi>exhdry</mi>
+        </mrow>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>CO</mi>
+          <mn>2</mn>
+          <mi>int</mi>
+        </mrow>
+      </msub>
+      <mspace width=".2em"/>
+      <mo>&#183;</mo>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>x</mi>
+        <mrow>
+          <mi>int</mi>
+          <mo>/</mo>
+          <mi>exhdry</mi>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 1065.655-3</mtext>
+</math>

@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mi>DF</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>0.95</mn>
+    <mo>&#215;</mo>
+    <mn>3.412</mn>
+    <mspace width=".2em"/>
+    <mi>Btu</mi>
+  </mrow>
+  <mo>/</mo>
+  <mrow>
+    <mtext>W-h </mtext>
+    <mo>&#215;</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mn>2.05</mn>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>DF</mi>
+            <mi>d</mi>
+          </msub>
+        </mrow>
+        <mn>2</mn>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>4</mn>
+    </mrow>
+  </mrow>
+</math>

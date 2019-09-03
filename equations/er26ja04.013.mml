@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>CSI</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mtext>grams of </mtext>
+          <mn>239</mn>
+        <mi>Pu</mi>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mtext>grams of </mtext>
+          <mn>241</mn>
+        <mi>Pu</mi>
+      </mrow>
+    </mrow>
+    <mn>24</mn>
+  </mfrac>
+  <mo>]</mo>
+  <mo>;</mo>
+  <mi>and</mi>
+</math>

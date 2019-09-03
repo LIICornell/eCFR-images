@@ -1,0 +1,47 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>m</mi>
+      <mo>(</mo>
+      <mi>std</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>K</mi>
+        <mn>1</mn>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>m</mi>
+      </msub>
+      <mo>[</mo>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>bar</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mi>&#916;H</mi>
+            <mn>13.6</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>]</mo>
+    </mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>m</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 5-12</mtext>
+</math>

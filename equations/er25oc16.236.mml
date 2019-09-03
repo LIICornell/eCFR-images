@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>v</mi>
+            <mi>act</mi>
+          </msub>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mrow>
+                <mi>f</mi>
+                <mo>&#183;</mo>
+                <msub>
+                  <mi>d</mi>
+                  <mi>roll</mi>
+                </msub>
+              </mrow>
+              <mo>&#183;</mo>
+              <mi>&#960;</mi>
+            </mrow>
+            <mi>n</mi>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1066.235-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

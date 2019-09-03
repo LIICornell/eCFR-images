@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>RS</mi>
+            <mi>q</mi>
+          </msub>
+          <mo>=</mo>
+          <mi>avg</mi>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mi>MIR</mi>
+                <mo>&#8722;</mo>
+                <msub>
+                  <mi>MCON</mi>
+                  <mi>m</mi>
+                </msub>
+              </mrow>
+              <mi>MIR</mi>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>over all three months m in quarter q</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

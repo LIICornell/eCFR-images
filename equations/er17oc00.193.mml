@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>w</mi>
+      <mo>(</mo>
+      <mrow>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>K</mi>
+    <mn>4</mn>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <msub>
+        <mi>m</mi>
+        <mi>wf</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>m</mi>
+        <mi>wi</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 6A-2</mtext>
+</math>

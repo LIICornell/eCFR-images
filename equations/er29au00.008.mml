@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>M</mi>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mo>[</mo>
+      <mi>kg</mi>
+      <mo>/</mo>
+      <mi>kg</mi>
+      <mo>]</mo>
+    </mrow>
+    <mi>b</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>0.75</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>P</mi>
+        <mi>R</mi>
+      </msub>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>M</mi>
+      <mi>prod</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 55)</mtext>
+</math>

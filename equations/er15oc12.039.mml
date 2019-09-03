@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">HiLeakDis</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mn>1.8</mn>
+      <mo>&#215;</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mtext style="font-style: italic">LeakScore</mtext>
+              <mo>&#8722;</mo>
+              <mtext style="font-style: italic">LeakThreshold</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mn>3.3</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

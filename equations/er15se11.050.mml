@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>x</mi>
+    <mrow>
+      <mi>dil</mi>
+      <mo>/</mo>
+      <mi>exh</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn>1</mn>
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mn>0.184</mn>
+    <mrow>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mfrac>
+        <mn>35.37</mn>
+        <mn>1000</mn>
+      </mfrac>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mn>0.822</mn>
+  <mspace width=".2em"/>
+  <mi style="font-style: italic">mol</mi>
+  <mo>/</mo>
+  <mi style="font-style: italic">mol</mi>
+</math>

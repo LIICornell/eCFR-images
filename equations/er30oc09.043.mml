@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi style="font-style: italic">EF</mi>
+    <mi style="font-style: italic">CKD</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi style="font-style: italic">CKD</mi>
+          <mi style="font-style: italic">CaO</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mi style="font-style: italic">CKD</mi>
+          <mi style="font-style: italic">ncCaO</mi>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>*</mo>
+    <mrow>
+      <msub>
+        <mi style="font-style: italic">MR</mi>
+        <mi style="font-style: italic">CaO</mi>
+      </msub>
+      <mo>+</mo>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi style="font-style: italic">CKD</mi>
+              <mi style="font-style: italic">MgO</mi>
+            </msub>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi style="font-style: italic">CKD</mi>
+              <mi style="font-style: italic">ncMgO</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>*</mo>
+        <msub>
+          <mi style="font-style: italic">MR</mi>
+          <mi style="font-style: italic">MgO</mi>
+        </msub>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="5em"/>
+  <mtext>(Eq. H-4)</mtext>
+</math>

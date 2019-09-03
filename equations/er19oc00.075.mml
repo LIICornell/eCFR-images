@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>v</mi>
+    <mn>0</mn>
+  </msub>
+  <msup>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msubsup>
+          <mover>
+            <mi>EI</mi>
+            <mo>&#183;</mo> 
+          </mover>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mover>
+            <mi>FI</mi>
+            <mo>&#183;</mo> 
+          </mover>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+        <mo>+</mo>
+        <msubsup>
+          <mover>
+            <mi>G</mi>
+            <mo>&#183;</mo> 
+          </mover>
+          <mn>90</mn>
+          <mn>2</mn>
+        </msubsup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <mspace width="2em"/>
+  <mtext>(Equation B50)</mtext>
+</math>

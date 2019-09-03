@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mrow>
+      <mi>g</mi>
+      <mo>/</mo>
+      <mo>min</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>std</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>CO</mi>
+          <mi>s</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mn>3.30</mn>
+    </mrow>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>5</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 23</mtext>
+</math>

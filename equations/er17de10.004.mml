@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>HHV</mi>
+    <mi>B</mi>
+    <mo>*</mo>
+  </msubsup>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mo>[</mo>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>HHV</mi>
+          <mo>)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mo>%</mo>
+            <mi>Fuel</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. C-17)</mtext>
+</math>

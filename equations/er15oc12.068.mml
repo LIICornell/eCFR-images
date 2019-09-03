@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Maximum Decrease</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>8887</mn>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mfrac>
+              <mn>8887</mn>
+              <mtext style="font-style: italic">FltAvg</mtext>
+            </mfrac>
+            <mo>&#8722;</mo>
+            <msub>
+              <mi style="font-style: italic">MPG</mi>
+              <mi style="font-style: italic">MAX</mi>
+            </msub>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mfrac>
+      <mo>&#8722;</mo>
+      <mi style="font-style: italic">FltAvg</mi>
+    </mrow>
+  </mrow>
+</math>

@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>0.98</mn>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mi>AB</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>CEF</mi>
+            <mi>AB</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mn>44</mn>
+          <mn>12</mn>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>(EQ. Y-16A)</mtext>
+</math>

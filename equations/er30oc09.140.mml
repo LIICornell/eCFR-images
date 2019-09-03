@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mtext>Population</mtext>
+    <mi>AT</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mtext>Days onsite</mtext>
+    <mi>AT</mi>
+  </msub>
+  <mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>NAPA</mi>
+          <mi>AT</mi>
+        </msub>
+        <mn>365</mn>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-4)</mtext>
+</math>

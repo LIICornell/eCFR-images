@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>H</mi>
+    <mn>4</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <msub>
+    <mtext>Emissions</mtext>
+    <mi>AD</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mn>1</mn>
+      <mi>AD</mi>
+    </munderover>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>CH</mi>
+          <mn>4</mn>
+        </msub>
+        <mi>C</mi>
+        <mo>&#8722;</mo>
+        <mrow>
+          <msub>
+            <mi>CH</mi>
+            <mn>4</mn>
+          </msub>
+          <mi>D</mi>
+          <mo>+</mo>
+          <msub>
+            <mi>CH</mi>
+            <mn>4</mn>
+          </msub>
+          <mi>L</mi>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-5)</mtext>
+</math>

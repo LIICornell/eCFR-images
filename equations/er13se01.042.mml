@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>IREF</mi>
+            <mi>q</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mn>1</mn>
+            <mspace width=".2em"/>
+            <mi>if</mi>
+          </mrow>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>A</mi>
+            </mrow>
+            <mi>q</mi>
+          </msub>
+        </mrow>
+        <mo>&#8804;</mo>
+        <mn>12</mn>
+        <mspace width=".2em"/>
+        <mtext>and PROD </mtext>
+        <mrow>
+          <mo>=</mo>
+          <mtext>ARM</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width=".2em"/>
+        <mtext>otherwise</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

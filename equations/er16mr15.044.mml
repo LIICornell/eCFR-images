@@ -1,0 +1,26 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>Q</mi>
+    <mi>InCorrected</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <msub>
+      <mi>Q</mi>
+      <mi>in</mi>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <msub>
+        <mi>W</mi>
+        <mi style="font-style: italic">Remaining</mi>
+      </msub>
+      <mo>&#183;</mo>
+      <mn>12,500</mn>
+    </mrow>
+  </mrow>
+  <mspace width=".2em"/>
+  <mi style="text-decoration: underline; font-style: italic">Btu</mi>
+  <mspace width="9em"/>
+  <mtext>Eq. 9</mtext>
+</math>

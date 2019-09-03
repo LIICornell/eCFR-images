@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>&#8722;</mo>
+  <mfrac>
+    <mi>ds</mi>
+    <mi>dt</mi>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>GK</mi>
+        <mi>eq</mi>
+      </msub>
+      <mi>V</mi>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mi>s</mi>
+  <mo>+</mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>Q</mi>
+          <mi>m</mi>
+        </msub>
+        <mi>X</mi>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>K</mi>
+          <mi>s</mi>
+        </msub>
+        <mo>+</mo>
+        <mi>s</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mi>s</mi>
+  <mspace width="4em"/>
+  <mtext>(Eqn App C-3)</mtext>
+</math>

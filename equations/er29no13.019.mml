@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CH</mi>
+    <mtext>4 Destroyed Total</mtext>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>d</mi>
+    </munderover>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>CH</mi>
+          <mtext>4 Destroyed</mtext>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. FF-6)</mtext>
+</math>

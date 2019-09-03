@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mo>max</mo>
+      <mspace width=".2em"/>
+      <mi>i</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>Cap</mi>
+      <mi>i</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mi>MP</mi>
+      <mi style="font-style: italic">iHCl</mi>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mi>MP</mi>
+      <mi style="font-style: italic">iHF</mi>
+    </msub>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi style="font-style: italic">RfC</mi>
+        <mi style="font-style: italic">HCl</mi>
+      </msub>
+      <msub>
+        <mi style="font-style: italic">RfC</mi>
+        <mi style="font-style: italic">HF</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="6em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

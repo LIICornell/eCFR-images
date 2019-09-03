@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext style="font-style: italic">AveWeightedEmissions</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mn>1.1</mn>
+      <mo>&#215;</mo>
+      <mrow>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>n</mi>
+          </munderover>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi style="font-style: italic">Er</mi>
+              <mo>&#215;</mo>
+              <mrow>
+                <mi style="font-style: italic">Sm</mi>
+                <mo>&#215;</mo>
+                <mi style="font-style: italic">Cfi</mi>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>&#247;</mo>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>d
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mi style="font-style: italic">Sm</mi>
+            <mo>&#215;</mo>
+            <mi style="font-style: italic">Cfi</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq.1c)</mtext>
+</math>

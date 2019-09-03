@@ -1,0 +1,12 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Reported Result</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Measured Concentration (ppm)</mtext>
+      <mi>R</mi>
+    </mfrac>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 18-7</mtext>
+</math>

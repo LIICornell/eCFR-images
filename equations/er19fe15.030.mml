@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>x</mi>
+      <mi>NOxcor</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>1.21</mn>
+      <mo>&#183;</mo> 
+      <mfrac>
+        <mn>1</mn>
+        <mrow>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mn>0.0329</mn>
+          </mrow>
+          <mo>&#183;</mo> 
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>7.14741</mn>
+              <mo>&#8722;</mo>
+              <mn>10.71</mn>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mn>1.08305</mn>
+  <mspace width=".2em"/>
+  <mi>ppm</mi>
+</math>

@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mi>h</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>f</mi>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+        <mtext>all fuels</mtext>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>E</mi>
+            <mi>f</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>HI</mi>
+            <mi>f</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>t</mi>
+          <mi>f</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>T</mi>
+    </msub>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. E-2)</mtext>
+</math>

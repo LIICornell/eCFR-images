@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mi>EA</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mrow>
+            <mo>%</mo>
+            <mi>O</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mn>0.5</mn>
+          <mspace width=".2em"/>
+          <mo>%</mo>
+          <mi>CO</mi>
+        </mrow>
+      </mrow>
+      <mrow>
+        <mn>0.264</mn>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mo>%</mo>
+            <mi>N</mi>
+          </mrow>
+          <mn>2</mn>
+        </msub>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mrow>
+                <mo>%</mo>
+                <mi>O</mi>
+              </mrow>
+              <mn>2</mn>
+            </msub>
+            <mo>&#8722;</mo>
+            <mn>0.5</mn>
+            <mspace width=".2em"/>
+          </mrow>
+          <mo>%</mo>
+          <mi>CO</mi>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>Eq. 3B-1</mtext>
+</math>

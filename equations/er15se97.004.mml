@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>% solids</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mtext>weight of sample aliquot after drying (g)</mtext>
+          <mo>&#8722;</mo>
+          <mtext>weight of filter (g)</mtext>
+        </mrow>
+        <mrow>
+          <mn>10</mn>
+          <mspace width=".2em"/>
+          <mi>g</mi>
+        </mrow>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+</math>

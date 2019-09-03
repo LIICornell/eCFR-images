@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>B</mi>
+    <mi>ws</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>V</mi>
+      <mrow>
+        <mi>w</mi>
+        <mo>(</mo>
+        <mi>std</mi>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mrow>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>m</mi>
+          <mo>(</mo>
+          <mi>std</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>w</mi>
+          <mo>(</mo>
+          <mi>std</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>Eq. 5A-2</mtext>
+</math>

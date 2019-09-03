@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>F</mi>
+      <mi>D</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>j</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>q</mi>
+          </munderover>
+          <msub>
+            <mi>DE</mi>
+            <mi style="font-style: italic">avgj</mi>
+          </msub>
+        </mrow>
+        <mo>&#215;</mo>
+        <msub>
+          <mi>C</mi>
+          <mi style="font-style: italic">TFj</mi>
+        </msub>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <msub>
+          <mi>S</mi>
+          <mi>j</mi>
+        </msub>
+        <mo>+</mo>
+        <mrow>
+          <mrow>
+            <munderover>
+              <mo>&#8721;</mo>
+              <mrow>
+                <mi>l</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>x</mi>
+            </munderover>
+            <msub>
+              <mi>c</mi>
+              <mi style="font-style: italic">TFl</mi>
+            </msub>
+          </mrow>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>S</mi>
+            <mi>l</mi>
+          </msub>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. L-17)</mtext>
+</math>

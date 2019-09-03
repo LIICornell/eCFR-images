@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>Ref</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>CPI</mi>
+    <mi>Date</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>Ref</mi>
+  <msub>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>CPI</mi>
+    </mrow>
+    <mi>M</mi>
+  </msub>
+  <mo>+</mo>
+  <mfrac>
+    <mrow>
+      <mi>t</mi>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>D</mi>
+  </mfrac>
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mi>Ref</mi>
+        <mspace width=".2em"/>
+        <mi>CPI</mi>
+      </mrow>
+      <mrow>
+        <mi>M</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mrow>
+    </msub>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mi>Ref</mi>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>CPI</mi>
+        <mi>M</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+</math>

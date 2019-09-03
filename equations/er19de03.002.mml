@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mi>Hg</mi>
+      <mo>,</mo>
+      <mi>run</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>R</mi>
+          <mi>run</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>t</mi>
+          <mi>run</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>(</mo>
+        <mn>24</mn>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>P</mi>
+          <mrow>
+            <msub>
+              <mi>CI</mi>
+              <mn>2</mn>
+            </msub>
+            <mspace width=".2em"/>
+            <mi>run</mi>
+          </mrow>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

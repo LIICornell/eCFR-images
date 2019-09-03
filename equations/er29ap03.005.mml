@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>THC</mi>
+  <mspace width=".2em"/>
+  <mi>DE</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>CO</mi>
+        <mo>+</mo>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mo>/</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mi>CO</mi>
+        <mo>+</mo>
+        <msub>
+          <mi>CO</mi>
+          <mn>2</mn>
+        </msub>
+        <mo>+</mo>
+        <mi>THC</mi>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>
