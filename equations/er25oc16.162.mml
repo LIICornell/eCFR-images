@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>f</mi>
+            <mi>nref</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mtext>% speed</mtext>
+            <mo>&#215;</mo>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>f</mi>
+                    <mi>ntest</mi>
+                  </msub>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>f</mi>
+                    <mi>nidle</mi>
+                  </msub>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mo>+</mo>
+              <msub>
+                <mi>f</mi>
+                <mi>nidle</mi>
+              </msub>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.610-3</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

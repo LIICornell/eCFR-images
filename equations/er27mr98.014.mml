@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>D</mi>
+      <mi>Acro</mi>
+    </msub>
+    <mo>=</mo>
+    <msub>
+      <mi>D</mi>
+      <mi>Physical</mi>
+    </msub>
+  </mrow>
+  <msqrt>
+    <mfrac>
+      <msub>
+        <mi>&#961;</mi>
+        <mi>Particle</mi>
+      </msub>
+      <msub>
+        <mi>&#961;</mi>
+        <mi>o</mi>
+      </msub>
+    </mfrac>
+    <mfrac>
+      <msub>
+        <mi>CCF</mi>
+        <mi>Physical</mi>
+      </msub>
+      <msub>
+        <mi>CCF</mi>
+        <mi>Acm</mi>
+      </msub>
+    </mfrac>
+  </msqrt>
+  <mspace width="4em"/>
+  <mtext>(Eq. 319.5)</mtext>
+</math>

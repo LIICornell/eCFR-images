@@ -1,0 +1,20 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mo>max</mo>
+  </msub>
+  <mo>=</mo>
+  <mn>8.706</mn>
+  <mo>+</mo>
+  <mn>0.7084</mn>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>H</mi>
+      <mi>T</mi>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 147-3)</mtext>
+</math>

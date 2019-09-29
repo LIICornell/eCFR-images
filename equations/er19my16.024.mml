@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <mi>M</mi>
+  <msub>
+    <mi>C</mi>
+    <mi>avg</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mn>3</mn>
+      </munderover>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <msub>
+            <mi>MC</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <msub>
+            <mi>MC</mi>
+            <mi>int</mi>
+          </msub>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+    </mrow>
+    <mn>3</mn>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>Eq. 1</mtext>
+</math>

@@ -1,0 +1,22 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>PMT</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>0</mn>
+  <mspace width=".2em"/>
+  <mi>for</mi>
+  <mspace width=".2em"/>
+  <mi>m</mi>
+  <mo>&gt;</mo>
+  <mi>RM</mi>
+  <mspace width=".2em"/>
+  <mtext>or after </mtext>
+  <msub>
+    <mi>UPB</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>0</mn>
+</math>

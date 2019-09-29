@@ -1,0 +1,73 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>logarithmic average</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <msup>
+        <mi>e</mi>
+        <mi>y</mi>
+      </msup>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mn>1</mn>
+        <mi>n</mi>
+        <mspace width=".2em"/>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>X</mi>
+              <mn>1</mn>
+            </msub>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>+</mo>
+      <mrow>
+        <mn>1</mn>
+        <mi>n</mi>
+        <mrow>
+          <mspace width=".2em"/>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>X</mi>
+              <mn>2</mn>
+            </msub>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mo>+</mo>
+      <mo>&#8230;</mo>
+      <mn>1</mn>
+      <mi>n</mi>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <msub>
+            <mi>X</mi>
+            <mi>A</mi>
+          </msub>
+          <mo>+</mo>
+          <mn>1</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>A</mi>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>Eq. 303-3</mtext>
+</math>

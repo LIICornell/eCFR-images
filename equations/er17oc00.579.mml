@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Minutes at point n</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <msqrt>
+          <mi>&#916;p</mi>
+          <mtext> at Point n</mtext>
+        </msqrt>
+        <msub>
+          <mrow>
+            <mo>(</mo>
+            <msqrt>
+              <mi>&#916;p</mi>
+            </msqrt>
+            <mo>)</mo>
+          </mrow>
+          <mi>avg</mi>
+        </msub>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>5</mn>
+        <mo>min</mo>
+        <mo>.</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 306A -1</mtext>
+</math>

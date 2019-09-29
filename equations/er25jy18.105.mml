@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mtext>Certified reference gas value</mtext>
+    <mtext>Measured value of reference gas</mtext>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mtext>Measured stack gas result</mtext>
+  </mrow>
+  <mo>=</mo>
+  <mtext>Normalized stack gas result</mtext>
+  <mspace width="4em"/>
+  <mtext>(Eq. 22)</mtext>
+</math>

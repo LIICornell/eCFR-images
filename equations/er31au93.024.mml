@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>std</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>V</mi>
+    <mi>m</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mn>1</mn>
+      </msub>
+      <mo>&#8722;</mo>
+      <mi>&#916;P</mi>
+    </mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>std</mi>
+    </msub>
+  </mfrac>
+  <mfrac>
+    <msub>
+      <mi>T</mi>
+      <mi>std</mi>
+    </msub>
+    <msub>
+      <mi>T</mi>
+      <mn>1</mn>
+    </msub>
+  </mfrac>
+</math>

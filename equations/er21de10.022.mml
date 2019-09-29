@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;</mi>
+  <msub>
+    <mi>p</mi>
+    <mo>max</mo>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mn>1.3686</mn>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>4</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>P</mi>
+        <mi>s</mi>
+      </msub>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>M</mi>
+        <mi>w</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>s</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>v</mi>
+          <mo>max</mo>
+        </msub>
+        <msub>
+          <mi>C</mi>
+          <mi>p</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 23)</mtext>
+</math>

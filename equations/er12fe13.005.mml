@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mrow>
+      <mn>30</mn>
+      <mspace width=".2em"/>
+      <mi>D</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mi>k</mi>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>C</mi>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mi>Q</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mi>P</mi>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

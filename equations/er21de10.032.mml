@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>D</mi>
+    <mn>50</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>0.15625</mn>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>T</mi>
+          <mi>S</mi>
+        </msub>
+        <mrow>
+          <msub>
+            <mi>M</mi>
+            <mi>W</mi>
+          </msub>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>P</mi>
+            </mrow>
+            <mi>S</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.2091</mn>
+  </msup>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mi>&#956;</mi>
+        <msub>
+          <mi>Q</mi>
+          <mi>S</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.7091</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 33)</mtext>
+</math>

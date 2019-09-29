@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>Allowances allocated</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>or acquired</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mo>&#8722;</mo>
+      <mtext>tons emitted</mtext>
+    </mrow>
+    <mo>&#8722;</mo>
+    <mtext>the larger of</mtext>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>allowances transferred</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>to all replacement units</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mi>or</mi>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>allowances deducted</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>for reduced utilization</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>)</mo>
+  </mrow>
+</math>

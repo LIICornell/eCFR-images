@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>A</mi>
+        <mo>.</mo>
+        <mspace width=".2em"/>
+        <mi>SCV</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mi>FAV</mi>
+          <mi>SACR</mi>
+        </mfrac>
+        <mspace width=".2em"/>
+        <mtext>(use FAV from Tier I)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>B</mi>
+        <mo>.</mo>
+        <mspace width=".2em"/>
+        <mi>SCV</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mi>SAV</mi>
+          <mi>FACR</mi>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>C</mi>
+        <mo>.</mo>
+        <mspace width=".2em"/>
+        <mi>SCV</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mi>SAV</mi>
+          <mi>SACR</mi>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

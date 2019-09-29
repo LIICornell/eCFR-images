@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>d</mi>
+    <mi>b</mi>
+  </msub>
+  <mo>=</mo>
+  <mi>r</mi>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msqrt>
+        <mrow>
+          <mn>1</mn>
+          <mo>&#8722;</mo>
+          <mfrac>
+            <mn>2</mn>
+            <mi>p</mi>
+          </mfrac>
+        </mrow>
+      </msqrt>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>Eq. 2H-4</mtext>
+</math>

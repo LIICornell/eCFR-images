@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>m</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>K</mi>
+        <mi>c</mi>
+      </msub>
+      <mo>*</mo>
+      <mi>A</mi>
+    </mrow>
+    <mo>*</mo>
+    <mi>F</mi>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <msub>
+        <mi>V</mi>
+        <mi>t</mi>
+      </msub>
+      <msub>
+        <mi>V</mi>
+        <mi>a</mi>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mrow>
+          <mn>1</mn>
+          <mspace width=".2em"/>
+          <mi>mg</mi>
+        </mrow>
+        <mrow>
+          <mn>1000</mn>
+          <mspace width=".2em"/>
+          <mo>.</mo>
+          <mi>g</mi>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 323-5</mtext>
+</math>

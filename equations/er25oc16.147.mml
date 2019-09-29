@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Confidence Limit</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mn>1.96</mn>
+                <mo>&#183;</mo> 
+                <msub>
+                  <mi>&#963;</mi>
+                  <mi>Ploss</mi>
+                </msub>
+              </mrow>
+              <mrow>
+                <msqrt>
+                  <mi>N</mi>
+                </msqrt>
+                <mo>&#183;</mo> 
+                <msub>
+                  <mi>P</mi>
+                  <mi>rated</mi>
+                </msub>
+              </mrow>
+            </mfrac>
+            <mo>&#183;</mo> 
+            <mn>100</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1037.565-1</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

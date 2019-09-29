@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>C</mi>
+  <mi>I</mi>
+  <mo>=</mo>
+  <msub>
+    <mi>t</mi>
+    <mrow>
+      <mi>df</mi>
+      <mo>,</mo>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <mi>a</mi>
+      <mo>/</mo>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mrow>
+    <mo>&#183;</mo>
+    <msub>
+      <mi>S</mi>
+      <mi>L</mi>
+    </msub>
+  </mrow>
+  <msqrt>
+    <mfrac>
+      <mn>1</mn>
+      <mi>n</mi>
+    </mfrac>
+  </msqrt>
+  <mspace width="6em"/>
+  <mtext>(Eq. 11-8)</mtext>
+</math>

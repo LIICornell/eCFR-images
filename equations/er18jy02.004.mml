@@ -1,0 +1,28 @@
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>X</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mtext>deficiency</mtext>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mtext>net amount of erroneous items</mtext>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mtext>allocable to the spouse</mtext>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtext>net amount of all erroneous items</mtext>
+    </mfrac>
+  </mrow>
+</math>

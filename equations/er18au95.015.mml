@@ -1,0 +1,32 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>EPV</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iACTUAL</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mi>EPV</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iu</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mtext>Nominal efficiency %</mtext>
+      </mrow>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

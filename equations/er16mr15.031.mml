@@ -1,0 +1,72 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>&#951;</mi>
+            <mi>del</mi>
+          </msub>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>Q</mi>
+              <mi>out</mi>
+            </msub>
+            <mo>/</mo>
+            <msub>
+              <mi>Q</mi>
+              <mi>In</mi>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mi>x</mi>
+        <mn>100</mn>
+        <mo>,</mo>
+        <mo>%</mo>
+        <mspace width="8em"/>
+        <mtext>Eq. 17</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>&#951;</mi>
+            <mrow>
+              <mi>del</mi>
+              <mspace width=".2em"/>
+              <mi>LHV</mi>
+            </mrow>
+          </msub>
+          <mo>&#8722;</mo>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi>Q</mi>
+              <mi>out</mi>
+            </msub>
+            <mo>/</mo>
+            <msub>
+              <mi>Q</mi>
+              <mrow>
+                <mi>in</mi>
+                <mspace width=".2em"/>
+                <mi>LHV</mi>
+              </mrow>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mi>x</mi>
+        <mn>100</mn>
+        <mo>,</mo>
+        <mo>%</mo>
+        <mspace width="8em"/>
+        <mtext>Eq. 18</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>Value of X State</mtext>
+            <mtext>Value of all States</mtext>
+          </mfrac>
+          <mo>=</mo>
+          <mtext>B percent</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mo>[</mo>
+              <mrow>
+                <mrow>
+                  <mi>A</mi>
+                  <mo>%</mo>
+                </mrow>
+                <mo>+</mo>
+                <mrow>
+                  <mi>B</mi>
+                  <mo>%</mo>
+                </mrow>
+              </mrow>
+              <mo>]</mo>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+          <mo>=</mo>
+          <mtext>State percentage used to determine state's share of the total
+          available funds</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Figure 2:</mtext>
+  <mspace width="4em"/>
+  <msub>
+    <mtext>CAFE</mtext>
+    <mtext>required</mtext>
+  </msub>
+  <mtext> </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mi>i</mi>
+        </munder>
+        <msub>
+          <mtext>PRODUCTION</mtext>
+          <mi>i</mi>
+        </msub>
+      </mrow>
+      <mrow>
+        <munder>
+          <mo>&#8721;</mo>
+          <mi>i</mi>
+        </munder>
+        <mfrac>
+          <msub>
+            <mtext>PRODUCTION</mtext>
+            <mi>i</mi>
+          </msub>
+          <msub>
+            <mtext>TARGET</mtext>
+            <mi>i</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

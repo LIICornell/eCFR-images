@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Annual Hours of Peak Hour Excessive Delay per Capita</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <munderover>
+              <mo>&#8721;</mo>
+              <mrow>
+                <mi>s</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>T</mi>
+            </munderover>
+            <msub>
+              <mrow>
+                <mi>Total</mi>
+                <mi>Excessive</mi>
+                <mi>Delay</mi>
+              </mrow>
+              <mi>s</mi>
+            </msub>
+          </mrow>
+          <mtext>Total Population</mtext>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

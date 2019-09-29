@@ -1,0 +1,27 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Difference (%) </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <mo>&#x2223;</mo>
+      <mrow>
+        <msub>
+          <mrow>
+            <mo>%</mo>
+            <mi>CV</mi>
+          </mrow>
+          <mi>ind</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mrow>
+            <mo>%</mo>
+            <mi>CV</mi>
+          </mrow>
+          <mi>ref</mi>
+        </msub>
+      </mrow>
+      <mo>&#x2223;</mo>
+    </mrow>
+  </mrow>
+</math>

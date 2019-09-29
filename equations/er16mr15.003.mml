@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Weighted average delivered efficiency:</mtext>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>&#951;</mi>
+          </mrow>
+          <mi>avg</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+            <mo>&#8721;</mo>
+          <msub>
+            <mi>&#951;</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mi>x</mi>
+        <msub>
+          <mi>F</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>,</mo>
+        <mo>%</mo>
+        <mspace width="4em"/>
+        <mtext>Eq. 19</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Weighted average emissions:</mtext>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>E</mi>
+          </mrow>
+          <mi>avg</mi>
+        </msub>
+        <mtext>=</mtext>
+        <mrow>
+            <mo>&#8721;</mo>
+          <msub>
+            <mi>E</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+        <mtext>x</mtext>
+        <msub>
+          <mi>F</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>,</mo>
+        <mo>%</mo>
+        <mspace width="6em"/>
+        <mtext>Eq. 20</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mtext></mtext>
+</math>

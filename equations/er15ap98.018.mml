@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>% Recovery</mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mn>100</mn>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>Found</mi>
+                  <mo>&#8722;</mo>
+                  <mi>Background</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mi>T</mi>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>T is the true value of the spike</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

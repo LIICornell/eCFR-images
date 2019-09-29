@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>v</mi>
+    <mrow>
+      <mi>a</mi>
+      <mo>(</mo>
+      <mi>avg</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mi>v</mi>
+        <mrow>
+          <mi>a</mi>
+          <mo>(</mo>
+          <mi>i</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>Eq. 2G-8</mtext>
+</math>

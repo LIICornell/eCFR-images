@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msubsup>
+    <mi>V</mi>
+    <mi>i</mi>
+    <mi>sat</mi>
+  </msubsup>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>VP</mi>
+      <mi>i</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>T</mi>
+        </msub>
+        <mo>&#8722;</mo>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>n</mi>
+          </munderover>
+          <msub>
+            <mi>P</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="2em"/>
+  <mtext>Eq. 2</mtext>
+</math>

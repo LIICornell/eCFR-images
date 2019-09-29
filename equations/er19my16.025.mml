@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>I</mi>
+  <mo>=</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+    </munderover>
+    <mrow>
+      <mfrac>
+        <msub>
+          <mrow>
+            <mi>&#916;</mi>
+            <mi>M</mi>
+            <mi>C</mi>
+          </mrow>
+          <mi>avg</mi>
+        </msub>
+        <mover>
+          <msub>
+            <mi>MC</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>&#8212;</mo>
+        </mover>
+      </mfrac>
+      <mo>*</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>Eq. 2</mtext>
+</math>

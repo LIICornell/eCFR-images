@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>M</mi>
+    <mi>d</mi>
+  </msub>
+  <mo>=</mo>
+  <mn>0.44</mn>
+  <mo>(</mo>
+  <mo>%</mo>
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>)</mo>
+  <mo>+</mo>
+  <mn>0.32</mn>
+  <mo>(</mo>
+  <mo>%</mo>
+  <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>)</mo>
+  <mo>+</mo>
+  <mn>0.28</mn>
+  <mo>(</mo>
+  <mn>100</mn>
+  <mo>&#8722;</mo>
+  <mrow>
+    <mo>%</mo>
+    <msub>
+      <mi>O</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>&#8722;</mo>
+    <mo>%</mo>
+    <msub>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mo>)</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

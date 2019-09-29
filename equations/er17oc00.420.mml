@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#956;g</mi>
+  <msup>
+    <mrow>
+      <mspace width=".2em"/>
+      <mi>F</mi>
+    </mrow>
+    <mo>&#8722;</mo>
+  </msup>
+  <mi></mi>
+  <mo>/</mo>
+  <mi>ml</mi>
+  <mo>=</mo>
+  <mi>g</mi>
+  <mspace width=".2em"/>
+  <mtext>of</mtext>
+  <mspace width=".2em"/>
+  <mrow>
+    <mi>NaF</mi>
+    <mo>&#215;</mo>
+    <mrow>
+      <msup>
+        <mn>10</mn>
+        <mn>3</mn>
+      </msup>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>18.998</mn>
+        <mo>/</mo>
+        <mn>41.99</mn>
+        <mspace width="4em"/>
+        <mtext>Eq. 26A-3</mtext>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

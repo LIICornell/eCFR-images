@@ -1,0 +1,34 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>r</mi>
+            <mi>SSV</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mfrac>
+              <msub>
+                <mi>&#916;p</mi>
+                <mi>SSV</mi>
+              </msub>
+              <msub>
+                <mi>p</mi>
+                <mi>in</mi>
+              </msub>
+            </mfrac>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.640-7</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

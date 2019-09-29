@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mtext>Excessive Delay Threshold Travel Time</mtext>
+          <mi>s</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <msub>
+                <mtext>Travel Time Segment Length</mtext>
+                <mi>s</mi>
+              </msub>
+              <msub>
+                <mtext>Threshold Speed</mtext>
+                <mi>s</mi>
+              </msub>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>3,600</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

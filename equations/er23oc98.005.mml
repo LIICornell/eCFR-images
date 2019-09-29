@@ -1,0 +1,46 @@
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>G</mi>
+        <mi>aird</mi>
+      </msub>
+      <mo>=</mo>
+      <mfrac>
+        <msub>
+          <mi>G</mi>
+          <mi>fuel</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mi>fla</mi>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mtext>Mass Fuel Measured</mtext>
+      <mrow>
+        <msub>
+          <mi>G</mi>
+          <mi>airw</mi>
+        </msub>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mfrac>
+              <mi>H</mi>
+              <mn>1000</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

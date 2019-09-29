@@ -1,0 +1,79 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>Q</mi>
+          <mi>in</mi>
+        </msub>
+        <mo>=</mo>
+        <mo>(</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>fuel</mi>
+        </msub>
+        <mo>/</mo>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mi>MC</mi>
+        <mo>/</mo>
+        <mn>100</mn>
+        <mo>)</mo>
+        <mo>)</mo>
+        <mo>)</mo>
+        <mi>x</mi>
+        <mi>HHV</mi>
+        <mo>,</mo>
+        <mi>Btu</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mi>MJ</mi>
+        <mo>)</mo>
+        <mo>.</mo>
+        <mspace width="6em"/>
+        <mtext>Eq. 7</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>Q</mi>
+          <mrow>
+            <mi>in</mi>
+            <mspace width=".2em"/>
+            <mi>LHV</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>(</mo>
+        <msub>
+          <mi>W</mi>
+          <mi>fuel</mi>
+        </msub>
+        <mo>/</mo>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mi>MC</mi>
+        <mo>/</mo>
+        <mn>100</mn>
+        <mo>)</mo>
+        <mo>)</mo>
+        <mo>)</mo>
+        <mi>xLHV</mi>
+        <mo>,</mo>
+        <mi>Btu</mi>
+        <mspace width=".2em"/>
+        <mo>(</mo>
+        <mi>MJ</mi>
+        <mo>)</mo>
+        <mo>.</mo>
+        <mspace width="6em"/>
+        <mtext>Eq. 8</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

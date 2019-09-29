@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>D</mi>
+  <mi>F</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mtext>spiked tracer</mtext>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>M</mi>
+        <mtext>native tracer</mtext>
+      </msub>
+    </mrow>
+    <mrow>
+      <msub>
+        <mi>C</mi>
+        <mtext>tracer spiked</mtext>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>M</mi>
+        <mtext>native tracer</mtext>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="6em"/>
+  <mtext>Eq. A3</mtext>
+</math>

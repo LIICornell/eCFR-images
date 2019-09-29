@@ -1,0 +1,35 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>m</mi>
+    <mi>PM</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <mn>170.878</mn>
+        <mrow>
+          <mn>0.925</mn>
+          <mo>&#8722;</mo>
+          <mn>0.527</mn>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>0.0000045</mn>
+        <mo>&#8722;</mo>
+        <mn>0.0000014</mn>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mn>0.00133</mn>
+  <mspace width=".2em"/>
+  <mi>g</mi>
+</math>

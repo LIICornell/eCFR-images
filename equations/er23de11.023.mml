@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>Mass</mi>
+      <mrow>
+        <mi>CO</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <msub>
+        <mi>S</mi>
+        <mrow>
+          <mi>h</mi>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+      <mo>*</mo>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>h</mi>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. W-38)</mtext>
+</math>

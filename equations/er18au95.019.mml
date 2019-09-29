@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mrow>
+      <mi>EGLR</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iACTUAL</mi>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mrow>
+      <mi>EGLR</mi>
+      <mn>1</mn>
+    </mrow>
+    <mi>iu</mi>
+  </msub>
+  <mrow>
+    <mo>(</mo>
+    <mn>1</mn>
+    <mo>&#8722;</mo>
+    <mfrac>
+      <mtext>Nominal efficiency</mtext>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+</math>

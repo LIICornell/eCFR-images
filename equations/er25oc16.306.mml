@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Fleet Average Standard </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+          <mo>&#8721;</mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <msub>
+              <mtext>Subconfiguration Target Standard</mtext>
+              <mi>i</mi>
+            </msub>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>Volume</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <mrow>
+          <mo>[</mo>
+          <msub>
+            <mi>Volume</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>]</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

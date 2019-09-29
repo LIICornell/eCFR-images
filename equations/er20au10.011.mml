@@ -1,0 +1,60 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>c</mi>
+    <mi>form</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mi>R</mi>
+    <mrow>
+      <mi>M</mi>
+      <mi>W</mi>
+    </mrow>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mi>m</mi>
+      <msub>
+        <mi>V</mi>
+        <mrow>
+          <mi>m</mi>
+          <mo>(</mo>
+          <mi>std</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mrow>
+        <mn>1</mn>
+        <mi>g</mi>
+      </mrow>
+      <mrow>
+        <mn>1000</mn>
+        <mspace width=".2em"/>
+        <mi>mg</mi>
+      </mrow>
+    </mfrac>
+    <mo>)</mo>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#215;</mo>
+      <msup>
+        <mn>10</mn>
+        <mn>6</mn>
+      </msup>
+    </mrow>
+    <mi style="font-style: italic">ppmv</mi>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 323-7</mtext>
+</math>

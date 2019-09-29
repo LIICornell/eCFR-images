@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mo>&quot;</mo>
+        <mi>G</mi>
+        <mo>=</mo>
+        <mo>[</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>177</mn>
+            <mo>/</mo>
+            <mi>LC</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <msqrt>
+            <mi>ZT</mi>
+            <mo>/</mo>
+            <mi>M</mi>
+          </msqrt>
+          <mo>)</mo>
+        </mrow>
+        <mo>]</mo>
+        <mspace width="4em"/>
+        <mtext>SI units</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>G</mi>
+        <mo>=</mo>
+        <mo>[</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>633,000</mn>
+            <mo>/</mo>
+            <mi>LC</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <msqrt>
+            <mi>ZT</mi>
+            <mo>/</mo>
+            <mi>M</mi>
+          </msqrt>
+          <mo>)</mo>
+        </mrow>
+        <mo>]</mo>
+        <mspace width="4em"/>
+        <mtext>English units"</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

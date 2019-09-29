@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>Factor</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>37</mn>
+        <mo>%</mo>
+      </mrow>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow>
+              <mn>100</mn>
+              <mo>%</mo>
+            </mrow>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mn>37</mn>
+              <mo>%</mo>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mn>27.1</mn>
+          <mspace width=".2em"/>
+          <mi>mi</mi>
+          <mo>/</mo>
+          <mi>hr</mi>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mo>=</mo>
+  <mn>0.0217</mn>
+  <mspace width=".2em"/>
+  <mi>hr</mi>
+  <mo>/</mo>
+  <mi>mi</mi>
+</math>

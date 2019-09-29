@@ -1,0 +1,19 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>C</mi>
+      <mi>Paq</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>0.6098</mn>
+      <mo>&#215;</mo>
+      <msub>
+        <mi>C</mi>
+        <mi>icorr</mi>
+      </msub>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. 6)</mtext>
+</math>

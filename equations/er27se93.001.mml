@@ -1,0 +1,53 @@
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>APY Earned</mtext>
+    <mo>=</mo>
+    <mn>100</mn>
+  </mrow>
+  <mo>[</mo>
+  <mrow>
+    <msup>
+      <mrow>
+        <mo>{</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mfrac>
+            <mrow>
+              <mo>(</mo>
+              <mtext>$4.11 </mtext>
+              <mrow>
+                <mo>/</mo>
+                <mn>1,000</mn>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mtext></mtext>
+              <mo>30</mo>
+            </mrow>
+          </mfrac>
+          <mrow>
+            <mo>(</mo>
+            <mn>365</mn>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>}</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>365</mn>
+          <mo>/</mo>
+          <mn>365</mn>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </msup>
+    <mo>&#8722;</mo>
+    <mn>1</mn>
+  </mrow>
+  <mo>]</mo>
+</math>

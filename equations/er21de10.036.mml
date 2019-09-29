@@ -1,0 +1,67 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>D</mi>
+    <mrow>
+      <mn>50</mn>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mn>0.0024302</mn>
+  <mspace width=".2em"/>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mi>&#956;</mi>
+        <msub>
+          <mi>Q</mi>
+          <mi>s</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>1.1791</mn>
+  </msup>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mn>1</mn>
+        <msub>
+          <mi>C</mi>
+          <mi>r</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.5</mn>
+  </msup>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>T</mi>
+          <mi>S</mi>
+        </msub>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>s</mi>
+          </msub>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>M</mi>
+            <mi>w</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>0.6790</mn>
+  </msup>
+  <mspace width="4em"/>
+  <mtext>(Eq. 37)</mtext>
+</math>

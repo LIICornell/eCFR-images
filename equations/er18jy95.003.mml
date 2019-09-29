@@ -1,0 +1,93 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mfrac>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>LIFO value of B's Year 2</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>layer of increment</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>B's total inventory costs from</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>January through March of Year 2</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+            </mfrac>
+            <mo>=</mo>
+            <mfrac>
+              <mrow>
+                <mo>$</mo>
+                <mn>600</mn>
+              </mrow>
+              <mrow>
+                <mo>$</mo>
+                <mn>1,428</mn>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mn>42</mn>
+            <mo>%</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mrow>
+                    <mn>42</mn>
+                    <mo>%</mo>
+                  </mrow>
+                  <mo>&#215;</mo>
+                  <mtext>S's $50 intercompany inventory</mtext>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>income for the period from</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>January through March</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>=</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>21</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>%</mo>
+  <mspace width=".2em"/>
+  <mi>Decrease</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <msub>
+        <mi>NO</mi>
+        <mi>XPeak</mi>
+      </msub>
+      <mo>&#8722;</mo>
+      <msub>
+        <mi>NO</mi>
+        <mi>XFinal</mi>
+      </msub>
+    </mrow>
+    <msub>
+      <mi>NO</mi>
+      <mi>XPeak</mi>
+    </msub>
+  </mfrac>
+  <mrow>
+    <mo>&#215;</mo>
+    <mn>100</mn>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>Eq. 7E-9</mtext>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mtext>Total Emission Reduction</mtext>
+          <mi>p</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>T</mi>
+          </munderover>
+          <msub>
+            <mtext>Daily Kilograms of Emission Reductions</mtext>
+            <mrow>
+              <mi>p</mi>
+              <mo>,</mo>
+              <mi>i</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

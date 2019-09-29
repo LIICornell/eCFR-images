@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ppm</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>SO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mfrac>
+        <mrow>
+          <mi>&#956;g</mi>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>SO</mi>
+            </mrow>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+        <msup>
+          <mi>m</mi>
+          <mn>3</mn>
+        </msup>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>3.82</mn>
+    </mrow>
+    <mo>&#215;</mo>
+    <msup>
+      <mn>10</mn>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mn>4</mn>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(23)</mtext>
+</math>

@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mover>
+              <mi>f</mi>
+              <mo>&#8212;</mo>
+            </mover>
+            <mi>nout</mi>
+          </msub>
+          <mo>=</mo>
+          <mfrac>
+            <msub>
+              <mover>
+                <mi>f</mi>
+                <mo>&#8212;</mo>
+              </mover>
+              <mi>nin</mi>
+            </msub>
+            <msub>
+              <mi>k</mi>
+              <mi>g</mi>
+            </msub>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1037.565-3</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

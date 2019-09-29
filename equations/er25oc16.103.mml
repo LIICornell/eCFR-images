@@ -1,0 +1,48 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mo>&#8722;</mo>
+  <mrow>
+    <mn>17129</mn>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mn>31.28</mn>
+        <mo>&#8722;</mo>
+        <mn>26.77</mn>
+      </mrow>
+      <mrow>
+        <mn>3.05</mn>
+        <mo>&#8722;</mo>
+        <mn>19.11</mn>
+      </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mn>16108</mn>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mn>9.8061</mn>
+    <mspace width=".2em"/>
+    <mo>&#183;</mo>
+    <mspace width=".2em"/>
+    <mfrac>
+      <mrow>
+        <mn>0.044</mn>
+        <mo>&#8722;</mo>
+        <mn>0.547</mn>
+      </mrow>
+      <mrow>
+        <mo>&#x2223;</mo>
+        <mrow>
+          <mn>215.4</mn>
+          <mo>&#8722;</mo>
+          <mn>697.8</mn>
+        </mrow>
+        <mo>&#x2223;</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

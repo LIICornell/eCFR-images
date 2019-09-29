@@ -1,0 +1,44 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>MC</mi>
+  <mo>=</mo>
+  <mrow>
+      <mo>&#8721;</mo>
+    <mfrac>
+      <mrow>
+        <msub>
+          <mi>W</mi>
+          <mrow>
+            <mi>SliceWet</mi>
+            <mspace width=".2em"/>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>&#8722;</mo>
+        <msub>
+          <mrow>
+            <mi>M</mi>
+            <mi>C</mi>
+          </mrow>
+          <mrow>
+            <mi>Slice</mi>
+            <mspace width=".2em"/>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <msub>
+          <mi>W</mi>
+          <mrow>
+            <mi>SliceWet</mi>
+            <mo>_</mo>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>Eq.6</mtext>
+</math>

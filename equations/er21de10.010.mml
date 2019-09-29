@@ -1,0 +1,67 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#916;H</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <msub>
+            <mi>Q</mi>
+            <mi>s</mi>
+          </msub>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>B</mi>
+                <mi>ws</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>s</mi>
+          </msub>
+        </mrow>
+        <msub>
+          <mi>T</mi>
+          <mi>s</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mn>2</mn>
+  </msup>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mn>1.083</mn>
+      <mspace width=".2em"/>
+      <msub>
+        <mi>T</mi>
+        <mi>m</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>M</mi>
+        </mrow>
+        <mi>d</mi>
+      </msub>
+      <mspace width=".2em"/>
+      <mi>&#916;H</mi>
+      <mo>@</mo>
+    </mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>bar</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 11)</mtext>
+</math>

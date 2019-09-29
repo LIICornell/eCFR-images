@@ -1,0 +1,39 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>ER</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mrow>
+        <mrow>
+          <msub>
+            <mi>C</mi>
+            <mi>d</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <mn>1.833</mn>
+        </mrow>
+        <mo>&#215;</mo>
+        <msup>
+          <mn>10</mn>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mn>3</mn>
+          </mrow>
+        </msup>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mi>Q</mi>
+        <mo>&#215;</mo>
+        <mi>T</mi>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mi>HP</mi>
+      <mo>&#8722;</mo>
+      <mi>hr</mi>
+    </mrow>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. 3)</mtext>
+</math>

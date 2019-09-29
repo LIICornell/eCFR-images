@@ -1,0 +1,52 @@
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Percent of Non </mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mtext>SOV Travel </mtext>
+      <mo>=</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>&#215;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <msub>
+              <mi>Volume</mi>
+              <mrow>
+                <mi>non</mi>
+                <mo>&#8722;</mo>
+                <mi>SOV</mi>
+              </mrow>
+            </msub>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <msub>
+                  <mi>Volume</mi>
+                  <mrow>
+                    <mi>non</mi>
+                    <mo>&#8722;</mo>
+                    <mi>SOV</mi>
+                  </mrow>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+              <mo>+</mo>
+              <mrow>
+                <mo>(</mo>
+                <msub>
+                  <mi>Volume</mi>
+                  <mi>SOV</mi>
+                </msub>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

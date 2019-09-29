@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>WDF</mi>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <munderover>
+      <mo>&#8721;</mo>
+      <mrow>
+        <mi>x</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>Y</mi>
+          <mn>1</mn>
+        </msub>
+      </mrow>
+      <msub>
+        <mi>Y</mi>
+        <mn>2</mn>
+      </msub>
+    </munderover>
+    <mrow>
+      <mo>{</mo>
+      <mfrac>
+        <msub>
+          <mi>W</mi>
+          <mi>x</mi>
+        </msub>
+        <mrow>
+          <mi>N</mi>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>P</mi>
+            <mi>x</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>}</mo>
+    </mrow>
+  </mrow>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. TT-2)</mtext>
+</math>

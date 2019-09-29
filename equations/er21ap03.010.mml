@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>Average % Emission Weight Loss </mtext>
+  <mrow>
+    <mo>=</mo>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mi>i</mi>
+        <mrow>
+          <mi>N</mi>
+          <mo>=</mo>
+          <mn>6</mn>
+        </mrow>
+      </munderover>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mtext>% Emission Weight Loss</mtext>
+          <mi>i</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mrow>
+      <mo>/</mo>
+      <mn>6</mn>
+    </mrow>
+  </mrow>
+</math>

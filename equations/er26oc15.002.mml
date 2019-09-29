@@ -1,0 +1,25 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mtext>Transmitance</mtext>
+      <mo>=</mo>
+      <mfrac>
+        <mi>I</mi>
+        <msub>
+          <mi>I</mi>
+          <mn>0</mn>
+        </msub>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <msup>
+      <mi>e</mi>
+      <mrow>
+        <mo>&#8722;</mo>
+        <mi>&#945;cl</mi>
+      </mrow>
+    </msup>
+  </mrow>
+  <mspace width="19em"/>
+  <mtext>(1)</mtext>
+</math>

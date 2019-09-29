@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>emission standard</mtext>
+  <mrow>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>120</mn>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>HTIP</mi>
+              <mi>ng</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>160</mn>
+            <mo>&#215;</mo>
+            <msub>
+              <mi>HTIP</mi>
+              <mi>o</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <msub>
+          <mi>HTIP</mi>
+          <mi>ng</mi>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>HTIP</mi>
+          <mi>o</mi>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="2em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

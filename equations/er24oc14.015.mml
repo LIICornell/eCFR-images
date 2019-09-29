@@ -1,0 +1,38 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CI</mi>
+    <mi>avg</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <msub>
+            <mi>NFI</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>*</mo>
+          <msub>
+            <mi>C</mi>
+            <mi>NFIi</mi>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mi>NFI</mi>
+  </mfrac>
+  <mspace width="8em"/>
+  <mtext>(Eq. Q-13)</mtext>
+</math>
