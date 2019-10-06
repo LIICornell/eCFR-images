@@ -1,0 +1,67 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>t</mi>
+          <mtext>test-partial  </mtext>
+        </msub>
+<mo>=</mo>
+        <mfrac>
+          <mrow>
+            <munderover>
+              <mo>&#8721;</mo>
+              <mrow>
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+            </munderover>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>p</mi>
+                    <mtext>circuit-1, i</mtext>
+                  </msub>
+                  <mo>+</mo>
+                  <msub>
+                    <mi>p</mi>
+                    <mtext>circuit-2, i</mtext>
+                  </msub>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#183;</mo>
+              <mi>&#916;t</mi>
+            </mrow>
+          </mrow>
+          <mrow>
+            <msub>
+              <mover>
+                <mi>p</mi>
+                <mo>&#8212;</mo>
+              </mover>
+              <mtext>circuit-1</mtext>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mover>
+                <mi>p</mi>
+                <mo>&#8212;</mo>
+              </mover>
+              <mtext>circuit-2</mtext>
+            </msub>
+          </mrow>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1037.540-2</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

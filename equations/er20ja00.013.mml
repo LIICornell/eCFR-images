@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>E</mi>
+    <mtext>episode</mtext>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <msub>
+        <mi>V</mi>
+        <mi>ves</mi>
+      </msub>
+      <mo>)</mo>
+      <mrow>
+        <mo>(</mo>
+        <mi>P</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>MW</mi>
+          <mi>wavg</mi>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+    <mi>RT</mi>
+  </mfrac>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#8722;</mo>
+      <msup>
+        <mn>0.37</mn>
+        <mi>m</mi>
+      </msup>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[Eq. 7]</mtext>
+</math>

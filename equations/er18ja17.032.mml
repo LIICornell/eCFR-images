@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mtext>Excessive Delay</mtext>
+      <mrow>
+        <mi>s</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mo>{</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mfrac>
+            <msub>
+              <mi>RSD</mi>
+              <mrow>
+                <mi>s</mi>
+                <mo>,</mo>
+                <mi>b</mi>
+              </mrow>
+            </msub>
+            <mn>3,600</mn>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mtext>when </mtext>
+          <msub>
+            <mi>RSD</mi>
+            <mrow>
+              <mi>s</mi>
+              <mo>,</mo>
+              <mi>b</mi>
+            </mrow>
+          </msub>
+          <mo>&#8805;</mo>
+          <mn>0</mn>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mi>or</mi>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mn>0</mn>
+          <mspace width=".2em"/>
+          <mtext>when </mtext>
+          <msub>
+            <mi>RSD</mi>
+            <mrow>
+              <mi>s</mi>
+              <mo>,</mo>
+              <mi>b</mi>
+            </mrow>
+          </msub>
+          <mo>&lt;</mo>
+          <mn>0</mn>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>

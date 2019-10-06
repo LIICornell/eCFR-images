@@ -1,0 +1,58 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext style="font-style: italic">Rate</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mtext style="font-style: italic">Minimum Rate</mtext>
+      <mo>+</mo>
+      <mrow>
+        <mo>&#8970;</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>.</mo>
+                    <mo>.</mo>
+                    <mn>4245</mn>
+                  </mrow>
+                  <mo>&#215;</mo>
+                  <msup>
+                    <mrow>
+                      <mo>(</mo>
+                      <mfrac>
+                        <mtext style="font-style: italic">Score</mtext>
+                        <mn>100</mn>
+                      </mfrac>
+                      <mo>)</mo>
+                    </mrow>
+                    <mn>3</mn>
+                  </msup>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mo>&#8722;</mo>
+              <mn>0.0385</mn>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mtext style="font-style: italic">Maximum Rate</mtext>
+              <mo>&#8722;</mo>
+              <mtext style="font-style: italic">Minimum Rate</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>&#8971;</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

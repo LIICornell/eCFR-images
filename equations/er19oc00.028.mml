@@ -1,0 +1,95 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>&#923;</mi>
+  <mo>=</mo>
+  <msup>
+    <mrow>
+      <mi>tan</mi>
+      <mo>&#x2061;</mo>
+    </mrow>
+    <mrow>
+      <mo>&#8722;</mo>
+      <mn>1</mn>
+    </mrow>
+  </msup>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <mi>sin</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <mi>&#916;</mi>
+        </mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mi>sin</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <msub>
+            <mi>&#945;</mi>
+            <mn>12</mn>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mrow>
+          <mi>cos</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <msub>
+            <mi>&#946;</mi>
+            <mn>1</mn>
+          </msub>
+        </mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mi>cos</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <mi>&#916;</mi>
+        </mrow>
+        <mo>&#8722;</mo>
+        <mrow>
+          <mi>sin</mi>
+          <mo>&#x2061;</mo>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>&#946;</mi>
+            </mrow>
+            <mn>1</mn>
+          </msub>
+        </mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mi>sin</mi>
+          <mspace width=".2em"/>
+          <mo>&#x2061;</mo>
+          <mi>&#916;</mi>
+        </mrow>
+        <mo>&#183;</mo>
+        <mrow>
+          <mi>cos</mi>
+          <mo>&#x2061;</mo>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>&#945;</mi>
+            </mrow>
+            <mn>12</mn>
+          </msub>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Equation A21)</mtext>
+</math>

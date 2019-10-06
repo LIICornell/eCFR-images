@@ -1,0 +1,122 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>CH</mi>
+            <mn>4</mn>
+          </msub>
+          <msub>
+            <mi>Emissions</mi>
+            <mi>MMS</mi>
+          </msub>
+          <mrow>
+            <mo>(</mo>
+            <mtext>metric tons / yr</mtext>
+            <mo>)</mo>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <munder>
+              <mo>&#8721;</mo>
+              <mtext>animal types</mtext>
+            </munder>
+            <mo>[</mo>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mi>MMSC</mi>
+              </munder>
+              <mrow>
+                <mo>[</mo>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>TVS</mi>
+                    <mi>AT</mi>
+                  </msub>
+                  <mo>&#215;</mo>
+                  <msub>
+                    <mi>VS</mi>
+                    <mi>MMSC</mi>
+                  </msub>
+                </mrow>
+              </mrow>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>VS</mi>
+                <mi>SS</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>365</mn>
+          <mspace width=".2em"/>
+          <mtext>days/yr </mtext>
+          <mo>&#215;</mo>
+          <msub>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>B</mi>
+                <mn>0</mn>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+            <mi>AT</mi>
+          </msub>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>MCF</mi>
+            <mi>MMSC</mi>
+          </msub>
+          <mo>)</mo>
+          <mo>&#215;</mo>
+          <mrow>
+            <mn>0.662</mn>
+            <mspace width=".2em"/>
+            <mi>kg</mi>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>CH</mi>
+              <mn>4</mn>
+            </msub>
+            <mo>/</mo>
+            <msup>
+              <mi>m</mi>
+              <mn>3</mn>
+            </msup>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>1</mn>
+          <mtext>metric ton </mtext>
+          <mrow>
+            <mo>/</mo>
+            <mrow>
+              <mn>1000</mn>
+              <mspace width=".2em"/>
+              <mi>kg</mi>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-2)</mtext>
+</math>

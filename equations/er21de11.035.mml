@@ -1,0 +1,28 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>APY Earned</mtext>
+    <mo>&#8722;</mo>
+    <mrow>
+      <mn>100</mn>
+      <mo>{</mo>
+      <mo>[</mo>
+      <mn>1</mn>
+      <mo>+</mo>
+      <mfrac>
+        <mrow>
+          <mo>(</mo>
+          <mtext>Interest earned/Balance</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mtext>Days in period</mtext>
+      </mfrac>
+      <mo>]</mo>
+      <mrow>
+        <mo>(</mo>
+        <mtext>Compounding</mtext>
+        <mo>)</mo>
+      </mrow>
+      <mo>}</mo>
+    </mrow>
+  </mrow>
+</math>

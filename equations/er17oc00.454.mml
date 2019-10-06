@@ -1,0 +1,45 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>ppm</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>corr</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>ppm</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>uncorr</mi>
+      <mo>)</mo>
+    </mrow>
+  </msub>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <mn>7.0</mn>
+    </mrow>
+    <mrow>
+      <mn>20.9</mn>
+      <mo>&#8722;</mo>
+      <msub>
+        <mrow>
+          <mo>%</mo>
+          <mi>O</mi>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mi>dry</mi>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>Eq. 2-2</mtext>
+</math>

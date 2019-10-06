@@ -1,0 +1,51 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>F</mi>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mo>(</mo>
+      <mfrac>
+        <msub>
+          <mi>C</mi>
+          <mrow>
+            <mi>CH</mi>
+            <mn>4</mn>
+          </mrow>
+        </msub>
+        <mrow>
+          <mn>100</mn>
+          <mo>%</mo>
+        </mrow>
+      </mfrac>
+      <mo>)</mo>
+    </mrow>
+    <mo>&#215;</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac bevelled="true">
+        <msub>
+          <mn>20.9</mn>
+          <mi>c</mi>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>20,9</mn>
+            <mo>&#8722;</mo>
+            <msub>
+              <mrow>
+                <mo>%</mo>
+                <mi>O</mi>
+              </mrow>
+              <mn>2</mn>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mspace width="8em"/>
+  <mtext>(Eq. HH-10)</mtext>
+</math>

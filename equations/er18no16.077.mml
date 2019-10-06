@@ -1,0 +1,43 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Leak rate</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext> </mtext>
+          <mtext>(% per year)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>pounds of refrigerant added over past 365 days</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>(or since leaks were last repaired,</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext> if that period is less than one year)</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+        <mtext>pounds of refrigerant in full charge</mtext>
+      </mfrac>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mo>%</mo>
+</math>

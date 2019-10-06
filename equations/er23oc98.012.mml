@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>F</mi>
+    <mi>FH</mi>
+  </msub>
+  <mo>=</mo>
+  <mrow>
+    <mrow>
+      <mi>ALF</mi>
+      <mo>&#215;</mo>
+      <mn>0.1448</mn>
+    </mrow>
+    <mo>&#215;</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <msub>
+              <mi>G</mi>
+              <mi>fuel</mi>
+            </msub>
+            <msub>
+              <mi>G</mi>
+              <mi>aird</mi>
+            </msub>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>for diesel fuel only</mtext>
+</math>

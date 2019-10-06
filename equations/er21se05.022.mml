@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>analyzer response</mtext>
+          <mo>=</mo>
+          <mo>(</mo>
+          <mfrac>
+            <mi>A</mi>
+            <mtext>% of fullscale analyzer response due to A</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mtext>% of fullscale analyzer response due to B</mtext>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

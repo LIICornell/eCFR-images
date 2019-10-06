@@ -1,0 +1,50 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>Ref</mi>
+              <mspace width=".2em"/>
+              <mi>CPI</mi>
+            </mrow>
+            <mtext>April 15, 1996</mtext>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mn>154.40</mn>
+            <mo>+</mo>
+            <mfrac>
+              <mn>14</mn>
+              <mn>30</mn>
+            </mfrac>
+          </mrow>
+        </mrow>
+        <mo>[</mo>
+        <mrow>
+          <mn>154.90</mn>
+          <mo>&#8722;</mo>
+          <mn>154.90</mn>
+        </mrow>
+        <mo>]</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>Ref</mi>
+              <mspace width=".2em"/>
+              <mi>CPI</mi>
+            </mrow>
+            <mtext>April 15, 1996</mtext>
+          </msub>
+          <mo>=</mo>
+          <mn>154.633333333</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

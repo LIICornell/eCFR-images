@@ -1,0 +1,64 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mtext>Leak rate</mtext>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mtext>(% per year)</mtext>
+        </mtd>
+      </mtr>
+    </mtable>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+        <mfrac>
+          <mtext>pounds of refrigerant added</mtext>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>pounds of refrigerant</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>in full charge</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mfrac>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mrow>
+            <mn>365</mn>
+            <mspace width=".2em"/>
+            <mi style="font-style: italic">days</mi>
+            <mo>/</mo>
+            <mi style="font-style: italic">year</mi>
+          </mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mi style="font-style: italic">short</mi>
+                <mtext>er: of # days since</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>refrigerant last added or 365 days</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mrow>
+        <mn>100</mn>
+        <mo>%</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math>

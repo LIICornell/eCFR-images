@@ -1,0 +1,128 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mrow>
+              <mtext>Direct </mtext>
+              <mi>N</mi>
+            </mrow>
+            <mn>2</mn>
+          </msub>
+          <mi>O</mi>
+          <mspace width=".2em"/>
+          <mi>Emissions</mi>
+          <mrow>
+            <mspace width=".2em"/>
+            <mo>(</mo>
+            <mtext>metric tons / year</mtext>
+            <mo>)</mo>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <munder>
+              <mo>&#8721;</mo>
+              <mtext>animal types</mtext>
+            </munder>
+            <mo>[</mo>
+            <mrow>
+              <munder>
+                <mo>&#8721;</mo>
+                <mi>MMSC</mi>
+              </munder>
+              <mrow>
+                <msub>
+                  <mi>N</mi>
+                  <mrow>
+                    <mi>ex</mi>
+                    <mspace width=".2em"/>
+                    <mi>AT</mi>
+                  </mrow>
+                </msub>
+                <mo>&#215;</mo>
+                <msub>
+                  <mi>N</mi>
+                  <mrow>
+                    <mi>ex</mi>
+                    <mo>,</mo>
+                    <mi>MMSC</mi>
+                  </mrow>
+                </msub>
+              </mrow>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <msub>
+                <mi>N</mi>
+                <mi>SS</mi>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <msub>
+            <mi>EF</mi>
+            <mi>MMSC</mi>
+          </msub>
+          <mrow>
+            <mo>&#215;</mo>
+            <mrow>
+              <mn>365</mn>
+              <mspace width=".2em"/>
+              <mi>days</mi>
+              <mo>/</mo>
+              <mi>yr</mi>
+            </mrow>
+          </mrow>
+          <mo>]</mo>
+          <mo>&#215;</mo>
+          <mn>44</mn>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>N</mi>
+            <mn>2</mn>
+          </msub>
+          <mi>O</mi>
+          <mo>/</mo>
+          <mn>28</mn>
+          <mrow>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>N</mi>
+              <mn>2</mn>
+            </msub>
+            <mi>O</mi>
+            <mo>&#8722;</mo>
+            <mi>N</mi>
+          </mrow>
+          <mo>&#215;</mo>
+          <mn>1</mn>
+          <mtext>metric ton </mtext>
+          <mrow>
+            <mo>/</mo>
+            <mrow>
+              <mn>1000</mn>
+              <mspace width=".2em"/>
+              <mi>kg</mi>
+            </mrow>
+          </mrow>
+        </mrow>
+        <mo>]</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mspace width="4em"/>
+  <mtext>(Eq. JJ-13)</mtext>
+</math>

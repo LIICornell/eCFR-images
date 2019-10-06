@@ -1,0 +1,111 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi>&#956;g</mi>
+          <msup>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>Cl</mi>
+            </mrow>
+            <mo>&#8722;</mo>
+          </msup>
+          <mo>/</mo>
+          <mi>ml</mi>
+          <mo>=</mo>
+          <mrow>
+            <mtext>g of NaCl</mtext>
+            <mo>&#215;</mo>
+            <mrow>
+                <msup>
+                  <mn>10</mn>
+                  <mn>3</mn>
+                </msup>
+                <mo>&#215;</mo>
+              </mrow>
+              <mn>35.453</mn>
+              <mo>/</mo>
+              <mn>58.44</mn>
+          </mrow>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>Eq. 26-1</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>&#956;g</mi>
+            <msup>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>Br</mi>
+              </mrow>
+              <mo>&#8722;</mo>
+            </msup>
+            <mo>/</mo>
+            <mi>ml</mi>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mtext>g of NaBr</mtext>
+            <mrow>
+              <mo>&#215;</mo>
+              <msup>
+                <mn>10</mn>
+                <mn>3</mn>
+              </msup>
+            </mrow>
+            <mo>&#215;</mo>
+            <mrow>
+              <mn>79.904</mn>
+              <mo>/</mo>
+              <mn>102.90</mn>
+              <mspace width="4em"/>
+  <mtext>Eq. 26-2</mtext>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>&#956;g</mi>
+            <msup>
+              <mrow>
+                <mspace width=".2em"/>
+                <mi>F</mi>
+              </mrow>
+              <mo>&#8722;</mo>
+            </msup>
+            <mo>/</mo>
+            <mi>ml</mi>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <mtext>g of NaF</mtext>
+            <mrow>
+              <mo>&#215;</mo>
+              <msup>
+                <mn>10</mn>
+                <mn>3</mn>
+              </msup>
+            </mrow>
+            <mo>&#215;</mo>
+            <mrow>
+              <mn>18.998</mn>
+              <mo>/</mo>
+              <mn>41.99</mn>
+              <mspace width="4em"/>
+              <mtext>Eq. 26-3</mtext>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

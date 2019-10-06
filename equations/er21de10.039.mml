@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>0.99</mn>
+  <mo>&#8804;</mo>
+  <mo>[</mo>
+  <mrow>
+    <mi>Z</mi>
+    <mo>=</mo>
+    <mfrac>
+      <msub>
+        <mi>D</mi>
+        <mrow>
+          <msub>
+          <mn>50</mn>
+            <mi>N</mi>
+          </msub>
+        </mrow>
+      </msub>
+      <msub>
+        <mi>D</mi>
+        <msub>
+          <mn>50</mn>
+          <mrow>
+            <mi>N</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </msub>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+  <mo>&#8804;</mo>
+  <mn>1.01</mn>
+  <mspace width="4em"/>
+  <mtext>(Eq. 40)</mtext>
+</math>

@@ -1,0 +1,130 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mrow>
+              <mfrac>
+                <mrow>
+                  <mn>12</mn>
+                  <mspace width=".2em"/>
+                  <mi>mole</mi>
+                  <msub>
+                    <mrow>
+                      <mspace width=".2em"/>
+                      <mi>CH</mi>
+                    </mrow>
+                    <mn>4</mn>
+                  </msub>
+                </mrow>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>mole</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>hexadecene</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mfrac>
+              <mo>&#215;</mo>
+              <mfrac>
+                <mrow>
+                  <mn>22.4</mn>
+                  <mspace width=".2em"/>
+                  <mi>L</mi>
+                </mrow>
+                <mrow>
+                  <mi>mole</mi>
+                  <mspace width=".2em"/>
+                  <msub>
+                    <mi>CH</mi>
+                    <mn>4</mn>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo>&#215;</mo>
+            <mfrac>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mn>1,000</mn>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mi>ml</mi>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mi>L</mi>
+            </mfrac>
+          </mrow>
+          <mo>&#215;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mn>1</mn>
+                <mspace width=".2em"/>
+                <mi>mole</mi>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>hexadecene</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>224.4</mn>
+                <mspace width=".2em"/>
+                <mi>g</mi>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>hexadecene</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+        <mo>&#215;</mo>
+        <mfrac>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mn>23</mn>
+                <mspace width=".2em"/>
+                <mi>g</mi>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>hexadecene</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mtext>kg dry soil</mtext>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mfrac>
+        <mrow>
+          <mn>0.03</mn>
+          <mspace width=".2em"/>
+          <mi>kg</mi>
+        </mrow>
+        <mtext>culture</mtext>
+      </mfrac>
+    </mrow>
+    <mo>=</mo>
+    <mtext>84 (ml)</mtext>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>[Eq. 24]</mtext>
+</math>

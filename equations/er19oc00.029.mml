@@ -1,0 +1,42 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>&#923;</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>&#923;</mi>
+          <mn>1</mn>
+        </msub>
+        <mo>+</mo>
+        <mi>&#923;</mi>
+        <mo>+</mo>
+        <mi>L</mi>
+      </mrow>
+      <mo>)</mo>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mn>180</mn>
+          <mi>&#960;</mi>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+  <mrow>
+    <mo>(</mo>
+    <mrow>
+      <mtext>longitude of target point</mtext>
+      <mo>,</mo>
+      <mi>DDD</mi>
+    </mrow>
+    <mo>)</mo>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Equation A22)</mtext>
+</math>

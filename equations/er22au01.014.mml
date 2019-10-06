@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Weighted-Average HAP Content (%)</mtext>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>i</mi>
+          </msub>
+          <msub>
+            <mi>HAP</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <mrow>
+        <munderover>
+          <mo>&#8721;</mo>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>n</mi>
+        </munderover>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>M</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="3em"/>
+  <mtext>(Eq. 1)</mtext>
+</math>

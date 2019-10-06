@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>MW</mi>
+    <mi>WAVG</mi>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mtext>mass of C</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mtext>molecular weight of C</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mrow>
+          <mi>i</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+      </munderover>
+      <msub>
+        <mrow>
+          <mo>(</mo>
+          <mtext>mass of C</mtext>
+          <mo>)</mo>
+        </mrow>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>[Eq. 7]</mtext>
+</math>

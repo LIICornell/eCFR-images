@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>&#947;</mi>
+    <mi>i</mi>
+  </msub>
+  <mo>=</mo>
+
+      <msup>
+        <mi>tan</mi>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msup>
+
+  <mrow>
+    <mo>&#8968;</mo>
+    <mfrac>
+      <msub>
+        <mover>
+          <mi>Z</mi>
+          <mo>&#183;</mo>
+        </mover>
+        <mi>i</mi>
+      </msub>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msubsup>
+              <mover>
+                <mi>X</mi>
+                <mo>&#183;</mo>
+              </mover>
+              <mi>i</mi>
+              <mn>2</mn>
+            </msubsup>
+            <mo>+</mo>
+            <msubsup>
+              <mover>
+                <mi>Y</mi>
+                <mo>&#183;</mo>
+              </mover>
+              <mi>i</mi>
+              <mn>2</mn>
+            </msubsup>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>0.5</mn>
+      </msup>
+    </mfrac>
+    <mo>&#8969;</mo>
+    <mspace width="4em"/>
+    <mtext>(Equation B14)</mtext>
+  </mrow>
+</math>

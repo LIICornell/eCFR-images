@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Primary Reserve ratio</mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mtext>Expendable Net Assets</mtext>
+            <mtext>Total Expenses</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Equity ratio</mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mtext>Modified Net Assets</mtext>
+            <mtext>Modified Assets</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Net Income ratio</mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mtext>Change in Unrestricted Net Assets</mtext>
+            <mtext>Total Unrestricted Revenues</mtext>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

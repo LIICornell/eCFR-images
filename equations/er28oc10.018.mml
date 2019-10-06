@@ -1,0 +1,55 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>EF</mi>
+    <mrow>
+      <mi>N</mi>
+      <mspace width=".2em"/>
+      <mn>2</mn>
+      <mi>O</mi>
+      <mo>,</mo>
+      <mi>z</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <munderover>
+        <mo>&#8721;</mo>
+        <mn>1</mn>
+        <mi>n</mi>
+      </munderover>
+      <mfrac>
+        <mrow>
+          <mrow>
+            <mrow>
+              <msub>
+                <mi>C</mi>
+                <mrow>
+                  <mi>N</mi>
+                  <mn>2</mn>
+                  <mi>O</mi>
+                </mrow>
+              </msub>
+              <mo>*</mo>
+              <mn>1.14</mn>
+            </mrow>
+            <mo>&#215;</mo>
+            <msup>
+              <mn>10</mn>
+              <mrow>
+                <mo>&#8722;</mo>
+                <mn>7</mn>
+              </mrow>
+            </msup>
+          </mrow>
+          <mo>*</mo>
+          <mi>Q</mi>
+        </mrow>
+        <mi>P</mi>
+      </mfrac>
+    </mrow>
+    <mi>n</mi>
+  </mfrac>
+  <mspace width="3em"/>
+  <mtext>(Eq. E-1)</mtext>
+</math>

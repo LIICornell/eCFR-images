@@ -1,0 +1,41 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>EF</mi>
+    <mrow>
+      <mi>CO</mi>
+      <mn>2</mn>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mi>ER</mi>
+      <mrow>
+        <mi>CO</mi>
+        <mn>2</mn>
+      </mrow>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>t</mi>
+        </msub>
+        <mo>*</mo>
+        <mn>4.53</mn>
+        <mo>*</mo>
+        <msup>
+          <mn>10</mn>
+          <mrow>
+            <mo>&#8722;</mo>
+            <mn>4</mn>
+          </mrow>
+        </msup>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+  </mfrac>
+  <mspace width="4em"/>
+  <mtext>(Eq. CC-4)</mtext>
+</math>

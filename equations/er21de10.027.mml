@@ -1,0 +1,46 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>V</mi>
+    <mi>ms</mi>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mn>528</mn>
+    <mn>29.92</mn>
+  </mfrac>
+  <mo>]</mo>
+  <mo>[</mo>
+  <mi>&#947;</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>V</mi>
+    <mi>m</mi>
+  </msub>
+  <mo>]</mo>
+  <mo>[</mo>
+  <mfrac>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <msub>
+          <mi>P</mi>
+          <mi>bar</mi>
+        </msub>
+        <mo>+</mo>
+        <mfrac>
+          <mi>&#916;H</mi>
+          <mn>13.6</mn>
+        </mfrac>
+      </mrow>
+      <mo>)</mo>
+    </mrow>
+    <msub>
+      <mi>T</mi>
+      <mi>m</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="6em"/>
+  <mtext>(Eq. 28)</mtext>
+</math>

@@ -1,0 +1,37 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>V</mi>
+      <mi>WELL</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mi>barrels</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mrow>
+      <mrow>
+          <mo>&#8721;</mo>
+        <mfrac>
+          <mrow>
+            <mtext>Bit diameter </mtext>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mi>in</mi>
+                <mo>)</mo>
+              </mrow>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+          <mn>1029</mn>
+        </mfrac>
+      </mrow>
+      <mo>&#215;</mo>
+      <mtext>change in measured depth (ft)</mtext>
+    </mrow>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>[12]</mtext>
+</math>

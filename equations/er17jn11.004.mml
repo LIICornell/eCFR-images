@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Percent Oxybenzone</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mtext>Peak area of oxybenzone in sunscreen standard</mtext>
+              <mtext>Peak area of oxybenzone in HPLC reference standard</mtext>
+            </mfrac>
+            <mo>*</mo>
+            <mn>100</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Percent Padimate O</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mtext>Peak area of padimate O in sunscreen standard</mtext>
+              <mtext>Peak area of padimate O in HPLC reference standard</mtext>
+            </mfrac>
+            <mo>*</mo>
+            <mn>100</mn>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
