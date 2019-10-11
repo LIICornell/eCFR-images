@@ -1,0 +1,58 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msub>
+    <mi>CO</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>=</mo>
+  <mo>[</mo>
+  <mrow>
+    <mrow>
+      <msub>
+        <mi>M</mi>
+        <mrow>
+          <mo>(</mo>
+          <mi>Ca</mi>
+          <msub>
+            <mi>CO</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </msub>
+      <mo>*</mo>
+      <mfrac>
+        <mn>44</mn>
+        <mn>100</mn>
+      </mfrac>
+    </mrow>
+    <mo>+</mo>
+    <msub>
+      <mi>M</mi>
+      <mrow>
+        <mo>(</mo>
+        <msub>
+          <mi>Na</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mi>CO</mi>
+          <mn>3</mn>
+        </msub>
+        <mo>)</mo>
+      </mrow>
+    </msub>
+    <mfrac>
+      <mn>44</mn>
+      <mn>105.99</mn>
+    </mfrac>
+  </mrow>
+  <mo>]</mo>
+  <mrow>
+    <mo>*</mo>
+    <mn>1000</mn>
+    <mspace width=".2em"/>
+    <mtext>kg/metric ton</mtext>
+  </mrow>
+  <mspace width="4em"/>
+  <mtext>(Eq. AA-3)</mtext>
+</math>

@@ -1,0 +1,57 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>2</mn>
+  </mfrac>
+  <mo>[</mo>
+  <mrow>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>T</mi>
+              <mtext>High 1</mtext>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>T</mi>
+              <mtext>High 2</mtext>
+            </msub>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mtext>&#64; time 30 sec</mtext>
+    </msub>
+    <mo>+</mo>
+    <msub>
+      <mrow>
+        <mo>(</mo>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>T</mi>
+              <mtext>High 1</mtext>
+            </msub>
+            <mo>+</mo>
+            <msub>
+              <mi>T</mi>
+              <mtext>High 2</mtext>
+            </msub>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+        <mo>)</mo>
+      </mrow>
+      <mtext>&#64; time 60 sec</mtext>
+    </msub>
+  </mrow>
+  <mo>]</mo>
+  <mo>&#8834;</mo>
+  <mn>430</mn>
+  <mo>&#176;</mo>
+  <mi>C</mi>
+</math>

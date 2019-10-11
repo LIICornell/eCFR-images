@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>H</mi>
+  <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mn>1000</mn>
+        <mo>&#183;</mo>
+        <mn>18.01528</mn>
+        <mo>&#183;</mo>
+        <mn>2.93</mn>
+        <mo>&#183;</mo>
+        <mn>0.375</mn>
+      </mrow>
+      <mrow>
+        <mn>28.96559</mn>
+        <mo>&#183;</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>96.71</mn>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mn>2.93</mn>
+              <mo>&#183;</mo>
+              <mn>0.375</mn>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+    </mfrac>
+    <mo>=</mo>
+    <mn>7.14741</mn>
+    <mspace width=".2em"/>
+    <mi>g</mi>
+    <mspace width=".2em"/>
+    <msub>
+      <mi>H</mi>
+      <mn>2</mn>
+    </msub>
+  </mrow>
+  <mi>O</mi>
+  <mspace width=".2em"/>
+  <mi>vapor</mi>
+  <mo>/</mo>
+  <mi>kg</mi>
+  <mspace width=".2em"/>
+  <mi>dry</mi>
+  <mspace width=".2em"/>
+  <mi>air</mi>
+</math>

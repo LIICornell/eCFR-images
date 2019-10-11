@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mover>
+            <mi>x</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mo>=</mo>
+          <mfrac>
+            <mn>1</mn>
+            <mi>n</mi>
+          </mfrac>
+        </mrow>
+        <mrow>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>i</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>n</mi>
+          </munderover>
+          <msub>
+            <mi>x</mi>
+            <mi>i</mi>
+          </msub>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>and, </mtext>
+        <mover>
+          <mi>x</mi>
+          <mo>&#8212;</mo>
+        </mover>
+        <mspace width=".2em"/>
+        <mtext>is the sample mean; n is the number of samples; and </mtext>
+        <mspace width=".2em"/>        
+        <msub>
+          <mi>x</mi>
+          <mi>i</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>is the </mtext>
+        <mspace width=".2em"/>
+        <msup>
+          <mi>i</mi>
+          <mi>th</mi>
+        </msup>
+        <mspace width=".2em"/>
+        <mtext>sample;</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

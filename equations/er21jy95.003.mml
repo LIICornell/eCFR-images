@@ -1,0 +1,100 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mn>175</mn>
+        <mo>%</mo>
+      </mtd>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Basic lobbying labor</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>costs of all personnel</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mo>+</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Allocable third-</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>party costs</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+      <mtd>
+        <mo>=</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Costs allocable to</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>lobbying activities</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>[</mo>
+        <mn>175</mn>
+        <mo>%</mo>
+      </mtd>
+      <mtd>
+        <mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>$</mo>
+            <mn>82,000</mn>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mo>+</mo>
+        <mo>[</mo>
+        <mn>0</mn>
+        <mo>]</mo>
+      </mtd>
+      <mtd>
+        <mo>=</mo>
+        <mo>$</mo>
+        <mn>143,500</mn>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

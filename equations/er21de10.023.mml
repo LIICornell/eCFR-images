@@ -1,0 +1,64 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>n</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <mi>Cp</mi>
+          <msqrt>
+            <mi>&#916;</mi>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>p</mi>
+              <mi>n</mi>
+            </msub>
+          </msqrt>
+        </mrow>
+        <mrow>
+          <msup>
+            <mi>C</mi>
+            <mn>1</mn>
+          </msup>
+          <msub>
+            <mrow>
+              <mi>p</mi>
+              <mrow>
+                <mo>(</mo>
+                <msqrt>
+                  <mi>&#916;</mi>
+                  <mspace width=".2em"/>
+                  <msub>
+                    <mi>p</mi>
+                    <mn>1</mn>
+                  </msub>
+                </msqrt>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mi>avg</mi>
+          </msub>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+  <mo>[</mo>
+  <mfrac>
+    <msub>
+      <mi>t</mi>
+      <mi>r</mi>
+    </msub>
+    <msub>
+      <mi>N</mi>
+      <mi>tp</mi>
+    </msub>
+  </mfrac>
+  <mo>]</mo>
+  <mspace width="4em"/>
+  <mtext>(Eq. 24)</mtext>
+</math>

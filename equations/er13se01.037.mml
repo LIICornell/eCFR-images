@@ -1,0 +1,117 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msubsup>
+          <mi>B</mi>
+          <mi>q</mi>
+          <mi>f</mi>
+        </msubsup>
+        <mo>=</mo>
+      </mtd>
+      <mtd>
+        <mn>1</mn>
+        <mi>if</mi>
+        <mspace width=".2em"/>
+        <mrow>
+          <msub>
+            <mi>b</mi>
+            <msup>
+              <mi>q</mi>
+              <mo>'</mo>
+            </msup>
+          </msub>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mspace width=".2em"/>
+        <mtext>for two or more</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mtext>quarters</mtext>
+        <msup>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>q</mi>
+          </mrow>
+          <mo>'</mo>
+        </msup>
+        <mspace width=".2em"/>
+        <mtext>between q-8 and q-1</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mtext>inclusive, or since Origination if</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".4em"/>
+      </mtd>
+      <mtd>
+        <mn>2</mn>
+        <mo>&lt;</mo>
+        <msub>
+          <mi>A</mi>
+          <mi>q</mi>
+        </msub>
+        <mo>&lt;</mo>
+        <mn>8</mn>
+        <mspace width=".4em"/>
+        <mtext>(Note: by definition,</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".4em"/>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>B</mi>
+          <mi>q</mi>
+        </msub>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width=".4em"/>
+        <mi>if</mi>
+        <mspace width=".4em"/>
+        <mrow>
+          <msub>
+            <mi>A</mi>
+            <mi>q</mi>
+          </msub>
+          <mo>&lt;</mo>
+          <mrow>
+            <mn>3</mn>
+            <mo>)</mo>
+            <mo>;</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msubsup>
+          <mi>B</mi>
+          <mi>q</mi>
+          <mi>f</mi>
+        </msubsup>
+        <mo>=</mo>
+      </mtd>
+      <mtd>
+        <mn>0</mn>
+        <mspace width=".4em"/>
+        <mi>otherwise</mi>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

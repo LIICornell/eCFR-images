@@ -1,0 +1,73 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Starting UPB</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mrow>
+              <mo>[</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>Total dollar amount</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>of Commitments</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>Outstanding</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>]</mo>
+            </mrow>
+            <mo>&#215;</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>[</mo>
+        <mfrac>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Starting UPB for the</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>Commitment Loan Group Category</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Total Starting UPB for all</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>Commitment Loan Group</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>Categories</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mfrac>
+        <mo>]</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

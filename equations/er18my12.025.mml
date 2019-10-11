@@ -1,0 +1,52 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Corrected % </mtext>
+    <msub>
+      <mi>CH</mi>
+      <mn>4</mn>
+    </msub>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mo>%</mo>
+        <msub>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>CH</mi>
+          </mrow>
+          <mn>4</mn>
+        </msub>
+      </mrow>
+      <mrow>
+        <mn>1</mn>
+        <mo>&#8722;</mo>
+        <mfrac>
+          <mrow>
+            <mi>D</mi>
+            <mo>&#215;</mo>
+            <mrow>
+              <mn>22.4</mn>
+              <mspace width=".2em"/>
+              <mi>L</mi>
+              <mo>/</mo>
+              <mi>mol</mi>
+            </mrow>
+          </mrow>
+          <mrow>
+            <mrow>
+              <mn>18</mn>
+              <mspace width=".2em"/>
+              <mi>g</mi>
+              <mo>/</mo>
+              <mi>mol</mi>
+            </mrow>
+            <mo>&#215;</mo>
+            <mn>1,000</mn>
+          </mrow>
+        </mfrac>
+      </mrow>
+    </mfrac>
+  </mrow>
+  <mspace width="6em"/>
+  <mtext>[Eq. 21]</mtext>
+</math>

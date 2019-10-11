@@ -1,0 +1,100 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>B</mi>
+            <mi>q</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mn>0.25</mn>
+            <mo>&#215;</mo>
+            <msubsup>
+              <mi>B</mi>
+              <mi>q</mi>
+              <mi>f</mi>
+            </msubsup>
+          </mrow>
+          <mi>if</mi>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>A</mi>
+            <mi>q</mi>
+          </msub>
+        </mrow>
+        <mo>=</mo>
+        <mn>3</mn>
+        <mspace width=".2em"/>
+        <mi>or</mi>
+        <mspace width=".2em"/>
+        <mn>4</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mrow>
+          <mn>0.50</mn>
+          <mo>&#215;</mo>
+          <msubsup>
+            <mi>B</mi>
+            <mi>q</mi>
+            <mi>f</mi>
+          </msubsup>
+        </mrow>
+        <mi>if</mi>
+        <msub>
+          <mi>A</mi>
+          <mi>q</mi>
+        </msub>
+        <mo>=</mo>
+        <mn>5</mn>
+        <mspace width=".2em"/>
+        <mi>or</mi>
+        <mspace width=".2em"/>
+        <mn>6</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mrow>
+          <mn>0.75</mn>
+          <mo>&#215;</mo>
+          <msubsup>
+            <mi>B</mi>
+            <mi>q</mi>
+            <mi>f</mi>
+          </msubsup>
+          <mspace width=".2em"/>
+          <mi>if</mi>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>A</mi>
+            <mi>q</mi>
+          </msub>
+        </mrow>
+        <mo>=</mo>
+        <mn>7</mn>
+        <mspace width=".2em"/>
+        <mi>or</mi>
+        <mspace width=".2em"/>
+        <mn>8</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <msubsup>
+          <mi>B</mi>
+          <mi>q</mi>
+          <mi>f</mi>
+        </msubsup>
+        <mspace width=".2em"/>
+        <mtext>otherwise</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

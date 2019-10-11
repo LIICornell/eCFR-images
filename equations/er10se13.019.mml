@@ -1,0 +1,31 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>H</mi>
+      <mi>FX</mi>
+    </msub>
+    <mo>=</mo>
+    <mrow>
+      <mn>8</mn>
+      <mo>%</mo>
+      <msqrt>
+        <mfrac>
+          <msub>
+            <mi>T</mi>
+            <mi>M</mi>
+          </msub>
+          <mn>10</mn>
+        </mfrac>
+      </msqrt>
+    </mrow>
+  </mrow>
+  <mo>,</mo>
+  <mi>where</mi>
+  <mspace width=".2em"/>
+  <msub>
+    <mi>T</mi>
+    <mi>M</mi>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>equals the greater of 10 or the number of days between revaluation.</mtext>
+</math>

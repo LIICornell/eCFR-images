@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Assessment rate =</mtext>
+      </mtd>
+      <mtd>
+        <mtext style="text-decoration: underline;">Assessment Basis &#8212;
+        (Number of Assessed Companies x $50,000)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mtext>Total Assessable Assets of All Assessed Companies</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

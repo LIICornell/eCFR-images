@@ -1,0 +1,49 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mtext>Ice Hardness Adjustment Factor</mtext>
+    <mo>=</mo>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <mrow>
+          <mn>144</mn>
+          <mfrac bevelled="true">
+            <mi>Btu</mi>
+            <mi>lb</mi>
+          </mfrac>
+          <mo>+</mo>
+          <mn>38</mn>
+          <mfrac bevelled="true">
+            <mi>Btu</mi>
+            <mi>lb</mi>
+          </mfrac>
+        </mrow>
+        <mrow>
+          <mn>144</mn>
+          <mfrac bevelled="true">
+            <mi>Btu</mi>
+            <mi>lb</mi>
+          </mfrac>
+          <mo>&#215;</mo>
+          <mrow>
+            <mrow>
+              <mo>(</mo>
+              <mfrac bevelled="true">
+                <mtext>Ice Hardness Factor</mtext>
+                <mn>100</mn>
+              </mfrac>
+              <mo>)</mo>
+            </mrow>
+            <mo>+</mo>
+            <mn>38</mn>
+            <mfrac bevelled="true">
+              <mi>Btu</mi>
+              <mi>lb</mi>
+            </mfrac>
+          </mrow>
+        </mrow>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+  </mrow>
+</math>
