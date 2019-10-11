@@ -11,7 +11,7 @@
             <mi>E</mi>
             <mi>i</mi>
           </msub>
-          <mo>&minus;</mo>
+          <mo>&#8722;</mo>
           <msub>
             <mi>E</mi>
             <mi>o</mi>
@@ -22,7 +22,7 @@
           <mi>i</mi>
         </msub>
       </mfrac>
-      <mo>×</mo>
+      <mo>&#215;</mo>
       <mrow>
         <mn>100</mn>
         <mo>%</mo>
