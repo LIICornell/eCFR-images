@@ -16,7 +16,20 @@
    height="682.88"
    viewBox="0 0 568.20001 640.20001"
    sodipodi:docname="er24se14.004.svg">
-  <title id="title_er24se14.004"></title>
+  <title id="title_er24se14.004">Appendix A-2 to § 1910.269 - Application of § 1910.269 and Subpart S of this Part to Electrical Safety-Related Work Practices [Footnote 1: This flowchart applies only to the electrical safety-related work practice and training
+requirements in §1910.269 and §§1910.332 through 1910.335.] 
+Flowchart:
+Are the employees “qualified” as defined through in §1910.399 [Footnote 2: See §§1910.269(a)(1)(ii)(B) and 1910.331(b) and (c)(1).]? 
+If NO, then: §§1910.332 through 1910.335 
+If YES, then: Is this an electric power generation, transmission, or distribution installation?
+If NO, then Is it a commingled [Footnote 3: This means commingled to the extent that the electric power generation, transmission, or distribution installation poses the greater hazard.] installation? 
+If not commingled, then §§1910.332 through 1910.335 OR §1910.269 plus
+(or) §1910.332, §1910.333(a) &amp; (b) and §1910.334.
+If commingled, then return to "is this an electric power generation, transmission, or distribution installation?"
+If YES, then Does the installation conform to §§1910.302 through 1910.308? 
+If NO, then §1910.269
+If YES, then §1910.269 OR §§1910.332 through 1910.335 plus the paragraphs of §1910.269 that apply regardless of compliance with Subpart S (See Table | of Appendix A-2.)
+</title>
   <desc id="desc_er24se14.004"></desc>
   <metadata
      id="metadata26074">
