@@ -16,7 +16,17 @@
    height="536.96002"
    viewBox="0 0 537 503.39999"
    sodipodi:docname="er11ap14.018.svg">
-  <title id="title_er11ap14.018"></title>
+  <title id="title_er11ap14.018">Appendix A-1 to §1910.269—Application of §1910.269 and Subpart S of this Part to the Design of Electrical Installations. (Footnote: This chart applies to electrical installation design requirements only. See
+Appendix A-2 for electrical safety-related work practices. Supplementary electric
+generating equipment that is used to supply a workplace for emergency, standby, or
+similar purposes only is not considered an electric power generation installation.)
+[Flowchart:] Is this an electric power generation,
+transmission, or distribution installation?
+If NO, then: §§1910.302 through 1910.308.
+If YES, then: Is it a generation installation? 
+If NO, then: §1910.269(u).
+If YES, then: §1910.269(v).
+</title>
   <desc id="desc_er11ap14.018"></desc>
   <metadata
      id="metadata8631">
