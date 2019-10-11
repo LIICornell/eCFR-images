@@ -16,7 +16,59 @@
    height="675.83997"
    viewBox="0 0 448.20001 633.59998"
    sodipodi:docname="ec01my92.045.svg">
-  <title id="title_ec01my92.045"></title>
+  <title id="title_ec01my92.045">Figure 1 to §63.785 Flow diagram of compliance procedures
+Note: OPTION 4 shall follow the same procedures
+shown for Options 1 through 3, depending on whether
+or not and how thinners are used. When using
+Option 4, the term "VOHAP" shall be used in lieu of
+the term "VOC."
+
+Flowchart:
+Start.
+Determine coating categoryand VOHAP limit for each batch of coating.
+Certify VOC content of each batch (as supplied).
+Are thinners ever added to the coating?
+If no, then proceed along Option 1 path.
+
+Option 1 path:
+Certify VOC content of each batch (as applied).
+Notify painters that no thinner may be added (via label). 
+Is VOC content &#8804; VOHAP limit?
+If VOC content is not &#8804; VOHAP limit, then Violation.
+If VOC content is &#8804; VOHAP limit, then have M24 or approved tests on any coating shown noncompliance?
+If M24 or approved tests on any coating shown noncompliance, then Violation; if not, then Compliance.
+End Option 1 path.
+
+If thinners are ever added to the coating, the proceed along Option 2 path. 
+Option 2 path:
+Determine compliance on a coating-by-coating basis?
+If no, then proceed along Option 3 path.
+If yes, then: 
+Determine volume solids and maximum allowable thinning ratio for each batch (equation 1 and equation 2);
+Notify painters of designated thinner and maximum allowable thinning ratio (via label);
+Determine volume of each batch thinner during previous mouth (as supplied);
+Determine total allowable volume of thinner for each coating thinned during previous mouth (equation 3).
+Is actual volume of thinner &#8804; allowable volume?
+If no, then Violation. 
+If yes, then have M24 or approved tests on any coating shown noncompliance?
+If yes, then Violation; if no, then Compliance.
+End Option 2 path.
+
+Option 3 path: 
+(Determine compliance on a coating-by-coating basis? No.)
+Group coatings by thinner type;
+Determine volume solids and maximum allowable thinning ratio for each batch. (equation 1 and equation 2);
+Notify painters of designated thinner and maximum allowable thinning ratio (via label);
+Determine volume of each batch thinned during previous month (as supplied);
+Det. total allowable volume of thinner for each group of coatings thinned during previous month (equation 3);
+Is actual volume of thinner &#8804; allowable volume?
+If no, then Violation; if yes, then: 
+Have M24 or any approved tests on any coating shown noncompliance?
+If yes, then Violation; if no, then Compliance.
+End Option 3 path.
+
+
+</title>
   <desc id="desc_ec01my92.045"></desc>
   <metadata
      id="metadata16703">
