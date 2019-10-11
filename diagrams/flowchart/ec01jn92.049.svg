@@ -16,7 +16,45 @@
    height="588.79999"
    viewBox="0 0 437.39999 552"
    sodipodi:docname="ec01jn92.049.svg">
-  <title id="title_ec01jn92.049"></title>
+  <title id="title_ec01jn92.049">Figure 2. Decisionmaking Process for Continuous Emissions Already
+Controlled at Polypropylene and Polyethylene Affected Facilities
+Flowchart:
+2.1. AFFECTED FACILITY HAS
+CONTROLLED CONTINUOUS EMISSIONS
+
+2.2 ARE EMISSIONS EQUAL TO OR
+GREATER THAN THE
+CALCULATED THRESHOLD EMISSIONS?
+
+If yes, proceed to 2.3. If no, proceed to 2.6.
+
+2.3 DOES EXISTING CONTROL DEVICE REDUCE EMISSIONS BY 98 PERCENT OR TO 20 PPHV OR MEET NECESSARY OPERATING REQUIREMENTS?
+
+If No, proceed to 2.4. 
+
+2.4 STANDARD IS TO BE MET NEXT TIME THE CONTROL DEVICE IS MODIFIED, RECONSTRUCTED, OR REPLACED.  ADD IN ANY UNCONTROLLED EMISSIONS IN SAME WEIGHT PERCENT RANGE FROM ANY AFFECTED FACILITY.
+
+If Yes, proceed to 2.5.
+
+2.5 NO FURTHER CONTROL IS REQUIRED.
+
+2.6 STANDARD DOES NOT NEED TO BE MET AT THIS TIME. Proceed to 2.7. 
+
+2.7 CONTROL DEVICE IS MODIFIED RECONSTRUCTED, OR REPLACED. Proceed to 2.8.
+
+2.8 ADD IN UNCONTROLLED STREAMS IN SAME WEIGHT PERCENT RANGE FROM PREVIOUS AFFECTED FACILITIES. Proceed to 2.9.
+
+2.9 ARE EMISSIONS NOW EQUAL TO OR GREATER THAN THE CALCULATED THRESHOLD            EMISSIONS? 
+
+If no, proceed to 2.6. 
+
+If yes, proceed to 2.10.
+
+2.10 CONTROL BY 98 PERCENT, TO 20 PPMV, OR IN A CONTROL DEVICE THAT MEETS SPECIFIED OPERATING CONDITIONS.
+
+NOTE: There are no individual stream exemptions for emissions already
+controlled by existing control devices.
+</title>
   <desc id="desc_ec01jn92.049"></desc>
   <metadata
      id="metadata14033">
