@@ -16,7 +16,38 @@
    height="788.40002"
    viewBox="0 0 610.20001 788.40002"
    sodipodi:docname="er26mr12.065.svg">
-  <title id="title_er26mr12.065">Evaluation strategy for serious eye damage and eye irritation</title>
+  <title id="title_er26mr12.065">Figure A.3.1 Evaluation strategy for serious eye damage and eye Irritation.
+(See also Figure A.2.1). Notes to Figure A.3.1: Note 1. Evidence of existing human or animal data may be derived from single or repeated exposure(s) in occupational,
+consumer, transportation, or emergency response scenarios; from ethically-conducted human clinical studies; or
+from purposely-generated data from animal studies conducted according to scientifically validated test methods.
+At present, there are no internationally accepted test methods for human skin or eye irritation testing.
+Note 2. Classify in the appropriate harmonized category, as shown in Tables A.3.1 and A.3.2. 
+Flowchart:
+Step, Parameter, Finding, Conclusion
+1a: Existing human or animal data, eye [footnote 1] Serious Eye Damage ——> Category I [footnote 2].
+Eye Irritant ——> Category 2 [footnote 2].
+Otherwise: No/insufficient data or unknown.
+1b: Existing human or animal data, skin ——> Skin corrosive ——> Category I [footnote 2]
+corrosion.
+Otherwise: No/insufficient data or unknown.
+1c: Existing human or “animal data, eye [footnote 1] —> Existing data that show that substance does not cause serious eye damage or eye irritation ——> Not Classified.
+Otherwise: No/insufficient data.
+2: Other, existing skin/eye data in animals [footnote 3 (not part of this image, please refer to text that follows)] > Yes; existing data that show that substance may cause serious or eye damage or eye irritation ——> Category or Category 2 [footnote 2].
+Otherwise: No/insufficient data.
+3: Existing ex vivo / in vitro data [footnote 4 (not part of this image, please refer to text that follows)]. Positive: serious eye damage —— > Category I [footnote 2].
+Positive: eye irritant ——> Category 2 [footnote 2].
+Otherwise: No/insufficient data / negative response.
+4: pH-Based assessment (with consideration of buffering capacity of the chemical, or no buffering capacity data)[footnote 5 (not part of this image, please refer to text that follows)] ——> pH &le; 2 or &ge; 11.5 ——> Category I [footnote 2].
+Otherwise: Not a pH extreme, no pH data, or extreme pH with low/no buflerng capacity.
+5: Validated structure/activity relationship (SAR) models ——> Severe damage to eyes ——> Category 1 [footnote 2].
+Eye irritant ——> Category 2 [footnote 2].
+Skin Corrosive, Category 1 [footnote 2].
+Otherwise: No/insufficient data.
+6: Consideration of the total weight of evidence [footnote 6 (not part of this image, please refer to text that follows)] ——> Serious eye damage ——> Category I [footnote 2].
+Eye irritant —— > Category 2 [footnote 2].
+Otherwise: No concern based on consideration of the sum of available data.
+7: Not Classified.
+</title>
   <desc id="desc_er26mr12.065">Hazard communication</desc>
   <metadata
      id="metadata10680">
