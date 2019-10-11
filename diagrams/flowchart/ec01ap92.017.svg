@@ -16,7 +16,18 @@
    height="456.95999"
    viewBox="0 0 587.40002 428.39999"
    sodipodi:docname="ec01ap92.017.svg">
-  <title id="title_ec01ap92.017"></title>
+  <title id="title_ec01ap92.017">Figure 1-1.  Flow chart for analysis of bulk samples by polarized light microscopy. Polarized light microscopy analysis:  For each type of material identified by examination of sample at low magnificalion.Mount spacially dispersed sample in 1.550 RI liquid.  (if using dispersion staining, mount in 1.550 HD.) View at 100X with both plane polarized light and crossed polars.  More than one fiber type may be present. 
+Flowchart:
+If fibers absent, Examine two additional prepared slides at 100X and 450X. 
+If fibers still absent, Examination complete. Report no asbestos present.
+If fibers present, then if Fibers are isotropic (disappear at all angles of stage rotation with crossed polars), Possible fibers include:  Fiberglass: 1.20 μm  uniform diameter. RI typically < 1.53 or Mineral wool: 6.200 μm diameter, bulbous ends and shot. RI typically > 1.53 .
+Otherwise, if Fibers are enisotropic (exhibitextinction at 90° intervals ofstage retation): 1.  Determine extinction characteristies. 2.  Determine sign of elongation. 
+If Negative, Mount in 1.700 RI liquid. Determine n. Check morphology for crocidolite.
+If Positive, If n &bsime; 1.550 : Determine n. Check morphology for chrysotile. If fibers are twisted and exhibit internal details, cellulose -- is indicated.
+If all n's > 1.550 , Mount in 1.680 RI liquid. 
+If n &bsime; 1.680 Determine n. Check morphologyfor amosite.
+If all n's < 1.680 Mount in 1.605 RI liquid. Determine n. Check morphology and characteristics for enthephyllite, termolite-actinolite.
+</title>
   <desc id="desc_ec01ap92.017"></desc>
   <metadata
      id="metadata10422">
