@@ -1,0 +1,65 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="text-decoration: none;">(2)</mtext>
+        <mspace width=".2em"/>
+        <mtext style="text-decoration: underline;">Mixed collateral.</mtext>
+        <mrow>
+          <mo></mo>
+          <mrow>
+            <mtext>Where the collateral is a basket of different asset types or a basket</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>of assets denominated in different currencies, the haircut on the basket will be</mtext>
+        <mrow>
+          <mspace width=".2em"/>
+          <mi>H</mi>
+          <mo>=</mo>
+          <mrow>
+            <munder>
+              <mo>&#8721;</mo>
+              <mi>i</mi>
+            </munder>
+            <msub>
+              <mi>a</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+        </mrow>
+        <msub>
+          <mi>H</mi>
+          <mi>i</mi>
+        </msub>
+        <mo>,</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where</mtext>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>a</mi>
+          <mi>i</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>is the current fair value of the asset in the basket divided by the current fair value of all</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>assets in the basket and</mtext>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>H</mi>
+          <mn>1</mn>
+        </msub>
+        <mtext>is the haircut applicable to that asset.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <msub>
+            <mi>n</mi>
+            <mi>j</mi>
+          </msub>
+          <mi>N</mi>
+        </mfrac>
+        <mo>=</mo>
+        <mtext>fractional bin hours for the cooling season; the ratio of the number of hours during</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>the cooling season when the outdoor temperature fell within the range represented by bin</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>temperature </mtext>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>to the total number of hours in the cooling season, dimensionless. </mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,40 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>R</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>$</mo>
+        <mn>305,335.48</mn>
+        <mo>&#8722;</mo>
+        <mo>$</mo>
+        <mn>5,136.99</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(Equation 44)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>R</mi>
+        <mi>V</mi>
+        <mo>=</mo>
+        <mo>$</mo>
+        <mn>300,198.49</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(Equation 45)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

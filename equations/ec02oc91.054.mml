@@ -1,0 +1,109 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Example: if radionuclides &quot;A,&quot;&quot;B,&quot;and&quot;C&quot;are present in concentrations</mtext>
+          <msub>
+            <mrow>
+              <mspace width=".2em"/>
+              <mi>C</mi>
+            </mrow>
+            <mi>A</mi>
+          </msub>
+          <msub>
+            <mrow>
+              <mo>,</mo>
+              <mi>C</mi>
+            </mrow>
+            <mi>B</mi>
+          </msub>
+          <msub>
+            <mrow>
+              <mo>,</mo>
+              <mi>and</mi>
+              <mspace width=".2em"/>
+              <mi>C</mi>
+            </mrow>
+            <mi>C</mi>
+          </msub>
+          <mo>,</mo>
+          <mtext>and if the</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>applicable DACs are  </mtext>
+        <msub>
+          <mi>DAC</mi>
+          <mi>A</mi>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>DAC</mi>
+          <mi>B</mi>
+        </msub>
+        <mo>,</mo>
+        <mi>and</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>DAC</mi>
+          <mi>C</mi>
+        </msub>
+        <mo>,</mo>
+        <mtext>respectively, then the concentrations shall be limited so that the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>following relationship exists:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <msub>
+              <mi>C</mi>
+              <mi>A</mi>
+            </msub>
+            <msub>
+              <mi>DAC</mi>
+              <mi>A</mi>
+            </msub>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <msub>
+              <mi>C</mi>
+              <mi>B</mi>
+            </msub>
+            <msub>
+              <mi>DAC</mi>
+              <mi>B</mi>
+            </msub>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <msub>
+              <mi>C</mi>
+              <mi>C</mi>
+            </msub>
+            <msub>
+              <mi>DAC</mi>
+              <mi>C</mi>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>&lt;</mo>
+        <mn>1</mn>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

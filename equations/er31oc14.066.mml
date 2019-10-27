@@ -1,0 +1,63 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Number of less-than-full-time students in the enrollment cohort</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>who completed the program within 200% of the length of the
+        </mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>program</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext><mrow>
+          <mtext style="text-decoration: overline;">Number of less-than-full-time students in the enrollment cohort</mtext>
+        </mrow>
+        </mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>and</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Number of less-than-full-time students in the enrollment cohort</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>who completed the program within 300% of the length ofthe</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>program</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="text-decoration: overline;">Number of less-than-full-time students in the enrollment cohort</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

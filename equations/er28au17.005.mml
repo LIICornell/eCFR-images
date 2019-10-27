@@ -1,0 +1,94 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>% breakdown of DDT </mtext>
+          <mo>=</mo>
+          <mfrac>
+            <mrow>
+              <mtext>sum of degradation peak areas </mtext>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>DDD</mi>
+                  <mo>+</mo>
+                  <mi>DDE</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mtext>sum of all peak areas </mtext>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>DDT</mi>
+                  <mo>+</mo>
+                  <mi>DDE</mi>
+                  <mo>+</mo>
+                  <mi>DDD</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mrow>
+          <mo>&#215;</mo>
+          <mn>100</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>% breakdown of Endrin</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mtext>sum of degradation peak areas </mtext>
+            <mo>(</mo>
+            <mrow>
+              <mtext>Endrin aldehyde </mtext>
+              <mo>+</mo>
+              <mtext>Endrin ketone</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow>
+            <mtext>sum of all peak areas </mtext>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mtext>Endrin</mtext>
+                <mo>+</mo>
+                <mtext>Endrin aldehyde</mtext>
+                <mo>+</mo>
+                <mtext>Endrin ketone</mtext>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mfrac>
+        <mrow>
+          <mo>&#215;</mo>
+          <mn>100</mn>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

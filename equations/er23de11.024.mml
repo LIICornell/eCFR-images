@@ -1,0 +1,135 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>E</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>,</mo>
+            <mi>CO</mi>
+            <mspace width=".2em"/>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mrow>
+          <mo>=</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mi>V</mi>
+                <mi>a</mi>
+              </msub>
+              <mo>*</mo>
+              <msub>
+                <mi>Y</mi>
+                <mrow>
+                  <mi>CO</mi>
+                  <mspace width=".2em"/>
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mspace width="1em"/>
+          <mo>+</mo>
+          <mspace width="1em"/>
+        </mrow>
+        <mrow>
+          <mi>&#951;</mi>
+          <mo>*</mo>
+          <munderover>
+            <mo>&#8721;</mo>
+            <mrow>
+              <mi>j</mi>
+              <mo>=</mo>
+              <mn>1</mn>
+            </mrow>
+            <mn>5</mn>
+          </munderover>
+          <mrow>
+            <msub>
+              <mi>V</mi>
+              <mi>a</mi>
+            </msub>
+            <mo>*</mo>
+            <mrow>
+              <msub>
+                <mi>Y</mi>
+                <mi>j</mi>
+              </msub>
+              <mo>*</mo>
+              <msub>
+                <mi>R</mi>
+                <mi>j</mi>
+              </msub>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mspace width="4em"/>
+        <mtext>(Eq. W-39A)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>E</mi>
+            <mrow>
+              <mi>a</mi>
+              <mo>,</mo>
+              <mi>C</mi>
+              <mi>H</mi>
+              <mspace width=".2em"/>
+              <mn>4</mn>
+            </mrow>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mrow>
+              <msub>
+                <mi>V</mi>
+                <mi>a</mi>
+              </msub>
+              <mo>*</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>&#8722;</mo>
+                  <mi>&#951;</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mo>*</mo>
+            <msub>
+              <mi>Y</mi>
+              <mrow>
+                <mi>CH</mi>
+                <mspace width=".2em"/>
+                <mn>4</mn>
+              </mrow>
+            </msub>
+          </mrow>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mspace width="4em"/>
+        <mtext>(Eq. W-39B)</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

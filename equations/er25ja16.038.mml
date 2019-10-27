@@ -1,0 +1,61 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext><mrow>
+          <mrow>
+            <mi>i</mi>
+            <mo>=</mo>
+            <mtext>load point corresponding to 75, 100, or 110 percent of theBEP flow rate, and</mtext>
+          </mrow>
+        </mrow>
+        </mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>i</mi>
+          </msub>
+          <mi>MotorHP</mi>
+        </mfrac>
+        <mo>&#8804;</mo>
+        <mn>1.000</mn>
+        <mo>;</mo>
+        <mi>if</mi>
+        <mspace width=".2em"/>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>i</mi>
+          </msub>
+          <mi>MotorHP</mi>
+        </mfrac>
+        <mo>&gt;</mo>
+        <mn>1.000</mn>
+        <mo>,</mo>
+        <mtext>then set</mtext>
+        <mfrac>
+          <msub>
+            <mi>P</mi>
+            <mi>i</mi>
+          </msub>
+          <mrow>
+            <mi>Motor</mi>
+            <mi>HP</mi>
+          </mrow>
+        </mfrac>
+        <mo>=</mo>
+        <mn>1.000</mn>
+        <mtext>in the equation in this</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>section II.B.1.2.2 to calculate the part load loss factor at each load point i.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

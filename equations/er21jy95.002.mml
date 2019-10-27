@@ -1,0 +1,92 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mfrac>
+              <mtext>Lobbying labor hours</mtext>
+              <mtext>Total labor hours</mtext>
+            </mfrac>
+            <mo>&#215;</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mtext>Total costs</mtext>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mtext>of operations</mtext>
+                </mtd>
+              </mtr>
+            </mtable>
+          </mrow>
+          <mo>&#215;</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>Allocable third-</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>party costs</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+        <mo>=</mo>
+        <mtable>
+          <mtr>
+            <mtd>
+              <mtext>Costs allocable to</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>lobbying activities</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <mfrac>
+                <mrow>
+                  <mn>300</mn>
+                  <mo>+</mo>
+                  <mn>1,700</mn>
+                  <mo>+</mo>
+                  <mn>1,000</mn>
+                </mrow>
+                <mn>6,000</mn>
+              </mfrac>
+              <mo>&#215;</mo>
+              <mrow>
+                <mo>$</mo>
+                <mn>300,000</mn>
+              </mrow>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mo>[</mo>
+            <mn>0</mn>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+        <mspace width="6em"/>
+        <mo>=</mo>
+        <mo>$</mo>
+        <mn>150,000</mn>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

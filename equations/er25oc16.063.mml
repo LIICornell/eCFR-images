@@ -1,0 +1,73 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>(i) Use one of the following equations to determine tire size,
+        </mtext>
+        <mfrac>
+          <msub>
+            <mi>f</mi>
+            <mi>ntire</mi>
+          </msub>
+          <msub>
+            <mi>v</mi>
+            <mi>vehicle</mi>
+          </msub>
+        </mfrac>
+        <mtext>, and drive axle ratio,</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>k</mi>
+          <mi>a</mi>
+        </msub>
+        <mtext>, at each of the defined engine speeds in Tables 2 through 4 of
+        this section:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(A) Select a value for </mtext>
+        <msub>
+          <mrow>
+            <mo>[</mo>
+            <mfrac>
+              <msub>
+                <mi>f</mi>
+                <mi>ntire</mi>
+              </msub>
+              <msub>
+                <mi>v</mi>
+                <mi>vehicle</mi>
+              </msub>
+            </mfrac>
+            <mo>]</mo>
+          </mrow>
+          <mrow>
+            <mo>[</mo>
+            <mtext>speed</mtext>
+            <mo>]</mo>
+          </mrow>
+        </msub>
+        <mtext>and solve for </mtext>
+        <msub>
+          <mi>k</mi>
+          <mrow>
+            <mi>a</mi>
+            <mo>[</mo>
+            <mi>speed</mi>
+            <mo>]</mo>
+          </mrow>
+        </msub>
+        <mtext>using the following</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>equation:</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

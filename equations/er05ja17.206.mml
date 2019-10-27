@@ -1,0 +1,79 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>q</mi>
+              <mi>c</mi>
+            </msub>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>T</mi>
+                <mi>j</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>N</mi>
+        </mfrac>
+        <mo>=</mo>
+        <mtext>the ratio of the total space cooling provided during periods of the space cooling</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>season when the outdoor temperature fell within the range represented by bin temperature</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>to the total number of hours in the cooling season (N), Btu/h</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mi>c</mi>
+            </msub>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>T</mi>
+                <mi>j</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>N</mi>
+        </mfrac>
+        <mtext> = the electrical energy consumed by the test unit during periods of the space cooling</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>season when the outdoor temperature fell within the range represented by bin temperature</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>T</mi>
+          <mi>j</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>to the total number of hours in the cooling season (N), W.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

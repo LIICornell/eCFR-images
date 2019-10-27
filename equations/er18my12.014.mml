@@ -1,0 +1,84 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>30 g dry sediment</mtext>
+          <mo>&#215;</mo>
+          <mrow>
+            <mtext>wet:dry ratio</mtext>
+            <mo>=</mo>
+            <mtext>g wet sediment added to each bottle</mtext>
+          </mrow>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>[Eq. 7]</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>g wet sediment</mtext>
+            <mrow>
+              <mtext>Density</mtext>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mi>g</mi>
+                  <mo>/</mo>
+                  <mi>mL</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mtext>of wet sediment</mtext>
+            </mrow>
+          </mfrac>
+          <mo>=</mo>
+          <mtext>mL wet sediment</mtext>
+          <mspace width="4em"/>
+          <mtext>[Eq. 8]</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>3.2.2. Calculate volume of sea water to be added to each
+        bottle.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>75 mL total volume</mtext>
+        <mrow>
+          <mo>&#8722;</mo>
+          <mtext>mL wet sediment (from Eq. 8)</mtext>
+        </mrow>
+        <mo>=</mo>
+        <mtext>mL of sea water</mtext>
+        <mspace width="4em"/>
+        <mtext>[Eq. 9]</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>3.2.3. Determine the ratio of sea water to wet sediment
+        (volume:volume) in each bottle.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>Volume sea water per bottle (Eq. 9)</mtext>
+            <mtext>Volume sediment water per bottle (Eq. 8)</mtext>
+          </mfrac>
+          <mo>=</mo>
+          <mtext>Ratio of sea water:wet sediment</mtext>
+          <mspace width="4em"/>
+          <mtext>[Eq. 10]</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

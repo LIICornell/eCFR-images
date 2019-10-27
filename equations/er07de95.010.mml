@@ -1,0 +1,81 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>% Difference</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mo>&#x2223;</mo>
+                <mrow>
+                  <mover>
+                    <msub>
+                      <mi>RRF</mi>
+                      <mi>x</mi>
+                    </msub>
+                    <mo>&#8212;</mo>
+                  </mover>
+                  <mo>&#8722;</mo>
+                  <msub>
+                    <mi>RRF</mi>
+                    <mi>c</mi>
+                  </msub>
+                </mrow>
+                <mo>&#x2223;</mo>
+              </mrow>
+              <mover>
+                <msub>
+                  <mi>RRF</mi>
+                  <mi>x</mi>
+                </msub>
+                <mo>&#8212;</mo>
+              </mover>
+            </mfrac>
+            <mo>&#215;</mo>
+            <mn>100</mn>
+          </mrow>
+        </mrow>
+        <mspace width="4em"/>
+        <mtext>Eq. 8</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mover>
+            <mi>RRF</mi>
+            <mo>&#8212;</mo>
+          </mover>
+          <mo>=</mo>
+          <mtext>mean relative response factor from last calibration</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi>RRF</mi>
+          <mo>=</mo>
+          <mtext>relative response factor from calibration check standard.</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

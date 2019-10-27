@@ -1,0 +1,98 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Obtain the fraction bin hours for the cooling season, </mtext>
+        <mfrac>
+          <msub>
+            <mi>n</mi>
+            <mi>j</mi>
+          </msub>
+          <mi>N</mi>
+        </mfrac>
+        <mspace width=".2em"/>
+        <mtext>from Table 19. Equations 4.1.3-</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>3 and 4.1.3-4, respectively, to evaluate </mtext>
+        <msubsup>
+          <mover>
+            <mi>Q</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi>c</mi>
+          <mrow>
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>j</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mtext> and </mtext>
+        <msubsup>
+          <mover>
+            <mi>E</mi>
+            <mo>&#183;</mo>
+          </mover>
+          <mi>c</mi>
+          <mrow>
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>2</mn>
+          </mrow>
+        </msubsup>
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>T</mi>
+            <mi>j</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+        <mo>.</mo>
+        <mspace width=".2em"/>
+        <mtext>If the </mtext>
+        <msub>
+          <mi>C</mi>
+          <mn>2</mn>
+        </msub>
+        <mspace width=".2em"/>
+        <mi>and</mi>
+        <mspace width=".2em"/>
+        <msub>
+          <mi>D</mi>
+          <mn>2</mn>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>tests described</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>in section 3.2.3 and Table 7 of this appendix are not conducted, set </mtext>
+        <msup>
+          <msub>
+            <mi>C</mi>
+            <mi>D</mi>
+          </msub>
+          <mi>c</mi>
+        </msup>
+        <mtext>(k=2) equal to the default</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>value specified in section 3.5.3 of this appendix. </mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,59 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>The calculation of Equation 4.2-1 quantities </mtext>
+        <mfrac>
+          <mrow>
+            <mi>R</mi>
+            <mi>H</mi>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>T</mi>
+                <mi>j</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>N</mi>
+        </mfrac>
+        <mtext> and </mtext>
+        <mfrac>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mi>h</mi>
+            </msub>
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>T</mi>
+                <mi>j</mi>
+              </msub>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mi>N</mi>
+        </mfrac>
+        <mspace width=".2em"/>
+        <mtext>differs depending upon whether</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>the heat pump would operate at minimum speed (section 4.2.4.1 of this appendix), operate at an</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>intermediate speed (section 4.2.4.2 of this appendix), or operate at full speed (section 4.2.4.3 of</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>this appendix) in responding to the building load.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

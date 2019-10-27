@@ -1,0 +1,201 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>Fee</mi>
+            <mi>i</mi>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mtext>System Setup Cost</mtext>
+              <mrow>
+                <mi>Years</mi>
+                <mo>&#215;</mo>
+                <msub>
+                  <mi>N</mi>
+                  <mi>t</mi>
+                </msub>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <msub>
+                <mtext>Marginal Cost</mtext>
+                <mi>i</mi>
+              </msub>
+              <mo>+</mo>
+              <mfrac>
+                <mrow>
+                  <mi>O</mi>
+                  <mo>&amp;</mo>
+                  <msub>
+                    <mi>M</mi>
+                    <mi>i</mi>
+                  </msub>
+                  <mspace width=".2em"/>
+                  <mtext>Cost</mtext>
+                </mrow>
+                <msub>
+                  <mi>N</mi>
+                  <mi>i</mi>
+                </msub>
+              </mfrac>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mo>&#215;</mo>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mtext>Indirect Cost Factor</mtext>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>System Setup Cost</mtext>
+          <mo>=</mo>
+          <mrow>
+            <mtext>Procurement Cost</mtext>
+            <mo>+</mo>
+            <mtext>EPA Program Cost</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>O</mi>
+            <mo>&amp;</mo>
+            <msub>
+              <mi>M</mi>
+              <mtext>fully electronic</mtext>
+            </msub>
+            <mspace width=".2em"/>
+            <mi>Cost</mi>
+          </mrow>
+          <mo>=</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Electronic System</mtext>
+          <mrow>
+            <mspace width=".2em"/>
+            <mi>O</mi>
+            <mo>&amp;</mo>
+            <mi>M</mi>
+            <mtext></mtext>
+            <mspace width=".2em"/>
+            <mtext>Cost</mtext>
+          </mrow>
+          <mo>+</mo>
+          <mrow>
+            <mtext>Help Desk Cost</mtext>
+            <mo>+</mo>
+            <mrow>
+              <mtext>EPA Program Cost</mtext>
+              <mo>+</mo>
+              <mtext>CROMERR Cost</mtext>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>+ LifeCycle Cost to Modify or Upgrade eManfiest System Related
+        Services</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>O</mi>
+            <mo>&amp;</mo>
+            <msub>
+              <mi>M</mi>
+              <mtext>all other</mtext>
+            </msub>
+            <mspace width=".2em"/>
+            <mi>Cost</mi>
+          </mrow>
+          <mo>=Electronic System</mo>
+          <mspace width=".2em"/>
+          <mrow>
+            <mi>O</mi>
+            <mo>&amp;</mo>
+            <mi>M</mi>
+            <mtext></mtext>
+            <mspace width=".2em"/>
+            <mtext>Cost</mtext>
+          </mrow>
+          <mo>+</mo>
+          <mtext>Paper Center</mtext>
+          <mspace width=".2em"/>
+          <mi>O</mi>
+          <mo>&amp;</mo>
+          <mi>M</mi>
+          <mtext></mtext>
+          <mspace width=".2em"/>
+          <mi>Cost</mi>
+          <mo>+</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Help Desk Cost</mtext>
+          <mo>+</mo>
+          <mrow>
+            <mtext>EPA Program Cost</mtext>
+            <mo>+</mo>
+            <mtext>CROMERR Cost +</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>LifeCycle Cost to Modify or Upgrade eManfiest System Related Services</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

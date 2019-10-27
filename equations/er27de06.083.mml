@@ -1,0 +1,106 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Basic level fuel economy</mtext>
+        <mo>=</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mrow>
+              <mo>[</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>Fraction of total sales configurations</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>tested represented by</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>configuration No. 1 sales</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>]</mo>
+              <mo>[</mo>
+              <mfrac>
+                <mn>1</mn>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Configuration</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>No. 1 fuel economy</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+            <mo>+</mo>
+            <mrow>
+              <mo>[</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mtext>Fraction of total sales</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>of configurations tested</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>represented by configuration</mtext>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mtext>No. 2 sales</mtext>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>]</mo>
+              <mo>[</mo>
+              <mfrac>
+                <mn>1</mn>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Configuration</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mi>No</mi>
+                      <mo>.</mo>
+                      <mn>2</mn>
+                      <mn>1</mn>
+                      <mi>fuel</mi>
+                      <mi>economy</mi>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+          </mrow>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

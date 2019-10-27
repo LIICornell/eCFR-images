@@ -1,0 +1,80 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>Sum of squares</mtext>
+          <mo>=</mo>
+          <mrow>
+            <msubsup>
+              <mi>f</mi>
+              <mi>nnormi</mi>
+              <mn>2</mn>
+            </msubsup>
+            <mo>+</mo>
+            <msubsup>
+              <mi>P</mi>
+              <mi>normi</mi>
+              <mn>2</mn>
+            </msubsup>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Eq. 1065.610-1</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Where:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mtext>an indexing variable that represents one recorded value of an
+        engine map.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>f</mi>
+            <mi>nnormi</mi>
+          </msub>
+          <mo>=</mo>
+          <mtext>an engine speed normalized by dividing it by </mtext>
+          <msub>
+            <mi>f</mi>
+            <mrow>
+              <mi>nP</mi>
+              <mo>max</mo>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mi>normi</mi>
+          </msub>
+          <mo>=</mo>
+          <mtext>an engine power normalized by dividing it by </mtext>
+          <msub>
+            <mi>P</mi>
+            <mo>max</mo>
+          </msub>
+        </mrow>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

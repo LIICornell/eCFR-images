@@ -1,0 +1,53 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>HTF investment</mtext>
+            <mrow>
+              <mtext>HTF investment</mtext>
+              <mo>+</mo>
+              <mtext>homeowner investment</mtext>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#215;</mo>
+          <mrow>
+            <mspace width=".2em"/>
+            <mtext>Net proceeds</mtext>
+            <mo>=</mo>
+            <mtext>HTF amount to be recaptured</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext></mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mfrac>
+            <mtext>homebuyer investment</mtext>
+            <mrow>
+              <mtext>HTF investment</mtext>
+              <mo>+</mo>
+              <mtext>homeowner investment</mtext>
+            </mrow>
+          </mfrac>
+          <mspace width=".2em"/>
+          <mo>&#215;</mo>
+          <mrow>
+            <mspace width=".2em"/>
+            <mtext>Net proceeds</mtext>
+            <mo>=</mo>
+            <mtext>amount to homeowner</mtext>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,132 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mrow>
+              <mo>[</mo>
+              <mfrac>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>The </mtext>
+                      <mtext>fraction of Ajax</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>vehicles using the 3.0 liter, 6 cylinder</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>engine which fall in the 3500 lb inertia</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>weight class with an A3 transmission</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Fuel economy for 3.0 liter, 6 cylinder 3500
+                      lb</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>A3 transmission base level</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+            <mo>+</mo>
+            <mrow>
+              <mo>[</mo>
+              <mfrac>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>The fraction of Ajax vehicles using the</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>3.0 liter, 6 cylinder engine which fall in the
+                      4000 lb</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>inertia weight class with an A3
+                      transmission</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+                <mtable>
+                  <mtr>
+                    <mtd>
+                      <mtext>Fuel economy for 3.0 liter 6 cylider 4000 lb
+                      A3</mtext>
+                    </mtd>
+                  </mtr>
+                  <mtr>
+                    <mtd>
+                      <mtext>transmission base level</mtext>
+                    </mtd>
+                  </mtr>
+                </mtable>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+          </mrow>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo>=</mo>
+        <mfrac>
+          <mn>1</mn>
+          <mrow>
+            <mrow>
+              <mo>[</mo>
+              <mfrac>
+                <mn>0.3000</mn>
+                <mn>15.9020</mn>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+            <mo>+</mo>
+            <mrow>
+              <mo>[</mo>
+              <mfrac>
+                <mn>0.7000</mn>
+                <mn>13.8138</mn>
+              </mfrac>
+              <mo>]</mo>
+            </mrow>
+          </mrow>
+        </mfrac>
+        <mo>=</mo>
+        <mn>14.3803</mn>
+        <mtext> mpg, which rounds to </mtext>
+        <msup>
+          <mrow>
+            <mn>14</mn>
+            <mspace width=".2em"/>
+            <mi>MPG</mi>
+          </mrow>
+          <mn>1</mn>
+        </msup>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

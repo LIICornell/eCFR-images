@@ -1,0 +1,90 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>v</mi>
+        <mo>=</mo>
+        <mi>N</mi>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Example:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>N</mi>
+        <mo>=</mo>
+        <mn>16</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>v</mi>
+        <mo>=</mo>
+        <mn>16</mn>
+        <mo>&#8722;</mo>
+        <mn>1</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>v</mi>
+        <mo>=</mo>
+        <mn>15</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(3) Use Table 1 of this section to compare </mtext>
+     <mspace width=".4em"/>
+        <mi>t</mi>
+        <mspace width=".4em"/>
+        <mtext>to the </mtext>
+     <mspace width=".4em"/>
+        <msub>
+          <mi>t</mi>
+          <mi>crit</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>values tabulated versus the number</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>of degrees of freedom. If</mtext>
+        <mspace width=".4em"/>
+        <mi>t</mi>
+        <mspace width=".4em"/>
+        <mtext>is less than </mtext>
+        <mspace width=".4em"/>
+        <msub>
+          <mi>t</mi>
+          <mi>crit</mi>
+        </msub>
+        <mo>,</mo>
+        <mtext>then </mtext>
+     <mspace width=".4em"/>
+          <mi>t</mi>
+          <mspace width=".4em"/>
+          <mtext>passes the </mtext>
+        <mspace width=".4em"/>
+          <mi>t</mi>
+        <mtext>-test. The Microsoft Excel</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>software has a TINV function that returns results equivalent results and may be used in</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>place of Table 1, which follows:</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

@@ -1,0 +1,115 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext style="font-style: italic">Computing the Index Rate</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>The index rate that equals the simple-interest money market
+        yield on an actual/360 basis</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>is computed as follows:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi>r</mi>
+          <mo>=</mo>
+          <mfrac>
+            <mi>D</mi>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#8722;</mo>
+              <mfrac>
+                <mi>&#948;T</mi>
+                <mn>360</mn>
+              </mfrac>
+              <mi>D</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where</mtext>
+        <mspace width=".2em"/>
+        <mi>D</mi>
+        <mspace width=".2em"/>
+        <mtext>is the discount rate (or auction high rate), and</mtext>
+        <mspace width=".2em"/>
+        <mi>&#948;T</mi>
+        <mspace width=".2em"/>
+        <mtext>represents the number of days</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>from (and including) the issue date of the 13-week bill to (but
+        excluding) the maturity</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>date of the 13-week bill. In the table above the corresponding
+        index rate for the</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>12/27/2011 auction is</mtext>
+        <mspace width=".2em"/>
+        <mi>r</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mn>0.025</mn>
+            <mo>%</mo>
+          </mrow>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#8722;</mo>
+            <mrow>
+              <mfrac>
+                <mn>91</mn>
+                <mn>360</mn>
+              </mfrac>
+              <mo>&#215;</mo>
+              <mrow>
+                <mn>0.025</mn>
+                <mo>%</mo>
+              </mrow>
+            </mrow>
+          </mrow>
+        </mfrac>
+        <mo>=</mo>
+        <mrow>
+          <mn>0.025001580</mn>
+          <mo>%</mo>
+          <mo>.</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

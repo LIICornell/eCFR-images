@@ -1,0 +1,72 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mi>F</mi>
+        <mo>+</mo>
+        <mo>(</mo>
+        <mi>T</mi>
+        <mo></mo>
+        <mi>x</mi>
+        <mo></mo>
+        <mo>(</mo>
+        <mi>N</mi>
+        <mo>&#8722;</mo>
+        <mi>F</mi>
+        <mo>)</mo>
+        <mo>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>F</mi>
+        <mo>=</mo>
+        <mtext>The base FMAP for the State determined under paragraph (b) of</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>this section, subject to paragraph (c) (7) of this section.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>T</mi>
+        <mo>=</mo>
+        <mtext>The transition percentage specified in paragraph (c)(8)(ii) of this</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>section.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>N</mi>
+        <mo>=</mo>
+        <mtext>The Newly Eligible FMAP determined under paragraph (c)(6) of</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>this section.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

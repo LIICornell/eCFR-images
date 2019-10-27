@@ -1,0 +1,33 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>Total # of Children in IV - D Caseload in the Fiscal Year
+        or,</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>at the option of the State, as of the end of the Fiscal Year who
+        were</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Born Out-of-Wedlock with Paternity Established or
+        Acknowledged</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext style="text-decoration: overline;">Total # of Children in IV - D
+        Caseload as of the end of the preceding</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>Fiscal Year who were Born Out-of-Wedlock</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

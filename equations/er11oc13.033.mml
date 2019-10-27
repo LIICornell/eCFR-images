@@ -1,0 +1,148 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mi>B</mi>
+            <mo>)</mo>
+            <msub>
+              <mtext style="font-style: italic">Effective EPE</mtext>
+              <msub>
+                <mi>t</mi>
+                <mi>k</mi>
+              </msub>
+            </msub>
+          </mrow>
+          <mo>=</mo>
+          <mrow>
+            <munderover>
+              <mo>&#8721;</mo>
+              <mrow>
+                <mi>k</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mi>n</mi>
+            </munderover>
+            <mrow>
+              <mtext style="font-style: italic">Effective</mtext>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>EE</mi>
+                <mi>k</mi>
+              </msub>
+              <mo>&#215;</mo>
+              <mi>&#916;</mi>
+              <msub>
+                <mi>t</mi>
+                <mi>k</mi>
+              </msub>
+            </mrow>
+          </mrow>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>(that is, effective EPE is the time-weighted average ofeffective
+        EE where the weights are</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>the proportion that an individual effective EE represents in
+        aone-year time interval)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>(</mo>
+          <mn style="text-decoration: underline;">1</mn>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <msub>
+            <mi style="font-style: italic">EffectiveEE</mi>
+            <msub>
+              <mi>t</mi>
+              <mi>k</mi>
+            </msub>
+          </msub>
+          <mo>=</mo>
+          <mtext>max</mtext>
+          <mrow>
+            <mo>(</mo>
+            <msub>
+              <mi style="font-style: italic">EffectiveEE</mi>
+              <msub>
+                <mi>t</mi>
+                <mrow>
+                  <mi>k</mi>
+                  <mo>&#8722;</mo>
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+            </msub>
+            <mo>,</mo>
+            <msub>
+              <mi>EE</mi>
+              <msub>
+                <mi>t</mi>
+                <mi>k</mi>
+              </msub>
+            </msub>
+            <mo>)</mo>
+          </mrow>
+          <mtext>(that is, for a specific date</mtext>
+          <mspace width=".2em"/>
+          <msub>
+            <mi>t</mi>
+            <mi>k</mi>
+          </msub>
+        </mrow>
+        <mtext>,</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>effective EE is the greater of EE at that date or the effective
+        EE at the previous date); and</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mo>(</mo>
+          <mn style="text-decoration: underline;">2</mn>
+          <mo>)</mo>
+        </mrow>
+        <msub>
+          <mi>t</mi>
+          <mi>k</mi>
+        </msub>
+        <mspace width=".2em"/>
+        <mtext>represents the</mtext>
+        <mspace width=".2em"/>
+        <msup>
+          <mi>k</mi>
+          <mi>th</mi>
+        </msup>
+        <mspace width=".2em"/>
+        <mtext>future time period in the model and there are n time periods</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>represented in the model over the first year, and</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

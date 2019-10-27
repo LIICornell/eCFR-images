@@ -1,0 +1,36 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtext>(B) Select a value for </mtext>
+  <msub>
+    <mi>k</mi>
+    <mrow>
+      <mi>a</mi>
+      <mo>[</mo>
+      <mi>speed</mi>
+      <mo>]</mo>
+    </mrow>
+  </msub>
+  <mspace width=".2em"/>
+  <mtext>and solve for </mtext>
+  <msub>
+    <mrow>
+      <mo>[</mo>
+      <mfrac>
+        <msub>
+          <mi>f</mi>
+          <mi>ntire</mi>
+        </msub>
+        <msub>
+          <mi>v</mi>
+          <mi>vehicle</mi>
+        </msub>
+      </mfrac>
+      <mo>]</mo>
+    </mrow>
+    <mrow>
+      <mo>[</mo>
+      <mi>speed</mi>
+      <mo>]</mo>
+    </mrow>
+  </msub>
+  <mtext>using the following equation:</mtext>
+</math>

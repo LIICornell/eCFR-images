@@ -1,0 +1,151 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>&#945;</mi>
+          <mi>Li</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext>Flight Azimuth</mtext>
+            <mo>&#8722;</mo>
+            <mi>&#948;</mi>
+            <msub>
+              <mi>&#945;</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mtext>for left lateral boundary computations</mtext>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+        <mtext>(Equation B28)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mo>&#8722;</mo>
+        <mi>OR</mi>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <msub>
+          <mi>&#945;</mi>
+          <mi>Ri</mi>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mtext>Flight Azimuth</mtext>
+            <mo>&#8722;</mo>
+            <mi>&#948;</mi>
+            <msub>
+              <mi>&#945;</mi>
+              <mi>i</mi>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mspace width=".2em"/>
+      </mtd>
+      <mtd>
+        <mtext>for right lateral boundary computations</mtext>
+      </mtd>
+      <mtd>
+        <mtext>(Equation B29)</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>where:</mtext>
+        <mspace width="3em"/>
+      </mtd>
+      <mtd>
+        <mspace width=".2em"/>
+        <mrow>
+          <msub>
+            <mi>f</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mo>{</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <mrow>
+                    <mrow>
+                      <mn>0.0</mn>
+                      <mo>:</mo>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>ri</mi>
+                      </msub>
+                    </mrow>
+                    <mo>&#8805;</mo>
+                    <mn>0.8</mn>
+                  </mrow>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mrow>
+                    <mrow>
+                      <mn>1.0</mn>
+                      <mo>:</mo>
+                      <msub>
+                        <mi>F</mi>
+                        <mi>ri</mi>
+                      </msub>
+                    </mrow>
+                    <mo>&lt;</mo>
+                    <mn>0.8</mn>
+                  </mrow>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>}</mo>
+          </mrow>
+        </mrow>
+      </mtd>
+      <mtd>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

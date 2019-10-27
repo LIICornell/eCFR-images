@@ -1,0 +1,68 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mtext>3.3.1. Determine the weight of sediment to be added to each bottle.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>mL sediment (Eq. 8)</mtext>
+          <mo>&#215;</mo>
+          <mtext>density of wet sediment (g/mL)</mtext>
+        </mrow>
+        <mo>=</mo>
+        <mtext>g wet sediment</mtext>
+        <mspace width="4em"/>
+        <mtext>[Eq. 13]</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>3.3.2. Determine the weight of sea water to be added to each bottle.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>mL sea water (Eq. 9)</mtext>
+          <mo>&#215;</mo>
+          <mtext>density of sea water</mtext>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1.01</mn>
+              <mi>g</mi>
+              <mo>/</mo>
+              <mi>mL</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mtext>g sea water</mtext>
+        <mspace width="4em"/>
+        <mtext>[Eq. 14]</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>3.3.3. Determine the weight of sediment/sea water slurry to be added to each bottle.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>g wet sediment (Eq. 13)</mtext>
+          <mo>+</mo>
+          <mtext>g sea water (Eq. 14)</mtext>
+        </mrow>
+        <mo>=</mo>
+        <mtext>g sediment/sea water slurry</mtext>
+        <mspace width="4em"/>
+        <mtext>[Eq. 15]</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>
