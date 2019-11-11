@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.069</title>
+</head>
+
+<body>
+<dl>
+  <dt><span style="text-decoration: underline">Example (ii):</span> Skipped payment loan plus single payments</dt>
+  <dt></dt>
+    <dd>A loan of $7350 on 3-3-78 is to be repaid by 3 monthly payments of
+      $1000 each beginning 9-15-78, plus a single payment of $2000 on 3-15-79,
+      plus 3 more monthly payments of $750 each beginning 9-15-79, plus a final
+      payment of $1000 on 2-1-80.</dd>
+    <dd>Unit-period = 1 month. Unit-periods per year (w) = 12.</dd>
+    <dd>First series of payments begins 6 unit-periods plus 12 days after</dd>
+    <dd>3-3-78. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>6</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>12</mn>
+          <mo>/</mo>
+          <mn>30</mn>
+          <mo>)</mo>
+        </mrow>
+      </math></dd>
+    <dd>Second series of payments (single payment) occurs 12 unit-periods plus
+      12 days after 3-3-78. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <msub>
+                  <mn>t</mn>
+                  <mn>2</mn>
+                </msub>
+                <mo>=</mo>
+                <mn>12</mn>
+                <mo>;</mo>
+                <msub>
+                  <mi>f</mi>
+                  <mn>2</mn>
+                </msub>
+                <mo>=</mo>
+                <mn>12</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>)</mo>
+        </mrow>
+      </math> 
+      <p>Third series of payments begins 18 unit-periods plus 12 days after
+      3-3-78. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>18</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>12</mn>
+          <mo>/</mo>
+          <mn>30</mn>
+          <mo>)</mo>
+        </mrow>
+      </math></p>
+      <p>Final payment occurs 22 unit-periods plus 29 days after 3-3-78.
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>4</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>22</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>4</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>29</mn>
+          <mo>/</mo>
+          <mn>30</mn>
+          <mo>)</mo>
+        </mrow>
+      </math></p>
+      <p>The general equation in paragraph (b)(8) of this section can be
+      written in the special form:</p>
+    </dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mn>7350</mn>
+          <mo>=</mo>
+          <mrow>
+            <mfrac>
+              <mrow>
+                <mn>1000</mn>
+                <msub>
+                  <mover>
+                    <mi>a</mi>
+                    <mo>¨</mo>
+                  </mover>
+                  <msup>
+                    <mn>3</mn>
+                    <mo>&#172;</mo>
+                  </msup>
+                </msub>
+              </mrow>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mo>(</mo>
+                  <mn>12</mn>
+                  <mo>/</mo>
+                  <mn>30</mn>
+                  <mo>)</mo>
+                  <mi>i</mi>
+                  <mo>)</mo>
+                  <mo>(</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                  <mo>)</mo>
+                </mrow>
+                <mn>6</mn>
+              </msup>
+            </mfrac>
+            <mo>+</mo>
+            <mfrac>
+              <mn>2000</mn>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mo>(</mo>
+                  <mn>12</mn>
+                  <mo>/</mo>
+                  <mn>30</mn>
+                  <mo>)</mo>
+                  <mi>i</mi>
+                  <mo>)</mo>
+                  <mo>(</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                  <mo>)</mo>
+                </mrow>
+                <mn>12</mn>
+              </msup>
+            </mfrac>
+            <mo>+</mo>
+          </mrow>
+        </mrow>
+      </math></dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>750</mn>
+              <msub>
+                <mover>
+                  <mi>a</mi>
+                  <mo>¨</mo>
+                </mover>
+                <msup>
+                  <mn>3</mn>
+                  <mo>&#172;</mo>
+                </msup>
+              </msub>
+            </mrow>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>12</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+              </mrow>
+              <mn>18</mn>
+            </msup>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <mn>2000</mn>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>29</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+              </mrow>
+              <mn>22</mn>
+            </msup>
+          </mfrac>
+        </mrow>
+      </math></dd>
+    <dd></dd>
+    <dd></dd>
+    <dd>Annual percentage rate (I) = wi = .1022 = 10.22%</dd>
+  <dt></dt>
+  <dt><span style="text-decoration: underline">Example (iii):</span> Mortgage with varying payments</dt>
+  <dt></dt>
+    <dd>A loan of $39,688.56 (net) on 4-10-78 is to be repaid by 360 monthly
+      payments beginning 6-1-78. Payments are the same for 12 months at a time
+      as follows:</dd>
+</dl>
+</body>
+</html>

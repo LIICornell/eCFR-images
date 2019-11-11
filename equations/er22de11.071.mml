@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.071</title>
+</head>
+
+<body>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mrow>
+      <mrow>
+        <mrow>
+          <mrow>
+            <mn>20,000</mn>
+            <mo>=</mo>
+            <mfrac>
+              <mrow>
+                <mn>612.36</mn>
+                <msub>
+                  <mover>
+                    <mi>a</mi>
+                    <mo>&#168;</mo>
+                  </mover>
+                  <msup>
+                    <mn>240</mn>
+                    <mo>&#172;</mo>
+                  </msup>
+                </msub>
+              </mrow>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mn>8</mn>
+              </msup>
+            </mfrac>
+          </mrow>
+        </mrow>
+        <mo>&#x2212;</mo>
+        <mfrac>
+          <mn>20,000</mn>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>2</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mn>2</mn>
+          </msup>
+        </mfrac>
+      </mrow>
+    </mrow>
+    <mo>&#x2212;</mo>
+    <mfrac>
+      <mn>20,000</mn>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mo>(</mo>
+            <mn>8</mn>
+            <mo>/</mo>
+            <mn>30</mn>
+            <mo>)</mo>
+            <mi>i</mi>
+            <mo>)</mo>
+            <mo>(</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>5</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+</math> 
+
+<p>Annual percentage rate (I) = wi = .1025 = 10.25%</p>
+<dl>
+  <dt><span style="text-decoration: underline">Example (ii):</span> Student loan</dt>
+    <dd>A student loan consists of 8 advances: $1800 on 9-5-78, 9-5-79,
+      9-5-80, and 9-5-81; plus $1000 on 1-5-79, 1-5-80, 1-5-81, and 1-5-82. The
+      borrower is to make 50 monthly payments of $240 each beginning 7-1-78
+      (prior to first advance). Unit-period = 1 month. Unit-periods per year
+      (w) = 12. Zero point is date of first payment since it precedes first
+      advance. From 7-1-78 to 9-5-78 = (2 + 4/30) unit-periods.</dd>
+</dl>
+
+<table border="0" style="width: 50%; margin-left: 50px">
+  <col />
+  <col />
+  <col />
+  <col />
+  <col />
+  <tbody>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>9-5-79 = (14 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>9-5-80 = (26 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>9-5-81 = (38 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>1-5-79 = (6 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>1-5-80 = (18 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>1-5-81 = (30 + 4/30)</td>
+      <td>"</td>
+    </tr>
+    <tr>
+      <td>"</td>
+      <td>"</td>
+      <td>"</td>
+      <td>1-5-82 = (42 + 4/30)</td>
+      <td>"</td>
+    </tr>
+  </tbody>
+</table>
+<dl>
+  <dt>Since the zero point is date of first payment, the general equation in
+  paragraph (b)(8) of this section is written in the single advance form below
+  by treating the first payment as a negative advance and the 8 advances as
+  negative payments:</dt>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mrow>
+            <mrow>
+              <mo>&#x2212;</mo>
+              <mn>240</mn>
+            </mrow>
+            <mo>&#x2212;</mo>
+            <mfrac>
+              <mrow>
+                <mn>240</mn>
+                <msub>
+                  <mover>
+                    <mi>a</mi>
+                    <mo>&#168;</mo>
+                  </mover>
+                  <msup>
+                    <mn>49</mn>
+                    <mo>&#172;</mo>
+                  </msup>
+                </msub>
+              </mrow>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>&#x2212;</mo>
+          <mfrac>
+            <mn>1800</mn>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>4</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+          <mo>[</mo>
+          <mfrac>
+            <mn>1</mn>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mn>2</mn>
+            </msup>
+          </mfrac>
+          <mo>+</mo>
+        </mrow>
+      </math></dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mrow>
+            <mfrac>
+              <mn>1</mn>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mn>14</mn>
+              </msup>
+            </mfrac>
+            <mo>+</mo>
+            <mfrac>
+              <mn>1</mn>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mn>26</mn>
+              </msup>
+            </mfrac>
+          </mrow>
+          <mo>+</mo>
+          <mfrac>
+            <mn>1</mn>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mn>38</mn>
+            </msup>
+          </mfrac>
+          <mo>]</mo>
+        </mrow>
+      </math></dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mrow>
+            <mo>&#x2212;</mo>
+            <mfrac>
+              <mn>1000</mn>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>4</mn>
+                <mo>/</mo>
+                <mn>30</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+              </mrow>
+            </mfrac>
+            <mo>[</mo>
+            <mfrac>
+              <mn>1</mn>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mn>6</mn>
+              </msup>
+            </mfrac>
+            <mo>+</mo>
+            <mfrac>
+              <mn>1</mn>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mn>18</mn>
+              </msup>
+            </mfrac>
+          </mrow>
+          <mo>+</mo>
+          <mfrac>
+            <mn>1</mn>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mn>30</mn>
+            </msup>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <mn>1</mn>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mn>42</mn>
+            </msup>
+          </mfrac>
+          <mo>]</mo>
+        </mrow>
+      </math></dd>
+</dl>
+
+<p>Annual percentage rate (I) = wi = .3204 = 32.04%</p>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.066</title>
+</head>
+
+<body>
+<dl>
+  <dt><span style="text-decoration: underline">Example (i):</span> Monthly payments (regular first period and irregular final
+  payment)</dt>
+    <dd>Amount advanced (A) = $5000. Regular payment (P) = $230.</dd>
+    <dd>Final payment <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>P</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </math>= $280. Number of payments (n) = 24.</dd>
+    <dd>Unit-period = 1 month. Unit-periods per year (w) = 12.</dd>
+    <dd>Advance, 1-10-78. First payment, 2-10-78.</dd>
+    <dd>From 1-10-78 through 2-10-78 = 1 unit-period. (t = 1; f = 0)</dd>
+    <dd>Annual percentage rate (I) = wi = .1050 = 10:50%</dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Example (ii):</span> Payments every 2 weeks (short first period and irregular final payment)</dt>
+    <dd>Amount advanced (A) = $200. Regular payment (P) = $9.50.<br />
+      Final payment <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>P</mi>
+            <mi>n</mi>
+          </msub>
+          <mo>)</mo>
+        </mrow>
+      </math>= $30. Number of payments (n) = 20.</dd>
+    <dd>Unit-period = 2 weeks. Unit-periods per year (w) = 52/2 = 26.</dd>
+    <dd>Advance, 4-3-78. First payment, 4-11-78.</dd>
+    <dd>From 4-3-78 through 4-11-78 = 8 days. (t = 0; f = 8/14)</dd>
+    <dd>Annual percentage rate (I) = wi = .1222 = 12.22%</dd>
+</dl>
+
+<p>(4) <span style="text-decoration: underline">Single advance transaction, with an odd first payment, odd final
+payment, with or without an odd first period, and otherwise regular.</span> The
+general equation in paragraph (b)(8) of this section can be put in the
+following special form for this type of transaction:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>fi</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mi>t</mi>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <mfrac>
+            <msub>
+              <mrow>
+                <mi>P</mi>
+                <mover>
+                  <mi>a</mi>
+                  <mo>&#168;</mo>
+                </mover>
+              </mrow>
+              <msup>
+                <mrow>
+                  <mi>n</mi>
+                  <mo>&#x2212;</mo>
+                  <mn>2</mn>
+                </mrow>
+                <mo>&#172;</mo>
+              </msup>
+            </msub>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <msub>
+              <mi>P</mi>
+              <mi>n</mi>
+            </msub>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mrow>
+                <mi>n</mi>
+                <mo>&#x2212;</mo>
+                <mn>1</mn>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math></p>
+<dl>
+  <dt><span style="text-decoration: underline">Example (i):</span> Monthly payments (regular first period, irregular first payment, and irregular final payment)</dt>
+    <dd>Amount advanced (A) = $5000. Regular payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+        </msub>
+      </math>) = $250.</dd>
+    <dd>Final payment <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+            <mi>P</mi>
+          <mo>)</mo>
+        </mrow>
+      </math>= $230. Final payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mi>n</mi>
+        </msub>
+      </math>) = $280.</dd>
+    <dd>Number of payments (n) = 24. Unit-period = 1 month.</dd>
+    <dd>Unit-periods per year (w) = 12.</dd>
+    <dd>Advance, 1-10-78. First payment, 2-10-78.</dd>
+    <dd>From 1-10-78 through 2-10-78 = 1 unit-period. (t = 1; f = 0)</dd>
+    <dd>Annual percentage rate (I) = wi = .1090 = 10:90%</dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Example (ii):</span> Payments every two months (short first period, irregular
+  first payment, and irregular final payment)</dt>
+    <dd>Amount advanced (A) = $8000. Regular payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+        </msub>
+      </math>) = $449.36.<br />
+      Final payment <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+            <mi>P</mi>
+          <mo>)</mo>
+        </mrow>
+      </math>= $465. Final payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mi>n</mi>
+        </msub>
+      </math>) = $200.</dd>
+    <dd>Number of payments (n) =20. Unit-period = 2 months.</dd>
+    <dd>Unit-periods per year (w) = 12/2 = 6.</dd>
+    <dd>Advance, 1-10-78. First payment, 3-1-78.</dd>
+    <dd>From 2-1-78 through 3-1-78 = 1 month. From 1-10-78</dd>
+    <dd>through 2-1-78 = 22 days. (t = 0; f = 52/60)</dd>
+    <dd>Annual percentage rate (I) = wi = .0730 = 7.30%</dd>
+</dl>
+</body>
+</html>
