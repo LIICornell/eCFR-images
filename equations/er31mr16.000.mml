@@ -1,0 +1,353 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mtable>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mrow>
+            <mi>NT</mi>
+            <mspace width=".2em"/>
+            <mi>ITC</mi>
+          </mrow>
+          <mo>=</mo>
+          <msub>
+            <mi>K</mi>
+            <mn>2</mn>
+          </msub>
+        </mrow>
+        <mrow>
+          <msub>
+            <mi>V</mi>
+            <mi>c</mi>
+          </msub>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mfrac>
+                <mrow>
+                  <mn>4</mn>
+                  <mi>d</mi>
+                </mrow>
+                <mrow>
+                  <mn>3</mn>
+                  <mi>D</mi>
+                </mrow>
+              </mfrac>
+              <mo>)</mo>
+            </mrow>
+            <mn>2</mn>
+          </msup>
+          <mo>+</mo>
+          <msub>
+            <mi>K</mi>
+            <mn>3</mn>
+          </msub>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>N</mi>
+              <mn>1</mn>
+            </msub>
+            <mo>+</mo>
+            <mfrac>
+              <msub>
+                <mi>N</mi>
+                <mn>2</mn>
+              </msub>
+              <mn>10</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>in which:</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+            <mi>Vc</mi>
+          <mo>=</mo>
+          <mtext>total volume of cargo spaces in cubic meters.</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mn>2</mn>
+          </msub>
+          <mo>=</mo>
+          <mrow>
+            <mn>0.2</mn>
+            <mo>+</mo>
+            <mn>0.02</mn>
+            <mspace width=".2em"/>
+            <msub>
+              <mi>log</mi>
+              <mn>10</mn>
+            </msub>
+          </mrow>
+        </mrow>
+        <msub>
+          <mi>V</mi>
+          <mi>c</mi>
+        </msub>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>K</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>1.25</mn>
+        </mrow>
+        <mrow>
+          <mo>(</mo>
+          <mfrac>
+            <mrow>
+              <mrow>
+                <mi>GT</mi>
+                <mspace width=".2em"/>
+                <mi>ITC</mi>
+              </mrow>
+              <mo>+</mo>
+              <mn>10.000</mn>
+            </mrow>
+            <mn>10.000</mn>
+          </mfrac>
+          <mo>)</mo>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi>D</mi>
+          <mo>=</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>molded depth amid ships in meters, as &quot;molded depth&quot; is</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>defined in &#167; 69.53</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mi>d</mi>
+          <mo>=</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>molded draft amid ships in meters, as &quot;molded draft&quot; is</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>defined in &#167; 69.53</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>N</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>=</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>number of passengers in cabins with not more than
+                eight</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>berths, as &quot;passenger&quot; is defined in &#167;
+                69.53</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <msub>
+            <mi>N</mi>
+            <mn>2</mn>
+          </msub>
+          <mo>=</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mtext>number of other passengers, as &quot;passenger&quot; is
+                defined in</mtext>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mtext>&#167; 69.53</mtext>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow>
+          <mtext>GT ITC</mtext>
+          <mo>=</mo>
+          <mtext>gross tonnage ITC as determined under &#167; 69.57</mtext>
+        </mrow>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtable>
+          <mtr>
+            <mtd>
+              <msub>
+                <mi>N</mi>
+                <mn>1</mn>
+              </msub>
+              <mspace width=".2em"/>
+              <mtext>and</mtext>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>N</mi>
+                <mn>2</mn>
+              </msub>
+              <mspace width=".2em"/>
+              <mtext>must equal the total number of passengers the
+              vessel</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>is permitted to carry as indicated on the ship's
+              Passenger</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>Certificate. If</mtext>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>N</mi>
+                <mn>1</mn>
+              </msub>
+              <mtext>plus</mtext>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>N</mi>
+                <mn>2</mn>
+              </msub>
+              <mspace width=".2em"/>
+              <mtext>is less than 13, both</mtext>
+              <mspace width=".2em"/>
+              <msub>
+                <mi>N</mi>
+                <mn>1</mn>
+              </msub>
+              <mtext>and</mtext>
+              <msub>
+                <mrow>
+                  <mspace width=".2em"/>
+                  <mi>N</mi>
+                </mrow>
+                <mn>2</mn>
+              </msub>
+              <mspace width=".2em"/>
+              <mtext>are zero.</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mn>4</mn>
+                <mi>d</mi>
+              </mrow>
+              <mrow>
+                <mn>3</mn>
+                <mi>D</mi>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+        <mspace width=".2em"/>
+        <mtext>must not be greater than unity</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msub>
+          <mi>K</mi>
+          <mn>2</mn>
+        </msub>
+        <msub>
+          <mi>V</mi>
+          <mi>c</mi>
+        </msub>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mfrac>
+              <mrow>
+                <mn>4</mn>
+                <mi>d</mi>
+              </mrow>
+              <mrow>
+                <mn>3</mn>
+                <mi>D</mi>
+              </mrow>
+            </mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mn>2</mn>
+        </msup>
+        <mspace width=".2em"/>
+        <mtext>must not be less than 0.25 GT ITC.</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext>NT ITC must not be less than 0.30 GT ITC.</mtext>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

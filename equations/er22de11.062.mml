@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.062</title>
+</head>
+<body>
+<p><span style="text-decoration: underline">(7) Symbols.</span> The symbols used to express the terms of a transaction in the
+equation set forth in paragraph (b)(8) of this section are defined as
+follows.</p>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>A</mi>
+      <mi>k</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The amount of the kth advance.</mtext>
+  </mrow>
+</math>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>q</mi>
+      <mi>k</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The number of full unit-periods from the beginning of the term of
+    the transaction to the kth advance.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>e</mi>
+      <mi>k</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The fraction of a unit-period in the time interval from the
+    beginning of the term of the transaction to the kth advance.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi>m</mi>
+    <mo>=</mo>
+    <mtext>The number of advances.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>P</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The amount of the jth payment.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>t</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The number of full unit-periods from the beginning of the term of
+    the transaction to the jth payment.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mi>f</mi>
+      <mi>j</mi>
+    </msub>
+    <mo>=</mo>
+    <mtext>The fraction of a unit-period in the time interval from the
+    beginning of the term of the transaction to the jth payment.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi>n</mi>
+    <mo>=</mo>
+    <mtext>The number of payments.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi>i</mi>
+    <mo>=</mo>
+    <mtext>The percentage rate of finance charge per unit-period, expressed as a decimal equivalent.</mtext>
+  </mrow>
+</math></p>
+
+<p>Symbols used in the examples shown in this appendix are defined as follows:</p>
+
+<p></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msub>
+      <mover>
+        <mi>a</mi>
+        <mo>¨</mo>
+      </mover>
+      <mover>
+        <mi>x</mi>
+        <mo>&#172;</mo>
+      </mover>
+    </msub>
+    <mo>=</mo>
+    <mtext>The present value of 1 per unit-period for x unit-periods, first payment due immediately.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>=</mo>
+    <mn>1</mn>
+  </mrow>
+  <mrow>
+    <mo>+</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mi>i</mi>
+        </mrow>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <mn>1</mn>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mn>2</mn>
+      </msup>
+    </mfrac>
+    <mo>+</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>&#183;</mo>
+    <mo>+</mo>
+    <mfrac>
+      <mn>1</mn>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mrow>
+          <mi>x</mi>
+          <mo>&#x2212;</mo>
+          <mn>1</mn>
+        </mrow>
+      </msup>
+    </mfrac>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi>w</mi>
+    <mo>=</mo>
+    <mtext>The number of unit-periods per year.</mtext>
+  </mrow>
+</math></p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+      <mi>I</mi>
+    <mo>=</mo>
+    <mrow>
+      <mi>wi</mi>
+      <mo>&#215;</mo>
+      <mn>100</mn>
+    </mrow>
+  </mrow>
+  <mo>=</mo>
+  <mtext>The nominal annual percentage rate.</mtext>
+</math></p>
+</body>
+</html>

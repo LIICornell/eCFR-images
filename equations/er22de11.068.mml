@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.068</title>
+</head>
+
+<body>
+<dl>
+  <dt><span style="text-decoration: underline">Example (iv):</span> Single
+  advance, single payment (term of exactly 2 years)</dt>
+    <dd>Amount advanced (A) = $1000. Payment (P) = $1240.</dd>
+    <dd>Unit-period = 1 year. Unit-periods per year (w) = 1.</dd>
+    <dd>Avance, 1-3-78. Payment, 1-3-80.</dd>
+    <dd>From 1-3-78 through 1-3-79 = 1 unit-period. (t = 2; f = 0)</dd>
+    <dd>Annual percentage rate (I) = wi = .1136 = 11.36%. (Use Form 3 or
+    4.)</dd>
+</dl>
+<dl>
+  <dt>(6) <span style="text-decoration: underline">Complex single advance
+  transaction.</span></dt>
+  <dt></dt>
+  <dt><span style="text-decoration: underline">Example (i):</span> Skipped
+  payment loan (payments every 4 weeks)</dt>
+    <dd><p>A loan of $2135 is advanced on 1-25-78. It is to be repaid by 24
+      payments of $100 each. Payments are due every 4 weeks beginning 2-20-78.
+      However, in those months in which 2 payments would be due, only the first
+      of the 2 payments is made and the following payment is delayed by 2 weeks
+      to place it in the next month.</p>
+    </dd>
+    <dd>Unit-period = 4 weeks. Unit-periods per year (w) = 52/4 = 13.</dd>
+    <dd>First series of payments begins 26 days after 1-25-78.</dd>
+    <dd></dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mo>(</mo>
+                <mrow>
+                  <msub>
+                    <mi>t</mi>
+                    <mn>1</mn>
+                  </msub>
+                  <mo>=</mo>
+                  <mn>0</mn>
+                  <mo>;</mo>
+                  <msub>
+                    <mi>f</mi>
+                    <mn>1</mn>
+                  </msub>
+                  <mo>=</mo>
+                  <mn>26</mn>
+                  <mo>/</mo>
+                  <mn>28</mn>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </math> </dd>
+    <dd>Second series of payments begins 9 unit-periods plus 2 weeks after
+      start of first series. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>2</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>10</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>2</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>12</mn>
+          <mo>/</mo>
+          <mn>28</mn>
+          <mo>)</mo>
+        </mrow>
+      </math> 
+      <p>Third series of payments begins 6 unit-periods plus 2 weeks after
+      start of second series. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>16</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>3</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>26</mn>
+          <mo>/</mo>
+          <mn>28</mn>
+          <mo>)</mo>
+        </mrow>
+      </math></p>
+      <p>Last series of payments begins 6 unit-periods plus 2 weeks after start
+      of third series. <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mo>(</mo>
+          <msub>
+            <mi>t</mi>
+            <mn>4</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>23</mn>
+          <mo>;</mo>
+          <msub>
+            <mi>f</mi>
+            <mn>4</mn>
+          </msub>
+          <mo>=</mo>
+          <mn>12</mn>
+          <mo>/</mo>
+          <mn>28</mn>
+          <mo>)</mo>
+        </mrow>
+      </math></p>
+      <p>The general equation in paragraph (b)(8) of this section can be
+      written in the special form:</p>
+    </dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mn>2135</mn>
+          <mo>&#x2212;</mo>
+          <mfrac>
+            <mrow>
+              <mn>100</mn>
+              <msub>
+                <mover>
+                  <mi>a</mi>
+                  <mo>¨</mo>
+                </mover>
+                <msup>
+                  <mn>9</mn>
+                  <mo>&#172;</mo>
+                </msup>
+              </msub>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mo>(</mo>
+              <mn>26</mn>
+              <mo>/</mo>
+              <mn>28</mn>
+              <mo>)</mo>
+              <mi>i</mi>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mfrac>
+          <mrow>
+            <mn>100</mn>
+            <msub>
+              <mover>
+                <mi>a</mi>
+                <mo>¨</mo>
+              </mover>
+              <msup>
+                <mn>6</mn>
+                <mo>&#172;</mo>
+              </msup>
+            </msub>
+          </mrow>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mo>(</mo>
+              <mn>12</mn>
+              <mo>/</mo>
+              <mn>28</mn>
+              <mo>)</mo>
+              <mi>i</mi>
+              <mo>)</mo>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mo>)</mo>
+            </mrow>
+            <mn>10</mn>
+          </msup>
+        </mfrac>
+        <mrow>
+          <mo>+</mo>
+          <mo></mo>
+        </mrow>
+      </math></dd>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mfrac>
+            <mrow>
+              <mn>100</mn>
+              <msub>
+                <mover>
+                  <mi>a</mi>
+                  <mo>¨</mo>
+                </mover>
+                <msup>
+                  <mn>6</mn>
+                  <mo>&#172;</mo>
+                </msup>
+              </msub>
+            </mrow>
+            <msup>
+              <mrow>
+                <mrow>
+                  <mo>(</mo>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mo>(</mo>
+                  <mn>26</mn>
+                  <mo>/</mo>
+                  <mn>28</mn>
+                  <mo>)</mo>
+                  <mi>i</mi>
+                  <mo>)</mo>
+                </mrow>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mrow>
+              <mn>16</mn>
+            </msup>
+          </mfrac>
+          <mo>+</mo>
+          <mfrac>
+            <mrow>
+              <mn>100</mn>
+              <msub>
+                <mover>
+                  <mi>a</mi>
+                  <mo>¨</mo>
+                </mover>
+                <msup>
+                  <mn>3</mn>
+                  <mo>&#172;</mo>
+                </msup>
+              </msub>
+            </mrow>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mo>(</mo>
+                <mn>12</mn>
+                <mo>/</mo>
+                <mn>28</mn>
+                <mo>)</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+                <mo>(</mo>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+                <mo>)</mo>
+              </mrow>
+              <mn>23</mn>
+            </msup>
+          </mfrac>
+        </mrow>
+      </math> </dd>
+    <dd></dd>
+    <dd>Annual percentage rate (I) = wi = .1200 = 12.00%</dd>
+</dl>
+</body>
+</html>

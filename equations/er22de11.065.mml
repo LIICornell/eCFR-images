@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.065</title>
+</head>
+
+<body>
+<dl>
+  <dt>Example (v): Weekly payments (long first period)</dt>
+    <dd>Amount advanced (A) = $500. Payment (P) = $17.60.</dd>
+    <dd>Number of payments (n) = 30.</dd>
+    <dd>Unit-period = 1 week. Unit-periods per year (w) = 52.</dd>
+    <dd>Advance, 3-20-78. First payment, 4-21-78.</dd>
+    <dd>From 3-24-78 through 4-21-78 = 4 unit-periods. (t=4)</dd>
+    <dd>From 3-20-78 through 3-24-78 = 4 days. (f = 4/7)</dd>
+    <dd>Annual percentage rate (I) = wi = .1496 = 14.96 %</dd>
+</dl>
+
+<p><span style="text-decoration: underline">(2) Single advance transaction, with an odd first payment, with or without
+an odd first period, and otherwise regular.</span> The general equation in paragraph
+(b)(8) of this section can be put in the following special form for this type
+of transaction:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>fi</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mi>t</mi>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mi>P</mi>
+            <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <mfrac>
+            <msub>
+              <mrow>
+                <mi>P</mi>
+                <mover>
+                  <mi>a</mi>
+                  <mo>&#168;</mo>
+                </mover>
+              </mrow>
+              <msup>
+                <mrow>
+                  <mi>n</mi>
+                  <mo>&#x2212;</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mo>&#172;</mo>
+              </msup>
+            </msub>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math></p>
+<dl>
+  <dt><span style="text-decoration: underline">Example (i):</span> Monthly payments (regular first period and irregular first
+  payment)</dt>
+    <dd>Amount advanced (A) = $5000. Payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+        </msub>
+      </math>) = $250.</dd>
+    <dd>Regular payment (P) = $230. Number of payments (n) = 24.</dd>
+    <dd>Unit-period = 1 month. Unit-periods per year (w) = 12.</dd>
+    <dd>Advance, 1-10-78. First payment, 2-10-78.</dd>
+    <dd>From 1-10-78 through 2-10-78 = 1 unit-period. (t = 1; f = 0)</dd>
+    <dd>Annual percentage rate (I) = wi = .1008 = 10.08%</dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Example (ii):</span> Payments every 4 weeks (long first period and irregular
+  first payment)</dt>
+    <dd>Amount advanced (A) = $400. Payment
+      (<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+        </msub>
+      </math>) = $39.50.</dd>
+    <dd>Regular payment (P) = $38.31. Number of payments (n) = 12.</dd>
+    <dd>Unit-period = 4 weeks. Unit-periods per year (w) = 52/4 = 13.</dd>
+    <dd>Advance, 3-18-78. First payment, 4-20-78.</dd>
+    <dd>From 3-23-78 through 4-20-78 = 1 unit-period. (t = 1)</dd>
+    <dd>From 3-18-78 through 3-23-78 = 5 days. (f = 5/28)</dd>
+    <dd>Annual percentage rate (I) = wi = .2850 = 28.50%</dd>
+</dl>
+
+<p><span style="text-decoration: underline">(3) Single advance transaction, with an odd final payment, with or without
+an odd first period, and otherwise regular.</span> The general equation in paragraph
+(b)(8) of this section can be put in the following special form for this type
+of transaction:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi>
+    <mo>=</mo>
+    <mrow>
+      <mfrac>
+        <mn>1</mn>
+        <mrow>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>fi</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>i</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mi>t</mi>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mrow>
+        <mo>[</mo>
+        <mrow>
+          <msub>
+            <mrow>
+              <mi>P</mi>
+              <mover>
+                <mi>a</mi>
+                <mo>&#168;</mo>
+              </mover>
+            </mrow>
+              <msup>
+                <mrow>
+                  <mi>n</mi>
+                  <mo>&#x2212;</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mo>&#172;</mo>
+              </msup>
+          </msub>
+
+          <mo>+</mo>
+          <mfrac>
+            <mi>Pn</mi>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>i</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+              <mrow>
+                <mi>n</mi>
+                <mo>&#x2212;</mo>
+                <mn>1</mn>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mo>]</mo>
+      </mrow>
+    </mrow>
+  </mrow>
+</math></p>
+</body>
+</html>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.067</title>
+</head>
+
+<body>
+<p>(5) <span style="text-decoration: underline">Single advance, single payment transaction.</span> The general equation in
+paragraph (b)(8) of this section can be put in the special forms below for
+single advance, single payment transactions. Forms 1 through 3 are for the
+direct determination of the annual percentage rate under special conditions.
+Form 4 requires the use of the iteration procedure of paragraph (b)(9) of this
+section and can be used for all single advance, single payment transactions
+regardless of term.</p>
+<dl>
+  <dt><span style="text-decoration: underline">Form 1 - Term less than 1 year:</span></dt>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mi>I</mi>
+          <mo>=</mo>
+          <mrow>
+            <mn>100</mn>
+            <mi>w</mi>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mfrac>
+                  <mi>P</mi>
+                  <mi>A</mi>
+                </mfrac>
+                <mo>&#x2212;</mo>
+                <mn>1</mn>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </mrow>
+      </math></dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Form 2 - Term more than 1 year but less than 2 years:</span></dt>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mi>I</mi>
+          <mo>=</mo>
+          <mfrac>
+            <mn>50</mn>
+            <mi>f</mi>
+          </mfrac>
+          <mrow>
+            <mo>{</mo>
+            <mrow>
+              <msup>
+                <mrow>
+                  <mo>[</mo>
+                  <mrow>
+                    <msup>
+                      <mrow>
+                        <mo>(</mo>
+                        <mrow>
+                          <mn>1</mn>
+                          <mo>+</mo>
+                          <mi>f</mi>
+                        </mrow>
+                        <mo>)</mo>
+                      </mrow>
+                      <mn>2</mn>
+                    </msup>
+                    <mo>+</mo>
+                    <mrow>
+                      <mn>4</mn>
+                      <mi>f</mi>
+                      <mrow>
+                        <mo>(</mo>
+                        <mrow>
+                          <mfrac>
+                            <mi>P</mi>
+                            <mi>A</mi>
+                          </mfrac>
+                          <mo>&#x2212;</mo>
+                          <mn>1</mn>
+                        </mrow>
+                        <mo>)</mo>
+                      </mrow>
+                    </mrow>
+                  </mrow>
+                  <mo>]</mo>
+                </mrow>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>/</mo>
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>&#x2212;</mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mi>f</mi>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+            <mo>}</mo>
+          </mrow>
+        </mrow>
+      </math></dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Form 3 - Term equal to exactly a year or exact multiple of a year:</span></dt>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mi>I</mi>
+          <mo>=</mo>
+          <mn>100</mn>
+          <mrow>
+            <mo>[</mo>
+            <mrow>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mfrac>
+                    <mi>P</mi>
+                    <mi>A</mi>
+                  </mfrac>
+                  <mo>)</mo>
+                </mrow>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>/</mo>
+                  <mi>t</mi>
+                </mrow>
+              </msup>
+              <mo>&#x2212;</mo>
+              <mn>1</mn>
+            </mrow>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </math></dd>
+</dl>
+<dl>
+  <dt><span style="text-decoration: underline">Form 4 - Special form for iteration procedure (no restriction on term):</span></dt>
+    <dd><math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+          <mi>A</mi>
+          <mo>=</mo>
+          <mfrac>
+            <mi>P</mi>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1</mn>
+                <mo>+</mo>
+                <mi>fi</mi>
+              </mrow>
+              <mo>)</mo>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <mi>i</mi>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mi>t</mi>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </math></dd>
+    <dd><dl>
+        <dt><span style="text-decoration: underline">Example (i):</span> Single advance, single payment (term of less than 1
+        year, measured in days)</dt>
+          <dd>Amount advanced (A) = $1000. Payment (P) = $1080.</dd>
+          <dd>Unit-period = 255 days. Unit-periods per year (w) = 365/255.</dd>
+          <dd>Advance, 1-3-78. Payment, 9-15-78.</dd>
+          <dd>From 1-3-78 through 9-15-78 = 255 days. (t = 1; f = 0)</dd>
+          <dd>Annual percentage rate (I) = wi = .1145 = 11.45%. Use Form 1 or
+            4.)</dd>
+      </dl>
+      <dl>
+        <dt><span style="text-decoration: underline">Example (ii):</span> Single advance, single payment (term of less than 1
+        year, measured in exact calendar months)</dt>
+          <dd>Amount advanced (A) = $1000. Payment (P) = $1044.</dd>
+          <dd>Unit-period = 6 months. Unit-periods per year (w) = 2.</dd>
+          <dd>Advance, 7-15-78. Payment, 1-15-79.</dd>
+          <dd>From 7-15-78 through 1-15-79 = 6 mos. (t = 1; f = 0)</dd>
+          <dd>Annual percentage rate (I) = wi = .0880 = 8.80%. (Use Form 1 or
+            4.)</dd>
+      </dl>
+      <dl>
+        <dt><span style="text-decoration: underline">Example (iii):</span> Single advance, single payment (term of more than 1
+        year but less than 2 years, fraction measured in exact months)</dt>
+          <dd>Amount advanced (A) = $1000. Payment (P) = $1135.19.</dd>
+          <dd>Unit-period = 1 year. Unit-periods per year (w) = 1.</dd>
+          <dd>Advance, 7-17-78. Payment, 1-17-80.</dd>
+          <dd>From 1-17-79 through 1-17-80 = 1 unit-period. (t = 1)</dd>
+          <dd>From 7-17-78 through 1-17-79 = 6 mos. (f = 6/12)</dd>
+          <dd>Annual percentage rate (I) = wi = .0876 = 8.76%. (Use Form 2 or
+            4.)</dd>
+      </dl>
+    </dd>
+</dl>
+</body>
+</html>

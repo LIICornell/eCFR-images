@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>er22de11.063</title>
+</head>
+
+<body>
+<p>(8) <span style="text-decoration: underline">General equation.</span> The
+following equation sets forth the relationship among the terms of a
+transaction:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mn>1</mn>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mn>1</mn>
+            </msub>
+            <mspace width="1em"/>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>q</mi>
+            <mn>1</mn>
+          </msub>
+        </msup>
+      </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mn>2</mn>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mn>2</mn>
+            </msub>
+            <mspace width="1em"/>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>q</mi>
+            <mn>2</mn>
+          </msub>
+        </msup>
+      </mrow>
+    </mfrac>
+    <mo>+</mo>
+    <mo>&#x2026;</mo>
+    <mo>+</mo>
+    <mfrac>
+      <msub>
+        <mi>A</mi>
+        <mi>m</mi>
+      </msub>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mrow>
+            <msub>
+              <mi>e</mi>
+              <mi>m</mi>
+            </msub>
+            <mspace width="1em"/>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>q</mi>
+            <mi>m</mi>
+          </msub>
+        </msup>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math> =</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <msub>
+      <mi>P</mi>
+      <mn>1</mn>
+    </msub>
+    <msup>
+      <mrow>
+        <mo>(</mo>
+        <mrow>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mrow>
+            <msub>
+              <mi>f</mi>
+              <mn>1</mn>
+            </msub>
+            <mspace width="1em"/>
+            <mi>i</mi>
+          </mrow>
+        </mrow>
+        <mo>)</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mrow>
+      <msub>
+        <mi>t</mi>
+        <mn>1</mn>
+      </msub>
+    </msup>
+  </mfrac>
+  <mo>+</mo>
+  <mfrac>
+    <msub>
+      <mi>P</mi>
+      <mn>2</mn>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow>
+          <msub>
+            <mi>f</mi>
+            <mn>2</mn>
+          </msub>
+          <mspace width="1em"/>
+          <mi>i</mi>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+      <mrow>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+            <mo>)</mo>
+          </mrow>
+          <msub>
+            <mi>t</mi>
+            <mn>2</mn>
+          </msub>
+        </msup>
+      </mrow>
+    </mrow>
+  </mfrac>
+  <mo>+</mo>
+  <mo>&#x2026;</mo>
+  <mo>+</mo>
+  <mfrac>
+    <msub>
+      <mi>P</mi>
+      <mi>n</mi>
+    </msub>
+    <mrow>
+      <mo>(</mo>
+      <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mrow>
+          <msub>
+            <mi>f</mi>
+            <mi>n</mi>
+          </msub>
+          <mspace width="1em"/>
+          <mi>i</mi>
+        </mrow>
+      </mrow>
+      <mo>)</mo>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>i</mi>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <msub>
+          <mi>t</mi>
+          <mi>n</mi>
+        </msub>
+      </msup>
+    </mrow>
+  </mfrac>
+</math> =</p>
+
+<p>(9) <span style="text-decoration: underline">Solution of general equation by
+iteration process.</span> (i) The general equation in paragraph (b)(8) of this
+section, when applied to a simple transaction in which a loan of $1000 is
+repaid by 36 monthly payments of $33.61 each, takes a special form:</p>
+
+<p><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>A</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mn>33.61</mn>
+        <msub>
+          <mover>
+            <mi>a</mi>
+            <mo>¨</mo>
+          </mover>
+          <msup>
+            <mn>36</mn>
+            <mo>&#172;</mo>
+          </msup>
+        </msub>
+      </mrow>
+      <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>i</mi>
+        <mo>)</mo>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math></p>
+
+<table border="0" style="width: 50%">
+  <col />
+  <col />
+  <col />
+  <tbody>
+    <tr>
+      <td
+      style="white-space: nowrap; padding-right: 10px; padding-top: 5px; vertical-align: top;">Step
+        1:</td>
+      <td style="vertical-align: top;">Let
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <msub>
+            <mi>I</mi>
+            <mn>1</mn>
+          </msub>
+        </math>= estimated annual percentage rate =</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">12.50%</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Evaluate expression for A, letting i =
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+            <msub>
+              <mi>I</mi>
+              <mn>1</mn>
+            </msub>
+            <mo>/</mo>
+            <mrow>
+              <mo>(</mo>
+              <mn>100</mn>
+              <mi>w</mi>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+        </math>=</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">.010416667</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Result (referred to as A&#8242; ) =</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">1004.674391</td>
+    </tr>
+    <tr>
+      <td
+      style="white-space: nowrap; padding-right: 10px; padding-top: 5px; vertical-align: top;">Step
+        2</td>
+      <td style="vertical-align: top;">Let
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+            <msub>
+              <mi>I</mi>
+              <mn>2</mn>
+            </msub>
+            <mo>=</mo>
+            <msub>
+              <mi>I</mi>
+              <mn>1</mn>
+            </msub>
+          </mrow>
+          <mo>+</mo>
+          <mo>.</mo>
+          <mn>1</mn>
+          <mo>=</mo>
+        </math></td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">12.60%</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td
+        style="vertical-align: top;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mtext>Evaluate expression for A, letting i =</mtext>
+          <mrow>
+            <msub>
+              <mi>I</mi>
+              <mn>2</mn>
+            </msub>
+            <mo>/</mo>
+            <mrow>
+              <mo>(</mo>
+              <mn>100</mn>
+              <mi>w</mi>
+              <mo>)</mo>
+              <mo>=</mo>
+            </mrow>
+          </mrow>
+        </math></td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">.010500000</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Result (referred to as
+        A&#8242;&#8242;) =</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">1003.235366</td>
+    </tr>
+    <tr>
+      <td
+      style="white-space: nowrap; padding-right: 10px; padding-top: 5px; vertical-align: top;">Step
+        3:</td>
+      <td style="vertical-align: top;">Interpolate for I (annual percentage rate):</td>
+      <td style="vertical-align: top;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td
+        style="vertical-align: top;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+            <mi>I</mi>
+            <mo>=</mo>
+            <msub>
+              <mi>I</mi>
+              <mn>1</mn>
+            </msub>
+          </mrow>
+          <mo>+</mo>
+          <mo>.</mo>
+          <mn>1</mn>
+          <mo>[</mo>
+          <mfrac>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>A</mi>
+                <mo>&#x2212;</mo>
+                <mrow>
+                  <mi>A</mi>
+                  <mo>&#8242;</mo>
+                </mrow>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mrow>
+                  <mi>A</mi>
+                  <mo>&#8242;</mo>
+                  <mo>&#8242;</mo>
+                </mrow>
+                <mo>&#x2212;</mo>
+                <mrow>
+                  <mi>A</mi>
+                  <mo>&#8242;</mo>
+                </mrow>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+          <mo>]</mo>
+        </math></td>
+      <td style="vertical-align: top;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">=12.50 + .1
+        [<math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mfrac>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1000.000000</mn>
+                <mo>&#x2212;</mo>
+                <mn>1004.674391</mn>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mn>1003.235366</mn>
+                <mo>&#x2212;</mo>
+                <mn>1004.674391</mn>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mfrac>
+        </math>] = </td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">12.82483042%</td>
+    </tr>
+    <tr>
+      <td
+      style="white-space: nowrap; padding-right: 10px; padding-top: 5px; vertical-align: top;">Step
+        4:</td>
+      <td style="vertical-align: top;">First iteration, let
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+            <msub>
+              <mi>I</mi>
+              <mn>1</mn>
+            </msub>
+            <mo>=</mo>
+            <mrow>
+              <mn>12.82483042</mn>
+              <mo>%</mo>
+            </mrow>
+          </mrow>
+        </math>and repeat</td>
+      <td style="vertical-align: top;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Steps 1, 2, and 3 obtaining a new I
+      =</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">12.82557859%</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Second iteration, let
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+            <msub>
+              <mi>I</mi>
+              <mn>1</mn>
+            </msub>
+            <mo>=</mo>
+            <mrow>
+              <mn>12.82483042</mn>
+              <mo>%</mo>
+            </mrow>
+          </mrow>
+        </math> and repeat</td>
+      <td style="vertical-align: top;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"></td>
+      <td style="vertical-align: top;">Steps 1, 2, and 3 obtaining a new I
+      =</td>
+      <td
+        style="text-align: right; vertical-align: top; padding-top: 5px;">12.82557529%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In this case, no further iterations are required to obtain the annual
+percentage rate correct to two decimal places, 12.83%</p>
+</body>
+</html>
