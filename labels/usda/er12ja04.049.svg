@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4869"
+   width="174.08"
+   height="190.08"
+   viewBox="0 0 174.08 190.08"
+   sodipodi:docname="er12ja04.049.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata4875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4873" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     id="namedview4871"
+     showgrid="false"
+     inkscape:zoom="1.290016"
+     inkscape:cx="85.646563"
+     inkscape:cy="81.078746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4869" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 149.44035,43.581146 c 0.9389,-7.318704 3.82217,-13.411132 7.78044,-18.992553 l -16.57401,-12.72624 c -18.75536,9.916706 -36.58999,12.46897 -54.309269,3.420161 -15.755176,9.900464 -37.967239,5.882304 -53.901233,-2.903618 L 17.099542,25.242685 c 3.665794,5.487793 5.861929,11.652287 7.22864,18.338461 z"
+     id="path14359-1-7-5-3-0-73-1-9-8-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <text
+     id="text9060-8-2"
+     y="188.05992"
+     x="53.836029"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:18px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';text-align:start;letter-spacing:0.74000007px;word-spacing:3.32999992px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       id="tspan9064-8-3"
+       y="188.05992"
+       x="53.836029">FIGURE 1.<tspan
+   id="tspan9134"
+   style="font-size:10.66666698px;fill:#000000;fill-opacity:1" /></tspan></text>
+  <text
+     id="text33750"
+     y="38.861225"
+     x="44.357075"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:6.66666651px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Bold';text-align:start;letter-spacing:12.55999947px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="38.861225"
+       x="44.357075"
+       id="tspan33748"
+       style="fill:#ffffff;fill-opacity:1">USDA</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 18.439895,58.809375 C 18.559605,45.196942 14.182108,34.154979 6.9502318,24.244142 L 31.574367,3.7488635 C 53.585122,16.36037 71.025917,16.42748 86.218202,6.1713297 101.95403,15.787463 116.33254,16.095523 141.97803,2.6421889 l 24.9589,20.2629861 c -7.64332,11.320214 -11.66748,21.074423 -11.62614,34.382269 0.0655,21.101952 15.89048,38.766519 15.89048,59.649046 0,18.37642 -16.13616,37.41087 -43.37099,38.13453 -15.00827,0.39878 -29.178405,6.02314 -40.561621,14.96362 C 75.955231,160.83151 60.576481,155.61999 44.958621,155.38966 19.023375,155.00719 3.9073693,134.6096 3.9073693,118.40416 c 0,-21.681744 14.3253497,-36.03552 14.5325257,-59.594785 z"
+     id="path14359-1-7-5-3-0-73-1-9-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scccccssscsss"
+     inkscape:transform-center-x="0.033824365"
+     inkscape:transform-center-y="-0.16413374" />
+</svg>
