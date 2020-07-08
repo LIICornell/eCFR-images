@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>er09ja12.004.png</title>
+
+<link rel="stylesheet" href="lii/lii_stylenator_v19.css" type="text/css" media="screen" />
+
+
+<style type="text/css">	           	           	           	           	      
+td { vertical-align: top; }
+th { vertical-align: top; }
+</style> 
+
+</head>
+
+<body>
+
+<!-- table-responsive -->
+<div class="table-responsive">
+<table>
+<caption>Table A1 — Data Fields and Suggested Form and Order for Real-Time Public Reporting of Swap Transaction and Pricing Data</caption>
+<tbody>
+<tr>
+<th id="field" style="width: 10%">Field</th>
+<th id="description" style="width: 40%">Description</th>
+<th id="example" style="width: 10%">Example</th>
+<th id="data" style="width: 40%">Data application</th>
+</tr>
+<tr>
+<th id="field1" headers="field">Cancellation</th>
+<td headers="field1 description">An indication that a publicly reportable swap transaction has been incorrectly or erroneously publicly disseminated and is canceled. There shall be a clear indication to the public that the publicly reportable swap transaction is being canceled (<span style="text-decoration: underline">e.g.,</span> "CANCEL") followed by the swap transaction and pricing data that is being canceled in the same form and manner that it was erroneously reported. Any cancellations should be made in accordance with &#167; 43.3(e).<br /><br />
+If a publicly reportable swap transaction is canceled, it may be corrected by reporting the "Correction" data field and the correct information.</td>
+<td headers="field1 example">CANCEL (<span style="text-decoration: underline">e.g.,</span> the information is being cancelled in accordance with  &#167; 43.3(e)).</td>
+<td headers="field1 data">Information is needed to inform market participants and the public that swap transaction and pricing data was erroneously disseminated to the public.</td>
+</tr>
+<tr>
+<th id="field2" headers="field">Correction</th>
+<td headers="field2 description">An indication that the swap transaction and pricing data that is being publicly disseminated is a correction to previously publicly disseminated swap transaction and pricing data that contained an error or omission. In order for a correction to occur, the registered swap data repository that accepts and publicly disseminates swap transaction and pricing data shall first cancel the incorrectly reported swap transaction and pricing data and the follow such cancellation with the correction. There shall be a clear indication to the public that the swap transaction and pricing data that is being reported is a correction (<span style="text-decoration: underline">e.g.,</span> "CORRECT"). Any corrections should be made in accordance with &#167; 43.3(e).</td>
+<td headers="field2 example">CORRECT (<span style="text-decoration: underline">e.g.,</span> the information is a correction to a previously reported swap).</td>
+<td headers="field2 data">Information needed to inform market participants and the public that a particular publicly reportable swap transaction that is being reported is a correction to swap transaction and pricing data that has previously been publicly disseminated by a registered swap data repository.</td>
+</tr>
+<tr>
+<th id="field3" headers="field">Execution timestamp</th>
+<td headers="field3 description">The time and date of execution of the publicly reportable swap transaction in Coordinated Universal Time (UTC). The timestamp shall be displayed with two digits for each of the hour, minute, and second or in such other manner that clearly publicly disseminates the information.</td>
+<td headers="field3 example">13–10–2007; 15:25:47 (<span style="text-decoration: underline">e.g.,</span> the date (October 13, 2007) and time in UTC (15:25:47))</td>
+<td headers="field3 data">Information needed to indicate the time of execution of the reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field4" headers="field">Cleared or uncleared</th>
+<td headers="field4 description">An indication of whether or not a publicly reportable swap transaction is going to be cleared by a derivatives clearing organization. If the publicly reportable swap transaction is cleared by a derivatives clearing organization, a "C" may be used and if uncleared a "U" may be used.<br /><br /></td>
+<td headers="field4 example">C .................... (<span style="text-decoration: underline">e.g.,</span> cleared)</td>
+<td headers="field4 data">Information needed to indicate whether or not a publicly reportable swap transaction is cleared through a derivatives clearing organization.</td>
+</tr>
+<tr>
+<th id="field5" headers="field">Indication of Collateralization</th>
+<td headers="field5 description">If a swap is not cleared, an indication of whether a swap is (A) Uncollateralized - there is no credit arrangement between the parties or the agreement between the parties of an uncleared swap states that no collateral (neither initial margin nor variation margin) has to be posted at any time; (B) Partially Collateralized - the agreement between the parties states that both parties will regularly post variation margin; (C) One-Way Collateralized — the agreement between the parties of an uncleared swap states that only one party to such swap agrees to post initial margin, regularly post variation margin or both; or (D) Fully-Collateralized — the agreement between the parties of an uncleared swap state that initial margin must be posted and variation margin must be regularly posted by both parties.</td>
+<td headers="field5 example">PC .................... (<span style="text-decoration: underline">e.g.,</span> partially collateralized)</td>
+<td headers="field5 data">Information needed to provide information regarding differences in prices in uncleared swaps.</td>
+</tr>
+<tr>
+<th id="field6" headers="field">Indication of end-user exception.</th>
+<td headers="field6 description">An indication of whether a party to a swap is using the end-user exception pursuant to CEA Section 2(h)(7) and Commission regulations.</td>
+<td headers="field6 example">EU .................... (<span style="text-decoration: underline">e.g.,</span> swap is not required to be cleared under CEA Section 2(h)(7) and Commission regulations) </td>
+<td headers="field6 data">Information needed to indicate the reason why a swap that would otherwise be subject to mandatory clearing is not being cleared and to help market participants and public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field7" headers="field">Indication of other price affecting term (indication for non-standardized (bespoke) swaps)</th>
+<td headers="field7 description">An indication of the publicly reported swap transaction has one or more additional term(s) or provisions(s) other than those listed in the required real-time data fields, that materially affect(s) the price of the publicly reportable swap transaction. Publicly reportable swap transactions that are reported with this designation would be non-standardized (bespoke) swaps.</td>
+<td headers="field7 example">B* .................... (<span style="text-decoration: underline">e.g.,</span> bespoke swap that has a material price affecting term that is not otherwise publicly disseminated.</td>
+<td headers="field7 data">Information needed to indicate whether a publicly reportable swap transaction is non-standardized (bespoke) and to inform the public that there are one or more additional term(s) or provision(s) that materially affect the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field8" headers="field">Block trades and large notional off-facility swaps</th>
+<td headers="field8 description">An indication of whether a publicly reportable swap transaction is a block-trade or large notional off-facility swap. If a publicly reportable swap transaction is a block trade or a large notional off-facility swap and subject to a time delay in real-time public reporting pursuant to &#167; 43.5, such blocked trade or large notional off-facility swap may be indicated as follows: block trade or large notional off-facility swap ("BLK"). If a trade is not a block trade or large notional off-facility swap, then no indication would be publicly disseminated.</td>
+<td headers="field8 example">BLK .................... (<span style="text-decoration: underline">e.g.,</span> swap is block trade or large notional off-facility swap)</td>
+<td headers="field8 data">Information needed to indicate whether a publicly reportable swap transaction is a block trade or a large notional off-facility swap. This information is important since it will alert market participants and the public to the differences in notional or principal amount and the time delay in the public dissemination of the swap transaction and pricing data.</td>
+</tr>
+<tr>
+<th id="field9" headers="field">Execution venue</th>
+<td headers="field9 description">An indication of the venue of execution of a publicly reportable swap transaction. The specific name of a registered swap execution facility or designated contract market need not be reported; However, an indication of whether the publicly reportable swap transaction is executed on or pursuant to the rules of a registered swap execution facility or designated contract market or is executed as an off-facility swap.</td>
+<td headers="field9 example">OFF .................... (<span style="text-decoration: underline">e.g.,</span> off-facility swap)</td>
+<td headers="field9 data">Information needed to indicate whether a publicly reportable swap transaction is executed on a swap market, as an off-facility swap, or as a block trade or large notional off-facility swap.</td>
+</tr>
+<tr>
+<th id="field10" headers="field">Effective or Start date</th>
+<td headers="field10 description">The date that the publicly reportable swap transaction becomes effective or starts.</td>
+<td headers="field10 example">20–02–2009 .................... (<span style="text-decoration: underline">e.g.,</span> February 20, 2009)</td>
+<td headers="field10 data">Information needed to indicate when the terms of the publicly reportable swap transaction become effective or start.</td>
+</tr>
+<tr>
+<th id="field11" headers="field">End Date</th>
+<td headers="field11 description">The maturity, termination, or end date of the publicly reportable swap transaction. The time between the effective or start date and end date field will indicate the tenor of the swap.</td>
+<td headers="field11 example">04–02–2014 .................... (<span style="text-decoration: underline">e.g.,</span> February 04, 2014)</td>
+<td headers="field11 data">Information needed to determine the end month and year of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the reportable price transaction.</td>
+</tr>
+<tr>
+<th id="field12" headers="field">Day count convention.</th>
+<td headers="field12 description">The determination of how interest accrues over time for the swap.</td>
+<td headers="field12 example">Actual/360 .................... (<span style="text-decoration: underline">e.g.,</span> day count convention uses Actual/360 day count fraction)</td>
+<td headers="field12 data">Information needed to better inform market participants and the public of the price of the swap.</td>
+</tr>
+<tr>
+<th id="field13" headers="field">Settlement currency (<span style="text-decoration: underline">i.e.,</span> value date)</th>
+<td headers="field13 description">The settlement currency type for publicly reportable swap transactions in the foreign exchange asset class.</td>
+<td headers="field13 example">Settle JPY .................... (<span style="text-decoration: underline">e.g.,</span> the foreign exchange swap is settled in Japanese Yen)</td>
+<td headers="field13 data">Information needed to inform market participants and the public about how to price the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field14" headers="field">Asset class</th>
+<td headers="field14 description">An indication of one of the broad categories as described in &#167; 43.2(e).</td>
+<td headers="field14 example">IR .................... (<span style="text-decoration: underline">e.g.,</span> interest rate asset class)</td>
+<td headers="field14 data">Information needed to broadly describe the underlying asset to facilitate comparison with other similar publicly reportable swap transactions.</td>
+</tr>
+<tr>
+<th id="field15" headers="field">Sub-asset class for the other commodity.</th>
+<td headers="field15 description">An indication of a more specific description of the asset class for other commodity. Such sub-asset classes for other commodity perfectly reportable swap transactions may include, but are not limited to, energy, precious metals, metals-other, agriculture, weather, emissions and volatility.</td>
+<td headers="field15 example">AG .................... (<span style="text-decoration: underline">e.g.,</span> agriculture)</td>
+<td headers="field15 data">Information needed to define with greater specificity, the type of other commodity that is being publicly disseminated and to facilitate comparison with other similar publicly reportable swap transactions.</td>
+</tr>
+<tr>
+<th id="field16" headers="field">Contract type</th>
+<td headers="field16 description">An indication of one of four specific contract types of publicly reportable swap transactions. Such contract types may include but are not limited to: swap, swaption and stand-alone options.</td>
+<td headers="field16 example">S- .................... (<span style="text-decoration: underline">e.g.,</span> swap)</td>
+<td headers="field16 data">Information needed to describe the publicly reportable swap transaction and to be able to compare such publicly reportable swap transaction to other similar publicly reportable swap transactions.</td>
+</tr>
+<tr>
+<th id="field17" headers="field">Contract sub-type</th>
+<td headers="field17 description">An indication of more specificity into the type of contract described in the contract type field. Such contract sub-types may include, but are not limited to, basis swaps, index swaps, broad-based security based swaps, and basket swaps.</td>
+<td headers="field17 example">SS .................... (<span style="text-decoration: underline">e.g.,</span> basis swap)</td>
+<td headers="field17 data">Information needed to define with greater specificity the type of contract that is being publicly disseminated and to facilitate comparison with other similar publicly reportable swap transactions.</td>
+</tr>
+<tr>
+<th id="field18" headers="field">Price-forming continuation data</th>
+<td headers="field18 description">An indication of whether such publicly reportable swap transaction is a post-execution event that affects the price of the publicly reportable swap transaction. Such price-forming continuation data may include: terminations, assignments, novations, exchanges, transfers, amendments, conveyances or extinguishing of rights that change the price of the swap.</td>
+<td headers="field18 example">NOV .................... (<span style="text-decoration: underline">e.g.,</span> novation)</td>
+<td headers="field18 data">Information needed to describe whether the reportable swap transaction is a post-execution event for a pre-existing swap (<span style="text-decoration: underline">i.e.,</span> not a newly executed swap) that materially affects the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field19" headers="field">Underlying asset 1.</th>
+<td headers="field19 description">The asset, reference asset, or reference obligation for payments of a party's obligation under the publicly reportable swap transaction reference. The underlying asset may be a reference price, index, obligation, physical commodity with delivery point, futures contract or any other rate or instrument agreed to by the parties to a publicly reportable swap transaction.</td>
+<td headers="field19 example">TX .................... (e.g, TX may represent "Treasury 10 year")</td>
+<td headers="field19 data">Information needed to describe the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field20" headers="field">Underlying asset 2.</th>
+<td headers="field20 description">The asset, reference asset, or reference obligation for payments of a party's obligations under the publicly reportable swap transaction reference. The underlying asset may be a reference price, index, obligation, physical commodity with delivery point, futures contract or any other rate or instrument agreed to by the parties to a publicly reportable swap transaction. If there are more than two underlying assets, such underlying assets shall be reported in the same manner as above.</td>
+<td headers="field20 example">IIIL .................... (e.g, IIIL may represent 2-month LIBOR.) </td>
+<td headers="field20 data">Information needed to describe the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field21" headers="field">Price notation</th>
+<td headers="field21 description">The price, yield, spread, coupon, etc., depending on the type of swap, which is calculated at affirmation. The pricing characteristic shall not include any premiums associated with margin, collateral, independent amounts, reconciliable post-execution events, options on a swap, or other non-economic characteristics. The format in which the pricing characteristic is real-time reported to the public shall be the format commonly sought by market participants for each particular market or contract.</td>
+<td headers="field21 example">162 .................... (<span style="text-decoration: underline">e.g.,</span> 162 may indicate the spread for a credit default swap index)</td>
+<td headers="field21 data">Information needed to describe the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field22" headers="field">Additional price notation.</th>
+<td headers="field22 description">The additional price notation shall include any premiums associated with reconcilable post-execution events, the presence of collateral, front-end payments, back-end payments, or other non-economic characteristics (<span style="text-decoration: underline">e.g.,</span> counterparty credit risk) not illustrated in the reporting field for pricing characteristic. The additional price notation shall not include options as they are reported elsewhere.<br /><br />
+The additional price notation shall be publicly disseminated as an addition or subtraction of the pricing characteristic and in a way commonly sought by market participants for each particular market or contract.</td>
+<td headers="field22 example">+0.25 .................... (<span style="text-decoration: underline">e.g.,</span> +0.25 would indicate the net present value of the premium separated from the price notation).</td>
+<td headers="field22 data">Additional information needed to describe the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field23" headers="field">Unique product identifier</th>
+<td headers="field23 description">Certain fields may be replaced with a unique product identifier, if such unique identifier exists, to the extent that such unique product identifier adequately describes such fields.</td>
+<td headers="field23 example">12345 .................... (<span style="text-decoration: underline">e.g.,</span> 12345 may represent a ten year interest rate swap based on three month LIBOR.)</td>
+<td headers="field23 data">Information needed to describe the publicly reportable swap transaction and enable market participants and the public to compare such publicly reportable swap transactions to other similar publicly reportable swap transactions. Such information would substitute the information described in one or more reportable fields in accordance with &#167; 43.4(e).</td>
+</tr>
+<tr>
+<th id="field24" headers="field">Notional currency 1 (<span style="text-decoration: underline">i.e.,</span> base currency).</th>
+<td headers="field24 description">An indication of the type of currency of the notional or principal amount. The notional currency may be reported in a commonly accepted code (<span style="text-decoration: underline">e.g.,</span> the three character alphabetic ISO 4217 currency code).</td>
+<td headers="field24 example">EUR IIIL .................... (<span style="text-decoration: underline">e.g.,</span> Euro)</td>
+<td headers="field24 data">Information needed to describe the type of currency of the notional or principle amount.</td>
+</tr>
+<tr>
+<th id="field25" headers="field">Rounded notional or principal amount 1.</th>
+<td headers="field25 description">The total rounded currency amount or quantity of units of the underlying asset. The notional or principal amounts for publicly reportable swap transactions, including block trades and large notional off-facility swaps, shall be reported in rounded amounts shall be publicly disseminated pursuant &#167; 43.4.</td>
+<td headers="field25 example">200 .................... (<span style="text-decoration: underline">e.g.,</span> 200 may represent 200 million of the notional currency 1)</td>
+<td headers="field25 data">Information needed to identify the size of the publicly reportable swap transaction and to help evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field26" headers="field">Notional currency 2 (<span style="text-decoration: underline">i.e.,</span> counter currency)</th>
+<td headers="field26 description">An indication of the type of currency of the notional or principal amount. The notional currency may be reported in a commonly accepted code (<span style="text-decoration: underline">e.g.,</span> the three character alphabetic ISO 4217 currency code).</td>
+<td headers="field26 example">USD .................... (<span style="text-decoration: underline">e.g.,</span> U.S. Dollar)</td>
+<td headers="field26 data">Information needed to describe the type of currency of the notional or principal amount.</td>
+</tr>
+<tr>
+<th id="field27" headers="field">Rounded notional or principal amount 2</th>
+<td headers="field27 description">The total rounded currency amount or quantity of units of the underlying asset. The notional or principal amount for the publicly reportable swap transaction, including block trades and large notional off-facility swaps, shall be reported and rounded amounts shall be publicly disseminated pursuant to &#167; 43.4.<br /><br />
+Each notional or principal amount (if there is more than one) should be labelled (<span style="text-decoration: underline">e.g.,</span> 1, 2, 3, etc.) such that the number corresponds to the underlying asset for which the notional or principal amount is applicable.<br /><br />
+If there are more than two notional or principal amounts, then each additional notional or principal amount shall be reported in the same manner.</td>
+<td headers="field27 example">45 .................... (<span style="text-decoration: underline">e.g.,</span> 45 may represent 45 million of the notional currency 2)</td>
+<td headers="field27 data">Information needed to identify the size of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field28" headers="field">Payment frequency 1</th>
+<td headers="field28 description">An integer multiplier of a time period describing how often the parties to the publicly reportable swap transaction exchange payments associated with each party's obligation under the publicly reportable swap transaction. Such payment frequency may be described as one letter preceded by an integer.</td>
+<td headers="field28 example">2M .................... (<span style="text-decoration: underline">e.g.,</span> payment would occur every two months)</td>
+<td headers="field28 data">Information needed to identify the pricing characteristic of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field29" headers="field">Payment frequency 2</th>
+<td headers="field29 description">An integer multiplier of a time period describing how often the parties to the publicly reportable swap transaction exchange payments associated with each party's obligation under the publicly reportable swap transaction. Such payment frequency may be described as one letter preceded by an integer. Each payment frequency (if there is more than one) should be labelled (<span style="text-decoration: underline">e.g.,</span> 1, 2, 3, etc.) such that the number corresponds to the underlying asset for which the payment frequency is applicable<br /><br />
+If there are more than two payment frequencies, then each additional payment frequency shall be reported in the same manner.</td>
+<td headers="field29 example">6W .................... (<span style="text-decoration: underline">e.g.,</span> payment would occur every six weeks)</td>
+<td headers="field29 data">Information needed to identify the pricing characteristic of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field30" headers="field">Reset frequency 1</th>
+<td headers="field30 description">An integer multiplier of a period describing how often the parties to the publicly reportable swap transaction shall evaluate and, when applicable, change the price used for the underlying assets for the publicly reportable swap transaction.<br /><br />
+Such reset frequency may be described as one letter proceeded by an integer.</td>
+<td headers="field30 example">1Y .................... (<span style="text-decoration: underline">e.g.,</span> reset occurs every year)</td>
+<td headers="field30 data">Information needed to identify the pricing characteristic of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+<tr>
+<th id="field31" headers="field">Reset frequency 2</th>
+<td headers="field31 description">An integer multiplier of a period describing how often the parties to the publicly reportable swap transaction shall evaluate and, when applicable, change the price used for the underlying assets for the publicly reportable swap transaction. Such reset frequency may be described as one letter preceded by an integer.<br /><br />
+Each reset frequency (if there is more than one) should be labeled with a number (<span style="text-decoration: underline">e.g.,</span> 1, 2, 3, etc.) such that the number corresponds to the underlying asset for which the reset frequency is applicable.<br /><br />
+If there are more than two reset frequencies, then each additional reset frequency shall be reported in the same manner.</td>
+<td headers="field31 example">6M .................... (<span style="text-decoration: underline">e.g.,</span> reset occurs every six months)</td>
+<td headers="field31 data">Information needed to identify the pricing characteristic of the publicly reportable swap transaction and to help market participants and the public evaluate the price of the publicly reportable swap transaction.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--/table-responsive -->
+   
+</body>
+</html>
