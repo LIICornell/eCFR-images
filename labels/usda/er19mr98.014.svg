@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10280"
+   width="145.28"
+   height="166.39999"
+   viewBox="0 0 145.28 166.39999"
+   sodipodi:docname="er19mr98.014.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata10286">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10284" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     id="namedview10282"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="2.6592549"
+     inkscape:cx="2.693781"
+     inkscape:cy="83.199997"
+     inkscape:window-x="17"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10280" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.00899696;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 125.45518,38.961231 c 1.42747,-6.01732 5.06775,-11.788941 8.35306,-16.487747 L 116.72578,8.8335872 C 95.00414,18.380475 86.941588,18.999972 71.298575,11.526134 58.077963,19.644929 43.358782,17.452142 27.13072,9.7744937 L 10.68586,24.060953 c 3.6003,4.163493 6.158329,9.31044 7.788483,14.819621 z"
+     id="path14359-1-7-5-3-0-73-1-9-8-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <text
+     id="text9060-8-2"
+     y="161.76767"
+     x="44.40992"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:18px;font-family:'Hiragino Mincho Pro';-inkscape-font-specification:'Hiragino Mincho Pro Semi-Bold';text-align:start;letter-spacing:0.60999995px;word-spacing:-1.81999993px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+     xml:space="preserve"><tspan
+       id="tspan9064-8-3"
+       y="161.76767"
+       x="44.40992"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Hiragino Mincho Pro';-inkscape-font-specification:'Hiragino Mincho Pro Semi-Bold';letter-spacing:0.60999995px;word-spacing:-1.81999993px;fill:#000000;fill-opacity:1;">Figure 4</tspan></text>
+  <text
+     id="text33750"
+     y="32.8978"
+     x="34.616375"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:6.66666651px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';text-align:start;letter-spacing:11.62999939px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+     xml:space="preserve"><tspan
+       y="32.8978"
+       x="34.616375"
+       id="tspan33748"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';letter-spacing:11.62999939px;fill:#ffffff;fill-opacity:1;">USDA</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 14.062501,47.482589 C 14.466061,36.84706 10.538056,30.435889 3.8107058,22.778465 L 25.957836,3.9411464 c 17.138692,9.1269366 31.79843,11.8727886 45.192419,1.711423 13.69952,9.1164046 26.763286,7.8960946 45.863575,-2.493606 l 23.30645,18.2376906 c -5.00641,7.331028 -9.97866,12.832777 -10.23667,21.095045 -0.62496,20.013315 12.73447,36.471273 12.5202,56.30143 -0.1699,15.723291 -9.73631,30.046741 -34.46872,32.307651 -12.410293,1.13448 -20.360894,1.92776 -34.733826,12.13434 C 62.456978,134.22282 47.525678,131.65603 35.915441,130.60868 18.927751,129.07625 4.729985,118.65067 4.1541488,99.555541 3.611101,81.547707 13.306571,67.404828 14.062501,47.482589 Z"
+     id="path14359-1-7-5-3-0-73-1-9-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scccccssscsss"
+     inkscape:transform-center-x="0.028077941"
+     inkscape:transform-center-y="-0.13817979" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:70.66666412px;line-height:6.66666651px;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:start;letter-spacing:6.73000009px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+     x="35.300438"
+     y="95.929977"
+     id="text7815"><tspan
+       sodipodi:role="line"
+       id="tspan7813"
+       x="35.300438"
+       y="95.929977">AA</tspan></text>
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     d="m 137.38178,103.55971 c -2.88907,13.47196 -10.89227,19.2512 -33.18794,22.42081 -10.922437,1.55276 -20.150948,2.56269 -29.829054,10.71883 C 64.475437,129.831 51.227391,126.68812 40.98427,125.43204 27.977594,123.83709 12.655358,120.58445 10.015619,103.54228 Z"
+     id="path14359-1-7-5-3-0-73-1-9-9-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscscc"
+     inkscape:transform-center-x="0.024845906"
+     inkscape:transform-center-y="-0.12552877" />
+  <text
+     id="text33750-0"
+     y="197.82309"
+     x="27.908781"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:6.66666651px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';text-align:start;letter-spacing:11.62999916px;word-spacing:0px;text-anchor:start;fill:#ff0aff;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="197.82309"
+       x="27.908781"
+       id="tspan33748-3"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';letter-spacing:11.62999916px;fill:#ff0aff;fill-opacity:1" /></text>
+  <text
+     id="text33750-8"
+     y="120.87746"
+     x="34.751678"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:6.66666651px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';text-align:start;letter-spacing:5.71px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+     xml:space="preserve"><tspan
+       y="120.87746"
+       x="34.751678"
+       id="tspan33748-2"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next Semi-Bold';letter-spacing:5.71px;fill:#ffffff;fill-opacity:1;">GRADE</tspan></text>
+</svg>
