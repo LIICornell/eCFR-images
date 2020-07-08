@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg6001"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="163.2"
+   height="238.2"
+   viewBox="0 0 163.2 238.2"
+   sodipodi:docname="ec02mr91.011.svg">
+  <metadata
+     id="metadata6007">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6005" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1908"
+     inkscape:window-height="1036"
+     id="namedview6003"
+     showgrid="false"
+     inkscape:zoom="2.8587063"
+     inkscape:cx="81.599998"
+     inkscape:cy="119.1"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6001" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 151.93117,8.8135211 -0.002,199.0722289 -140.101696,0 0.002,-199.0722289 z"
+     id="path14359-1-7-5-3-0-73-1-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     inkscape:transform-center-x="0.03366111"
+     inkscape:transform-center-y="-0.1641457" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 22.560962,185.56296 118.901468,0.002"
+     id="path14359-1-7-5-3-0-73-1-9-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:transform-center-x="0.16414611"
+     inkscape:transform-center-y="0.033661304" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     d="M 47.151677,173.55665 48.846338,62.904558 38.479049,64.668935 58.16646,32.953499 77.853871,64.668935 67.486582,62.904558 69.534992,173.55665 58.16646,171.59857 Z"
+     id="path14359-1-7-5-3-0-73-1-9-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:transform-center-x="0.03366111"
+     inkscape:transform-center-y="-0.1641457" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 93.552707,173.67923 1.69466,-110.652092 -10.367288,1.764377 19.687411,-31.715436 19.68742,31.715436 -10.36729,-1.764377 2.04841,110.652092 -11.36854,-1.95808 z"
+     id="path14359-1-7-5-3-0-73-1-9-4-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:transform-center-x="0.03366111"
+     inkscape:transform-center-y="-0.1641457" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:129.99999523%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0.31px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="37.350155"
+     y="232.75827"
+     id="text10427"
+     sodipodi:linespacing="130%"><tspan
+       sodipodi:role="line"
+       id="tspan10429"
+       x="37.350155"
+       y="232.75827">Package orientation</tspan></text>
+</svg>
