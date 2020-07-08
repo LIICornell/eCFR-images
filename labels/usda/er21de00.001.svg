@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg67328"
+   width="138.24001"
+   height="179.84"
+   viewBox="0 0 138.24001 179.84"
+   sodipodi:docname="er21de00.001.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata67334">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs67332" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     id="namedview67330"
+     showgrid="false"
+     inkscape:zoom="1.7496804"
+     inkscape:cx="65.583823"
+     inkscape:cy="89.919998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg67328" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 127.81466,63.223812 c 0,24.271185 -18.51256,44.660648 -43.55276,50.408938 L 127.81466,63.223812 77.491872,114.80471 c -2.497059,0.29486 -5.044198,0.447 -7.630918,0.447 -6.011395,0 -11.809019,-0.82168 -17.261122,-2.34675 L 127.81466,63.223812 46.818646,110.97693 C 40.475581,108.50675 34.721124,105.04782 29.796548,100.81674 L 127.81466,63.223812 26.260806,97.934009 C 22.152805,93.84944 18.827569,89.034475 16.416028,83.78041 L 127.81466,63.223812 14.733635,80.089837 c -1.99596,-5.16104 -2.826386,-11.415764 -2.826386,-16.866025 z"
+     id="path67881-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccsccccccccccc" />
+  <path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 135.06982,63.552464 A 65.224541,58.555286 0 0 1 69.845276,122.10775 65.224541,58.555286 0 0 1 4.6207352,63.552464 65.224541,58.555286 0 0 1 69.845276,4.9971771 65.224541,58.555286 0 0 1 135.06982,63.552464 Z"
+     id="path67881" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:6.66666651px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';text-align:start;letter-spacing:-0.14px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
+     x="24.046019"
+     y="87.495186"
+     id="text67904"><tspan
+       sodipodi:role="line"
+       id="tspan67902"
+       x="24.046019"
+       y="87.495186">ORGANIC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;line-height:6.66666651px;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';text-align:start;letter-spacing:1.3px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+     x="33.824516"
+     y="56.47982"
+     id="text67904-1"><tspan
+       sodipodi:role="line"
+       id="tspan67902-6"
+       x="33.824516"
+       y="56.47982">USDA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.33333397px;line-height:6.66666651px;font-family:Baskerville;-inkscape-font-specification:'Baskerville Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+     x="23.32023"
+     y="170.89114"
+     id="text72152-5"><tspan
+       sodipodi:role="line"
+       id="tspan72150-9"
+       x="23.32023"
+       y="170.89114">Figure 1</tspan></text>
+</svg>
