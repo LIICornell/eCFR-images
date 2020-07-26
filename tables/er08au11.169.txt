@@ -1,0 +1,2 @@
+<!—- er08au11.169.td.png is left side formatted as <td> -—>
+<!—- er08au11.169.th.png is left side formatted as <th> -—>

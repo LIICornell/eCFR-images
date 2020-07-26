@@ -16,8 +16,6 @@
    height="459.51999"
    viewBox="0 0 561 430.79999"
    sodipodi:docname="ec02ap91.009.svg">
-  <title id="title_ec02ap91.009">FOR CHANNEL 5 CHART FOR DETERMINIMG RADIUS FROM FIXED STATON IN72─76 MHz BAND TO INTERFERENCE CONTOUR ALONG WHICH 10% OF SERVICE FROM ADJACENT TELEVISION STATION WOULD BE DESTROYED</title>
-  <desc id="desc_ec02ap91.009"></desc>
   <metadata
      id="metadata14832">
     <rdf:RDF>
@@ -26,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,11 +43,11 @@
      inkscape:window-height="756"
      id="namedview14828"
      showgrid="false"
-     inkscape:zoom="1.6429917"
-     inkscape:cx="438.79286"
-     inkscape:cy="269.79295"
-     inkscape:window-x="12"
-     inkscape:window-y="0"
+     inkscape:zoom="4.1290975"
+     inkscape:cx="370.7592"
+     inkscape:cy="246.02731"
+     inkscape:window-x="48"
+     inkscape:window-y="94"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg14826" />
   <text
@@ -2389,7 +2387,7 @@
        x="280.94284"
        y="166.13448"
        id="tspan17335"
-       style="font-size:3.75px;line-height:1.30999994">     transmision line lows and antenna gain. In symbols.</tspan><tspan
+       style="font-size:3.75px;line-height:1.30999994">     transmission line loss and antenna gain. In symbols.</tspan><tspan
        sodipodi:role="line"
        x="280.94284"
        y="171.04698"
@@ -2409,7 +2407,7 @@
        x="280.94284"
        y="185.78448"
        id="tspan17343"
-       style="font-size:3.75px;line-height:1.30999994">              G   =power gain of the antenna with respect to± half</tspan><tspan
+       style="font-size:3.75px;line-height:1.30999994">              G   =power gain of the antenna with respect to a half</tspan><tspan
        sodipodi:role="line"
        x="280.94284"
        y="190.69698"
@@ -2452,7 +2450,7 @@
        x="281.29752"
        y="206.56543"
        id="tspan17379-1"
-       style="font-size:3.75px;line-height:1.30999994">h—height in feet of the center of the transmitting antena array of</tspan><tspan
+       style="font-size:3.75px;line-height:1.30999994">h—height in feet of the center of the transmitting antenna array of</tspan><tspan
        sodipodi:role="line"
        x="281.29752"
        y="211.47794"
