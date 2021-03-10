@@ -1,0 +1,901 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>er30mr16.118.png</title>
+
+<link rel="stylesheet" href="lii/lii_stylenator_v19.css" type="text/css" media="screen" />
+
+<style type="text/css">	           	           	           	           	      
+td { vertical-align: top; }
+th { vertical-align: top; }
+td.center { text-align: center; vertical-align: middle; }
+td.white { vertical-align: top; background-color: #fff; }
+td.white-noborder { vertical-align: top; background-color: #fff; border: none; }
+td.gray { vertical-align: middle; background: #ccc; color: #000; }
+th.white { vertical-align: middle; background-color: #fff; color: #000; border: none; }
+th.center { text-align: center; vertical-align: middle; }
+th.gray {vertical-align: middle; background: #ccc; color: #000; font-weight: bold;}
+th.center-gray { text-align: center; vertical-align: middle; background: #ccc; color: #000; }
+.bold { font-weight: bold; }
+.big { font-size: 22px; }
+</style> 
+
+</head>
+
+<body>
+
+
+<!-- table-responsive #1 -->
+<div class="table-responsive">
+<table>
+<caption>Table A1A — Minimum Simulator Requirements</caption>
+<tbody>
+<tr>
+<th id="qps" colspan="6">QPS Requirements</th>
+<th id="information">Information</th>
+</tr>
+<tr>
+<th id="entry" headers="qps" rowspan="2">Entry Number</th>
+<th id="requirements" headers="qps" rowspan="2">General Simulator Requirements</th>
+<th id="levels" headers="qps" colspan="4">Simulator Levels</th>
+<th id="notes" headers="information" rowspan="2">Notes</th>
+</tr>
+<tr>
+<th id="levela" headers="qps levels">A</th>
+<th id="levelb" headers="qps levels">B</th>
+<th id="levelc" headers="qps levels">C</th>
+<th id="leveld" headers="qps levels">D</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry1" colspan="7">1. General Flight Deck Configuration.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry1a" rowspan="2">1.a.</th>
+<td headers="qps requirements">The simulator must have a flight deck that is a replica of the airplane simulated with controls, equipment, observable flight deck indicators, circuit breakers, and bulkheads properly located, functionally accurate and replicating the airplane. The direction of movement of controls and switches must be identical to the airplane. Pilot seats must allow the occupant to achieve the design "eye position" established for the airplane being simulated. Equipment for the operation of the flight deck windows must be included, but the actual windows need not be operable. Additional equipment such as fire axes, extinguishers, and spare light bulbs must be available in the FFS but may be relocated to a suitable location as near as practical to the original position. Fire axes, landing gear pins, and any similar purpose instruments need only be represented in silhouette.<br /><br />
+The use of electronically displayed images with physical overlay or masking for simulator instruments and/or instrument panels is acceptable provided:<br />
+<ul>
+<li>(1) All instruments and instrument panel layouts are dimensionally correct with differences, if any, being imperceptible to the pilot;</li>
+<li>(2) Instruments replicate those of the airplane including full instrument functionality and embedded logic;</li>
+<li>(3) Instruments displayed are free of quantization (stepping);</li>
+<li>(4) Instrument display characteristics replicate those of the airplane including: resolution, colors, luminance, brightness, fonts, fill patterns, line styles and symbology;</li>
+<li>(5) Overlay or masking, including bezels and bugs, as applicable, replicates the airplane panel(s);</li>
+<li>(6) Instrument controls and switches replicate and operate with the same technique, effort, travel and in the same direction as those in the airplane;</li>
+<li>(7) Instrument lighting replicates that of the airplane and is operated from the FSTD control for that lighting and, if applicable, is at a level commensurate with other lighting operated by that same control; and</li>
+<li>(8) As applicable, instruments must have faceplates that replicate those in the airplane; and</li>
+</ul>
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For simulator purposes, the flight deck consists of all that space forward of a cross section of the flight deck at the most extreme aft setting of the pilots' seats, including additional required crewmember duty stations and those required bulkheads aft of the pilot seats. For clarification, bulkheads containing only items such as landing gear pin storage compartments, fire axes and extinguishers, spare light bulbs, and aircraft document pouches are not considered essential and may be omitted.</td>
+</tr>
+<tr>
+<td headers="qps requirements" class="white">
+Level C and Level D only:<br />
+<ul>
+<li>(1) The display image of any three dimensional instrument, such as an electro-mechanical instrument, should appear to have the same three dimensional depth as the replicated instrument. The appearance of the simulated instrument, when viewed from the principle operator's angle, should replicate that of the actual airplane instrument. Any instrument reading inaccuracy due to viewing angle and parallax present in the actual airplane instrument should be duplicated in the simulated instrument display image. Viewing angle error and parallax must be minimized on shared instruments such and engine displays and standby indicators.</li>
+</ul>
+</td>
+<td headers="qps levels levela" class="white"></td>
+<td headers="qps levels levelb" class="white"></td>
+<td headers="qps levels levelc" class="white">X</td>
+<td headers="qps levels leveld" class="white">X</td>
+<td headers="information notes" class="white"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry1b">1.b.</th>
+<td headers="qps requirements">
+Those circuit breakers that affect procedures or result in observable flight deck indications must be properly located and functionally accurate.
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2" colspan="7">2. Programming.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2a" rowspan="2">2.a.</th>
+<td headers="qps requirements">
+A flight dynamics model that accounts for various combinations of drag and thrust normally encountered in flight must correspond to actual flight conditions, including the effect of change in airplane attitude, thrust, drag, altitude, temperature, gross weight, moments of inertia, center of gravity location, and configuration.<br /><br />
+An SOC is required.<br /><br />
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes" rowspan="2">The SOC should include a range of tabulated target values to enable a demonstration of the mass properties model to be conducted from the instructor's station. The data at a minimum should contain 3 weight conditions including zero fuel weight and maximum taxi weight with at least 2 different combinations of zero fuel weight, fuel weight and payload for each condition.</td>
+</tr>
+<tr>
+<td headers="qps requirements" class="white">
+For Level C and Level D simulators, the effects of pitch attitude and of fuel slosh on the aircraft center of gravity must be simulated.<br /><br />
+</td>
+<td headers="qps levels levela" class="white"></td>
+<td headers="qps levels levelb" class="white"></td>
+<td headers="qps levels levelc" class="white">X</td>
+<td headers="qps levels leveld" class="white">X</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2b">2.b.</th>
+<td headers="qps requirements">
+The simulator must have the computer capacity, accuracy, resolution, and dynamic response needed to meet the qualification level sought.<br /><br />
+An SOC is required.<br /><br />
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2c">2.c.</th>
+<td headers="qps requirements">
+Surface operations must be represented to the extent that allows turns within the confines of the runway and adequate controls on the landing and roll-out from a crosswind approach to a landing.<br /><br />
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2d">2.d.</th>
+<td headers="qps requirements">Ground handling and aerodynamic programming must include the following:</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2d1">2.d.1.</th>
+<td headers="qps requirements">Ground effect.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Ground effect includes modeling that accounts for roundout, flare, touchdown, lift, drag, pitching moment, trim, and power while in ground effect.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2d2">2.d.2.</th>
+<td headers="qps requirements">Ground reaction.<br /><br />Ground reaction modeling must produce the appropriate effects during bounced or skipped landings, including the effects and indications of ground contact due to landing in an abnormal aircraft attitude (e.g. tailstrike or nosewheel contact).<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Ground reaction includes modeling that accounts for strut deflections, tire friction, and side forces. This is the reaction of the airplane upon contact with the runway during landing, and may differ with changes in factors such as gross weight, airspeed, or rate of descent on touchdown.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2d3" rowspan="2">2.d.3.</th>
+<td headers="qps requirements">Ground handling characteristics, including aerodynamic and ground reaction modeling including steering inputs, operations with crosswind, braking, thrust reversing, deceleration, and turning radius.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes" rowspan="2">In developing gust models for use in training, the FSTD sponsor should coordinate with the data provider to ensure that the gust models do not exceed the capabilities of the aerodynamic and ground models.</td>
+</tr>
+<tr>
+<td headers="qps requirements">Aerodynamic and ground reaction modeling to support training in crosswinds and gusting crosswinds up to the aircraft's maximum demonstrated crosswind component. Realistic gusting crosswind profiles must be available to the instructors that have been tuned in intensity and variation to require pilot intervention to avoid runway departure during takeoff or landing roll.<br /><br />
+An SOC is required describing source data used to construct gusting crosswind profiles.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2e">2.e.</th>
+<td headers="qps requirements">If the aircraft being simulated is one of the aircraft listed in &#167; 121.358, Low-altitude windshear system equipment requirements, the simulator must employ windshear models that provide training for recognition of windshear phenomena and the execution of recovery procedures. Models must be available to the instructor/evaluator for the following critical phases of flight:<br /><br />
+<ul>
+<li>(1) Prior to takeoff rotation;</li>
+<li>(2) At liftoff;</li>
+<li>(3) During initial climb; and</li>
+<li>(4) On final approach, below 500 ft AGL.</li>
+</ul><br />
+The QTG must reference the FAA Windshear Training Aid or present alternate airplane related data, including the implementation method(s) used. If the alternate method is selected, wind models from the Royal Aerospace Establishment (RAE), the Joint Airport Weather Studies (JAWS) Project and other recognized sources may be implemented, but must be supported and properly referenced in the QTG. Only those simulators meeting these requirements may be used to satisfy the training requirements of part 121 pertaining to a certificate holder's approved low-altitude windshear flight training program as described in  &#167; 121.409.<br /><br />
+The addition of realistic levels of turbulence associated with each required windshear profile must be available and selectable to the instructor.<br /><br />
+In addition to the four basic windshear models required for qualification, at least two additional "complex" windshear models must be available to the instructor which represent the complexity of actual windshear encounters. These models must be available in the takeoff and landing configurations and must consist of independent variable winds in multiple simultaneous components. The Windshear Training Aid provides two such example "complex" windshear models that may be used to satisfy this requirement.
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">If desired, Level A and B simulators may qualify for windshear training by meeting these standards; see Attachment 5 of this appendix. Windshear models may consist of independent variable winds in multiple simultaneous components. The FAA Windshear Training Aid presents one acceptable means of compliance with simulator wind model requirements.<br /><br />
+The simulator should employ a method to ensure the required survivable and non-survivable windshear scenarios are repeatable in the training environment.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2f">2.f.</th>
+<td headers="qps requirements">The simulator must provide for manual and automatic testing of simulator hardware and software programming to determine compliance with simulator objective tests as prescribed in Attachment 2 of this appendix.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Automatic "flagging" of out-of-tolerance situations is encouraged.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2g">2.g.</th>
+<td headers="qps requirements">Relative responses of the motion system, visual system, and flight deck instruments, measured by latency tests or transport delay tests. Motion onset should occur before the start of the visual scene change (the start of the scan of the first video field containing different information) but must occur before the end of the scan of that video field. Instrument response may not occur prior to motion onset. Test results must be within the following limits:</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes">The intent is to verify that the simulator provides instrument, motion, and visual cues that are, within the stated time delays, like the airplane responses. For airplane response, acceleration in the appropriate, corresponding rotational axis is preferred.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2g1">2.g.1.</th>
+<td headers="qps requirements">300 milliseconds of the airplane response.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2g2">2.g.2.</th>
+<td headers="qps requirements">100 milliseconds of the airplane response (motion and instrument cues)<br /><br />
+120 milliseconds of the airplane response (visual system cues)</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2h">2.h.</th>
+<td headers="qps requirements">The simulator must accurately reproduce the following runway conditions:
+<ul>
+<li>(1) Dry;</li>
+<li>(2) Wet;</li>
+<li>(3) Icy;</li>
+<li>(4) Patchy Wet;</li>
+<li>(5) Patchy Icy; and</li>
+<li>(6) Wet on Rubber Residue in Touchdown Zone;</li>
+</ul><br />
+An SOC is required.
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2i">2.i.</th>
+<td headers="qps requirements">The simulator must simulate:
+<ul>
+<li>(1) brake and tire failure dynamics, including antiskid failure; and</li>
+<li>(2) decreased brake efficiency due to high brake temperatures, if applicable.</li>
+</ul><br />
+An SOC is required.
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Simulator pitch, side loading, and directional control characteristics should be representative of the airplane.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2j">2.j.</th>
+<td headers="qps requirements">Engine and Airframe Icing<br /><br />
+Modeling that includes the effects of icing, where appropriate, on the airframe, aerodynamics, and the engine(s). Icing models must simulate the aerodynamic degradation effects of ice accretion on the airplane lifting surfaces including loss of lift, decrease in stall angle of attack, change in pitching moment, decrease in control effectiveness, and changes in control forces in addition to any overall increase in drag. Aircraft systems (such as the stall protection system and autoflight system) must respond properly to ice accretion consistent with the simulated aircraft.<br /><br />
+Aircraft OEM data or other acceptable analytical methods must be utilized to develop ice accretion models. Acceptable analytical methods may include wind tunnel analysis and/or engineering analysis of the aerodynamic effects of icing on the lifting surfaces coupled with tuning and supplemental subjective assessment by a subject matter expert pilot.<br /><br />
+SOC and tests required. See objective testing requirements (Attachment 2, test 2.i.).
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">SOC should be provided describing the effects which provide training in the specific skills required for recognition of icing phenomena and execution of recovery. The SOC should describe the source data and any analytical methods used to develop ice accretion models including verification that these effects have been tested.<br /><br />
+Icing effects simulation models are only required for those airplanes authorized for operations in icing conditions.<br /><br />
+See Attachment 7 of this Appendix for further guidance material.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2k">2.k.</th>
+<td headers="qps requirements">The aerodynamic modeling in the simulator must include:<br /><br />
+<ul>
+<li>(1) Low-altitude level-flight ground effect;</li>
+<li>(2) Mach effect at high altitude;</li>
+<li>(3) Normal and reverse dynamic thrust effect on control surfaces;</li>
+<li>(4) Aeroelastic representations; and</li>
+<li>(5) Nonlinearities due to sideslip.</li>
+</ul><br />
+An SOC is required and must include references to computations of aeroelastic representations and of nonlinearities due to sideslip.
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">See Attachment 2 of this appendix, paragraph 5, for further information on ground effect.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2l">2.l.</th>
+<td headers="qps requirements">The simulator must have aerodynamic and ground reaction modeling for the effects of reverse thrust on directional control, if applicable.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2m">2.m.</th>
+<td headers="qps requirements">High Angle of Attack Modeling<br /><br />
+Aerodynamic stall modeling that includes degradation in static/dynamic lateral-directional stability, degradation in control response (pitch, roll, and yaw), uncommanded roll response or roll-off requiring significant control deflection to counter, apparent randomness or non-repeatability, changes in pitch stability, Mach effects, and stall buffet, as appropriate to the aircraft type.<br /><br />
+The aerodynamic model must incorporate an angle of attack and sideslip range to support the training tasks. At a minimum, the model must support an angle of attack range to ten degrees beyond the stall identification angle of attack. The stall identification angle of attack is defined as the point where the behavior of the airplane gives the pilot a clear and distinctive indication through the inherent flight characteristics or the characteristics resulting from the operation of a stall identification device (e.g., a stick pusher) that the airplane has stalled.<br /><br />
+The model must be capable of capturing the variations seen in the stall characteristics of the airplane (e.g., the presence or absence of a pitch break, deterrent buffet, or other indications of a stall where present on the aircraft). The aerodynamic modeling must support stall training maneuvers in the following flight conditions:<br /><br />
+<ul>
+<li>(1) Stall entry at wings level (1g);</li>
+<li>(2) Stall entry in turning flight of at least 25&#176; bank angle (accelerated stall);</li>
+<li>(3) Stall entry in a power-on condition (required only for propeller driven aircraft); and</li>
+<li>(4) Aircraft configurations of second segment climb, high altitude cruise (near performance limited condition), and approach or landing.</li>
+</ul><br />
+A Statement of Compliance (SOC) is required which describes the aerodynamic modeling methods, validation, and checkout of the stall characteristics of the FSTD. The SOC must also include verification that the FSTD has been evaluated by a subject matter expert pilot acceptable to the FAA. See Attachment 7 of this Appendix for detailed requirements.<br /><br />
+Where known limitations exist in the aerodynamic model for particular stall maneuvers (such as aircraft configurations and stall entry methods), these limitations must be declared in the required SOC.<br /><br />
+FSTDs qualified for full stall training tasks must also meet the instructor operating station (lOS) requirements for upset prevention and recovery training (UPRT) tasks as described in section 2.n. of this table. See Attachment 7 of this Appendix for additional requirements.<br /><br />
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">The requirements in this section only apply to those FSTDs that are qualified for full stall training tasks. Sponsors may elect to not qualify an FSTD for full stall training tasks; however, the FSTD's qualification will be restricted to approach to stall training tasks that terminate at the activation of the stall warning system.<br /><br />
+Specific guidance should be available to the instructor which clearly communicates the flight configurations and stall maneuvers that have been evaluated in the FSTD for use in training.<br /><br />
+See Attachment 7 of this Appendix for additional guidance material.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry2n">2.n.</th>
+<td headers="qps requirements">Upset Prevention and Recovery Training (UPRT).<br /><br />
+Aerodynamics Evaluation: The simulator must be evaluated for specific upset recovery maneuvers for the purpose of determining that the combination of angle of attack and sideslip does not exceed the range of flight test validated data or wind tunnel/analytical data while performing the recovery maneuver.<br /><br />
+The following minimum set of required upset recovery maneuvers must be evaluated in this manner and made available to the instructor/evaluator. Other upset recovery scenarios as developed by the FSTD sponsor must be evaluated in the same manner:<br /><br />
+<ul>
+<li>(1) A nose-high, wings level aircraft upset;</li>
+<li>(2) A nose-low aircraft upset; and</li>
+<li>(3) A high bank angle aircraft upset.</li>
+</ul><br />
+Upset Scenarios: lOS selectable dynamic airplane upsets must provide guidance to the instructor concerning the method used to drive the FSTD into an upset condition, including any malfunction or degradation in the FSTD's functionality required to initiate the upset. The unrealistic degradation of simulator functionality (such as degrading flight control effectiveness) to drive an airplane upset is generally not acceptable unless used purely as a tool for repositioning the FSTD with the pilot out of the loop.<br /><br />
+Instructor Operating System (lOS): The simulator must have a feedback mechanism in place to notify the instructor/evaluator when the simulator's validated aerodynamic envelope and aircraft operating limits have been exceeded during an upset recovery training task. This feedback mechanism must include:<br /><br />
+<ul>
+<li>(1) FSTD validation envelope. This must be in the form of an alpha/beta envelope (or equivalent method) depicting the "confidence level" of the aerodynamic model depending on the degree of flight validation or source of predictive methods. The envelopes must provide the instructor real-time feedback on the simulation during a maneuver. There must be a minimum of a flaps up and flaps down envelope available;</li>
+<li>(2) Flight control inputs. This must enable the instructor to assess the pilot's flight control displacements and forces (including fly-by-wire as appropriate); and</li>
+<li>(3) Airplane operational limits. This must display the aircraft operating limits during the maneuver as applicable for the configuration of the airplane.</li>
+</ul><br />
+Statement of Compliance (SOC): An SOC is required that defines the source data used to construct the FSTD validation envelope. The SOC must also verify that each upset prevention and recovery feature programmed at the instructor station and the associated training maneuver has been evaluated by a suitably qualified pilot using methods described in this section. The statement must confirm that the recovery maneuver can be performed such that the FSTD does not exceed the FSTD validation envelope, or when exceeded, that it is within the realm of confidence in the simulation accuracy.
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">This section generally applies to the qualification of airplane upset recovery training maneuvers or unusual attitude training maneuvers that exceed one or more of the following conditions:<br /><br />
+<ul>
+<li>• Pitch attitude greater than 25 degrees, nose up</li>
+<li>• Pitch attitude greater than 10 degrees, nose down</li>
+<li>• Bank angle greater than 45 degrees</li>
+<li>• Flight at airspeeds inappropriate for conditions.</li>
+</ul><br />
+FSTDs used to conduct upset recovery maneuvers at angles of attack above the stall warning system activation must meet the requirements for high angle of attack modeling as described in section 2.m.<br /><br />
+Special consideration should be given to the motion system response during upset prevention and recovery maneuvers. Notwithstanding the limitations of simulator motion, specific emphasis should be placed on tuning out motion system responses.<br /><br />
+Consideration should be taken with flight envelope protected airplanes as artificially positioning the airplane to a specified attitude may incorrectly initialize flight control laws.<br /><br />
+See Attachment 7 of this Appendix for further guidance material.
+</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3" colspan="7">3. Equipment Operation.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3a">3.a.</th>
+<td headers="qps requirements">All relevant instrument indications involved in the simulation of the airplane must automatically respond to control movement or external disturbances to the simulated airplane; e.g., turbulence or windshear. Numerical values must be presented in the appropriate units.<br /><br />
+For Level C and Level D simulators, instrument indications must also respond to effects resulting from icing.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3b">3.b.</th>
+<td headers="qps requirements">Communications, navigation, caution, and warning equipment must be installed and operate within the tolerances applicable for the airplane.<br /><br />
+Instructor control of internal and external navigational aids. Navigation aids must be usable within range or line-of-sight without restriction, as applicable to the geographic area.
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">See Attachment 3 of this appendix for further information regarding long-range navigation equipment.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3b1">3.b.1.</th>
+<td headers="qps requirements">Complete navigation database for at least 3 airports with corresponding precision and non-precision approach procedures, including navigational database updates.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3b2">3.b.2.</th>
+<td headers="qps requirements">Complete navigation database for at least 1 airport with corresponding precision and non-precision approach procedures, including navigational database updates.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3c">3.c.</th>
+<td headers="qps requirements">Simulated airplane systems must operate as the airplane systems operate under normal, abnormal, and emergency operating conditions on the ground and in flight.<br /><br />
+Once activated, proper systems operation must result from system management by the crew member and not require any further input from the instructor's controls.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Airplane system operation should be predicated on, and traceable to, the system data supplied by the airplane manufacturer, original equipment manufacturer or alternative approved data for the airplane system or component.<br /><br />
+At a minimum, alternate approved data should validate the operation of all normal, abnormal, and emergency operating procedures and training tasks the FSTD is qualified to conduct.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3d">3.d.</th>
+<td headers="qps requirements">The simulator must provide pilot controls with control forces and control travel that correspond to the simulated airplane. The simulator must also react in the same manner as in the airplane under the same flight conditions.<br /><br />
+Control systems must replicate airplane operation for the normal and any non-normal modes including back-up systems and should reflect failures of associated systems.<br /><br />
+Appropriate cockpit indications and messages must be replicated.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3e">3.e.</th>
+<td headers="qps requirements">Simulator control feel dynamics must replicate the airplane. This must be determined by comparing a recording of the control feel dynamics of the simulator to airplane measurements. For initial and upgrade qualification evaluations, the control dynamic characteristics must be measured and recorded directly from the flight deck controls, and must be accomplished in takeoff, cruise, and landing flight conditions and configurations.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry3f">3.f.</th>
+<td headers="qps requirements">For aircraft equipped with a stick pusher system, control forces, displacement, and surface position must correspond to that of the airplane being simulated.<br /><br />
+A Statement of Compliance (SOC) is required verifying that the stick pusher system has been modeled, programmed, and validated using the aircraft manufacturer's design data or other acceptable data source. The SOC must address, at a minimum, stick pusher activation and cancellation logic as well as system dynamics, control displacement and forces as a result of the stick pusher activation.<br /><br />
+Tests required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">See Appendix A, Table A2A, test 2.a.10 (stick pusher system force calibration) for objective testing requirements.<br /><br />
+The requirements in this section only apply to those FSTDs that are qualified for full stall training tasks.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry4" colspan="7">4. Instructor or Evaluator Facilities.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry4a">4.a.</th>
+<td headers="qps requirements">In addition to the flight crew member stations, the simulator must have at least two suitable seats for the instructor/check airman and FAA inspector. These seats must provide adequate vision to the pilot's panel and forward windows. All seats other than flight crew seats need not represent those found in the airplane, but must be adequately secured to the floor and equipped with similar positive restraint devices.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">The NSPM will consider alternatives to this standard for additional seats based on unique flight deck configurations.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry4b">4.b.</th>
+<td headers="qps requirements">The simulator must have controls that enable the instructor/evaluator to control all required system variables and insert all abnormal or emergency conditions into the simulated airplane systems as described in the sponsor's FAA-approved training program; or as described in the relevant operating manual as appropriate.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry4c">4.c.</th>
+<td headers="qps requirements">The simulator must have instructor controls for all environmental effects expected to be available at the lOS; e.g., clouds, visibility, icing, precipitation, temperature, storm cells and microbursts, turbulence, and intermediate and high altitude wind speed and direction.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry4d">4.d.</th>
+<td headers="qps requirements">The simulator must provide the instructor or evaluator the ability to present ground and air hazards</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For example, another airplane crossing the active runway or converging airborne traffic.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5" colspan="7">5. Motion System.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5a">5.a.</th>
+<td headers="qps requirements">The simulator must have motion (force) cues perceptible to the pilot that are representative of the motion in an airplane.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For example, touchdown cues should be a function of the rate of descent (RoD) of the simulated airplane.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5b">5.b.</th>
+<td headers="qps requirements">The simulator must have a motion (force cueing) system with a minimum of three degrees of freedom (at least pitch, roll, and heave).<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5c">5.c.</th>
+<td headers="qps requirements">The simulator must have a motion (force cueing) system that produces cues at least equivalent to those of a six-degrees-of-freedom, synergistic platform motion system (i.e., pitch, roll, yaw, heave, sway, and surge).<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5d">5.d.</th>
+<td headers="qps requirements">The simulator must provide for the recording of the motion system response time.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5e">5.e.</th>
+<td headers="qps requirements">The simulator must provide motion effects programming to include:</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5e1">5.e.1.</th>
+<td headers="qps requirements">
+<ul>
+<li>(1) Thrust effect with brakes set;</li>
+<li>(2) Runway rumble, oleo deflections, effects of ground speed, uneven runway, centerline lights, and taxiway characteristics;</li>
+<li>(3) Buffets on the ground due to spoiler/speedbrake extension and thrust reversal</li>
+<li>(4) Bumps associated with the landing gear;</li>
+<li>(5) Buffet during extension and retraction of landing gear;</li>
+<li>(6) Buffet in the air due to flap and spoiler/speedbrake extension;</li>
+<li>(7) Approach-to-stall buffet and stall buffet (where applicable);</li>
+<li>(8) Representative touchdown cues for main and nose gear;</li>
+<li>(9) Nosewheel scuffing, if applicable;</li>
+<li>(10) Mach and maneuver buffet;</li>
+<li>(11) Engine failures, malfunctions, and engine damage</li>
+<li>(12) Tail and pod strike;</li>
+</ul>
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">If there are known flight conditions where buffet is the first indication of the stall, or where no stall buffet occurs, this characteristic should be included in the model.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5e2">5.e.2.</th>
+<td headers="qps requirements">
+<ul>
+<li>(13) Taxiing effects such as lateral and directional cues resulting from steering and braking inputs;</li>
+<li>(14) Buffet due to atmospheric disturbances (e.g. buffets due to turbulence, gusting winds, storm cells, windshear, etc.) in three linear axes (isotropic);</li>
+<li>(15) Tire failure dynamics; and</li>
+<li>(16) Other significant vibrations, buffets and bumps that are not mentioned above (e.g. RAT), or checklist items such as motion effects due to pre-flight flight control inputs.</li>
+</ul>
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry5f">5.f.</th>
+<td headers="qps requirements">The simulator must provide characteristic motion vibrations that result from operation of the airplane if the vibration marks an event or airplane state that can be sensed in the flight deck.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">The simulator should be programmed and instrumented in such a manner that the characteristic buffet modes can be measured and compared to airplane data.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6" colspan="7">6. Visual System.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6a">6.a.</th>
+<td headers="qps requirements">The simulator must have a visual system providing an out-of-the-flight deck view.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6b">6.b.</th>
+<td headers="qps requirements">The simulator must provide a continuous collimated field-of-view of at least 45&#176; horizontally and 30&#176; vertically per pilot seat or the number of degrees necessary to meet the visual ground segment requirement, whichever is greater. Both pilot seat visual systems must be operable simultaneously. The minimum horizontal field-of-view coverage must be plus and minus one-half (&#189;) of the minimum continuous field-of-view requirement, centered on the zero degree azimuth line relative to the aircraft fuselage.<br /><br />
+An SOC is required and must explain the system geometry measurements including system linearity and field-of-view.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes">Additional field-of-view capability may be added at the sponsor's discretion provided the minimum fields of view are retained.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6c">6.c.</th>
+<td headers="qps requirements">(Reserved)</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld"></td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6d">6.d.</th>
+<td headers="qps requirements">The simulator must provide a continuous collimated visual field-of-view of at least 176&#176; horizontally and 36&#176; vertically or the number of degrees necessary to meet the visual ground segment requirement, whichever is greater. The minimum horizontal field-of-view coverage must be plus and minus one-half (&#189;) of the minimum continuous field-of-view requirement, centered on the zero degree azimuth line relative to the aircraft fuselage.<br /><br />
+An SOC is required and must explain the system geometry measurements including system linearity and field-of-view.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">The horizontal field-of-view is traditionally described as a 180&#176; field-of-view. However, the field-of-view is technically no less than 176&#176;. Additional field-of-view capability may be added at the sponsor's discretion provided the minimum fields of view are retained.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6e">6.e.</th>
+<td headers="qps requirements">The visual system must be free from optical discontinuities and artifacts that create non-realistic cues.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Non-realistic cues might include image "swimming" and image "roll-off," that may lead a pilot to make incorrect assessments of speed, acceleration, or situational awareness.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6f">6.f.</th>
+<td headers="qps requirements">The simulator must have operational landing lights for night scenes. Where used, dusk (or twilight) scenes require operational landing lights.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6g">6.g.</th>
+<td headers="qps requirements">The simulator must have instructor controls for the following:<br /><br />
+<ul>
+<li>(1) Visibility in statute miles (km) and runway visual range (RVR) in ft.(m);</li>
+<li>(2) Airport selection; and</li>
+<li>(3) Airport lighting.</li>
+</ul>
+</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6h">6.h.</th>
+<td headers="qps requirements">The simulator must provide visual system compatibility with dynamic response programming.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6i">6.i.</th>
+<td headers="qps requirements">The simulator must show that the segment of the ground visible from the simulator flight deck is the same as from the airplane flight deck (within established tolerances) when at the correct airspeed, in the landing configuration, at the appropriate height above the touchdown zone, and with appropriate visibility.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">This will show the modeling accuracy of RVR, glideslope, and localizer for a given weight, configuration, and speed within the airplane's operational envelope for a normal approach and landing.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6j">6.j.</th>
+<td headers="qps requirements">The simulator must provide visual cues necessary to assess sink rates (provide depth perception) during takeoffs and landings, to include:<br /><br />
+<ul>
+<li>(1) Surface on runways, taxiways, and ramps; and</li>
+<li>(2) Terrain features.</li>
+</ul>
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6k">6.k.</th>
+<td headers="qps requirements">The simulator must provide for accurate portrayal of the visual environment relating to the simulator attitude.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Visual attitude vs. simulator attitude is a comparison of pitch and roll of the horizon as displayed in the visual scene compared to the display on the attitude indicator.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6l">6.l.</th>
+<td headers="qps requirements">The simulator must provide for quick confirmation of visual system color, RVR, focus, and intensity.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6m">6.m.</th>
+<td headers="qps requirements">The simulator must be capable of producing at least 10 levels of occulting.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6n">6.n.</th>
+<td headers="qps requirements">Night Visual Scenes. When used in training, testing, or checking activities, the simulator must provide night visual scenes with sufficient scene content to recognize the airport, the terrain, and major landmarks around the airport. The scene content must allow a pilot to successfully accomplish a visual landing. Scenes must include a definable horizon and typical terrain characteristics such as fields, roads and bodies of water and surfaces illuminated by airplane landing lights.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6o">6.o.</th>
+<td headers="qps requirements">Dusk (or Twilight) Visual Scenes. When used in training, testing, or checking activities, the simulator must provide dusk (or twilight) visual scenes with sufficient scene content to recognize the airport, the terrain, and major landmarks around the airport. The scene content must allow a pilot to successfully accomplish a visual landing. Dusk (or twilight) scenes, as a minimum, must provide full color presentations of reduced ambient intensity, sufficient surfaces with appropriate textural cues that include self-illuminated objects such as road networks, ramp lighting and airport signage, to conduct a visual approach, landing and airport movement (taxi). Scenes must include a definable horizon and typical terrain characteristics such as fields, roads and bodies of water and surfaces illuminated by airplane landing lights. If provided, directional horizon lighting must have correct orientation and be consistent with surface shading effects. Total night or dusk (twilight) scene content must be comparable in detail to that produced by 10,000 visible textured surfaces and 15,000 visible lights with sufficient system capacity to display 16 simultaneously moving objects.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6p">6.p.</th>
+<td headers="qps requirements">Daylight Visual Scenes. The simulator must provide daylight visual scenes with sufficient scene content to recognize the airport, the terrain, and major landmarks around the airport. The scene content must allow a pilot to successfully accomplish a visual landing. Any ambient lighting must not "washout" the displayed visual scene. Total daylight scene content must be comparable in detail to that produced by 10,000 visible textured surfaces and 6,000 visible lights with sufficient system capacity to display 16 simultaneously moving objects. The visual display must be free of apparent and distracting quantization and other distracting visual effects while the simulator is in motion.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6q">6.q.</th>
+<td headers="qps requirements">The simulator must provide operational visual scenes that portray physical relationships known to cause landing illusions to pilots.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For example: short runways, landing approaches over water, uphill or downhill runways, rising terrain on the approach path, unique topographic features.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6r">6.r.</th>
+<td headers="qps requirements">The simulator must provide special weather representations of light, medium, and heavy precipitation near a thunderstorm on takeoff and during approach and landing. Representations need only be presented at and below an altitude of 2,000 ft. (610 m) above the airport surface and within 10 miles (16 km) of the airport.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6s">6.s.</th>
+<td headers="qps requirements">The simulator must present visual scenes of wet and snow-covered runways, including runway lighting reflections for wet conditions, partially obscured lights for snow conditions, or suitable alternative effects.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6t">6.t.</th>
+<td headers="qps requirements">The simulator must present realistic color and directionality of all airport lighting.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6u">6.u.</th>
+<td headers="qps requirements">The following weather effects as observed on the visual system must be simulated and respective instructor controls provided:<br /><br />
+<ul>
+<li>(1) Multiple cloud layers with adjustable bases, tops, sky coverage and scud effect;</li>
+<li>(2) Storm cells activation and/or deactivation;</li>
+<li>(3) Visibility and runway visual range (RVR), including fog and patchy fog effect;</li>
+<li>(4) Effects on ownship external lighting;</li>
+<li>(5) Effects on airport lighting (including variable intensity and fog effects);</li>
+<li>(6) Surface contaminants (including wind blowing effect);</li>
+<li>(7) Variable precipitation effects (rain, hail, snow);</li>
+<li>(8) In-cloud airspeed effect; and</li>
+<li>(9) Gradual visibility changes entering and breaking out of cloud.</li>
+</ul>
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Scud effects are low, detached, and irregular clouds below a defined cloud layer.<br /><br />
+Atmospheric model should support representative effects of wake turbulence and mountain waves as needed to enhance UPRT training.<br /><br />
+The mountain wave model should support the atmospheric climb, descent, and roll rates which can be encountered in mountain wave and rotor conditions.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry6v">6.v.</th>
+<td headers="qps requirements">The simulator must provide visual effects for:<br />
+<ul>
+<li>(1) Light poles;</li>
+<li>(2) Raised edge lights as appropriate; and</li>
+<li>(3) Glow associated with approach lights in low visibility before physical lights are seen.</li>
+</ul>
+</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">Visual effects for light poles and raised edge lights are for the purpose of providing additional depth perception during takeoff, landing, and taxi training tasks. Three dimensional modeling of the actual poles and stanchions is not required.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry7" colspan="7">7. Sound System.</th>
+</tr>
+<tr>
+<th headers="qps entry" id="entry7a">7.a.</th>
+<td headers="qps requirements">The simulator must provide flight deck sounds that result from pilot actions that correspond to those that occur in the airplane.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry7b">7.b.</th>
+<td headers="qps requirements">The volume control must have an indication of sound level setting which meets all qualification requirements.</td>
+<td headers="qps levels levela">X</td>
+<td headers="qps levels levelb">X</td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For Level D simulators, this indication should be readily available to the instructor on or about the lOS and is the sound level setting required to meet the objective testing requirements as described in Table A2A of this Appendix.<br /><br />
+For all other simulator levels, this indication is the sound level setting as evaluated during the simulator's initial evaluation.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry7c">7.c.</th>
+<td headers="qps requirements">The simulator must accurately simulate the sound of precipitation, windshield wipers, and other significant airplane noises perceptible to the pilot during normal and abnormal operations, and include the sound of a crash (when the simulator is landed in an unusual attitude or in excess of the structural gear limitations); normal engine and thrust reversal sounds; and the sounds of flap, gear, and spoiler extension and retraction.<br /><br />
+Sounds must be directionally representative.<br /><br />
+An SOC is required.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc">X</td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes">For simulators qualified for full stall training tasks, sounds associated with stall buffet should be replicated if significant in the airplane.</td>
+</tr>
+<tr>
+<th headers="qps entry" id="entry7d">7.d.</th>
+<td headers="qps requirements">The simulator must provide realistic amplitude and frequency of flight deck noises and sounds. Simulator performance must be recorded, compared to amplitude and frequency of the same sounds recorded in the airplane, and be made a part of the QTG.</td>
+<td headers="qps levels levela"></td>
+<td headers="qps levels levelb"></td>
+<td headers="qps levels levelc"></td>
+<td headers="qps levels leveld">X</td>
+<td headers="information notes"></td>
+</tr>
+</tbody>
+</table>
+
+<span class="footnote"></span>
+
+</div>
+<!-- /table-responsive -->
+
+
+
+</body>
+</html>
